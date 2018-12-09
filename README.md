@@ -22,12 +22,12 @@ You need to pass in three arguments:
 
 ### Version 2
 
-Run `python subcorpora_tool/find_subcorpora_v2.py`.
+Run `python find_subcorpora_v2.py` with `subcorpora_tool`. It must be run within the directory
 
 You need to pass in three arguments: 
-* `-d`: The directory where the corpora files are located. The folder should be the name of the corpus. If no folder is specified, the default is `corpora`.
-* `-w`: The text file for the keywords. If no file is specified, the default is `keywords.txt`.
-* `-m`: The CSV file where the metadata for all of the corpora is located. This file should be in the format noted in the metadata document in the Drive folder. If no file is specified, the default is `metadata.csv`.
+* `-d`: The directory where the corpora files are located. The folder should be the name of the corpus. If no folder is specified, the default is `corpus`.
+* `-w`: The text file for the keywords. These are currently assumed to be all lowercase. If no file is specified, the default is `keywords.txt`.
+* `-m`: The CSV file where the metadata for all of the corpora is located. This file should be in the format noted in the metadata document in the Drive folder. We assume the CSV has a header, and that its encoding is utf-8. If no file is specified, the default is `metadata.csv`.
 
 For the keywords file, the keywords can be specified using the following rules:
 * Using the `*` symbol means that any number of letters can be be replaced.
@@ -42,3 +42,9 @@ rapping
 ```
 
 In this example, rape and rap* are included, and rapport and rapping are excluded.
+
+The following files and folders will be output:
+* `corpus_keywords_report.txt`: Contains the basic report about the keywords and corpus.
+* `corpus_keywords_file_top_words.csv`: Contains the top words of each file in the corpus in the following format: filename, word, count.
+* `corpus_keywords_keyword_collocations.csv`: Contains the keyword collocations and their counts from all the files in the following format: word_1, word_2, count.
+* `corpus_keywords_keyword_counts.csv`: Contains the keyword counts in each file in the following format: filename, keyword, count.
