@@ -4,14 +4,30 @@ from argparse import ArgumentParser
 import os
 import pandas as pd
 import re
+import nltk
 from nltk.corpus import stopwords
-import string
 from nltk.tokenize import word_tokenize
+import string
 from unidecode import unidecode
 import csv
+from bs4 import BeautifulSoup, Tag
+
+nltk.download('averaged_perceptron_tagger')
 
 # The number of top words that we want from each file
 NUM_TOP_WORDS = 20
+
+def write_header_line(title):
+	return "<h3>{}</h3>".format(title)
+
+def write_span_line(title, content):
+	text = """<span><span class="title">{}: </span>{}<br></span>""".format(title, content)
+	return text
+
+def write_list_lines(title, content):
+	inner_text = "".join(["<li>{}</li>".format(c) for c in content])
+	text = "<span>{}</span><ul>{}</ul>".format(title, inner_text)
+	return text
 
 # Splits content into sentences based on punctuation.
 def split_into_sentences(c):
@@ -19,9 +35,6 @@ def split_into_sentences(c):
 
 # Writes out the context in which these keywords appear.
 def get_context(filenames, content, keyword_freq_files, report_name):
-	with open(report_name, "a", encoding = "utf-8") as f:
-		f.write("KEYWORD CONTEXTS\n")
-
 	for i in range(len(filenames)):
 		file = filenames[i]
 		if file not in keyword_freq_files: continue
@@ -34,16 +47,20 @@ def get_context(filenames, content, keyword_freq_files, report_name):
 			for k in freq.keys():
 				matches = re.findall(turn_to_regex(k), s)
 				if len(matches) > 0:
-					has_keyword.append(s)
+					has_keyword.append([s, matches])
 					break
 
 		with open(report_name, "a", encoding = "utf-8") as f:
-			f.write("{}:\n".format(file))
-			for s in has_keyword:
-				f.write("\t...{}...\n".format(s))
+			f.write(write_header_line("Keyword Contexts"))
 
-	with open(report_name, "a", encoding = "utf-8") as f:
-		f.write("\n")
+			all_s = []
+			for s, matches in has_keyword:
+				new_s = s
+				for m in matches:
+					parts = new_s.split(m)
+					new_s = "<b>{}</b>".format(m).join(parts)
+				all_s.append("...{}...".format(new_s))
+			f.write(write_list_lines(file, all_s))
 
 # Checks to see if the match m needs to be excluded and returns True if so.
 def needs_to_be_excluded(m, exclude_regexes):
@@ -53,6 +70,7 @@ def needs_to_be_excluded(m, exclude_regexes):
 
 	return False
 
+# Writes the subcorpora into the directory.
 def write_subcorpora(subcorpora_dirname, filenames, content, keyword_freq_files):
 	os.mkdir(subcorpora_dirname)
 	for i in range(len(filenames)):
@@ -103,14 +121,13 @@ def find_keywords(filenames, content, words, include_regexes, exclude_regexes, r
 	df.to_csv(keyword_collocations_name, index = False, header = ["word_1", "word_2", "count"])
 
 	# Writes the general statistics into the report
-	with open(report_name, "a") as f:
-		f.write("KEYWORD STATISTICS\n")
-		f.write("Subcorpora written into directory: {}\n".format(subcorpora_dirname))
-		f.write("Keyword collocations counts written into file: {}\n".format(keyword_collocations_name))
-		f.write("Keyword counts written into file: {}\n".format(keyword_counts_name))
-		f.write("Total number of files at least one keyword: {}\n".format(num_with_keywords))
-		f.write("Total number of keywords found: {}\n".format(total_keywords))
-		f.write("\n")
+	with open(report_name, "a", encoding = "utf-8") as f:
+		f.write(write_header_line("Keyword Statistics"))
+		f.write(write_span_line("Subcorpora written into directory", subcorpora_dirname))
+		f.write(write_span_line("Keyword collocations counts written into file", keyword_collocations_name))
+		f.write(write_span_line("Keyword counts written into file", keyword_counts_name))
+		f.write(write_span_line("Total number of files at least one keyword", num_with_keywords))
+		f.write(write_span_line("Total number of keywords found", total_keywords))
 
 	# Writes the keyword counts by file into a CSV
 	all_keywords = []
@@ -126,18 +143,21 @@ def find_keywords(filenames, content, words, include_regexes, exclude_regexes, r
 
 # Writes the top words in each file, minus stopwords and punctuation,
 # into a CSV.
-def get_top_words(filenames, content, report_name, name):
+def get_top_words(filenames, content, name):
 	dont_include = [] # Can be later used to add more words to exclude
 	stop_words = set(stopwords.words("english") + list(string.punctuation) + list(dont_include))
 	stats_name = "{}_file_top_words.csv".format(name)
 
+	verb_tags = ["VB", "VBD", "VBG", "VBN", "VBP", "VBZ"]
+
 	for i in range(len(filenames)):
 		file = filenames[i]
 		c = unidecode(content[i].lower())
-		word_tokens = word_tokenize(c)
+		word_tokens = nltk.pos_tag(word_tokenize(c))
 		filtered = []
-		for w in word_tokens:
+		for w, tag in word_tokens:
 			if w in stop_words: continue
+			if tag in verb_tags: continue # Removes verbs
 			has_punc = False
 			for ch in w:
 				if ch in string.punctuation: has_punc = True
@@ -188,28 +208,38 @@ def read_metadata(file, filenames, report_name):
 		sex[info[file]["sex"]] += 1
 		birth_country[info[file]["birth_country"]] += 1
 
-	with open(report_name, "a") as f:
-		f.write("Interviewees' birth decade counts:\n")
+	with open(report_name, "a", encoding = "utf-8") as f:
+		write_header_line("Metadata Statistics")
+
+		birth_decade_arr = []
 		for k, v in birth_decade.items():
-			if k == "": k = "Not given"
-			f.write("\t{}: {}\n".format(k, v))
-		f.write("Interviewees' education counts:\n")
+			k = "Not given" if k == "" else int(k)
+			birth_decade_arr.append("{}: {}".format(k, v))
+		f.write(write_list_lines("Interviewees' birth decade counts", birth_decade_arr))
+
+		education_arr = []
 		for k, v in education.items():
 			if k == "": k = "Not given"
-			f.write("\t{}: {}\n".format(k, v))
-		f.write("Interviewees' identified race counts:\n")
+			education_arr.append("{}: {}".format(k, v))
+		f.write(write_list_lines("Interviewees' education counts", education_arr))
+
+		identified_race_arr = []
 		for k, v in identified_race.items():
 			if k == "": k = "Not given"
-			f.write("\t{}: {}\n".format(k, v))
-		f.write("Interviewees' sex counts:\n")
+			identified_race_arr.append("{}: {}".format(k, v))
+		f.write(write_list_lines("Interviewees' identified race counts", education_arr))
+
+		sex_arr = []
 		for k, v in sex.items():
 			if k == "": k = "Not given"
-			f.write("\t{}: {}\n".format(k, v))
-		f.write("Interviewees' birth country counts:\n")
+			sex_arr.append("{}: {}".format(k, v))
+		f.write(write_list_lines("Interviewees' sex counts", sex_arr))
+
+		birth_country_arr = []
 		for k, v in birth_country.items():
 			if k == "": k = "Not given"
-			f.write("\t{}: {}\n".format(k, int(v)))
-		f.write("\n")
+			birth_country_arr.append("{}: {}".format(k, v))
+		f.write(write_list_lines("Interviewees' birth country counts", birth_country_arr))
 
 	return info
 
@@ -221,6 +251,8 @@ def turn_to_regex(w):
 # Gets the words from the keywords file and gets regexes for each.
 def read_keywords(file, report_name):
 	words = []
+	include_words = []
+	exclude_words = []
 	include_regexes = []
 	exclude_regexes = []
 
@@ -236,15 +268,20 @@ def read_keywords(file, report_name):
 			r =  turn_to_regex(w)
 			if include:
 				include_regexes.append(r)
+				include_words.append(w)
 			else:
 				exclude_regexes.append(r)
+				exclude_words.append(w)
 
-	with open(report_name, "a") as f:
-		f.write("KEYWORD INFORMATION\n")
-		f.write("Filename: {}\n".format(file))
-		f.write("Total number of keywords: {}\n".format(len(include_regexes) + len(exclude_regexes)))
-		f.write("Keywords: {}\n".format("; ".join(words)))
-		f.write("\n")
+	with open(report_name, "a", encoding = "utf-8") as f:
+		text = "{}{}{}{}".format(
+			write_header_line("Keyword Information"),
+			write_span_line("Filename", file),
+			write_span_line("Total number of keywords", len(include_regexes) + len(exclude_regexes)),
+			write_span_line("Keywords to include", "; ".join(include_words)),
+			write_span_line("Keywords to exclude", "; ".join(exclude_words))
+		)
+		f.write(text)
 
 	return words, include_regexes, exclude_regexes
 
@@ -259,11 +296,14 @@ def read_corpus(directory, report_name):
 		filenames.append(file)
 		with open("{}/{}".format(directory, file), "r", encoding = "utf-8") as f:
 			content.append(f.read())
-
-	with open(report_name, "a") as f:
-		f.write("COLLECTION INFORMATION\n")
-		f.write("Directory: {}\n".format(directory))
-		f.write("Total number of files: {}\n".format(len(filenames)))
+	
+	with open(report_name, "a", encoding = "utf-8") as f:
+		text = "{}{}{}".format(
+			write_header_line("Collection Information"), 
+			write_span_line("Directory", directory), 
+			write_span_line("Total number of files", len(filenames))
+		)
+		f.write(text)
 
 	return filenames, content
 
@@ -285,27 +325,48 @@ def create_new_name(directory, words):
 	name = "{}_{}".format(collection_name, keywords_name)
 	num_existing = 0
 	while True:
-		if not os.path.isfile("{}_report.txt".format(name)) and not os.path.isdir(name) and not os.path.isfile("{}_keyword_statistics.csv".format(name)): 
+		if not os.path.isfile("{}_report.html".format(name)) and not os.path.isdir(name) and not os.path.isfile("{}_keyword_statistics.csv".format(name)): 
 			break
 		num_existing += 1
 		name = "{}_{}_{}".format(collection_name, keywords_name, num_existing)
 
 	return name
 
+def write_end_of_html(report_name):
+	text = " </body>\n</html>"
+	with open(report_name, "a", encoding = "utf-8") as f:
+		f.write(text)
+
+def write_beginning_of_html(report_name):
+	text = """ <!DOCTYPE html>\n
+		<html>\n
+		<head>\n
+		<style>\n
+		.title {
+			font-weight: bold;
+		}
+		</style>\n
+		</head>\n
+		<body>\n """
+	with open(report_name, "w", encoding = "utf-8") as f:
+		f.write(text)
+
 def main():
 	directory, words, metadata = read_arguments(ArgumentParser())
 	name = create_new_name(directory, words)
-	report_name = "{}_report.txt".format(name)
 	subcorpora_dirname = name
 	keyword_stats_name = "{}_keyword_stats.csv".format(name)
+	report_name = "{}_report.html".format(name)
+	write_beginning_of_html(report_name)
 
 	filenames, content = read_corpus(directory, report_name)
 	words, include_regexes, exclude_regexes = read_keywords(words, report_name)
 	metadata = read_metadata(metadata, filenames, report_name)
-
-	get_top_words(filenames, content, report_name, name)
+	get_top_words(filenames, content, name)
 	keyword_freq_files = find_keywords(filenames, content, words, include_regexes, exclude_regexes, report_name, name, subcorpora_dirname)
 	get_context(filenames, content, keyword_freq_files, report_name)
+
+	write_end_of_html(report_name)
 
 if __name__ == '__main__':
 	main()
