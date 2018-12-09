@@ -209,7 +209,7 @@ def read_metadata(file, filenames, report_name):
 		birth_country[info[file]["birth_country"]] += 1
 
 	with open(report_name, "a", encoding = "utf-8") as f:
-		write_header_line("Metadata Statistics")
+		f.write(write_header_line("Metadata Statistics"))
 
 		birth_decade_arr = []
 		for k, v in birth_decade.items():
