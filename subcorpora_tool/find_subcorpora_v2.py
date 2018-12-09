@@ -35,6 +35,9 @@ def split_into_sentences(c):
 
 # Writes out the context in which these keywords appear.
 def get_context(filenames, content, keyword_freq_files, report_name):
+	with open(report_name, "a", encoding = "utf-8") as f:
+		f.write(write_header_line("Keyword Contexts"))
+
 	for i in range(len(filenames)):
 		file = filenames[i]
 		if file not in keyword_freq_files: continue
@@ -51,8 +54,6 @@ def get_context(filenames, content, keyword_freq_files, report_name):
 					break
 
 		with open(report_name, "a", encoding = "utf-8") as f:
-			f.write(write_header_line("Keyword Contexts"))
-
 			all_s = []
 			for s, matches in has_keyword:
 				new_s = s
@@ -274,7 +275,7 @@ def read_keywords(file, report_name):
 				exclude_words.append(w)
 
 	with open(report_name, "a", encoding = "utf-8") as f:
-		text = "{}{}{}{}".format(
+		text = "{}{}{}{}{}".format(
 			write_header_line("Keyword Information"),
 			write_span_line("Filename", file),
 			write_span_line("Total number of keywords", len(include_regexes) + len(exclude_regexes)),
