@@ -44,7 +44,7 @@ rapping
 In this example, rape and rap* are included, and rapport and rapping are excluded.
 
 The following files and folders will be output:
-* `corpus_keywords_report.txt`: Contains the basic report about the keywords and corpus.
+* `corpus_keywords_report.html`: Contains the basic report about the keywords and corpus.
 * `corpus_keywords_file_top_words.csv`: Contains the top words of each file in the corpus in the following format: filename, word, count.
 * `corpus_keywords_keyword_collocations.csv`: Contains the keyword collocations and their counts from all the files in the following format: word_1, word_2, count.
 * `corpus_keywords_keyword_counts.csv`: Contains the keyword counts in each file in the following format: filename, keyword, count.
