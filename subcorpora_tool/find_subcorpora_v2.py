@@ -48,7 +48,8 @@ def get_context(filenames, content, keyword_freq_files, report_name):
 			s = s.replace("\n", " ").replace("\t", " ")
 			s = re.sub('\s+', ' ', s).strip()
 			for k in freq.keys():
-				matches = re.findall(turn_to_regex(k), s)
+				r = r"\b{}\b".format(k.replace("*", "[a-zA-Z]*"))
+				matches = re.findall(r, s)
 				if len(matches) > 0:
 					has_keyword.append([s, matches])
 					break
@@ -65,6 +66,8 @@ def get_context(filenames, content, keyword_freq_files, report_name):
 
 # Checks to see if the match m needs to be excluded and returns True if so.
 def needs_to_be_excluded(m, exclude_regexes):
+	print(m)
+	print(exclude_regexes)
 	for r in exclude_regexes:
 		matches = re.findall(r, m)
 		if len(matches) > 0: return True
@@ -151,6 +154,7 @@ def get_top_words(filenames, content, name):
 
 	verb_tags = ["VB", "VBD", "VBG", "VBN", "VBP", "VBZ"]
 
+	all_words = []
 	for i in range(len(filenames)):
 		file = filenames[i]
 		c = unidecode(content[i].lower())
@@ -169,8 +173,8 @@ def get_top_words(filenames, content, name):
 		for w in filtered: word_map[w] += 1
 
 		num = 0
-		all_words = []
 		for k, v in sorted(word_map.items(), key = lambda kv: kv[1], reverse = True):
+			if v >= 50 or v <= 20: continue
 			if num >= NUM_TOP_WORDS: break
 			all_words.append([file, k, v])
 			num += 1
@@ -244,11 +248,6 @@ def read_metadata(file, filenames, report_name):
 
 	return info
 
-# Turns a keyword format (within the keyword file) into a regex 
-# that can be used with the re library.
-def turn_to_regex(w):
-	return r"\b{}\b".format(w.replace("*", "[a-zA-Z]*"))
-
 # Gets the words from the keywords file and gets regexes for each.
 def read_keywords(file, report_name):
 	words = []
@@ -266,11 +265,12 @@ def read_keywords(file, report_name):
 				include = False
 				continue
 
-			r =  turn_to_regex(w)
 			if include:
+				r = r"\b{}\b".format(w.replace("*", "[a-zA-Z]*"))
 				include_regexes.append(r)
 				include_words.append(w)
 			else:
+				r = r"{}".format(w.replace("*", "[a-zA-Z]*"))
 				exclude_regexes.append(r)
 				exclude_words.append(w)
 
