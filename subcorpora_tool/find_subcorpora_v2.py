@@ -71,6 +71,22 @@ def needs_to_be_excluded(before, after, around_len, m, regex):
 		if len(re.findall(" {} ".format(m), " {} ".format(sub_m))) > 0: return True
 	return False
 
+def check_for_collocation(before, m, after, r):
+	regex_len = len(r.split(" "))
+	if len(before) >= regex_len:
+		trimmed_before = before[(len(before) - regex_len):]
+		word = " ".join(trimmed_before)
+		matches = re.findall(r, " {} ".format(word))
+		if len(matches) > 0: return word, m, True
+
+	if len(after) >= regex_len:
+		trimmed_after = after[:regex_len]
+		word = " ".join(trimmed_after)
+		matches = re.findall(r, " {} ".format(word))
+		if len(matches) > 0: return word, m, False
+
+	return None, None, None
+
 # Finds the keywords within the files and outputs the relevant information.
 def find_keywords(filenames, content, words, include_regexes, exclude_regexes, report_name, name, subcorpora_dirname):
 	# Stores the frequency of each keyword across all files
@@ -83,6 +99,8 @@ def find_keywords(filenames, content, words, include_regexes, exclude_regexes, r
 	# Stores keyword collocations
 	keyword_collocations = defaultdict(lambda:0)
 	keyword_collocations_name = "{}_keyword_collocations.csv".format(name)
+	keyword_collocations_format_name = "{}_keyword_collocations_formats.csv".format(name)
+	keyword_collocations_format = defaultdict(lambda: [])
 
 	# Stores data on how many times pairs of keywords appear together in the same file
 	multiple_keyword = defaultdict(lambda:0)
@@ -101,21 +119,17 @@ def find_keywords(filenames, content, words, include_regexes, exclude_regexes, r
 	for i in range(len(content)):
 		file = filenames[i]
 		c = " {} ".format(" ".join(content[i].lower().split())) # Adds a space before and after to distinguish for \b in regex
-		print(c)
 		curr_contexts = []
 		curr_keywords = defaultdict(lambda:0)
 
 		for j in range(len(include_regexes)):
 			matches = re.findall(include_regexes[j], c)
-			if len(matches) > 0: print("Searching for {}".format(include_regexes[j]))
 			matches = list(set(matches)) # Removes duplicate matches
 			for m in matches:
 				results = get_words_around(m, c, NUM_WORDS_AROUND)
 				match_len = len(m.split(" "))
 				for before, m, after in results:
-					print("Before: {}".format(" ".join(before)))
-					print(m)
-					print("After: {}".format(" ".join(after)))
+					# Checks to make sure that it doesn't contain excluded keywords
 					skip = False
 					for r in exclude_regexes:
 						regex_len = len(r.split(" "))
@@ -123,14 +137,24 @@ def find_keywords(filenames, content, words, include_regexes, exclude_regexes, r
 						if around_len < 0: continue
 						if needs_to_be_excluded(before, after, around_len, m, r):
 							skip = True
-							print("EXCLUDE")
 							break
-
 					if skip: continue
+
 					context = "...{} <b>{}</b> {}...".format(" ".join(before), m, " ".join(after))
 					curr_contexts.append(context)
 					keyword_freq[words[j]] += 1
 					curr_keywords[words[j]] += 1
+
+					# Checks for collocations
+					for l in range(len(include_regexes)):
+						r = include_regexes[l]
+						if r == include_regexes[j]: continue
+						regex_len = len(r.split(" "))
+						w1, w2, is_before = check_for_collocation(before, m, after, r)
+						if w1 is not None and w2 is not None:
+							form = "{};{}".format(words[l], words[j]) if is_before else "{};{}".format(words[j], words[l])
+							keyword_collocations[form] += 1
+							keyword_collocations_format[form].append("{} {}".format(w1, w2))
 
 		if len(curr_keywords.keys()) > 0:
 			curr_keywords_name = list(set(curr_keywords.keys()))
@@ -154,6 +178,20 @@ def find_keywords(filenames, content, words, include_regexes, exclude_regexes, r
 		f.write(write_span_line("Keyword counts written into file", keyword_counts_name))
 		f.write(write_span_line("Total number of files at least one keyword", num_with_keywords))
 		f.write(write_span_line("Total number of keywords found", total_keywords))
+
+	# Writes the keyword collocations into a CSV
+	all_keyword_collocations = []
+	for k, v in sorted(keyword_collocations.items(), key = lambda kv: kv[1], reverse = True):
+		w = k.split(";")
+		all_keyword_collocations.append([w[0], w[1], v])
+	df = pd.DataFrame(all_keyword_collocations)
+	if len(all_keyword_collocations) > 0: df.to_csv(keyword_collocations_name, index = False, header = ["word_1", "word_2", "count"])
+	all_keyword_collocations_format = []
+	for k, v in keyword_collocations_format.items():
+		w = k.split(";")
+		all_keyword_collocations_format.append([w[0], w[1], "; ".join(v)])
+	df = pd.DataFrame(all_keyword_collocations_format)
+	if len(all_keyword_collocations_format) > 0: df.to_csv(keyword_collocations_format_name, index = False, header = ["word_1", "word_2", "formats"])
 
 	# Writes the keyword counts by file into a CSV
 	all_keyword_freqs = []
