@@ -14,8 +14,8 @@ from bs4 import BeautifulSoup, Tag
 
 nltk.download('averaged_perceptron_tagger')
 
-# The number of top words that we want from each file
-NUM_TOP_WORDS = 20
+NUM_TOP_WORDS = 20 # The number of top words that we want from each file
+NUM_WORDS_AROUND = 50 # The number of words we want before and after (separate) for in-context
 
 def write_header_line(title):
 	return "<h3>{}</h3>".format(title)
@@ -29,50 +29,164 @@ def write_list_lines(title, content):
 	text = "<span>{}</span><ul>{}</ul>".format(title, inner_text)
 	return text
 
-# Splits content into sentences based on punctuation.
-def split_into_sentences(c):
-	return re.split('\.|\!|\?', c)
+# Gets around words before and after the match
+def get_words_around(m, content, around):
+	parts = content.split(" {} ".format(m))
+	results = []
 
-# Writes out the context in which these keywords appear.
-def get_context(filenames, content, keyword_freq_files, report_name):
+	for i in range(len(parts) - 1):
+		before = []
+		after = []
+
+		# Adds the words before
+		words = []
+		for j in range(i+1):
+			for w in parts[j].split(): words.append(w)
+		words.reverse()
+		num = 0
+		while num < len(words) and len(before) < around:
+			before.append(words[num])
+			num += 1
+		before.reverse()
+
+		# Adds the words after
+		words = []
+		for j in range(i+1, len(parts)):
+			for w in parts[i+1].split(): words.append(w)
+		num = 0
+		while num < len(words) and len(after) < around:
+			after.append(words[num])
+			num += 1
+
+		results.append([before, m, after])
+
+	return results
+
+def needs_to_be_excluded(before, after, around_len, m, regex):
+	trimmed_before = before if len(before) < around_len else before[(len(before) - around_len):]
+	trimmed_after = after if len(after) < around_len else after[:around_len]
+	content = " {} {} {} ".format(" ".join(trimmed_before), m, " ".join(trimmed_after))
+	matches = re.findall(regex, " {} ".format(content))
+	for sub_m in matches:
+		if len(re.findall(" {} ".format(m), " {} ".format(sub_m))) > 0: return True
+	return False
+
+# Finds the keywords within the files and outputs the relevant information.
+def find_keywords(filenames, content, words, include_regexes, exclude_regexes, report_name, name, subcorpora_dirname):
+	# Stores the frequency of each keyword across all files
+	keyword_freq = defaultdict(lambda:0)
+
+	# Stores the frequency of each keyword by file
+	keyword_freq_files = {}
+	keyword_counts_name = "{}_keyword_counts.csv".format(name)
+
+	# Stores keyword collocations
+	keyword_collocations = defaultdict(lambda:0)
+	keyword_collocations_name = "{}_keyword_collocations.csv".format(name)
+
+	# Stores data on how many times pairs of keywords appear together in the same file
+	multiple_keyword = defaultdict(lambda:0)
+	multiple_keyword_name = "{}_multiple_keywords.csv".format(name)
+
+	# Stores data on keyword formats
+	keyword_formats = defaultdict(lambda:[])
+	keyword_format_name = "{}_keyword_formats.csv".format(name)
+
+	all_contexts = {}
+
+	# Basic statistics
+	num_with_keywords = 0 # Number of files that have at least one keyword
+	total_keywords = 0 # The total number of keywords found in all file
+
+	for i in range(len(content)):
+		file = filenames[i]
+		c = " {} ".format(" ".join(content[i].lower().split())) # Adds a space before and after to distinguish for \b in regex
+		print(c)
+		curr_contexts = []
+		curr_keywords = defaultdict(lambda:0)
+
+		for j in range(len(include_regexes)):
+			matches = re.findall(include_regexes[j], c)
+			if len(matches) > 0: print("Searching for {}".format(include_regexes[j]))
+			matches = list(set(matches)) # Removes duplicate matches
+			for m in matches:
+				results = get_words_around(m, c, NUM_WORDS_AROUND)
+				match_len = len(m.split(" "))
+				for before, m, after in results:
+					print("Before: {}".format(" ".join(before)))
+					print(m)
+					print("After: {}".format(" ".join(after)))
+					skip = False
+					for r in exclude_regexes:
+						regex_len = len(r.split(" "))
+						around_len = regex_len - match_len
+						if around_len < 0: continue
+						if needs_to_be_excluded(before, after, around_len, m, r):
+							skip = True
+							print("EXCLUDE")
+							break
+
+					if skip: continue
+					context = "...{} <b>{}</b> {}...".format(" ".join(before), m, " ".join(after))
+					curr_contexts.append(context)
+					keyword_freq[words[j]] += 1
+					curr_keywords[words[j]] += 1
+
+		if len(curr_keywords.keys()) > 0:
+			curr_keywords_name = list(set(curr_keywords.keys()))
+			num_with_keywords += 1
+			keyword_freq_files[file] = curr_keywords
+			for k1 in curr_keywords_name:
+				total_keywords += curr_keywords[k1]
+				for k2 in curr_keywords_name:
+					if k1 == k2: continue
+					curr = [k1, k2]
+					curr.sort()
+					multiple_keyword["{};{}".format(curr[0], curr[1])] += 1
+		
+		all_contexts[file] = curr_contexts
+
+	# Writes some basic statistics into the report
+	with open(report_name, "a", encoding = "utf-8") as f:
+		f.write(write_header_line("Keyword Statistics"))
+		f.write(write_span_line("Subcorpora written into directory", subcorpora_dirname))
+		f.write(write_span_line("Multiple keyword counts written into file", multiple_keyword_name))
+		f.write(write_span_line("Keyword counts written into file", keyword_counts_name))
+		f.write(write_span_line("Total number of files at least one keyword", num_with_keywords))
+		f.write(write_span_line("Total number of keywords found", total_keywords))
+
+	# Writes the keyword counts by file into a CSV
+	all_keyword_freqs = []
+	for k, v in keyword_freq_files.items():
+		for k_1, v_1 in sorted(v.items(), key = lambda kv: kv[1], reverse = True):
+			all_keyword_freqs.append([k, k_1, v_1])
+	df = pd.DataFrame(all_keyword_freqs)
+	if len(all_keyword_freqs) > 0: df.to_csv(keyword_counts_name, index = False, header = ["filename", "keyword", "count"])
+
+	# Writes the multiple keyword statistics into a CSV
+	all_multiple_keyword = []
+	for k, v in sorted(multiple_keyword.items(), key = lambda kv: kv[1], reverse = True):
+		w = k.split(";")
+		all_multiple_keyword.append([w[0], w[1], v])
+	df = pd.DataFrame(all_multiple_keyword)
+	if len(all_multiple_keyword) > 0: df.to_csv(multiple_keyword_name, index = False, header = ["word_1", "word_2", "count"])
+
+	# Writes the keyword formats into a CSV
+	all_keyword_formats = []
+	for k, v in keyword_formats.items():
+		if len(v) == 0: continue
+		v.sort()
+		all_keyword_formats.append([k, "; ".join(v)])
+	df = pd.DataFrame(all_keyword_formats)
+	if len(all_keyword_formats) > 0: df.to_csv(keyword_format_name, index = False, header = ["keyword", "formats"])
+
+	# Writes the keyword contexts into the report
 	with open(report_name, "a", encoding = "utf-8") as f:
 		f.write(write_header_line("Keyword Contexts"))
+		for k, v in all_contexts.items():
+			f.write(write_list_lines(k, list(set(v))))
 
-	for i in range(len(filenames)):
-		file = filenames[i]
-		if file not in keyword_freq_files: continue
-		freq = keyword_freq_files[file]
-		sentences = split_into_sentences(content[i])
-		has_keyword = []
-		for s in sentences:
-			s = s.replace("\n", " ").replace("\t", " ")
-			s = re.sub('\s+', ' ', s).strip()
-			for k in freq.keys():
-				r = r"\b{}\b".format(k.replace("*", "[a-zA-Z]*"))
-				matches = re.findall(r, s)
-				if len(matches) > 0:
-					has_keyword.append([s, matches])
-					break
-
-		with open(report_name, "a", encoding = "utf-8") as f:
-			all_s = []
-			for s, matches in has_keyword:
-				new_s = s
-				for m in matches:
-					parts = new_s.split(m)
-					new_s = "<b>{}</b>".format(m).join(parts)
-				all_s.append("...{}...".format(new_s))
-			f.write(write_list_lines(file, all_s))
-
-# Checks to see if the match m needs to be excluded and returns True if so.
-def needs_to_be_excluded(m, exclude_regexes):
-	print(m)
-	print(exclude_regexes)
-	for r in exclude_regexes:
-		matches = re.findall(r, m)
-		if len(matches) > 0: return True
-
-	return False
+	write_subcorpora(subcorpora_dirname, filenames, content, keyword_freq_files)
 
 # Writes the subcorpora into the directory.
 def write_subcorpora(subcorpora_dirname, filenames, content, keyword_freq_files):
@@ -83,67 +197,6 @@ def write_subcorpora(subcorpora_dirname, filenames, content, keyword_freq_files)
 		new_file = "{}/{}".format(subcorpora_dirname, file)
 		with open(new_file, "w", encoding = "utf-8") as f:
 			f.write(content[i])
-
-# Finds the keywords within the files and outputs the relevant information.
-def find_keywords(filenames, content, words, include_regexes, exclude_regexes, report_name, name, subcorpora_dirname):
-	keyword_freq = defaultdict(lambda:0) # Stores the frequency of each keyword
-	keyword_freq_files = {} # Stores the frequency of each keyword by file
-	num_with_keywords = 0 # Number of files that have at least one keyword
-	total_keywords = 0 # The total number of keywords found in all file
-	keyword_collocations = defaultdict(lambda:0) # Stores counts of keyword collocations
-	keyword_collocations_name = "{}_keyword_collocations.csv".format(name)
-	keyword_counts_name = "{}_keyword_counts.csv".format(name)
-
-	# Gets the counts of keywords within all the files
-	for i in range(len(content)):
-		file = filenames[i]
-		c = content[i].lower()
-		appeared_keywords = defaultdict(lambda:0)
-		for j in range(len(include_regexes)):
-			matches = re.findall(include_regexes[j], c)
-			for m in matches:
-				if not needs_to_be_excluded(m, exclude_regexes):
-					total_keywords += 1
-					keyword_freq[words[j]] += 1
-					appeared_keywords[words[j]] += 1
-		if len(appeared_keywords.keys()) > 0:
-			num_with_keywords += 1
-			keyword_freq_files[file] = appeared_keywords
-			for k1 in appeared_keywords.keys():
-				for k2 in appeared_keywords.keys():
-					if k1 == k2: continue
-					curr = [k1, k2]
-					curr.sort()
-					keyword_collocations["{};{}".format(curr[0], curr[1])] += 1
-
-	# Writes the keyword collocation statistics into a CSV
-	all_collocations = []
-	for k, v in sorted(keyword_collocations.items(), key=lambda kv: kv[1], reverse=True):
-		words = k.split(";")
-		all_collocations.append([words[0], words[1], v])
-	df = pd.DataFrame(all_collocations)
-	df.to_csv(keyword_collocations_name, index = False, header = ["word_1", "word_2", "count"])
-
-	# Writes the general statistics into the report
-	with open(report_name, "a", encoding = "utf-8") as f:
-		f.write(write_header_line("Keyword Statistics"))
-		f.write(write_span_line("Subcorpora written into directory", subcorpora_dirname))
-		f.write(write_span_line("Keyword collocations counts written into file", keyword_collocations_name))
-		f.write(write_span_line("Keyword counts written into file", keyword_counts_name))
-		f.write(write_span_line("Total number of files at least one keyword", num_with_keywords))
-		f.write(write_span_line("Total number of keywords found", total_keywords))
-
-	# Writes the keyword counts by file into a CSV
-	all_keywords = []
-	for k, v in keyword_freq_files.items():
-		for k_1, v_1 in sorted(v.items(), key=lambda kv: kv[1], reverse=True):
-			all_keywords.append([k, k_1, v_1])
-	df = pd.DataFrame(all_keywords)
-	df.to_csv(keyword_counts_name, index = False, header = ["filename", "keyword", "count"])
-
-	write_subcorpora(subcorpora_dirname, filenames, content, keyword_freq_files)
-
-	return keyword_freq_files
 
 # Writes the top words in each file, minus stopwords and punctuation,
 # into a CSV.
@@ -174,7 +227,7 @@ def get_top_words(filenames, content, name):
 
 		num = 0
 		for k, v in sorted(word_map.items(), key = lambda kv: kv[1], reverse = True):
-			if v >= 50 or v <= 20: continue
+			# if v >= 50 or v <= 20: continue
 			if num >= NUM_TOP_WORDS: break
 			all_words.append([file, k, v])
 			num += 1
@@ -182,6 +235,15 @@ def get_top_words(filenames, content, name):
 	# Writes the top words of each file into a CSV
 	df = pd.DataFrame(all_words)
 	df.to_csv(stats_name, index = False, header = ["filename", "word", "count"])
+
+# Reads in arguments into the directory, words, and metadata.
+def read_arguments(parser):
+	parser.add_argument("-d", "--directory", default = "corpus", help = "Directory corpora files are")
+	parser.add_argument("-w", "--words", default = "keywords.txt", help = "File of keywords")
+	parser.add_argument("-m", "--metadata", default = "metadata.csv", help = "CSV file with metadata")
+	args = parser.parse_args()
+
+	return args.directory, args.words, args.metadata
 
 # Reads the metadata to collect statistics.
 def read_metadata(file, filenames, report_name):
@@ -270,7 +332,7 @@ def read_keywords(file, report_name):
 				include_regexes.append(r)
 				include_words.append(w)
 			else:
-				r = r"{}".format(w.replace("*", "[a-zA-Z]*"))
+				r = r"\b{}\b".format(w.replace("*", "[a-zA-Z]*"))
 				exclude_regexes.append(r)
 				exclude_words.append(w)
 
@@ -307,15 +369,6 @@ def read_corpus(directory, report_name):
 		f.write(text)
 
 	return filenames, content
-
-# Reads in arguments into the directory, words, and metadata.
-def read_arguments(parser):
-	parser.add_argument("-d", "--directory", default = "corpus", help = "Directory corpora files are")
-	parser.add_argument("-w", "--words", default = "keywords.txt", help = "File of keywords")
-	parser.add_argument("-m", "--metadata", default = "metadata.csv", help = "CSV file with metadata")
-	args = parser.parse_args()
-
-	return args.directory, args.words, args.metadata
 
 # Creates a new name that will be used for the subcorpora report,
 # folder, etc. Bases it upon whatever already exists.
@@ -356,7 +409,6 @@ def main():
 	directory, words, metadata = read_arguments(ArgumentParser())
 	name = create_new_name(directory, words)
 	subcorpora_dirname = name
-	keyword_stats_name = "{}_keyword_stats.csv".format(name)
 	report_name = "{}_report.html".format(name)
 	write_beginning_of_html(report_name)
 
@@ -364,8 +416,7 @@ def main():
 	words, include_regexes, exclude_regexes = read_keywords(words, report_name)
 	metadata = read_metadata(metadata, filenames, report_name)
 	get_top_words(filenames, content, name)
-	keyword_freq_files = find_keywords(filenames, content, words, include_regexes, exclude_regexes, report_name, name, subcorpora_dirname)
-	get_context(filenames, content, keyword_freq_files, report_name)
+	find_keywords(filenames, content, words, include_regexes, exclude_regexes, report_name, name, subcorpora_dirname)
 
 	write_end_of_html(report_name)
 
