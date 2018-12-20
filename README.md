@@ -49,5 +49,6 @@ The following files and folders will be output:
 * `corpus_keywords_keyword_collocations.csv`: Contains the keyword collocations and their counts from all the files in the following format: word_1, word_2, count. If there are no collocations, there is no file.
 * `corpus_keywords_keyword_collocations_formats.csv`: Contains the keyword collocations and their formats. If there are no collocations, there is no file.
 * `corpus_keywords_multiple_keywords.csv`: Contains how many times keywords appeared together in the same document in the following format: word_1, word_2, count. If none is output, then there are no multiple keywords.
-* `corpus_keywords_keyword_counts.csv`: Contains the keyword counts in each file in the following format: filename, keyword, count.
+* `corpus_keywords_keyword_counts.csv`: Contains the keyword counts in all in the following format: keyword, count.
+* `corpus_keywords_keyword_counts_by_file.csv`: Contains the keyword counts in each file in the following format: filename, keyword, count.
 * `corpus_keywords_keyword_formats.csv`: Contains all the different formats of each keyword. If none is output, then there are no keywords at all.
