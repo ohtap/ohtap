@@ -16,7 +16,7 @@ nltk.download('averaged_perceptron_tagger')
 
 NUM_TOP_WORDS = 20 # The number of top words that we want from each file
 NUM_WORDS_AROUND = 50 # The number of words we want before and after (separate) for in-context
-punctuation = ['\.', '\?', '\-', '"', ',', '\\b'] # Punctuation we use within our regexes
+punctuation = ['\.', '/', '\?', '\-', '"', ',', '\\b'] # Punctuation we use within our regexes
 
 # Helper function to write a h3 header in HTML format
 def write_header_line(report_name, title):
@@ -174,6 +174,7 @@ def read_metadata(file, filenames, report_name):
 	birth_country = defaultdict(lambda:0)
 
 	for file in filenames:
+		print(file)
 		birth_decade[info[file]["birth_decade"]] += 1
 		education[info[file]["education"]] += 1
 		identified_race[info[file]["identified_race"]] += 1
@@ -254,6 +255,7 @@ def get_top_words(filenames, content, name):
 
 def is_punctuation(ch):
 	for p in punctuation:
+		if p == "\\b": continue
 		if p[0] == "\\": p = p[1:]
 		if ch == p: return True
 	return False
@@ -265,12 +267,12 @@ def get_words_around(m_text, m_loc, content, n):
 	# Skips over the punctuation in the beginning if necessary
 	start_loc = m_loc
 	if is_punctuation(content[m_loc]):
-		new_m_text = "{}{}".format(content[m_loc], new_m_text)
+		new_m_text = "{}{}".format(content[start_loc], new_m_text)
 		start_loc += 1
 	
 	# Skip over the punctuation in the end if necessary
 	after_loc = start_loc + len(m_text)
-	if is_punctuation(content[after_loc]):
+	if len(content) > after_loc and is_punctuation(content[after_loc]):
 		new_m_text = "{}{}".format(new_m_text, content[after_loc])
 		after_loc += 1
 
