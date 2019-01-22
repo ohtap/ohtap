@@ -160,6 +160,11 @@ Challenges:
 * The transcripts are really nicely formatted into XML, but the transcript is incorrect. The speaker is not specified correctly during their line--it seems like they used a PDF reader and it incorrectly read the format.
 * Another special note about this one--it's really hard to distinguish the boilerplate from the text--I first found the most common ways the interviewer started the interview ("I am [interviewer name]", etc. It's listed under `boilerplate_sep` in the code) and used those, then looked at each other file individually.
 
+TODO:
+
+* Separate speakers. For now, I just put it all into the `<div2>`.
+* Add in the images and other artifacts. For now, I just have empty pages.
+
 #### Dust, Drought and Dreams Gone Dry: Oklahoma Women and the Dust Bowl (OWDB)
 
 #### Inductees of the Oklahoma Women's Hall of Fame Oral History Project (OWHF)
@@ -190,4 +195,4 @@ Challenges:
 TODO:
 
 * Separate speakers. For now, I just put it all into the `<div2>`.
-* Add in the images and other artifacts. FOr now, I just have empty pages.
+* Add in the images and other artifacts. For now, I just have empty pages.
