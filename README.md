@@ -152,6 +152,14 @@ We are currently separating it as follows (it is not complete yet; just enough t
 
 #### O-STATE Stories (OSS)
 
+Run `py encoding_tool/encode_OSS.py`. You need to have `metadata.csv` and `oss_export.xml` in the folder `encoding_tool`.
+
+Challenges:
+
+* There are multiple interviewees, multiple dates, and multiple interviewers for the interviews.
+* The transcripts are really nicely formatted into XML, but the transcript is incorrect. The speaker is not specified correctly during their line--it seems like they used a PDF reader and it incorrectly read the format.
+* Another special note about this one--it's really hard to distinguish the boilerplate from the text--I first found the most common ways the interviewer started the interview ("I am [interviewer name]", etc. It's listed under `boilerplate_sep` in the code) and used those, then looked at each other file individually.
+
 #### Dust, Drought and Dreams Gone Dry: Oklahoma Women and the Dust Bowl (OWDB)
 
 #### Inductees of the Oklahoma Women's Hall of Fame Oral History Project (OWHF)
@@ -174,9 +182,10 @@ We are currently separating it as follows (it is not complete yet; just enough t
 
 Run `py encoding_tool/encode_WOL.py`. You need to have `metadata.csv` and `wol_export.xml` in the folder `encoding_tool`.
 
-The metadata is really nicely formatted into XML, but the transcript is incorrect. The speaker is not specified correctly during their line--it seems like they used a PDF reader and it incorrectly read the format.
+Challenges:
 
-Another special note about this one--it's really hard to distinguish the boilerplate from the text--I first found the most common ways the interviewer started the interview ("I am [interviewer name]", etc. It's listed under `boilerplate_sep` in the code) and used those, then looked at each other file individually.
+* The transcripts is really nicely formatted into XML, but the transcript is incorrect. The speaker is not specified correctly during their line--it seems like they used a PDF reader and it incorrectly read the format.
+* Another special note about this one--it's really hard to distinguish the boilerplate from the text--I first found the most common ways the interviewer started the interview ("I am [interviewer name]", etc. It's listed under `boilerplate_sep` in the code) and used those, then looked at each other file individually.
 
 TODO:
 
