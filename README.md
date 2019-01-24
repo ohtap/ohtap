@@ -177,6 +177,20 @@ TODO:
 
 #### Spotlighting Oklahoma Oral History Project (SOOH)
 
+Run `py encoding_tool/encode_SOOH.py`. You need to have `metadata.csv` and `sok_export.xml` in the folder `encoding_tool`.
+
+Challenges:
+
+* There are multiple interviewees.
+* There was a bug in one of the transcripts where the `creator` tag for Van Deman, Jim, doesn't contain his full name (so I manually added it in).
+* For interviewer Julie Pearson Little Thunder, there were random hyphens in her name during the transcription.
+* Some do not have a full interview (specifically, Steinle, Alice).
+* There were a lot of manual checks I had to do to separate the boilerplate and to write regexes.
+
+TODO:
+
+* Separate speakers. For now, I just put it all into the `<div2>`.
+
 #### UNC The Long Civil Rights Movement: Gender and Sexuality (UNCGAS)
 
 #### UNC Southern Women (UNCSW)
