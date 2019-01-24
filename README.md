@@ -171,6 +171,19 @@ TODO:
 
 #### Smith College AARJ (SCAARJ)
 
+Run `py encoding_tool/encode_SCAARJ.py`. You need to have `metadata.csv` and a folder `SCAARJ` containing the `.txt` files within it. Make sure that the `.txt` files are encoded in `utf-8`.
+
+This one was definitely the cleanest transcript set to work with.
+
+Challenges:
+
+* `.docx`, the original format of the interviews, are difficult to work with in python. I just took the `.txt` files that I had already copied and pasted to work with for this code.
+* I did a GOOGLE VOICE speaker manually for Nguyen, Tu-Uyen's transcript. I called GOOGE VOICE speaker 3 and designated it as an interviewer.
+
+TODO:
+
+* Add in page numbers...which has to be done manually unfortunately.
+
 #### Smith College Activist Life (SCAL)
 
 #### Smith College Voices of Feminism (SCVF)

@@ -209,8 +209,8 @@ def parse_file(file, info):
 				sep = m[0]
 				parts = transcript.split(sep)
 				head = ET.SubElement(div1, "head")
-				head.text = parts[0]
-				text = "{}{}".format(sep, sep.join(parts[1:]))
+				head.text = "{}{}".format(parts[0], sep)
+				text = sep.join(parts[1:])
 				paragraph = ET.SubElement(div2, "p")
 				paragraph.text = text
 
