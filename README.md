@@ -171,9 +171,9 @@ TODO:
 
 #### Smith College AARJ (SCAARJ)
 
-Run `py encoding_tool/encode_SCAARJ.py`. You need to have `metadata.csv` and a folder `SCAARJ` containing the `.txt` files within it. Make sure that the `.txt` files are encoded in `utf-8`.
+Run `py encoding_tool/encode_SCAARJ.py`. You need to have `metadata.csv` and a folder `SCAARJ` containing the `.txt` files within it (download from the Drive). Make sure that the `.txt` files are encoded in `utf-8`.
 
-This one was definitely the cleanest transcript set to work with.
+This one was definitely one of the cleaner transcript sets to work with. It had one interviewer, one interviewee per transcript, and each transcript was written out the same way.
 
 Challenges:
 
@@ -185,6 +185,14 @@ TODO:
 * Add in page numbers...which has to be done manually unfortunately.
 
 #### Smith College Activist Life (SCAL)
+
+Run `py encoding_tool/encode_SCAL.py`. You need to have `metadata.csv` and a folder `SCAL` containing the `.txt` files within it (download from the Drive). Make sure that the `.txt` files are encoded in `utf-8`.
+
+Challenges:
+
+TODO:
+
+* Add in page numbers...which has to be done manually unfortunately.
 
 #### Smith College Voices of Feminism (SCVF)
 
@@ -203,6 +211,7 @@ Challenges:
 TODO:
 
 * Separate speakers. For now, I just put it all into the `<div2>`.
+* Take out End of Interview. For now, it doesn't affect the results.
 
 #### UNC The Long Civil Rights Movement: Gender and Sexuality (UNCGAS)
 
@@ -223,3 +232,9 @@ TODO:
 
 * Separate speakers. For now, I just put it all into the `<div2>`.
 * Add in the images and other artifacts. For now, I just have empty pages.
+
+## Miscellaneous Scripts
+
+### Helping to categorize occupations.
+
+The script `miscellaneous_scripts/output_top_occupations.py` reads in `metadata.csv` (in the same folder) and outputs the top occupations listed under `Past Occupations` and `Current Occupation` in our metadata spreadsheet. This is to help categorize them under job categories. It outputs an `occupations.csv` file that lists all of the occupations by how often they appear.
