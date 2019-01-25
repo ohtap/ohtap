@@ -186,9 +186,11 @@ TODO:
 
 #### Smith College Activist Life (SCAL)
 
-Run `py encoding_tool/encode_SCAL.py`. You need to have `metadata.csv` and a folder `SCAL` containing the `.txt` files within it (download from the Drive). Make sure that the `.txt` files are encoded in `utf-8`.
+NEED TO COMPLETE!
 
 Challenges:
+
+* Not all of the interviews are the same, but these can be done manually since there aren't a lot of interviews in here anyways.
 
 TODO:
 
@@ -238,3 +240,17 @@ TODO:
 ### Helping to categorize occupations.
 
 The script `miscellaneous_scripts/output_top_occupations.py` reads in `metadata.csv` (in the same folder) and outputs the top occupations listed under `Past Occupations` and `Current Occupation` in our metadata spreadsheet. This is to help categorize them under job categories. It outputs an `occupations.csv` file that lists all of the occupations by how often they appear.
+
+### Helping to isolate the transcript
+
+#### RTRB
+
+Run `miscellaneous_scripts/separating_interview/separate_RTRB.py` with `RTRB` of `.txt` files within the `separating_interview` folder.
+
+#### ROHA
+
+Run `miscellaneous_scripts/separating_interview/separate_ROHA.py` with `ROHA` of `.txt` files within the `separating_interview` folder.
+
+#### SOOH
+
+Run `miscellaneous_scripts/separating_interview/separate_SOOH.py` with the `sok_export.xml` file within the `separating_interview` folder.
