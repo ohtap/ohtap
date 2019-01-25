@@ -254,3 +254,7 @@ Run `miscellaneous_scripts/separating_interview/separate_ROHA.py` with `ROHA` of
 #### SOOH
 
 Run `miscellaneous_scripts/separating_interview/separate_SOOH.py` with the `sok_export.xml` file within the `separating_interview` folder.
+
+#### BWOH
+
+Run `miscellaneous_scripts/separating_interview/separate_BWOH.py` with the `BWOH` of `.txt` files within the `separating_interview` folder.
