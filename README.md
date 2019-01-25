@@ -257,8 +257,12 @@ Run `miscellaneous_scripts/separating_interview/separate_SOOH.py` with the `sok_
 
 #### BWOH
 
-Run `miscellaneous_scripts/separating_interview/separate_BWOH.py` with the `BWOH` of `.txt` files within the `separating_interview` folder.
+Run `miscellaneous_scripts/separating_interview/separate_BWOH.py` with the `BWOH` of `.txt` files within the `separating_interview` folder. Some had to be manually checked.
 
 #### SCAP
 
-Run `miscellaneous_scripts/separating_interview/separate_SCAP.py` with the `SCAP` of `.txt` files within the `separating_interview` folder.
+Run `miscellaneous_scripts/separating_interview/separate_SCAP.py` with the `SCAP` of `.txt` files within the `separating_interview` folder. Some had to be manually checked.
+
+#### SCVF
+
+Run `miscellaneous_scripts/separating_interview/separate_SCVF.py` with the `SCVF` of `.txt` files within the `separating_interview` folder. A lot of interviews were blank so they didn't have interview transcripts.
