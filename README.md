@@ -258,3 +258,7 @@ Run `miscellaneous_scripts/separating_interview/separate_SOOH.py` with the `sok_
 #### BWOH
 
 Run `miscellaneous_scripts/separating_interview/separate_BWOH.py` with the `BWOH` of `.txt` files within the `separating_interview` folder.
+
+#### SCAP
+
+Run `miscellaneous_scripts/separating_interview/separate_SCAP.py` with the `SCAP` of `.txt` files within the `separating_interview` folder.
