@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup, Tag
 nltk.download('averaged_perceptron_tagger')
 
 NUM_TOP_WORDS = 20 # The number of top words that we want from each file
-HIGHLIGHTED_WORDS_AROUND = 50 # The number of words we want before and after (separate) for in-context
+HIGHLIGHTED_WORDS_AROUND = 100 # The number of words we want before and after (separate) for in-context
 CONTEXT_WORDS_AROUND = 100
 MAX_EXCLUDE_REGEX_LENGTH = 10
 punctuation = ['\.', '/', '\?', '\-', '"', ',', '\\b'] # Punctuation we use within our regexes
@@ -111,6 +111,7 @@ def read_corpus(directory, report_name):
 		if ".txt" not in file: continue
 		filenames.append(file)
 		with open("{}/{}".format(directory, file), "r", encoding = "utf-8") as f:
+			print(file)
 			content.append(f.read())
 	
 	write_header_line(report_name, "Collection Information")
@@ -204,7 +205,7 @@ def read_metadata(file, filenames, report_name):
 
 	birth_decade_arr = []
 	for k, v in birth_decade.items():
-		k = "Not given" if k == "" else int(k)
+		k = "Not given" if (k == "" or k == "Unknown") else int(k)
 		birth_decade_arr.append("{}: {}".format(k, v))
 	write_list_lines(report_name, "Interviewees' birth decade counts", birth_decade_arr)
 
@@ -462,10 +463,14 @@ def write_subcorpora(subcorpora_dirname, filenames, content, keyword_freq_files)
 def bold_keyword_matches(c, sorted_matches):
 	bolded_content = ""
 	last_char = 0 # NOT included in the last round
+	add_on = 0
+	bolds_added = 0
 	for sm in sorted_matches:
 		loc = sm[0]
 		match = sm[1]
+		if "</b>" in bolded_content[(loc + (bolds_added * len("<b>"))):]: continue
 		bolded_content = "{}{}<b>{}</b>".format(bolded_content, c[last_char:loc], c[loc:(loc + len(match))])
+		bolds_added += 1
 		last_char = loc + len(match)
 	if last_char < len(c): bolded_content = "{}{}".format(bolded_content, c[last_char:len(c)])
 	
@@ -514,43 +519,19 @@ def highlight_context(c):
 # Highlight the context and returns a list of the contexts.
 def get_context_lists(c):
 	all_words = c.split(" ")
-	temp_contexts = []
-	start = False
-	count = 0
-	curr_context = []
+	all_new_words = []
+	curr_words = []
+	include = False
 	for w in all_words:
-		curr_context.append(w)
-		if start: count += 1
-		if "</mark>" in w:
-			count = 0
-			start = True
-		if count == CONTEXT_WORDS_AROUND:
-			count = 0
-			temp_contexts.append(" ".join(curr_context))
-			curr_context = []
-			start = False
+		if "<mark>" in w: include = True
+		if include: 
+			curr_words.append(w)
+		if "</mark>" in w: 
+			include = False
+			all_new_words.append(" ".join(curr_words))
+			curr_words = []
 
-	all_words = "...".join(temp_contexts).split(" ")
-	all_words.reverse()
-	temp_contexts = []
-	start = False
-	count = 0
-	curr_context = []
-	for w in all_words:
-		curr_context.append(w)
-		if start: count += 1
-		if "<mark>" in w:
-			count = 0
-			start = True
-		if count == CONTEXT_WORDS_AROUND:
-			count = 0
-			curr_context.reverse()
-			temp_contexts.append(" ".join(curr_context))
-			curr_context = []
-			start = False
-	temp_contexts.reverse()
-
-	return "...{}...".format("...".join(temp_contexts))
+	return "...{}...".format("... ... ...".join(all_new_words)).replace("<mark>", "").replace("</mark>", "")
 
 # Writes out subcorpora with highlighted information
 def write_highlighted_subcorpora(subcorpora_dirname, filenames, content, all_matches):
