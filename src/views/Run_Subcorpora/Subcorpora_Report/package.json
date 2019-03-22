@@ -1,0 +1,6 @@
+{
+  "name": "Subcorpora_Report",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Subcorpora_Report.js"
+}
