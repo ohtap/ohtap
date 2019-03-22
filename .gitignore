@@ -11,8 +11,12 @@ pids
 *.seed
 *.pid.lock
 
-# Build folder
-build/*
+# Build folder items
+build/*.json
+build/*.ico
+build/*.html
+build/*.js
+build/static/*
 
 # Data
 data/*
