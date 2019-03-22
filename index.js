@@ -17,6 +17,7 @@ app.use(cors());
 var corpus = [];
 var keywords = "";
 var metadata = "";
+var data = {};
 
 // Specifies storage for multer upload
 var corpusDir = './data/corpus-files';
@@ -74,11 +75,24 @@ app.post('/upload-metadata', function (req, res) {
 
 // Chooses the keyword list
 app.post('/choose-keywords', function (req, res) {
-	console.log(req.body);
+	
 });
 
 
 const port = process.env.PORT || 5000;
-app.listen(port);
+app.listen(port, function() {
+	// Creates a session JSON file if one does not exist and writes to it
+	const dataFile = './data/session.json';
+	const rawContents = '{ "keyword-lists": {} }';
+	if (!fs.existsSync(dataFile)) {
+		fs.writeFile(dataFile, rawContents, { flag: 'wx' }, function (err) {
+		    if (err) throw err;
+		});
+		data = JSON.parse(rawContents);
+	} else {
+		var rawData = fs.readFileSync(dataFile);
+		data = JSON.parse(rawData);
+	}
+});
 
 console.log(`OHTAP Subcorpora Tool launched at localhost:${port}`);
