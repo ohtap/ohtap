@@ -17,6 +17,7 @@ build/*.ico
 build/*.html
 build/*.js
 build/static/*
+build/assets/img/*
 
 # Data
 data/*
