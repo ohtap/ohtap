@@ -15,8 +15,8 @@ class DefaultFooter extends Component {
 
     return (
       <React.Fragment>
-        <span>&copy; 2018 Hilary Sun and Jerold Yu</span>
-        <span className="ml-auto">GitLab <a href="https://gitlab.com/hilarysun95/songs-evaluation-tool">Codebase</a></span>
+        <span>&copy; 2019 OHTAP</span>
+        <span className="ml-auto">GitLab <a href="https://github.com/ohtap/subcorpora-tool">Codebase</a></span>
       </React.Fragment>
     );
   }
