@@ -1,6 +1,16 @@
 import React, { Component } from 'react';
-import { Card, CardHeader, CardBody, Form, Label, Input, CardFooter, Button, FormGroup } from 'reactstrap'
-import axios from 'axios'
+import { 
+  Card, 
+  CardHeader, 
+  CardBody, 
+  Form, 
+  Label, 
+  Input, 
+  CardFooter, 
+  Button, 
+  FormGroup 
+} from 'reactstrap';
+import axios from 'axios';
 
 class Choose_Keywords extends Component {
   constructor(props) {
@@ -26,7 +36,7 @@ class Choose_Keywords extends Component {
     let keyword_list = ["rape keywords", "sex keywords"];
     let items = [];
     for (let i = 0; i < keyword_list.length; i++) {
-      items.push(<option key = {i} value = { keyword_list[i] }>{ keyword_list[i] }</option>);
+      items.push(<option key = { i } value = { keyword_list[i] }>{ keyword_list[i] }</option>);
     }
     return items;
   }
