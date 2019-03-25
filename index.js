@@ -45,7 +45,7 @@ app.listen(port, function() {
 	// Creates a session JSON file if one does not exist and writes to it
 	const rawContents = `{ 
 		'keyword-lists': {},
-		'past-runs': 
+		'past-runs': {}
 	}`;
 
 	if (!fs.existsSync(dataFile)) {
@@ -113,6 +113,13 @@ app.post('/upload-metadata', function (req, res) {
 // Retrieves all the keyword lists in JSON format
 app.get("/get_keywords", function (req, res) {
 	res.status(200).send(data["keyword-lists"]);
+});
+
+// Adds new keywords
+app.post('/add_keywords', function (req, res) {
+	var currData = req.body;
+	data['keyword-lists'][currData.id] = currData.data;
+	res.status(200).send();
 });
 
 // Chooses the keyword list

@@ -43,7 +43,6 @@ class Choose_Files extends Component {
         this.setState({ loaded: (ProgressEvent.loaded / ProgressEvent.total * 100) });
       },
     }).then((result) => {
-        // Access results
         this.setState({ disabledNext: false });
     });
   }
