@@ -23,7 +23,7 @@ var data = {};
 var currRun = {
 	collections: [],
 	metadata: "",
-	keywordList: {}
+	keywordList: []
 };
 
 /*
@@ -90,12 +90,44 @@ function saveToSessionFile() {
 	});
 }
 
-/** PYTHON PROCESS FOR RUNNING SUBCORPORA TOOL **/
+/** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/
 
-/** UPLOADING METADATA FILES **/
+// Sets the keyword lists used for this particular run
+app.post("/choose_keywords", function (req, res) {
+	var currData = req.body;
+	currRun.keywordList = currData;
+});
+
+// Sets the collections used for this particular run
+app.post("/choose_collections", function (req, res) {
+	var currData = req.body;
+	currRun.collections = currData;
+});
+
+// Sets the metadata file used for this particular run
+app.post("/choose_metadata", function (req, res) {
+	var currData = req.body;
+	currRun.metadata = currData;
+});
+
+// Runs the Python script
+let runSubcorporaScript = new Promise(function(success, nosuccess) {
+	const { spawn } = require('child_process');
+	const script = spawn('python', ['./src/python_scripts/run_subcorpora.py']);
+
+	script.stdout.on('data', function(data) {
+		success(data);
+	});
+
+	script.stderr.on('data', (data) => {
+		nosuccess(data);
+	});
+})
+
+// runSubcorporaScript.then(function(data) { // data.toString(); })
 
 /** GETTING AND UPDATING KEYWORD LISTS **/
-
+	
 // Retrieves all the keyword lists in JSON format
 app.get("/get_keywords", function (req, res) {
 	res.status(200).send(data["keyword-lists"]);
@@ -153,6 +185,22 @@ app.post('/upload-corpus', function (req, res) {
 // Retrieves all the collections in JSON format
 app.get("/get_collections", function (req, res) {
 	res.status(200).send(data["collections"]);
+});
+
+/** UPLOADING METADATA FILES **/
+
+const metadataUpload = multer({ storage }).single('metadata');
+
+// Uploads metadata
+app.post('/upload-metadata', function (req, res) {
+	metadataUpload(req, res, function (err) {
+		if (err instanceof multer.MulterError) {
+			return res.status(500).json(err);
+		} else if (err) {
+			return res.status(500).json(err);
+		}
+		return res.status(200).send(req.file);
+	});
 });
 
 /** GETTING PAST RUNS **/
