@@ -22,18 +22,9 @@ var data = {};
 // Current data for current run
 var currRun = {
 	collections: [],
-	metadata: "",
+	metadata: "./data/metadata.csv",
 	keywordList: []
 };
-
-
-
-
-// const metadataUpload = multer({ storage }).single('metadata');
-
-
-
-
 
 /*
  * Initializes the data into the session by reading in the current collections
@@ -122,16 +113,33 @@ app.post("/choose_metadata", function (req, res) {
 	currRun.metadata = currData;
 });
 
+app.get("/run_script", function (req, res) {
+	console.log("HERE");
+	var results = runSubcorporaScript();
+	console.log(results);
+	res.status(200).send(results);
+})
+
 // Runs the Python script
 let runSubcorporaScript = new Promise(function(success, nosuccess) {
 	const { spawn } = require('child_process');
-	const script = spawn('python', ['./src/python_scripts/run_subcorpora.py']);
+	var processes = [];
+	const args = './src/python_scripts/run_subcorpora.py -m ' + currRun.metadata;
+	for (var i in currRun.collections) {
+		for (var j in currRun.keywordList) {
+			var currArgs = args + ' -d ' + currRun.collections[i] + ' -w ' + currRun.keywordList[j];
+			processes.push(currArgs);
+		}
+	}
+	const script = spawn('python', processes);
 
 	script.stdout.on('data', function(data) {
+		console.log(data);
 		success(data);
 	});
 
 	script.stderr.on('data', (data) => {
+		console.log(data);
 		nosuccess(data);
 	});
 })
@@ -208,24 +216,6 @@ app.get("/get_collections", function (req, res) {
 
 /** UPLOADING METADATA FILES **/
 
-// Specifies storage for multer uploads for metadata files
-// var metadataDir = './data';
-// const metadataStorage = multer.diskStorage({
-// 	destination: (req, file, cb) => {
-// 		// Creates the metadata folder if it doesn't exist
-// 		var folderName = metadataDir.concat('/metadata');
-// 		if (!fs.existsSync(folderName)) {
-// 			fs.mkdirSync(folderName);
-// 		}
-// 		cb(null, folderName);
-// 	},
-// 	filename: (req, file, cb) => {
-// 		// TODO: rename metadata files
-// 		cb(null, file.originalname);
-// 	},
-// });
-// const metadataUpload = multer({ metadataStorage }).single('metadata');
-
 var upload = multer({ dest: './data' });
 
 app.post('/upload-metadata', upload.single('file'), function(req, res) {
@@ -236,19 +226,6 @@ app.post('/upload-metadata', upload.single('file'), function(req, res) {
 		return res.send({ success: false });
 	}
 });
-// Uploads metadata
-// app.post('/upload-metadata', function (req, res) {
-// 	console.log("BLAH");
-// 	metadataUpload(req, res, function (err) {
-// 		if (err instanceof multer.MulterError) {
-// 			return res.status(500).json(err);
-// 		} else if (err) {
-// 			return res.status(500).json(err);
-// 		}
-// 		console.log("Uploaded new metadata");
-// 		return res.status(200).send(req.file);
-// 	});
-// });
 
 /** GETTING PAST RUNS **/
 

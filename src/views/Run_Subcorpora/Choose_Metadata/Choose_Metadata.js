@@ -44,8 +44,13 @@ class Choose_Metadata extends Component {
 
   // Event to change to the next page to choose keywords
   routeChangeNext() {
-    let path = `/run_subcorpora/running_tool`;
-    this.props.history.push(path);
+    console.log("HELLO");
+    // axios.get("/run_script")
+    //   .then(res => console.log(res))
+    //   .then(data => console.log(data))
+    //   .catch(err => console.log(err));
+    // let path = `/run_subcorpora/running_tool`;
+    // this.props.history.push(path);
   }
 
   render() {
