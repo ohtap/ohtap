@@ -2,7 +2,7 @@ export default {
 	items: [
 		{
 			name: "New Subcorpora Run",
-			url: "/choose_files",
+			url: "/run_subcorpora/choose_files",
 			icon: 'icon-user'
 		},
 		{

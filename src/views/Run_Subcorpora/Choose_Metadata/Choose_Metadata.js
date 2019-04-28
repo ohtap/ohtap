@@ -66,7 +66,7 @@ class Choose_Metadata extends Component {
               </Form>
             </CardBody>
             <CardFooter>
-              <Button onClick = { this.routeChangeNext } size = "sm" color = "secondary" disabled = { this.state.disabledNext }>Next</Button>
+              <Button onClick = { this.routeChangeNext } size = "sm" color = "secondary">Next</Button>
             </CardFooter>
           </Card>
         </div>
