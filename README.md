@@ -31,6 +31,8 @@ $ git clone git@github.com:ohtap/subcorpora-tool.git
 $ cd subcorpora-tool
 ```
 
+You only need to clone it once.
+
 ## Usage
 
 ### Running the application
