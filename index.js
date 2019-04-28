@@ -95,6 +95,7 @@ function saveToSessionFile() {
 // Sets the keyword lists used for this particular run
 app.post("/choose_keywords", function (req, res) {
 	var currData = req.body;
+	console.log(currData);
 	currRun.keywordList = currData.data;
 	console.log("Current run keyword lists updated to " + currRun.keywordList);
 });

@@ -72,7 +72,7 @@ class Choose_Files extends Component {
       <div class="animated fadeIn">
         <Card>
           <CardHeader>
-            <strong>Upload Corpus Files</strong>
+            <strong>Select Collections</strong>
           </CardHeader>
           <CardBody>
             <Form className = "form-horizontal">
