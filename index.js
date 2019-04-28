@@ -95,7 +95,6 @@ function saveToSessionFile() {
 // Sets the keyword lists used for this particular run
 app.post("/choose_keywords", function (req, res) {
 	var currData = req.body;
-	console.log(currData);
 	currRun.keywordList = currData.data;
 	console.log("Current run keyword lists updated to " + currRun.keywordList);
 });
@@ -113,38 +112,35 @@ app.post("/choose_metadata", function (req, res) {
 	currRun.metadata = currData;
 });
 
-app.get("/run_script", function (req, res) {
-	console.log("HERE");
-	var results = runSubcorporaScript();
-	console.log(results);
-	res.status(200).send(results);
-})
-
 // Runs the Python script
-let runSubcorporaScript = new Promise(function(success, nosuccess) {
-	const { spawn } = require('child_process');
-	var processes = [];
-	const args = './src/python_scripts/run_subcorpora.py -m ' + currRun.metadata;
+function runSubcorporaScript(collection, list) {
+	let runSubcorporaPromise = new Promise(function(success, nosuccess) {
+		const { spawn } = require('child_process');
+
+		var processes = ['./src/python_scripts/test.py', currRun.metadata, collection, list];
+		var script = spawn('python', processes);
+
+		script.stdout.on('data', function(data) {
+			success(data);
+		});
+
+		script.stderr.on('data', (data) => {
+			nosuccess(data);
+		});
+	});
+
+	runSubcorporaPromise.then(function(data) { console.log(data.toString()); })
+}
+
+app.get("/run_script", function (req, res) {
 	for (var i in currRun.collections) {
 		for (var j in currRun.keywordList) {
-			var currArgs = args + ' -d ' + currRun.collections[i] + ' -w ' + currRun.keywordList[j];
-			processes.push(currArgs);
+			runSubcorporaScript(currRun.collections[i], currRun.keywordList[j]);
 		}
 	}
-	const script = spawn('python', processes);
-
-	script.stdout.on('data', function(data) {
-		console.log(data);
-		success(data);
-	});
-
-	script.stderr.on('data', (data) => {
-		console.log(data);
-		nosuccess(data);
-	});
-})
-
-// runSubcorporaScript.then(function(data) { // data.toString(); })
+	// console.log(results);
+	// res.status(200).send(results);
+});
 
 /** GETTING AND UPDATING KEYWORD LISTS **/
 	
