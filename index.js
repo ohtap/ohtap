@@ -25,6 +25,7 @@ var currRun = {
 	metadata: "./data/metadata.csv",
 	keywordList: []
 };
+var currOutput = '';
 
 /*
  * Initializes the data into the session by reading in the current collections
@@ -129,17 +130,20 @@ function runSubcorporaScript(collection, list) {
 		});
 	});
 
-	runSubcorporaPromise.then(function(data) { console.log(data.toString()); })
+	// Appends any std output to the currOutuput variable, which we will return
+	runSubcorporaPromise.then(function(data) { currOutput = currOutput + ";" + data.toString(); })
 }
 
+// Runs the script for each collection, each keyword list in our selection
 app.get("/run_script", function (req, res) {
+	currOutput = '';
 	for (var i in currRun.collections) {
 		for (var j in currRun.keywordList) {
 			runSubcorporaScript(currRun.collections[i], currRun.keywordList[j]);
 		}
 	}
-	// console.log(results);
-	// res.status(200).send(results);
+
+	res.status(200).send(currOutput);
 });
 
 /** GETTING AND UPDATING KEYWORD LISTS **/
