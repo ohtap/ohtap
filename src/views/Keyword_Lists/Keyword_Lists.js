@@ -53,10 +53,13 @@ class Keyword_Lists extends Component {
   updateTableBody() {
     const lists = this.state.lists;
     const tableBody = [];
+    
     for (var k in lists) {
       const item = lists[k];
-      tableBody.push(<tr id = { k }><td>{ item['name'] }</td><td>{ item['version'] }</td><td>{ item['date-added'] }</td><td><Button class = "link" onClick = { () => this.openEditModal(k) }><i id = "edit-{ k }" className="icon-pencil"></i></Button><Button class = "link" onClick = { () => this.openDeleteModal(k) }><i id = "delete-{ k }" className="icon-trash"></i></Button></td></tr>);
+      const name = item['name'] + "-" + item['version'];
+      tableBody.push(<tr id = { name }><td>{ item['name'] }</td><td>{ item['version'] }</td><td>{ item['date-added'] }</td><td><Button class = "link" onClick = {() => this.openEditModal(name)}><i className = "icon-pencil"></i></Button><Button class = "link" onClick = {() => this.openDeleteModal(name)}><i className = "icon-trash"></i></Button></td></tr>);
     }
+
     this.setState({ tableBody: tableBody });
   }
 
@@ -87,6 +90,26 @@ class Keyword_Lists extends Component {
     newLists[id]['include'] = newIncludeList;
     newLists[id]['exclude'] = newExcludeList;
 
+    var newData = {
+      "name": newLists[id]['name'],
+      "version": newLists[id]['version'],
+      "date-added": newLists[id]['date-added'],
+      "include": newLists[id]['include'],
+      "exclude": newLists[id]['exclude']
+    };
+
+    // Sends it to the backend
+    axios.post('/add_keywords', {
+      id: id,
+      data: newData
+    })
+    .then(function (res) {
+      console.log("Successfully added keywords");
+    })
+    .catch(function (err) {
+
+    });
+
     this.updateTableBody();
 
     this.setState({ 
@@ -97,19 +120,31 @@ class Keyword_Lists extends Component {
 
   // Delete the keyword list in question
   deleteKeywordList() {
-    console.log(this.state.deleteListId);
+    var id = this.state.deleteListId;
     var newLists = {};
     for (var k in this.state.lists) {
-      if (k == this.state.deleteListId) continue;
+      if (k == id) continue;
       newLists[k] = this.state.lists[k];
     }
     this.setState({ 
       lists: newLists,
     });
 
+    // Sends it to the backend
+    axios.post('/delete_keywords', {
+      id: id
+    })
+    .then(function (res) {
+      console.log("Successfully deleted keywords");
+    })
+    .catch(function (err) {
+
+    });
+
     this.updateTableBody();
 
     this.setState({ showDelete: false });
+    window.location.reload();
   }
 
   // Opens the edit modal
@@ -133,7 +168,6 @@ class Keyword_Lists extends Component {
 
   // Opens the delete modal
   openDeleteModal(id) {
-    console.log("SEETING " + id);
     this.setState({ deleteListId: id });
     this.setState({ 
       showDelete: true
@@ -181,12 +215,16 @@ class Keyword_Lists extends Component {
       if (keyword == '') continue;
       newIncludeList.push(keyword);
     }
-    var excludeList = this.state.addListExclude.split(","); // needs to be comma-separated
+
     var newExcludeList = [];
-    for (var i = 0; i < excludeList.length; i++) {
-      var keyword = excludeList[i].trim();
-      if (keyword == '') continue;
-      newExcludeList.push(keyword);
+    if (this.state.addListExclude != undefined) {
+      var excludeList = this.state.addListExclude.split(","); // needs to be comma-separated
+      
+      for (var i = 0; i < excludeList.length; i++) {
+        var keyword = excludeList[i].trim();
+        if (keyword == '') continue;
+        newExcludeList.push(keyword);
+      }
     }
 
     var newData = {
@@ -205,7 +243,7 @@ class Keyword_Lists extends Component {
       data: newData
     })
     .then(function (res) {
-      console.log("SUCCESS");
+      console.log("Successfully added keywords");
     })
     .catch(function (err) {
 
@@ -271,7 +309,7 @@ class Keyword_Lists extends Component {
                 </ModalBody>
               </Modal>
               <Button variant="primary" onClick={ this.toggleAddModal }>
-                <i className="icon-plus"></i>Add New List
+                <i className="icon-plus"></i>&nbsp;Add New List
               </Button>
               <Modal isOpen = { this.state.showAdd } toggle = { this.toggleAddModal }>
                 <ModalHeader toggle = { this.toggleAddModal }>Add New Keyword List</ModalHeader>
