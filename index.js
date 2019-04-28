@@ -95,13 +95,15 @@ function saveToSessionFile() {
 // Sets the keyword lists used for this particular run
 app.post("/choose_keywords", function (req, res) {
 	var currData = req.body;
-	currRun.keywordList = currData;
+	currRun.keywordList = currData.data;
+	console.log("Current run keyword lists updated to " + currRun.keywordList);
 });
 
 // Sets the collections used for this particular run
 app.post("/choose_collections", function (req, res) {
 	var currData = req.body;
-	currRun.collections = currData;
+	currRun.collections = currData.data;
+	console.log("Current run collections updated to " + currRun.collections);
 });
 
 // Sets the metadata file used for this particular run

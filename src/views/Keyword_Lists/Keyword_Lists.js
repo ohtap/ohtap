@@ -1,5 +1,4 @@
-import React, { Component, lazy, Suspense } from 'react';
-import { Bar, Line } from 'react-chartjs-2';
+import React, { Component } from 'react';
 import {
   Button,
   Col,
@@ -76,7 +75,7 @@ class Keyword_Lists extends Component {
     var newIncludeList = [];
     for (var i = 0; i < includeList.length; i++) {
       var keyword = includeList[i].trim();
-      if (keyword == '') continue;
+      if (keyword === '') continue;
       newIncludeList.push(keyword);
     }
     var excludeList = this.state.editListExclude.split(","); // needs to be comma-separated

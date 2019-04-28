@@ -7,48 +7,62 @@ class Choose_Files extends Component {
     super(props);
 
     this.state = {
-      corpusName: '',
-      selectedFiles: null,
-      loaded: 0,
-      disabledNext: true,
+      collections: [],
+      selectedCollections: [],
+      selectionBody: [],
     }; 
 
+    this.updateSelection = this.updateSelection.bind(this);
     this.routeChangeNext = this.routeChangeNext.bind(this);
+    this.selectionChange = this.selectionChange.bind(this);
   }
 
-  // Event to update state when form inputs change
-  onChange = (e) => {
-    switch (e.target.name) {
-      case 'file':
-        this.setState({
-          selectedFiles: e.target.files,
-        });
-        break;
-      default:
-        this.setState({ [e.target.name]: e.target.value });
+  // Updates the selected values as the selection UI changes
+  selectionChange(event) {
+    var options = event.target.options;
+    var selected = [];
+    for (var i = 0; i < options.length; i++) {
+      if (options[i].selected) {
+        selected.push(options[i].value)
+      }
     }
+    this.state.selectedCollections = selected;
   }
 
-  // Event to submit the data to the server
-  onSubmit = (e) => {
-    e.preventDefault();
-    let formData = new FormData();
-    formData.append('corpusName', this.state.corpusName);
-    for (var i = 0; i < this.state.selectedFiles.length; i++) {
-      formData.append('file', this.state.selectedFiles[i]);
+  // Get our data once the component mounts
+  componentDidMount() {
+    axios.get('/get_collections')
+      .then(res => this.setState({ collections: res.data }))
+      .then(data => this.updateSelection(data))
+      .catch(err => console.log("Error getting collections (" + err + ")"));
+  }
+
+  // Updates the selection UI
+  updateSelection() {
+    const collections = this.state.collections;
+    var selectionBody = [];
+    for (var k in collections) {
+      const item = collections[k];
+      selectionBody.push(<option>{ item['id'] }</option>);
     }
-    axios.post('/upload-corpus', formData, {
-      // Updates the progress of the upload
-      onUploadProgress: ProgressEvent => {
-        this.setState({ loaded: (ProgressEvent.loaded / ProgressEvent.total * 100) });
-      },
-    }).then((result) => {
-        this.setState({ disabledNext: false });
-    });
+
+    this.setState({ selectionBody: selectionBody });
   }
 
   // Event to change to the next page to choose keywords
   routeChangeNext() {
+    // Updates the backend collections information based on what was selected
+    axios.post('/choose_collections', {
+      data: this.state.selectedCollections
+    })
+    .then(function (res) {
+      console.log("Successfully posted collections");
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
+    // Moves on!
     let path = `/run_subcorpora/choose_keywords`;
     this.props.history.push(path);
   }
@@ -61,17 +75,13 @@ class Choose_Files extends Component {
             <strong>Upload Corpus Files</strong>
           </CardHeader>
           <CardBody>
-            <Form onSubmit = { this.onSubmit } className = "form-horizontal">
-              <FormGroup row>
-                <Label htmlFor = "corpusName">Corpus Name</Label>
-                <Input type = "text" id = "corpusName" name = "corpusName" onChange = { this.onChange } placeholder = "Enter corpus name" required />
+            <Form className = "form-horizontal">
+              <FormGroup>
+                <Label for="selectCollections">Select Collections</Label>
+                <Input type="select" name="selectCollections" id="selectCollections" onChange = { this.selectionChange } multiple>
+                  { this.state.selectionBody }
+                </Input>
               </FormGroup>
-              <FormGroup row>
-                <Label htmlFor = "corpusUpload">Upload Files</Label>
-                <Input type = "file" name = "file" id = "corpusUpload" onChange = { this.onChange } webkitdirectory multiple />
-              </FormGroup>
-              <Progress max = "100" color = "success" value = { this.state.loaded } > { Math.round(this.state.loaded, 2) }%</Progress>
-              <Button type = "submit" size = "sm" color = "primary">Submit</Button>
             </Form>
           </CardBody>
           <CardFooter>
