@@ -118,14 +118,16 @@ function runSubcorporaScript(collection, list) {
 	let runSubcorporaPromise = new Promise(function(success, nosuccess) {
 		const { spawn } = require('child_process');
 
-		var processes = ['./src/python_scripts/test.py', currRun.metadata, collection, list];
-		var script = spawn('python', processes);
+		// If this is not working, use ./src/python_scripts/test.py to debug!
+		var processes = ['./src/python_scripts/run_subcorpora.py', currRun.metadata, collection, list];
+		var script = spawn('py', processes);
 
 		script.stdout.on('data', function(data) {
 			success(data);
 		});
 
 		script.stderr.on('data', (data) => {
+			console.log("ERROR");
 			nosuccess(data);
 		});
 	});
@@ -139,6 +141,7 @@ app.get("/run_script", function (req, res) {
 	currOutput = '';
 	for (var i in currRun.collections) {
 		for (var j in currRun.keywordList) {
+			console.log("Running script with " + currRun.collections[i] + " " + currRun.keywordList[j])
 			runSubcorporaScript(currRun.collections[i], currRun.keywordList[j]);
 		}
 	}
