@@ -18,6 +18,7 @@ from bs4 import BeautifulSoup, Tag
 
 nltk.download('averaged_perceptron_tagger')
 nltk.download('stopwords')
+nltk.download('punkt')
 
 NUM_TOP_WORDS = 20 # The number of top words that we want from each file
 CONTEXT_WORDS_AROUND = 50
