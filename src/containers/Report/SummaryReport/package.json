@@ -1,0 +1,6 @@
+{
+  "name": "SummaryReport",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SummaryReport.js"
+}

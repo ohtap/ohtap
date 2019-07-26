@@ -1,0 +1,6 @@
+{
+  "name": "IndividualReport",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./IndividualReport.js"
+}
