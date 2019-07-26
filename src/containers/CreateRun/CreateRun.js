@@ -26,15 +26,26 @@ class CreateRun extends React.Component {
 	constructor(props) {
 		super(props);
 
+		// Gets the current date and time
 		var today = new Date();
 		var dd = String(today.getDate()).padStart(2, '0');
 		var mm = String(today.getMonth() + 1).padStart(2, '0');
 		var yyyy = today.getFullYear();
+		var hour = today.getHours();
+		var min = today.getMinutes();
+		if (min < 10) {
+			min = "0" + min;
+		}
+		var sec = today.getSeconds();
+		if (sec < 10) {
+			sec = "0" + sec;
+		}
 		var currDate = mm + '/' + dd + '/' + yyyy;
+		var currTime = hour + ':' + min + ":" + sec;
 
 		this.state = {
 			name: '',
-			date: currDate,
+			time: currDate + ' ' + currTime,
 			isButtonDisabled: true,
 			redirect: false,
 		};
@@ -44,20 +55,19 @@ class CreateRun extends React.Component {
 		this.renderRedirect = this.renderRedirect.bind(this);
 	}
 
-	handleNameChange = name => event => {
+	// Updates the run name and disables/enables the next button depending on the content.
+	handleNameChange(event) {
 		this.setState({ name: event.target.value });
-		this.setState({ isButtonDisabled: false });
-
-		// TODO: Add check for no name entered and disable the button.
+		this.setState({ isButtonDisabled: (!event.target.value) });
 	};
 
 	// Updates the data in the backend and redirects the page to the next step
 	handleButtonChange(event) {
 		axios.post('/set_run_name', {
-			data: {name: this.state.name, date: this.state.date}
+			data: {name: this.state.name, time: this.state.time}
 		})
 		.then(function (res) {
-			console.log("Successfully posted name of the run");
+			console.log("Successfully posted name and time of the run");
 		})
 		.catch(function (err) {
 			console.log(err);
@@ -88,9 +98,9 @@ class CreateRun extends React.Component {
 			        <TextField
 			          id="standard-name"
 			          label="Name"
-			          className={classes.textField}
 			          value={this.state.name}
-			          onChange={this.handleNameChange('name')}
+			          className={classes.textField}
+			          onChange={this.handleNameChange}
 			          margin="normal"
 			        />
 
@@ -98,7 +108,7 @@ class CreateRun extends React.Component {
 			          disabled
 			          id="standard-disabled"
 			          label="Date"
-			          defaultValue={this.state.date}
+			          defaultValue={this.state.time}
 			          className={classes.textField}
 			          margin="normal"
 			        />

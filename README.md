@@ -57,7 +57,13 @@ Open up your web browser to [https://localhost:5000](https://localhost:5000).
 
 ### Running the subcorpora tool
 
-Navigate to the tab "Run subcorpora." Follow the instructions by uploading/selecting collections, selecting keyword lists, and uploading metadata files. The report will be generated and saved into "Past Runs."
+Navigate to the tab "Create a new run."
+
+#### Naming your run
+
+Give your run a name. It will automatically create a new run with the ID composed of the name, date, and time. This should be unique to each run, unless you somehow miraculously create multiple reports in the same second (or if you switch time zones and happen to do a run at the same time). The code for this page is in `/CreateRun.js`.
+
+
 
 The subcorpora folder formed will be within the folder `data/subcorpora`.
 

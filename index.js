@@ -21,7 +21,7 @@ var data = {};
 
 // Current data for current run
 var currRun = {
-	id: 'test-05202019041500',
+	id: '',
 	name: '',
 	date: '',
 	collections: [],
@@ -132,12 +132,18 @@ function addKeywordList(_id, name, version, date_added, include, exclude) {
 
 /** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/
 
-// Sets the name of the run
+// Resets the current run and sets the ID, name, and date.
 app.post("/set_run_name", function (req, res) {
+	currRun = {}; // We don't want any residual data from previous runs, so we just assume it's new each time this is called.
+
 	var currData = req.body.data;
 	currRun.name = currData.name;
-	currRun.date = currData.date;
-	console.log("Current run name set to " + currRun.name + ", current date set to " + currRun.date);
+	currRun.time = currData.time;
+	console.log("Current run name set to " + currRun.name + ", current time set to " + currRun.time);
+
+	// Gives the run an ID composed of the name and the time
+	currRun.id = currRun.name.replace(/\s/g, "") + "-" + currRun.time.replace(/\//g, "").replace(/\s/g, "").replace(/:/g, "");
+	console.log("Current run ID set to " + currRun.id);
 
 	res.sendStatus(200);
 });
