@@ -13,7 +13,7 @@ Please see our design document [here](https://docs.google.com/document/d/1Y2Y7lZ
 
 Can be used locally by downloading the repository and running it.
 
-## Sample Application
+## Sample Application (TBD)
 
 A sample static web application is running at [https://ohtap-subcorpora-tool.herokuapp.com](https://docs.google.com/document/d/1Y2Y7lZVFSKBxc57EO8zOrN_WNm-I7aYD5-6W2gl3GNA/edit). This contains a few sample transcripts for you to play around with and explore the functionality of the subcorpora tool.
 
@@ -91,6 +91,3 @@ They will not, however, be able to see the subcorpora formed.
 
 ## Acknowledgements
 
-We used some aspects of CoreUI for the frontend, which is copyright 2018 creativeLabs Łukasz Holeczek and released under [the MIT license](https://github.com/coreui/coreui-free-bootstrap-admin-template/blob/master/LICENSE).
-
-Library icon made by [Icon Pond]("https://www.flaticon.com/authors/popcorns-arts") from [Flaticon]("https://www.flaticon.com/"). It is licensed by [CC 3.0 BY]("http://creativecommons.org/licenses/by/3.0/").

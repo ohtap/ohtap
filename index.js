@@ -21,11 +21,21 @@ var data = {};
 
 // Current data for current run
 var currRun = {
+	id: 'test-05202019041500',
+	name: '',
+	date: '',
 	collections: [],
 	metadata: "./data/metadata.csv",
-	keywordList: []
+	keywordList: [],
+	total: 0 // Progress of the run
 };
-var currOutput = '';
+
+// Current displays
+var currDisplay = {
+	summary: true,
+	runId: 'test-05202019041500',
+	individualId: 'BWOH-rape-3'
+};
 
 /*
  * Initializes the data into the session by reading in the current collections
@@ -65,8 +75,8 @@ app.listen(port, function() {
 	// Creates a session JSON file if one does not exist and writes to it
 	const rawContents = `{ 
 		'keyword-lists': {},
-		'past-runs': {},
-		'collections': {}
+		'collections': {},
+		'runs': {}
 	}`;
 
 	if (!fs.existsSync(dataFile)) {
@@ -91,13 +101,45 @@ function saveToSessionFile() {
 	});
 }
 
+// Adds a new collection into the data
+function addCollection(_id, name, shortened_name, collection_count, description, themes, notes) {
+	var newCollection = {
+		"id": _id,
+		"name": name,
+		"shortened-name": shortened_name,
+		"collection-count": collection_count,
+		"description": description,
+		"themes": themes,
+		"notes": notes
+	};
+
+	data["collections"][_id] = newCollection;
+}
+
+// Adds a new keyword list itno the data
+function addKeywordList(_id, name, version, date_added, include, exclude) {
+	var newKeywordList = {
+		"id": _id,
+		"name": name,
+		"version": version,
+		"date-added": date_added,
+		"include": include,
+		"exclude": exclude
+	}
+
+	data["keyword-lists"][_id] = newKeywordList;
+}
+
 /** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/
 
-// Sets the keyword lists used for this particular run
-app.post("/choose_keywords", function (req, res) {
-	var currData = req.body;
-	currRun.keywordList = currData.data;
-	console.log("Current run keyword lists updated to " + currRun.keywordList);
+// Sets the name of the run
+app.post("/set_run_name", function (req, res) {
+	var currData = req.body.data;
+	currRun.name = currData.name;
+	currRun.date = currData.date;
+	console.log("Current run name set to " + currRun.name + ", current date set to " + currRun.date);
+
+	res.sendStatus(200);
 });
 
 // Sets the collections used for this particular run
@@ -105,48 +147,41 @@ app.post("/choose_collections", function (req, res) {
 	var currData = req.body;
 	currRun.collections = currData.data;
 	console.log("Current run collections updated to " + currRun.collections);
+
+	res.sendStatus(200);
 });
 
-// Sets the metadata file used for this particular run
-app.post("/choose_metadata", function (req, res) {
+// Sets the keyword lists used for this particular run
+app.post("/choose_keywords", function (req, res) {
 	var currData = req.body;
-	currRun.metadata = currData;
+	currRun.keywordList = currData.data;
+	console.log("Current run keyword lists updated to " + currRun.keywordList);
+
+	res.sendStatus(200);
 });
 
-// Runs the Python script
-function runSubcorporaScript(collection, list) {
-	let runSubcorporaPromise = new Promise(function(success, nosuccess) {
-		const { spawn } = require('child_process');
+app.get("/get_python_progress", function (req, res) {
+	const statusMessage = "Loading...";
+	currRun.total = 100; // TODO: Remove this later when we actually put in the Python process
+	res.status(200).send({total: currRun.total, message: statusMessage});
+});
 
-		// If this is not working, use ./src/python_scripts/test.py to debug!
-		var processes = ['./src/python_scripts/run_subcorpora.py', currRun.metadata, collection, list];
-		var script = spawn('py', processes);
+/** DISPLAYING REPORT DATA **/
 
-		script.stdout.on('data', function(data) {
-			success(data);
-		});
-
-		script.stderr.on('data', (data) => {
-			console.log("ERROR");
-			nosuccess(data);
-		});
-	});
-
-	// Appends any std output to the currOutuput variable, which we will return
-	runSubcorporaPromise.then(function(data) { currOutput = currOutput + ";" + data.toString(); })
-}
-
-// Runs the script for each collection, each keyword list in our selection
-app.get("/run_script", function (req, res) {
-	currOutput = '';
-	for (var i in currRun.collections) {
-		for (var j in currRun.keywordList) {
-			console.log("Running script with " + currRun.collections[i] + " " + currRun.keywordList[j])
-			runSubcorporaScript(currRun.collections[i], currRun.keywordList[j]);
-		}
+// Retrieves current data
+app.get("/get_current_run_data", function (req, res) {
+	if (!(currRun.id in data["runs"])) {
+		res.status(404).send(currRun.id + " not in data.");
 	}
+	res.status(200).send(data["runs"][currRun.id]);
+	console.log("Data successfully sent to frontend for report");
+});
 
-	res.status(200).send(currOutput);
+/** GETTING, UPLOADING, AND UPDATING COLLECTIONS **/
+
+// Retrieves all the collections in JSON format
+app.get("/get_collections", function (req, res) {
+	res.status(200).send(data["collections"]);
 });
 
 /** GETTING AND UPDATING KEYWORD LISTS **/
@@ -156,91 +191,11 @@ app.get("/get_keywords", function (req, res) {
 	res.status(200).send(data["keyword-lists"]);
 });
 
-// Adds new keywords
-app.post('/add_keywords', function (req, res) {
-	var currData = req.body;
-	data['keyword-lists'][currData.id] = currData.data;
-	res.status(200).send();
-	saveToSessionFile()
-});
-
-// Deletes the keyword list
-app.post('/delete_keywords', function (req, res) {
-	var currData = req.body;
-	delete data['keyword-lists'][currData.id];
-	saveToSessionFile()
-});
-
-/** GETTING, UPLOADING, AND UPDATING COLLECTIONS **/
-
-// Specifies storage for corpus files
-var corpusDir = './data/corpus-files';
-const storage = multer.diskStorage({
-	destination: (req, file, cb) => {
-		// Creates the directory that they are meant to exist in
-		// TODO: Add error checking for duplicate in form
-		var name = req.body.corpusName.toLowerCase().replace(" ", "_");
-		var currDir = corpusDir.concat("/", name);
-		if (!fs.existsSync(currDir)) {
-			fs.mkdirSync(currDir);
-		}
-		cb(null, currDir);
-	},
-	fileFilter: function(req, file, cb) {
-		if (path.extname(file.originalname) !== '.txt') {
-			return cb(new Error('Only .txt files allowed'));
-		}
-		cb(null, true);
-	},
-	filename: (req, file, cb) => {
-		cb(null, file.originalname);
-	},
-});
-const corpusUpload = multer({ storage }).array('file');
-
-// Uploads file to data/corpus-files folder
-app.post('/upload-corpus', function (req, res) {
-	// Uploads the files
-	corpusUpload(req, res, function (err) {
-		if (err instanceof multer.MulterError) {
-			return res.status(500).json(err);
-		} else if (err) {
-			return res.status(500).json(err);
-		}
-		console.log("Uploaded corpus files");
-		return res.status(200).send(req.file);
-	});
-});
-
-// Retrieves all the collections in JSON format
-app.get("/get_collections", function (req, res) {
-	res.status(200).send(data["collections"]);
-});
-
-/** UPLOADING METADATA FILES **/
-
-var upload = multer({ dest: './data' });
-
-app.post('/upload-metadata', upload.single('file'), function(req, res) {
-	if (req.file) {
-		console.log("Uploaded metadata file");
-		return res.send({ success: true });
-	} else {
-		return res.send({ success: false });
-	}
-});
-
-/** GETTING PAST RUNS **/
-
-app.get("/get_past_runs", function (req, res) {
-	res.status(200).send(data["past-runs"]);
-});
-
 /** GENERAL PAGE SERVICE **/
 
 // The "catchall" handler: for any request that doesn't
 // match one route above, send back React's index.html file.
 // This needs to be the last route in index.js.
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname+'/build/index.html'));
+  res.sendFile(path.join(__dirname+'/public/index.html'));
 });
