@@ -8,6 +8,7 @@ import Typography from '@material-ui/core/Typography';
 import Select from '@material-ui/core/Select';
 import Button from '@material-ui/core/Button';
 import { Redirect } from 'react-router-dom';
+import axios from 'axios';
 
 const styles = theme => ({
   root: {
@@ -78,6 +79,16 @@ class SelectKeywords extends React.Component {
   };
 
   handleButtonClick = () => {
+    axios.post('/run_python_script', {
+      data: this.state.name
+    })
+    .then(function (res) {
+      console.log("Successfully posted metadata");
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
   	this.setState({ redirect: true });
   }
 

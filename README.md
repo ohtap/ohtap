@@ -59,11 +59,21 @@ Open up your web browser to [https://localhost:5000](https://localhost:5000).
 
 Navigate to the tab "Create a new run."
 
-#### Naming your run
+#### (1) vNaming your run
 
-Give your run a name. It will automatically create a new run with the ID composed of the name, date, and time. This should be unique to each run, unless you somehow miraculously create multiple reports in the same second (or if you switch time zones and happen to do a run at the same time). The code for this page is in `/CreateRun.js`.
+Give your run a name. It will automatically create a new run with the ID composed of the name, date, and time. This should be unique to each run, unless you somehow miraculously create multiple reports in the same second (or if you switch time zones and happen to do a run at the same time). The code for this page is in `/src/containers/CreateRun/CreateRun.js`.
 
+#### (2) Selecting collections
 
+Here you will select the collections that will be included in the run. There is a multiple selection tool. The code for this page is in `/src/containers/CreateRun/SelectCollections/SelectCollections.js`.
+
+#### (3) Selecting keyword lists
+
+Here you will select the keyword lists that will be included in the run. There is a multiple selection tool. The code for this page is in `/src/containers/CreateRun/SelectKeywords/SelectKeywords.js`.
+
+#### (4) Selecting metadata
+
+#### (5) Running the Python script
 
 The subcorpora folder formed will be within the folder `data/subcorpora`.
 

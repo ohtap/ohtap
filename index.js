@@ -6,6 +6,7 @@ const multer = require('multer');
 const cors = require('cors');
 var fs = require('fs');
 var axios = require('axios');
+let {PythonShell} = require('python-shell');
 
 /*** INITIALIZATION AND APPLICATION STARTUP ***/
 
@@ -116,7 +117,7 @@ function addCollection(_id, name, shortened_name, collection_count, description,
 	data["collections"][_id] = newCollection;
 }
 
-// Adds a new keyword list itno the data
+// Adds a new keyword list into the data
 function addKeywordList(_id, name, version, date_added, include, exclude) {
 	var newKeywordList = {
 		"id": _id,
@@ -145,6 +146,8 @@ app.post("/set_run_name", function (req, res) {
 	currRun.id = currRun.name.replace(/\s/g, "") + "-" + currRun.time.replace(/\//g, "").replace(/\s/g, "").replace(/:/g, "");
 	console.log("Current run ID set to " + currRun.id);
 
+	currRun.total = 0;
+
 	res.sendStatus(200);
 });
 
@@ -166,10 +169,34 @@ app.post("/choose_keywords", function (req, res) {
 	res.sendStatus(200);
 });
 
+app.post("/run_python_script", function (req, res) {
+	console.log("Running python script");
+
+	// Options for the Python scripts that we are going to run
+	let options = {
+		mode: 'text',
+		pythonOptions: ['-u'], // Get print results in real-time
+		args: ['blah', 'blash2', 'ji'],
+		scriptPath: __dirname + '/src'
+	};
+
+	let pyshell = new PythonShell('./tool_script.py', options);
+	pyshell.on('message', function(message) {
+		console.log(message);
+		if (message.includes("PROGRESS:")) {
+			currRun.total = parseInt(message.split(":")[1]);
+			currRun.statusMessage = "BLAH";
+		}
+	});
+
+	res.sendStatus(200);
+});
+
+// Gets the current progress of the Python script
 app.get("/get_python_progress", function (req, res) {
-	const statusMessage = "Loading...";
-	currRun.total = 100; // TODO: Remove this later when we actually put in the Python process
-	res.status(200).send({total: currRun.total, message: statusMessage});
+	// currRun.total = 10;
+	// console.log("Getting progress: " + currRun.total);
+	res.status(200).send({total: currRun.total, message: currRun.statusMessage});
 });
 
 /** DISPLAYING REPORT DATA **/

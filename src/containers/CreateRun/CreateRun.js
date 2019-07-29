@@ -76,6 +76,7 @@ class CreateRun extends React.Component {
 		this.setState({ redirect: true });
 	}
 
+	// Renders the next page
 	renderRedirect = () => {
 		if (this.state.redirect) {
 			return <Redirect to='/create_run/select_collections' />

@@ -9,8 +9,8 @@ class Loading extends React.Component {
 
 		this.state = {
 			completed: 0,
-	    statusMessage: 'Starting the subcorpora run...',
-	    statusTitle: 'Running...',
+	    	statusMessage: 'Starting the subcorpora run...',
+	    	statusTitle: 'Running...',
 		};
 	}
 
@@ -24,16 +24,17 @@ class Loading extends React.Component {
 
 	// Gets the progress of the python process
 	progress = () => {
-    const { completed } = this.state;
-    if (completed === 100) {
-      this.setState({ summary: true, statusTitle: 'Done!', statusMessage: 'Finished running!' });
-      this.props.callbackDone(true); // Tells the parent Report component that we're done loading
-    } else {
-      axios.get('/get_python_progress')
-        .then(res => this.setState({completed: res.data.total, statusMessage: res.data.message}))
-        .catch(err => console.log("Error getting progress (" + err + ")"));
-    }
-  };
+	    const { completed } = this.state;
+	    console.log(completed);
+	    if (completed === 100) {
+	      this.setState({ summary: true, statusTitle: 'Done!', statusMessage: 'Finished running!' });
+	      this.props.callbackDone(true); // Tells the parent Report component that we're done loading
+	    } else {
+	      axios.get('/get_python_progress')
+	        .then(res => this.setState({completed: res.data.total, statusMessage: res.data.message}))
+	        .catch(err => console.log("Error getting progress (" + err + ")"));
+	    }
+	};
 
 	render() {
   	return (
