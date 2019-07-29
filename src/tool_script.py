@@ -15,6 +15,7 @@ from unidecode import unidecode
 import csv
 from bs4 import BeautifulSoup, Tag
 import sys
+import json
 
 NUM_TOP_WORDS = 20 # The number of top words that we want from each file
 CONTEXT_WORDS_AROUND = 50
@@ -25,13 +26,14 @@ keyword_to_dates = defaultdict(lambda: defaultdict(lambda :0))
 
 # Reads in arguments into the directory, words, and metadata.
 def read_arguments():
-	return sys.argv[1], sys.argv[2], sys.argv[3]
+	data = json.loads(sys.argv[1])
+	return data['collections'][0], data['keywordList'][0], ''
 
 # Sets up directory and filenames and reads in data.
 def set_up():
-	nltk.download('averaged_perceptron_tagger')
-	nltk.download('stopwords')
-	nltk.download('punkt')
+	# nltk.download('averaged_perceptron_tagger')
+	# nltk.download('stopwords')
+	# nltk.download('punkt')
 	directory, words, metadata = read_arguments()
 	print(directory, words, metadata)
 

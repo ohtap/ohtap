@@ -172,11 +172,15 @@ app.post("/choose_keywords", function (req, res) {
 app.post("/run_python_script", function (req, res) {
 	console.log("Running python script");
 
+	// var directory = ;
+	// var words = ;
+	// var 
+
 	// Options for the Python scripts that we are going to run
 	let options = {
 		mode: 'text',
 		pythonOptions: ['-u'], // Get print results in real-time
-		args: ['blah', 'blash2', 'ji'],
+		args: [JSON.stringify(currRun)],
 		scriptPath: __dirname + '/src'
 	};
 
