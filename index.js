@@ -133,6 +133,23 @@ function addKeywordList(_id, name, version, date_added, include, exclude) {
 
 /** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/
 
+/**
+ * Parses the message sent from the Python script
+ */
+ function parsePythonMessage(msg) {
+ 	var obj = JSON.parse(msg);
+ 	var _type = obj["type"];
+
+	switch(_type) {
+		case "progress-message":
+			currRun.statusMessage = obj["content"];
+			break;
+		case "progress":
+			currRun.total = parseInt(obj["content"]);
+			break;
+	} 	
+ }
+
 // Resets the current run and sets the ID, name, and date.
 app.post("/set_run_name", function (req, res) {
 	currRun = {}; // We don't want any residual data from previous runs, so we just assume it's new each time this is called.
@@ -140,11 +157,11 @@ app.post("/set_run_name", function (req, res) {
 	var currData = req.body.data;
 	currRun.name = currData.name;
 	currRun.time = currData.time;
-	console.log("Current run name set to " + currRun.name + ", current time set to " + currRun.time);
+	console.log("Current run name set to " + currRun.name + ", current time set to " + currRun.time + "\n");
 
 	// Gives the run an ID composed of the name and the time
 	currRun.id = currRun.name.replace(/\s/g, "") + "-" + currRun.time.replace(/\//g, "").replace(/\s/g, "").replace(/:/g, "");
-	console.log("Current run ID set to " + currRun.id);
+	console.log("Current run ID set to " + currRun.id + "\n");
 
 	currRun.total = 0;
 
@@ -155,7 +172,7 @@ app.post("/set_run_name", function (req, res) {
 app.post("/choose_collections", function (req, res) {
 	var currData = req.body;
 	currRun.collections = currData.data;
-	console.log("Current run collections updated to " + currRun.collections);
+	console.log("Current run collections updated to " + currRun.collections + "\n");
 
 	res.sendStatus(200);
 });
@@ -164,33 +181,52 @@ app.post("/choose_collections", function (req, res) {
 app.post("/choose_keywords", function (req, res) {
 	var currData = req.body;
 	currRun.keywordList = currData.data;
-	console.log("Current run keyword lists updated to " + currRun.keywordList);
+	console.log("Current run keyword lists updated to " + currRun.keywordList + "\n");
 
 	res.sendStatus(200);
 });
 
+/**
+ * Runs the Python script and maintains communication between the script and our Node backend.
+ */
 app.post("/run_python_script", function (req, res) {
-	console.log("Running python script");
+	// Remove after finishing up the metadata upload
+	currRun.metadata = "./data/metadata.csv"
 
-	// var directory = ;
-	// var words = ;
-	// var 
+	console.log("Running python script\n");
+
+	// Puts the data that we need to pass to the Python script into a JSON object
+	var runData = {
+		"id": currRun["id"],
+		"metadata": currRun["metadata"],
+		"collections": [],
+		"keywordList": []
+	};
+
+	for (var c in currRun["collections"]) {
+		var cId = currRun["collections"][c];
+		var curr = data["collections"][cId];
+		runData["collections"].push(curr);
+
+	}
+	for (var k in currRun["keywordList"]) {
+		var kId = currRun["keywordList"][k];
+		var curr = data["keyword-lists"][kId];
+		runData["keywordList"].push(curr);
+	}
 
 	// Options for the Python scripts that we are going to run
 	let options = {
 		mode: 'text',
 		pythonOptions: ['-u'], // Get print results in real-time
-		args: [JSON.stringify(currRun)],
+		args: [JSON.stringify(runData)],
 		scriptPath: __dirname + '/src'
 	};
 
 	let pyshell = new PythonShell('./tool_script.py', options);
 	pyshell.on('message', function(message) {
+		parsePythonMessage(message);
 		console.log(message);
-		if (message.includes("PROGRESS:")) {
-			currRun.total = parseInt(message.split(":")[1]);
-			currRun.statusMessage = "BLAH";
-		}
 	});
 
 	res.sendStatus(200);
@@ -198,8 +234,6 @@ app.post("/run_python_script", function (req, res) {
 
 // Gets the current progress of the Python script
 app.get("/get_python_progress", function (req, res) {
-	// currRun.total = 10;
-	// console.log("Getting progress: " + currRun.total);
 	res.status(200).send({total: currRun.total, message: currRun.statusMessage});
 });
 
