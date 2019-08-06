@@ -26,7 +26,7 @@ var currRun = {
 	name: '',
 	date: '',
 	collections: [],
-	metadata: "./data/metadata.csv",
+	metadata: "metadata.csv",
 	keywordList: [],
 	total: 0 // Progress of the run
 };
@@ -191,9 +191,10 @@ app.post("/choose_keywords", function (req, res) {
  */
 app.post("/run_python_script", function (req, res) {
 	// Remove after finishing up the metadata upload
-	currRun.metadata = "./data/metadata.csv"
+	currRun.metadata = "metadata.csv"
 
 	console.log("Running python script\n");
+	currRun.statusMessage = "Starting run...";
 
 	// Puts the data that we need to pass to the Python script into a JSON object
 	var runData = {
