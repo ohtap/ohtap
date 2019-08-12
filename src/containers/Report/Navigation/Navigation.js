@@ -41,9 +41,11 @@ class Navigation extends React.Component {
 		};
 
 		this.handleClick = this.handleClick.bind(this);
+		this.updateCollectionMenuItems = this.updateCollectionMenuItems.bind(this);
+		this.updateKeywordListMenuItems = this.updateKeywordListMenuItems.bind(this);
 	}
 
-	componentDidMount() {
+	componentWillMount() {
 		this.updateCollectionMenuItems();
 		this.updateKeywordListMenuItems();
 	}
@@ -65,8 +67,8 @@ class Navigation extends React.Component {
   	this.props.callbackChangeNavigation(summary, collection, keywordList);
   };
 
-  updateCollectionMenuItems = () => {
-  	const { collections } = this.state.data;
+  updateCollectionMenuItems() {
+  	const collections = this.state.data['collections'];
 
   	var options = [];
   	for (var i in collections) {
@@ -77,7 +79,7 @@ class Navigation extends React.Component {
   	this.setState({ collectionMenuItems: options });
   }
 
-  updateKeywordListMenuItems = () => {
+  updateKeywordListMenuItems() {
   	const keywordLists = this.state.data['keyword-lists'];
 
   	var options = [];

@@ -45,14 +45,16 @@ def read_arguments():
 	print_message("progress_message", "Reading in run data...")
 
 	data = json.loads(sys.argv[1])
+	runId = data['id']
+	runName = data['name']
+	runDate = data['date']
 	collections = data['collections']
 	keywords = data['keywordList']
 	metadata_file = data['metadata']
-	runId = data['id']
 
 	print_message("progress", 4)
 
-	return runId, collections, keywords, metadata_file
+	return runId, runName, runDate, collections, keywords, metadata_file
 
 # Creates a new folder to store the final data for the current run.
 def create_run_directory(runId):
@@ -118,7 +120,7 @@ def read_corpuses(collections):
 
 # Gets the files for inclusion--excludes any files that are only male interviewees or
 # interviews with no transcripts.
-def get_included_files(collections, df):
+def get_included_files(collections, df, runJSON):
 	files_for_inclusion = {} # Final list of files for inclusion
 
 	# Statistics about file inclusion/exclusion
@@ -128,6 +130,10 @@ def get_included_files(collections, df):
 	male_plus_interviews = {} # Interviews with both male and non-male interviews
 	interview_years = {}
 	interview_years_by_file = {}
+
+	# Needed information across all collections
+	interview_years_all_collections = defaultdict(lambda:0)
+	interviewee_metadata_all_collections = defaultdict(lambda:defaultdict(lambda:0))
 
 	filenames_map = {}
 	for c in collections:
@@ -178,20 +184,26 @@ def get_included_files(collections, df):
 		# At this point, we have a new interview (not previously added) with at least one non-male
 		# interviewee we want to add!
 		interviewee_name = r["interviewee_name"]
-		if interviewee_name not in people[curr_c]:
+		if interviewee_name not in people:
 			birth_decade = r["birth_decade"]
 			education = r["education"]
 			identified_race = r["identified_race"]
 			interviewee_birth_country = r["interviewee_birth_country"]
 
 			curr_person = {}
-			curr_person["birth_decade"] = birth_decade if not pd.isnull(birth_decade) else ""
-			curr_person["education"] = education if not pd.isnull(education) else ""
-			curr_person["identified_race"] = identified_race if not pd.isnull(identified_race) else ""
-			curr_person["sex"] = sex if not pd.isnull(sex) else ""
-			curr_person["birth_country"] = interviewee_birth_country if not pd.isnull(interviewee_birth_country) else ""
+			curr_person["birth_decade"] = birth_decade if not pd.isnull(birth_decade) else "Not given"
+			curr_person["education"] = education if not pd.isnull(education) else "Not given"
+			curr_person["identified_race"] = identified_race if not pd.isnull(identified_race) else "Not given"
+			curr_person["sex"] = sex if not pd.isnull(sex) else "Not given"
+			curr_person["birth_country"] = interviewee_birth_country if not pd.isnull(interviewee_birth_country) else "Not given"
 
-			people[curr_c][interviewee_name] = curr_person
+			people[interviewee_name] = curr_person
+
+			interviewee_metadata_all_collections["birth_decade"][curr_person["birth_decade"]] += 1
+			interviewee_metadata_all_collections["education"][curr_person["education"]] += 1
+			interviewee_metadata_all_collections["race"][curr_person["identified_race"]] += 1
+			interviewee_metadata_all_collections["sex"][curr_person["sex"]] += 1
+			interviewee_metadata_all_collections["birth_country"][curr_person["birth_country"]] += 1
 
 		files_for_inclusion[curr_c][f] = 1
 
@@ -199,6 +211,7 @@ def get_included_files(collections, df):
 		if pd.isnull(date_of_first_interview):
 			interview_years[curr_c]["Not given"] += 1
 			interview_years_by_file[curr_c][f] = "Not given"
+			interview_years_all_collections["Not given"] += 1
 		else:
 			year = date_of_first_interview.split("/")[2]
 
@@ -211,52 +224,188 @@ def get_included_files(collections, df):
 
 				interview_years[curr_c][year] += 1
 				interview_years_by_file[curr_c][f] = year
+				interview_years_all_collections[year] += 1
 
-	print_message("files_for_inclusion", files_for_inclusion)
-	print_message("people", people)
-	print_message("num_files_no_transcript", num_files_no_transcript)
-	print_message("male_interviews", male_interviews)
-	print_message("male_plus_interviews", male_plus_interviews)
-	print_message("interview_years", interview_years)
-	print_message("interview_years_by_file", interview_years_by_file)
+	# Updates the summary report data
+	runJSON["summary-report"]["total-interviewees"] = len(people)
+	runJSON["summary-report"]["time-range-interviews"] = interview_years_all_collections
+	runJSON["summary-report"]["time-range-birth-year"] = interviewee_metadata_all_collections["birth_decade"]
+	runJSON["summary-report"]["race"] = interviewee_metadata_all_collections["race"]
+	runJSON["summary-report"]["sex"] = interviewee_metadata_all_collections["sex"]
+	runJSON["summary-report"]["education"] = interviewee_metadata_all_collections["education"]
+	runJSON["summary-report"]["birth_country"] = interviewee_metadata_all_collections["birth_country"]
 
-	return files_for_inclusion, people, num_files_no_transcript, male_interviews, male_plus_interviews, interview_years, interview_years_by_file
+	metadata = {
+		"files_for_inclusion": files_for_inclusion,
+		"people": people,
+		"num_files_no_transcript": num_files_no_transcript,
+		"male_interviews": male_interviews,
+		"male_plus_interviews": male_plus_interviews,
+		"interview_years": interview_years,
+		"interview_years_by_file": interview_years_by_file
+	}
+
+	return metadata
 
 # Reads in the metadata to collect statistics and excludes any files that are only male
 # interviewees or interviews with no transcripts for each collection.
-def read_metadata(collections, metadata_file):
+def read_metadata(collections, metadata_file, runJSON):
 	df = pd.read_csv(data_dirname + metadata_file, encoding = "utf-8", header = 0)
-	files_for_inclusion, people, num_files_no_transcript, male_interviews, male_plus_interviews, interview_years, interview_years_by_file = get_included_files(collections, df)
-
-	return files_for_inclusion
+	return get_included_files(collections, df, runJSON)
 
 # Downloads relevant libraries and otherwise sets us up for a successful run.
-def set_up():
-	print_message("progress-message", "Setting up the run...")
+def set_up(runJSON):
+	print_message("progress-message", "Setting up the subcorpora run...")
 
 	# download_nltk()
-	runId, collections, keywords, metadata_file = read_arguments()
+	runId, runName, runDate, collections, keywords, metadata_file = read_arguments()
+	runJSON["id"] = runId
+	runJSON["name"] = runName
+	runJSON["date"] = runDate
+	runJSON["metadata"] = metadata_file
+	runJSON["collections"] =  [c["id"] for c in collections]
+	runJSON["keyword-lists"] = [k["name"] + "-" + k["version"] for k in keywords]
+
 	runDirname = create_run_directory(runId)
-	converted_keywords = convert_keywords(keywords)
+	runJSON["runDirname"] = runDirname
+
+	runJSON["summary-report"] = {
+		"total-collections": len(collections),
+		"total-keywords": len(keywords)
+	}
+	keyword_regexes = convert_keywords(keywords)
 	collections = read_corpuses(collections)
-	metadata = read_metadata(collections, metadata_file)
 
-	return runId, collections, keywords, metadata, runDirname
+	metadata = read_metadata(collections, metadata_file, runJSON)
 
-# Does one run with one collection and one keyword list.
-def create_new_run(c, k, metadata):
-	print_message("progress-message", "Starting the run for collection " + c["id"] + " and keywords " + k["name"] + " v" + k["version"] + "...")
+	return collections, keywords, keyword_regexes, metadata, runDirname
+
+# Gets n words before and after the match and returns them
+def get_words_around(m_text, m_loc, content, n):
+	before_text = content[:m_loc].split(" ")
+	after_loc = m_loc + len(m_text)
+	after_text = content[after_loc:].split(" ")
+
+	before_len = len(before_text) - n
+	if before_len < 0: 
+		before_len = 0
+	after_len = n if n <= len(after_text) else len(after_text)
+
+	return " ".join(before_text[before_len:]), m_text, " ".join(after_text[:after_len])
+
+# Checks to see if there's anything it needs to exclude
+def need_to_exclude(before, after, m_text, exclude_regexes):
+	m_len = len(m_text.split(" "))
+	for r in exclude_regexes:
+		r_len = len(r.split(" "))
+		leftover_len = r_len - m_len
+		if leftover_len < 0: leftover_len = 0
+
+		# Checks if the adding on the before has the regex
+		prev = before[(len(before)-leftover_len):]
+		prev_text = "{} {}".format(" ".join(prev), m_text).strip()
+		if re.match(r, prev_text, re.IGNORECASE): return True
+
+		# Checks if the adding on the after has the regex
+		af = after[:leftover_len]
+		af_text = "{} {}".format(m_text, " ".join(af)).strip()
+		if re.match(r, af_text, re.IGNORECASE): return True
+
+	return False
+
+# Finds the keywords in each file.
+def find_keywords(files_for_inclusion, filenames, content, words, included_regexes, excluded_regexes, interview_years_by_file, currRunJSON):
+	# Stores the frequency of each keyword across all files (keyword --> count)
+	keyword_freq = defaultdict(lambda:0)
+
+	keyword_to_dates = defaultdict(lambda:defaultdict(lambda:0))
+
+	# Basic statistics
+	num_with_keywords = 0
+	total_keywords = 0 # Total number of keywords found in all files
+	all_matches = {}
+	time_range_interviews = defaultdict(lambda:0)
+
+	# Loops through each file, looking for keywords, and stores the matches
+	for i in range(len(content)):
+		file = filenames[i]
+		if file not in files_for_inclusion or files_for_inclusion[file] == 0: 
+			continue
+
+		# TODO: Figure out why this is wrong...
+		date_of_interview = "Not given"
+		if file in interview_years_by_file:
+			date_of_interview = interview_years_by_file[file]
+
+		c = " {}.".format(" ".join(content[i].split())) # Splits the content by spaces (combines newlines, etc.)
+
+		# Stores the file's keyword counts and matches
+		curr_keywords = defaultdict(lambda:0)
+		curr_matches = []
+
+		time_range_interviews[date_of_interview] += 1
+
+		# Loops through the regexes
+		for j in range(len(included_regexes)):
+			curr_r = included_regexes[j]
+			regex = re.compile(curr_r, re.IGNORECASE) # Currently ignores the case
+			for m in regex.finditer(c):
+				m_loc = m.start()
+				m_text = m.group(1)
+				w = words[j]
+
+				before, new_m_text, after = get_words_around(m_text, m_loc, c, MAX_EXCLUDE_REGEX_LENGTH)
+				if need_to_exclude(before, after, new_m_text, excluded_regexes):
+					continue
+
+				# Updates the statistics
+				keyword_freq[w] += 1
+				curr_keywords[w] += 1
+				
+				keyword_to_dates[w][date_of_interview] += 1
+				total_keywords += 1
+
+		if len(curr_keywords) > 0:
+			num_with_keywords += 1
+
+	currRunJSON["total-keywords-found"] = total_keywords
+	currRunJSON["total-interviews-with-keywords"] = num_with_keywords
+	currRunJSON["time-range-interviews"] = time_range_interviews
+	currRunJSON["keyword-counts"] = keyword_freq
+	currRunJSON["keywords-over-time"] = keyword_to_dates
+
+# Creates one new run with one collection and one keyword list
+def create_new_run(c, k, metadata, runJSON):
+	k["id"] = k["name"] + "-" + k["version"]
+	print_message("progress-message", "Creating run for " + c["id"] + " and " + k["id"])
+	currRunId = c["id"] + "-" + k["id"]
+	currRunJSON = {
+		"id": currRunId,
+		"collection": c["id"],
+		"keyword-list": k["id"]
+	}
+
+	print_message("m", metadata)
+
+	find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], currRunJSON)
+
+	runJSON["individual-reports"][currRunId] = currRunJSON
 
 def main():
-	runId, collections, keywords, metadata, runDirname = set_up()
+	runJSON = {} # Final JSON object that contains this run information
+	collections, keywords, keyword_regexes, metadata, runDirname =  set_up(runJSON)
 
+	runJSON["individual-reports"] = {}
 	progressPerRun = int(95/(len(collections) * len(keywords)))
 	totalProgress = 5
 	for c in collections:
 		for k in keywords:
-			create_new_run(c, k, metadata)
+			create_new_run(c, k, metadata, runJSON)
 			totalProgress += progressPerRun
 			print_message("progress", totalProgress)
+
+	with open(data_dirname + "run.json", "w") as f:
+		f.write(json.dumps(runJSON))
 
 	print_message("progress", 100)
 
