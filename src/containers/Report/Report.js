@@ -42,7 +42,7 @@ class Report extends React.Component {
 			return (<SummaryReport parentData={this.state.data} />);
 		}
 
-		return (<IndividualReport parentData={this.state.data} />);
+		return (<IndividualReport parentData={this.state} />);
 	}
 
 	render() {

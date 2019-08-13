@@ -271,7 +271,9 @@ def set_up(runJSON):
 
 	runJSON["summary-report"] = {
 		"total-collections": len(collections),
-		"total-keywords": len(keywords)
+		"total-keywords": sum([len(k["include"]) for k in keywords]),
+		"total-collections-with-keywords": 0,
+		"total-interviews-with-keywords": 0
 	}
 	keyword_regexes = convert_keywords(keywords)
 	collections = read_corpuses(collections)
@@ -365,14 +367,55 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 				keyword_to_dates[w][date_of_interview] += 1
 				total_keywords += 1
 
+				# Adds it onto the matches
+				curr_matches.append([m_loc, before, new_m_text, after])
+
 		if len(curr_keywords) > 0:
 			num_with_keywords += 1
+			all_matches[file] = curr_matches
 
-	currRunJSON["total-keywords-found"] = total_keywords
+	currRunJSON["total-keywords"] = total_keywords
 	currRunJSON["total-interviews-with-keywords"] = num_with_keywords
 	currRunJSON["time-range-interviews"] = time_range_interviews
 	currRunJSON["keyword-counts"] = keyword_freq
 	currRunJSON["keywords-over-time"] = keyword_to_dates
+
+	return all_matches
+
+# Gets all the surrounding contexts for keyword matches in files.
+def get_all_contexts(filenames, content, all_matches, currRunJSON):
+	keywordJSON = {}
+
+	for i in range(len(filenames)):
+		f = filenames[i]
+		if f not in all_matches:
+			continue
+
+		bolded_contexts = []
+		matches = all_matches[f]
+		c = content[i]
+		matches = sorted(matches, key=lambda x: x[0])
+
+		for j in range(len(matches)):
+			m = matches[j]
+			loc = m[0]
+			before = m[1]
+			word = m[2]
+			after = m[3]
+
+			bold_word = "<b>{}</b>".format(word)
+			curr_context = "...{}{}{}...".format(before, bold_word, after)
+			cJSON = {
+				"id": str(j) + "-" + f,
+				"keywordContext": curr_context,
+				"flagged": True,
+				"falseHit": False
+			}
+			bolded_contexts.append(cJSON)
+
+		keywordJSON[f] = bolded_contexts
+
+	currRunJSON["keyword-contexts"] = keywordJSON
 
 # Creates one new run with one collection and one keyword list
 def create_new_run(c, k, metadata, runJSON):
@@ -387,7 +430,15 @@ def create_new_run(c, k, metadata, runJSON):
 
 	print_message("m", metadata)
 
-	find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], currRunJSON)
+	all_matches = find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], currRunJSON)
+	get_all_contexts(c["filenames"], c["content"], all_matches, currRunJSON)
+
+	num_with_keywords = currRunJSON["total-interviews-with-keywords"]
+	if num_with_keywords > 0:
+		runJSON["summary-report"]["total-collections-with-keywords"] += 1
+		runJSON["summary-report"]["total-interviews-with-keywords"] += num_with_keywords
+
+
 
 	runJSON["individual-reports"][currRunId] = currRunJSON
 
