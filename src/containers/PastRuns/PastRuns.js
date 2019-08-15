@@ -11,6 +11,7 @@ import Typography from '@material-ui/core/Typography';
 import { Link as RouterLink } from 'react-router-dom';
 import Link from '@material-ui/core/Link';
 import AssessmentRoundedIcon from '@material-ui/icons/AssessmentRounded';
+import { Redirect } from 'react-router-dom';
 import axios from 'axios';
 
 const CustomTableCell = withStyles(theme => ({
@@ -41,7 +42,6 @@ const styles = theme => ({
 
 function createData(id, name, date_ran, link) {
   return { id, name, date_ran, link };
-
 }
 
 class PastRuns extends React.Component {
@@ -50,20 +50,13 @@ class PastRuns extends React.Component {
 
     this.state = {
       keywords: [],
-      rows: [
-        { 
-          id: '', 
-          name: '', 
-          date_ran: '', 
-          link: ''
-        }
-      ],
+      rows: [],
+      redirect: false,
     };
 
-    // this.updateTable = this.updateTable.bind(this);
+    this.goToReport = this.goToReport.bind(this);
   }
 
-  // TODO: Fix data retrieval and add data retrieval in backend
   // Gets our data once the component mounts
   componentDidMount() {
   	axios.get('/get_past_runs')
@@ -72,7 +65,28 @@ class PastRuns extends React.Component {
   		.catch(err => console.log("Error getting runs (" + err + ")"));
   }
 
-  // Updates the front-end selection with our current keyword information
+  goToReport(id) {
+  	axios.post('/update_clicked_report', {
+      data: id
+    })
+    .then(function (res) {
+      console.log("Successfully posted after run");
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
+  	this.setState({ redirect: true });
+  }
+
+  // Redirects the page to the next page
+  renderRedirect = () => {
+    if (this.state.redirect) {
+      return <Redirect to='/report' />
+    }
+  }
+
+  // Updates the front-end selection with our past run information
   updateTable() {
     var rows = [];
     for (var id in this.state.runs) {
@@ -113,12 +127,13 @@ class PastRuns extends React.Component {
                     {row.name}
                   </CustomTableCell>
                   <CustomTableCell>{row.date_ran}</CustomTableCell>
-                  <CustomTableCell><Link component={RouterLink} to="/report">{row.link}</Link></CustomTableCell>
+                  <CustomTableCell><Link component={RouterLink} onClick={() => this.goToReport(row.id)}>{row.link}</Link></CustomTableCell>
                 </TableRow>
               ))}
             </TableBody>
           </Table>
         </Paper>
+        {this.renderRedirect()}
       </div>
     );
   }

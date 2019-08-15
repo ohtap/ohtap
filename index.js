@@ -31,12 +31,13 @@ var currRun = {
 	total: 0 // Progress of the run
 };
 
-// Current displays
-var currDisplay = {
-	summary: true,
-	runId: '',
-	individualId: ''
-};
+// // Current displays
+// var currDisplay = {
+// 	summary: true,
+// 	runId: '',
+// 	individualId: '',
+// 	afterRun: true
+// };
 
 /*
  * Initializes the data into the session by reading in the current collections
@@ -194,7 +195,8 @@ app.post("/run_python_script", function (req, res) {
 	currRun.metadata = "metadata.csv"
 
 	console.log("Running python script\n");
-	currRun.statusMessage = "Starting run...";
+	currRun.statusMessage = "Starting subcorpora run...";
+	currRun.afterRun = true;
 
 	// Puts the data that we need to pass to the Python script into a JSON object
 	var runData = {
@@ -244,6 +246,18 @@ app.get("/get_python_progress", function (req, res) {
 
 /** DISPLAYING REPORT DATA **/
 
+// Updates the clicked report from the Past Runs page
+app.post("/update_clicked_report", function (req, res) {
+	var currData = req.body;
+	currRun.afterRun = false;
+	currRun.id = currData.data;
+	currRun.total = 100;
+
+	console.log("Clicked report updated to " + currRun.id);
+	
+	res.sendStatus(200);
+});
+
 // Retrieves current data
 app.get("/get_current_run_data", function (req, res) {
 	if (!(currRun.id in data["runs"])) {
@@ -264,6 +278,10 @@ app.post("/update_individual_run_keyword_contexts", function (req, res) {
 	data["runs"][currRun.id]["individual-reports"][individualRunName]["keyword-contexts"] = newContexts;
 
 	saveToSessionFile();
+});
+
+app.get("/get_after_run", function (req, res) {
+	res.status(200).send(currRun.afterRun);
 });
 
 /** GETTING, UPLOADING, AND UPDATING COLLECTIONS **/

@@ -8,13 +8,27 @@ const SummaryReport = loadable(() => import('./SummaryReport'));
 const IndividualReport = loadable(() => import('./IndividualReport'));
 
 class Report extends React.Component {
-	state = {
-		loading: true,
-		summary: true,
-		collection: '',
-		keywordList: '',
-		data: {},
-	};
+	constructor(props) {
+		super(props);
+
+		this.state = {
+			loading: true,
+			summary: true,
+			collection: '',
+			keywordList: '',
+			data: {},
+		};
+	}
+
+	componentWillMount() {
+		axios.get("/get_after_run")
+			.then(function (res) {
+				if (!res.data) {
+					this.endLoading();
+				}
+			})
+			.catch(err => console.log("Cannot get whether we're after run."));
+	}
 
 	// Callback from child Loading component when done loading
 	endLoading = () => {
