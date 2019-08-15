@@ -239,8 +239,6 @@ app.post("/run_python_script", function (req, res) {
 
 // Gets the current progress of the Python script
 app.get("/get_python_progress", function (req, res) {
-
-	
 	res.status(200).send({total: currRun.total, message: currRun.statusMessage});
 });
 
@@ -249,12 +247,11 @@ app.get("/get_python_progress", function (req, res) {
 // Retrieves current data
 app.get("/get_current_run_data", function (req, res) {
 	if (!(currRun.id in data["runs"])) {
-		// res.status(404).send(currRun.id + " not in data.");
 		var currRunData = fs.readFileSync("data/run.json");
 		data["runs"][currRun.id] = JSON.parse(currRunData);
+		saveToSessionFile();
 	}
 	res.status(200).send(data["runs"][currRun.id]);
-	console.log(data["runs"][currRun.id]);
 	console.log("Data successfully sent to frontend for report");
 });
 
