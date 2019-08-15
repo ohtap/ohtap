@@ -255,6 +255,17 @@ app.get("/get_current_run_data", function (req, res) {
 	console.log("Data successfully sent to frontend for report");
 });
 
+// Updates the keyword contexts
+app.post("/update_individual_run_keyword_contexts", function (req, res) {
+	var currData = req.body;
+	var individualRunName = currData.data.individualRunName;
+	var newContexts = currData.data.contexts;
+
+	data["runs"][currRun.id]["individual-reports"][individualRunName]["keyword-contexts"] = newContexts;
+
+	saveToSessionFile();
+});
+
 /** GETTING, UPLOADING, AND UPDATING COLLECTIONS **/
 
 // Retrieves all the collections in JSON format
@@ -267,6 +278,11 @@ app.get("/get_collections", function (req, res) {
 // Retrieves all the keyword lists in JSON format
 app.get("/get_keywords", function (req, res) {
 	res.status(200).send(data["keyword-lists"]);
+});
+
+/** GETTING PAST RUNS **/
+app.get("/get_past_runs", function (req, res) {
+	res.status(200).send(data["runs"]);
 });
 
 /** GENERAL PAGE SERVICE **/

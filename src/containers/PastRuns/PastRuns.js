@@ -52,10 +52,10 @@ class PastRuns extends React.Component {
       keywords: [],
       rows: [
         { 
-          id: 'demo-run-05302019', 
-          name: 'demo-run', 
-          date_ran: '05/30/2019', 
-          link: 'https://www.google.com'
+          id: '', 
+          name: '', 
+          date_ran: '', 
+          link: ''
         }
       ],
     };
@@ -66,23 +66,25 @@ class PastRuns extends React.Component {
   // TODO: Fix data retrieval and add data retrieval in backend
   // Gets our data once the component mounts
   componentDidMount() {
-    // axios.get('/get_keywords')
-    //   .then(res => this.setState({keywords: res.data}))
-    //   .then(data => this.updateTable())
-    //   .catch(err => console.log("Error getting keywords (" + err + ")"));
+  	axios.get('/get_past_runs')
+  		.then(res => this.setState({runs: res.data}))
+  		.then(data => this.updateTable())
+  		.catch(err => console.log("Error getting runs (" + err + ")"));
   }
 
   // Updates the front-end selection with our current keyword information
-  // updateTable() {
-  //   var rows = [];
-  //   for (var id in this.state.keywords) {
-  //     var k = this.state.keywords[id];
-  //     console.log(k);
-  //     var data = createData(id, k['name'], k['version'], k['date_added'], k['included'].join(", "), k['excluded'].join(", "));
-  //     rows.push(data);
-  //   }
-  //   this.setState({ rows: rows });
-  // }
+  updateTable() {
+    var rows = [];
+    for (var id in this.state.runs) {
+      var v = this.state.runs[id];
+      var name = v["name"];
+      var date = v["date"];
+      var link = v["name"] + "-report";
+      var data = createData(id, name, date, link);
+      rows.push(data);
+    }
+    this.setState({ rows: rows });
+  }
 
   render() {
     const { classes } = this.props;
@@ -111,7 +113,7 @@ class PastRuns extends React.Component {
                     {row.name}
                   </CustomTableCell>
                   <CustomTableCell>{row.date_ran}</CustomTableCell>
-                  <CustomTableCell><Link component={RouterLink} to="/report">demo-rape-report</Link></CustomTableCell>
+                  <CustomTableCell><Link component={RouterLink} to="/report">{row.link}</Link></CustomTableCell>
                 </TableRow>
               ))}
             </TableBody>
