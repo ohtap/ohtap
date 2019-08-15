@@ -58,7 +58,7 @@ class IndividualReport extends React.Component {
 			timeRangeInterviewsData: {},
 			timeRangeBirthYearData: {},
 			keywordCounts: {},
-			intervieweeRaceData: {},
+			intervieweeRaceData: {}
 	  }
 	}
 
@@ -67,7 +67,6 @@ class IndividualReport extends React.Component {
   	this.generateTimeRangeBirthYear();
   	this.generateKeywordCountsData();
   	this.generateIntervieweeRaceData();
-  	this.generateTables();
   }
 
   generateIntervieweeRaceData = () => {
@@ -184,56 +183,12 @@ class IndividualReport extends React.Component {
       data['individual-reports'][this.state.individualRunName]['keyword-contexts'][file][pos]["flagged"] = !flagged;
     }
     if (_type === "falseHit") {
-      var falseHit = ['individual-reports'][this.state.individualRunName]['keyword-contexts'][file][pos]["falseHit"];
+      var falseHit = data['individual-reports'][this.state.individualRunName]['keyword-contexts'][file][pos]["falseHit"];
       data['individual-reports'][this.state.individualRunName]['keyword-contexts'][file][pos]["falseHit"] = !falseHit;
     }
 
     this.setState({ data: data });
-    console.log(data);
   }
-
-	generateTables = () => {
-		var tables = [];
-
-		const data = this.state.data['individual-reports'][this.state.individualRunName]['keyword-contexts'];
-
-    for (var file in data) {
-      var values = data[file];
-      const currTable = (
-        <div>
-        <Typography paragraph>
-          {file}
-        </Typography>
-        <Table className={styles.table}>
-          <TableHead>
-            <TableRow>
-              <CustomTableCell>Incorrect</CustomTableCell>
-              <CustomTableCell>Flagged</CustomTableCell>
-              <CustomTableCell>Context</CustomTableCell>
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            {values.map(v => (
-              <TableRow className={styles.row}>
-                <CustomTableCell component="th" scope="row">
-                  <Checkbox checked={v.falseHit} name={v.id} value="falseHit" onClick={this.handleCheckboxChange} />
-                </CustomTableCell>
-                <CustomTableCell>
-                  <Checkbox checked={v.flagged} name={v.id} value="flagged" onClick={this.handleCheckboxChange} />
-                </CustomTableCell>
-                <CustomTableCell>{v.keywordContext}</CustomTableCell>
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
-        <br />
-        </div>
-      );
-      tables.push(currTable);
-    }
-
-		this.setState({ tables: tables });
-	};
 
 	generateTimeRangeBirthYear = () => {
 		// TODO: Sort them by the key
@@ -251,6 +206,7 @@ class IndividualReport extends React.Component {
 		const { classes } = this.props;
 		const { intervieweeRaceData: irData, timeRangeInterviewsData: triData, timeRangeBirthYearData: trbyData, keywordCounts: kcData, tables: tables, data } = this.state;
     const summaryData = this.state.data['summary-report'];
+    const contexts = this.state.data['individual-reports'][this.state.individualRunName]['keyword-contexts'];
 
 		return (
 			<div className={classes.root}>
@@ -290,13 +246,41 @@ class IndividualReport extends React.Component {
 	      	<Doughnut data={irData} />
 	      </Paper>
 	      <br />
-	      <Paper className={classes.paper} elevation={1}>
-	      	<Typography variant="h5" component="h3">
-	          Keywords in Context
-	        </Typography>
-	        <br />
-        	{ tables }
-	       </Paper>
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+              Keywords In Context
+          </Typography>
+  	      {Object.entries(contexts).map( ([key, value]) => (
+            <div>
+              <Typography paragraph>
+                { key }
+              </Typography>
+              <Table className={classes.row}>
+                <TableHead>
+                  <TableRow>
+                    <CustomTableCell>Incorrect</CustomTableCell>
+                    <CustomTableCell>Flagged</CustomTableCell>
+                    <CustomTableCell>Context</CustomTableCell>
+                  </TableRow>
+                </TableHead>
+                <TableBody>
+                  {value.map(v => (
+                    <TableRow className={styles.row}>
+                      <CustomTableCell component="th" scope="row">
+                        <Checkbox checked={v.falseHit} name={v.id} value="falseHit" onClick={this.handleCheckboxChange} />
+                      </CustomTableCell>
+                      <CustomTableCell>
+                        <Checkbox checked={v.flagged} name={v.id} value="flagged" onClick={this.handleCheckboxChange} />
+                      </CustomTableCell>
+                      <CustomTableCell>{v.keywordContext}</CustomTableCell>
+                    </TableRow>
+                  ))}
+                </TableBody>
+              </Table>
+              <br />
+            </div>
+        ))}
+        </Paper>
 		</div>
 		);
 	}

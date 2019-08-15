@@ -408,7 +408,7 @@ def get_all_contexts(filenames, content, all_matches, currRunJSON):
 			cJSON = {
 				"id": str(j) + "-" + f,
 				"keywordContext": curr_context,
-				"flagged": True,
+				"flagged": False,
 				"falseHit": False
 			}
 			bolded_contexts.append(cJSON)

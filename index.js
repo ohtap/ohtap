@@ -34,8 +34,8 @@ var currRun = {
 // Current displays
 var currDisplay = {
 	summary: true,
-	runId: 'test-05202019041500',
-	individualId: 'BWOH-rape-3'
+	runId: '',
+	individualId: ''
 };
 
 /*
