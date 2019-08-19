@@ -60,11 +60,18 @@ class Collections extends React.Component {
       deleteOpen: false,
       currRowId: null,
       editOpen: false,
+      addOpen: false,
     }
 
     this.updateTable = this.updateTable.bind(this);
 
+    this.askAddRow = this.askAddRow.bind(this);
+    this.handleAddRowClose = this.handleAddRowClose.bind(this);
+    this.addRow = this.addRow.bind(this);
+
     this.editRow = this.editRow.bind(this);
+    this.askEditRow = this.askEditRow.bind(this);
+    this.handleEditRowClose = this.handleEditRowClose.bind(this);
 
     this.askDeleteRow = this.askDeleteRow.bind(this);
     this.handleDeleteRowClose = this.handleDeleteRowClose.bind(this);
@@ -77,6 +84,48 @@ class Collections extends React.Component {
       .then(res => this.setState({ collections: res.data }))
       .then(data => this.updateTable())
       .catch(err => console.log("Error getting collections (" + err + ")"));
+  }
+
+  // Handles closing the "Add Row" dialog
+  handleAddRowClose() {
+    this.setState({ addOpen: false });
+  }
+
+  // Opens a modal to add a new row
+  askAddRow() {
+    this.setState({ 
+      addOpen: true,
+      currRowId: null,
+      currRowName: "",
+      currRowShortenedName: "",
+      currRowCollectionCount: "",
+      currRowDescription: "",
+      currRowThemes: "",
+      currRowNotes: ""
+    });
+  }
+
+  addRow() {
+    axios.post('/add_collection', {
+      id: this.state.currRowId,
+      name: this.state.currRowName,
+      shortenedName: this.state.currRowShortenedName,
+      description: this.state.currRowDescription,
+      themes: this.state.currRowThemes,
+      notes: this.state.currRowNotes
+    })
+    .then(res => {
+      axios.get('/get_collections')
+        .then(res => this.setState({ collections: res.data }))
+        .then(data => this.updateTable())
+        .catch(err => console.log("Error getting collections (" + err + ")"));
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
+    this.updateTable();
+    this.handleAddRowClose();
   }
 
   // Handles closing the "Delete Row" dialog
@@ -178,6 +227,10 @@ class Collections extends React.Component {
           Add, upload, edit, and delete collections. On this demo version, all editing functionality is not allowed.
         </Typography>
         <Paper className={classes.root}>
+          <Button onClick={this.askAddRow} color="primary" autoFocus>
+              Add Collection
+          </Button>
+          <br />
           <Table className={classes.table}>
             <TableHead>
               <TableRow>
@@ -236,14 +289,82 @@ class Collections extends React.Component {
           </DialogActions>
         </Dialog>
         <Dialog
-          open={this.state.editOpen}
-          onClose={this.handleEditRowClose}
-          aria-labelledby="form-dialog-title"
+          open={this.state.addOpen}
+          onClose={this.handleAddRowClose}
+          aria-labelledby="form-dialog-title-add"
         >
-          <DialogTitle id="form-dialog-title">Edit collection</DialogTitle>
+          <DialogTitle id="form-dialog-title-add">Add collection</DialogTitle>
           <DialogContent>
             <DialogContentText>
-              Edit the contents below.<br />
+              Add a collection.<br />
+              <TextField
+                label="ID"
+                value={ this.state.currRowId }
+                onChange={(e) => this.setState({ currRowId: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                label="Name"
+                value={ this.state.currRowName }
+                onChange={(e) => this.setState({ currRowName: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                label="Collection Count"
+                value={ this.state.currRowCollectionCount }
+                onChange={(e) => this.setState({ currRowCollectionCount: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                label="Shortened Name"
+                value={ this.state.currRowShortenedName }
+                onChange={(e) => this.setState({ currRowShortenedName: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                label="Description"
+                value={ this.state.currRowDescription }
+                onChange={(e) => this.setState({ currRowDescription: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                label="Themes"
+                value={ this.state.currRowThemes }
+                onChange={(e) => this.setState({ currRowThemes: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                label="Notes"
+                value={ this.state.currRowNotes }
+                onChange={(e) => this.setState({ currRowNotes: e.target.value })}
+                margin="normal"
+              />
+            </DialogContentText>
+            <DialogActions>
+              <Button onClick={this.handleAddRowClose} color="primary">
+                Cancel
+              </Button>
+              <Button onClick={this.addRow} color="primary">
+                Save
+              </Button>
+            </DialogActions>
+          </DialogContent>
+        </Dialog>
+        <Dialog
+          open={this.state.editOpen}
+          onClose={this.handleEditRowClose}
+          aria-labelledby="form-dialog-title-edit"
+        >
+          <DialogTitle id="form-dialog-title-edit">Edit collection</DialogTitle>
+          <DialogContent>
+            <DialogContentText>
+              Edit the collection.<br />
               <TextField
                 id={ this.state.currRowId + "-edit-name"}
                 label="Name"
@@ -255,7 +376,7 @@ class Collections extends React.Component {
               <TextField
                 disabled
                 id={ this.state.currRowId + "-edit-collection-count"}
-                label="Name"
+                label="Collection Count"
                 value={ this.state.currRowCollectionCount }
                 onChange={(e) => this.setState({ currRowCollectionCount: e.target.value })}
                 margin="normal"

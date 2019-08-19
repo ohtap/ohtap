@@ -284,6 +284,24 @@ app.get("/get_collections", function (req, res) {
 	res.status(200).send(data["collections"]);
 });
 
+// Adds a new collection
+app.post("/add_collection", function (req, res) {
+	var currData = req.body;
+	var collectionId = currData.id;
+	console.log("Adding collection " + collectionId);
+	data["collections"][collectionId] = {};
+	data["collections"][collectionId]["name"] = currData.name;
+	data["collections"][collectionId]["shortened-name"] = currData.shortenedName;
+	data["collections"][collectionId]["description"] = currData.description;
+	data["collections"][collectionId]["themes"] = currData.themes;
+	data["collections"][collectionId]["notes"] = currData.notes;
+
+	// TODO: Add an upload
+
+	saveToSessionFile();
+	res.sendStatus(200);
+});
+
 // Edits the collections
 app.post("/edit_collection", function (req, res) {
 	var currData = req.body;
@@ -296,7 +314,6 @@ app.post("/edit_collection", function (req, res) {
 	data["collections"][collectionId]["notes"] = currData.notes;
 
 	// saveToSessionFile();
-
 	res.sendStatus(200);
 });
 
