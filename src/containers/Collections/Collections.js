@@ -58,10 +58,12 @@ class Collections extends React.Component {
       rows: [],
       deleteOpen: false,
       currRowId: null,
+      editOpen: false,
     }
 
     this.updateTable = this.updateTable.bind(this);
 
+    this.handleEditRowClose = this.handleEditRowClose.bind(this);
     this.editRow = this.editRow.bind(this);
 
     this.askDeleteRow = this.askDeleteRow.bind(this);
@@ -87,8 +89,17 @@ class Collections extends React.Component {
     this.setState({ deleteOpen: true, currRowId: id });
   }
 
-  editRow(id) {
-    console.log("Edit " + id);
+  // Handles closing the "Edit Row" dialog
+  handleEditRowClose() {
+    this.setState({ editOpen: false, currRowId: null });
+  }
+
+  askEditRow(id) {
+    this.setState({ editOpen: true, currRowId: id });
+  }
+
+  editRow() {
+    console.log("Edit ");
   }
 
   // Deletes the current row
@@ -163,7 +174,7 @@ class Collections extends React.Component {
                   <CustomTableCell>{row.themes}</CustomTableCell>
                   <CustomTableCell>{row.notes}</CustomTableCell>
                   <CustomTableCell>
-                    <IconButton onClick={() => this.editRow(row.id)}>
+                    <IconButton onClick={() => this.askEditRow(row.id)}>
                       <EditIcon />
                     </IconButton>
                     <IconButton onClick={() => this.askDeleteRow(row.id)}>
@@ -195,6 +206,24 @@ class Collections extends React.Component {
               Delete
             </Button>
           </DialogActions>
+        </Dialog>
+        <Dialog
+          open={this.state.editOpen}
+          onClose={this.handleEditRowClose}
+          aria-labelledby="form-dialog-title"
+        >
+          <DialogTitle id="form-dialog-title">Edit collection</DialogTitle>
+          <DialogContent>
+            <DialogContentText>Edit the contents below.</DialogContentText>
+            <DialogActions>
+              <Button onClick={this.handleEditRowClose} color="primary">
+                Cancel
+              </Button>
+              <Button onClick={this.editRow} color="primary">
+                Save
+              </Button>
+            </DialogActions>
+          </DialogContent>
         </Dialog>
       </div>
     );
