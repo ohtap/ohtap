@@ -65,6 +65,7 @@ class PastRuns extends React.Component {
     };
 
     this.goToReport = this.goToReport.bind(this);
+    
     this.askDeleteRow = this.askDeleteRow.bind(this);
     this.handleDeleteRowClose = this.handleDeleteRowClose.bind(this);
     this.deleteRow = this.deleteRow.bind(this);

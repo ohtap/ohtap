@@ -284,6 +284,19 @@ app.get("/get_collections", function (req, res) {
 	res.status(200).send(data["collections"]);
 });
 
+// Deletes a collection
+app.post("/delete_collection", function (req, res) {
+	var currData = req.body;
+	var collectionId = currData.id;
+	console.log("Deleting collection " + collectionId);
+	delete data["collections"][collectionId];
+
+	// TODO: Delete the folder of the collection
+
+	// saveToSessionFile();
+	res.sendStatus(200);
+});
+
 /** GETTING AND UPDATING KEYWORD LISTS **/
 	
 // Retrieves all the keyword lists in JSON format

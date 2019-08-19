@@ -6,9 +6,15 @@ import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
+import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import DeleteIcon from '@material-ui/icons/Delete';
 import EditIcon from '@material-ui/icons/Edit';
+import Dialog from '@material-ui/core/Dialog';
+import DialogActions from '@material-ui/core/DialogActions';
+import DialogContent from '@material-ui/core/DialogContent';
+import DialogContentText from '@material-ui/core/DialogContentText';
+import DialogTitle from '@material-ui/core/DialogTitle';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import axios from 'axios';
@@ -48,33 +54,77 @@ class Collections extends React.Component {
     super(props);
 
     this.state = {
-      collections: [],
-      rows: [
-        {
-          id: "SHS", 
-          name: "Stanford Interviews", 
-          shortened_name: "Stanford", 
-          collection_count: 46, 
-          description: "Interviews from various alumni, faculty, staff, and others.", 
-          themes: "Experiences as a Stanford student; career aspirations; life stories leading up to success", 
-          notes: "This is only a subset of our current Stanford collection for demo purposes."
-        }
-      ],
+      collections: {},
+      rows: [],
+      deleteOpen: false,
+      currRowId: null,
     }
 
+    this.updateTable = this.updateTable.bind(this);
+
     this.editRow = this.editRow.bind(this);
+
+    this.askDeleteRow = this.askDeleteRow.bind(this);
+    this.handleDeleteRowClose = this.handleDeleteRowClose.bind(this);
     this.deleteRow = this.deleteRow.bind(this);
   }
 
-  // TODO: Fix data retrieval
-  componentDidMount() {}
+  // Gets our data once the component mounts
+  componentDidMount() {
+    axios.get('/get_collections')
+      .then(res => this.setState({ collections: res.data }))
+      .then(data => this.updateTable())
+      .catch(err => console.log("Error getting collections (" + err + ")"));
+  }
+
+  // Handles closing the "Delete Row" dialog
+  handleDeleteRowClose() {
+    this.setState({ deleteOpen: false, currRowId: null });
+  }
+
+  // Opens a modal to check if the user really wants to delete the row
+  askDeleteRow(id) {
+    this.setState({ deleteOpen: true, currRowId: id });
+  }
 
   editRow(id) {
     console.log("Edit " + id);
   }
 
+  // Deletes the current row
   deleteRow(id) {
-    console.log("Delete " + id);
+    axios.post("/delete_collection", {
+      id: this.state.currRowId
+    })
+    .then(res => {
+      axios.get('/get_collections')
+        .then(res => this.setState({ collections: res.data }))
+        .then(data => this.updateTable())
+        .catch(err => console.log("Error getting collections (" + err + ")"));
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
+    this.handleDeleteRowClose();
+  }
+
+  // Updates the front-end selection with our past run information
+  updateTable() {
+    var rows = [];
+    for (var id in this.state.collections) {
+      var v = this.state.collections[id];
+      var name = v["name"];
+      var shortened_name = v["shortened-name"];
+      var collection_count = v["collection-count"];
+      var description = v["description"];
+      var themes = v["themes"];
+      var notes = v["notes"];
+      var data = createData(id, name, shortened_name, collection_count, description, themes, notes);
+      rows.push(data);
+    }
+
+    this.setState({ rows: rows });
   }
 
   render() {
@@ -116,7 +166,7 @@ class Collections extends React.Component {
                     <IconButton onClick={() => this.editRow(row.id)}>
                       <EditIcon />
                     </IconButton>
-                    <IconButton onClick={() => this.deleteRow(row.id)}>
+                    <IconButton onClick={() => this.askDeleteRow(row.id)}>
                       <DeleteIcon />
                     </IconButton>
                   </CustomTableCell>
@@ -125,6 +175,27 @@ class Collections extends React.Component {
             </TableBody>
           </Table>
         </Paper>
+        <Dialog
+          open={this.state.deleteOpen}
+          onClose={this.handleDeleteRowClose}
+          aria-labelledby="alert-dialog-title"
+          aria-describedby="alert-dialog-description"
+        >
+          <DialogTitle id="alert-dialog-title">{"Are you sure you want to delete this collection?"}</DialogTitle>
+          <DialogContent>
+            <DialogContentText id="alert-dialog-description">
+              Deleting the collection cannot be undone.
+            </DialogContentText>
+          </DialogContent>
+          <DialogActions>
+            <Button onClick={this.handleDeleteRowClose} color="primary">
+              Cancel
+            </Button>
+            <Button onClick={this.deleteRow} color="primary" autoFocus>
+              Delete
+            </Button>
+          </DialogActions>
+        </Dialog>
       </div>
     );
   }

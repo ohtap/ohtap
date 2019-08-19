@@ -72,7 +72,7 @@ class KeywordLists extends React.Component {
   // Gets our data once the component mounts
   componentDidMount() {
     axios.get('/get_keywords')
-      .then(res => this.setState({keywords: res.data}))
+      .then(res => this.setState({ keywords: res.data }))
       .then(data => this.updateTable())
       .catch(err => console.log("Error getting keywords (" + err + ")"));
   }
