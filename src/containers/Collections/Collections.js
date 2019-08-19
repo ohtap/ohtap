@@ -17,6 +17,7 @@ import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
+import TextField from '@material-ui/core/TextField';
 import axios from 'axios';
 
 const CustomTableCell = withStyles(theme => ({
@@ -63,7 +64,6 @@ class Collections extends React.Component {
 
     this.updateTable = this.updateTable.bind(this);
 
-    this.handleEditRowClose = this.handleEditRowClose.bind(this);
     this.editRow = this.editRow.bind(this);
 
     this.askDeleteRow = this.askDeleteRow.bind(this);
@@ -95,11 +95,39 @@ class Collections extends React.Component {
   }
 
   askEditRow(id) {
-    this.setState({ editOpen: true, currRowId: id });
+    this.setState({ 
+      editOpen: true, 
+      currRowId: id,
+      currRowName: this.state.collections[id]["name"],
+      currRowShortenedName: this.state.collections[id]["shortened-name"],
+      currRowCollectionCount: this.state.collections[id]["collection-count"],
+      currRowDescription: this.state.collections[id]["description"],
+      currRowThemes: this.state.collections[id]["themes"],
+      currRowNotes: this.state.collections[id]["notes"]
+    });
   }
 
   editRow() {
-    console.log("Edit ");
+    axios.post("/edit_collection", {
+      id: this.state.currRowId,
+      name: this.state.currRowName,
+      shortenedName: this.state.currRowShortenedName,
+      description: this.state.currRowDescription,
+      themes: this.state.currRowThemes,
+      notes: this.state.currRowNotes
+    })
+    .then(res => {
+      axios.get('/get_collections')
+        .then(res => this.setState({ collections: res.data }))
+        .then(data => this.updateTable())
+        .catch(err => console.log("Error getting collections (" + err + ")"));
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
+    this.updateTable();
+    this.handleEditRowClose();
   }
 
   // Deletes the current row
@@ -214,7 +242,57 @@ class Collections extends React.Component {
         >
           <DialogTitle id="form-dialog-title">Edit collection</DialogTitle>
           <DialogContent>
-            <DialogContentText>Edit the contents below.</DialogContentText>
+            <DialogContentText>
+              Edit the contents below.<br />
+              <TextField
+                id={ this.state.currRowId + "-edit-name"}
+                label="Name"
+                value={ this.state.currRowName }
+                onChange={(e) => this.setState({ currRowName: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                disabled
+                id={ this.state.currRowId + "-edit-collection-count"}
+                label="Name"
+                value={ this.state.currRowCollectionCount }
+                onChange={(e) => this.setState({ currRowCollectionCount: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                id={ this.state.currRowId + "-edit-shortened-name"}
+                label="Shortened Name"
+                value={ this.state.currRowShortenedName }
+                onChange={(e) => this.setState({ currRowShortenedName: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                id={ this.state.currRowId + "-edit-description"}
+                label="Description"
+                value={ this.state.currRowDescription }
+                onChange={(e) => this.setState({ currRowDescription: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                id={ this.state.currRowId + "-edit-themes"}
+                label="Themes"
+                value={ this.state.currRowThemes }
+                onChange={(e) => this.setState({ currRowThemes: e.target.value })}
+                margin="normal"
+              />
+              <br />
+              <TextField
+                id={ this.state.currRowId + "-edit-notes"}
+                label="Notes"
+                value={ this.state.currRowNotes }
+                onChange={(e) => this.setState({ currRowNotes: e.target.value })}
+                margin="normal"
+              />
+            </DialogContentText>
             <DialogActions>
               <Button onClick={this.handleEditRowClose} color="primary">
                 Cancel
