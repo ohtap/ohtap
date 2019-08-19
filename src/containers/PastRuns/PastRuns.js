@@ -12,6 +12,14 @@ import { Link as RouterLink } from 'react-router-dom';
 import Link from '@material-ui/core/Link';
 import AssessmentRoundedIcon from '@material-ui/icons/AssessmentRounded';
 import { Redirect } from 'react-router-dom';
+import Button from '@material-ui/core/Button';
+import IconButton from '@material-ui/core/IconButton';
+import DeleteIcon from '@material-ui/icons/Delete';
+import Dialog from '@material-ui/core/Dialog';
+import DialogActions from '@material-ui/core/DialogActions';
+import DialogContent from '@material-ui/core/DialogContent';
+import DialogContentText from '@material-ui/core/DialogContentText';
+import DialogTitle from '@material-ui/core/DialogTitle';
 import axios from 'axios';
 
 const CustomTableCell = withStyles(theme => ({
@@ -52,19 +60,53 @@ class PastRuns extends React.Component {
       keywords: [],
       rows: [],
       redirect: false,
+      deleteOpen: false,
+      currRowId: null,
     };
 
     this.goToReport = this.goToReport.bind(this);
+    this.askDeleteRow = this.askDeleteRow.bind(this);
+    this.handleDeleteRowClose = this.handleDeleteRowClose.bind(this);
+    this.deleteRow = this.deleteRow.bind(this);
   }
 
   // Gets our data once the component mounts
   componentDidMount() {
   	axios.get('/get_past_runs')
-  		.then(res => this.setState({runs: res.data}))
+  		.then(res => this.setState({ runs: res.data }))
   		.then(data => this.updateTable())
   		.catch(err => console.log("Error getting runs (" + err + ")"));
   }
 
+  // Handles closing the "Delete Row" dialog
+  handleDeleteRowClose() {
+    this.setState({ deleteOpen: false, currRowId: null });
+  }
+
+  // Opens a modal to check if the user really wants to delete the row.
+  askDeleteRow(id) {
+    this.setState({ deleteOpen: true, currRowId: id });
+  }
+
+  // Deletes the current row
+  deleteRow() {
+    axios.post('/delete_past_run', {
+      id: this.state.currRowId
+    })
+    .then(res => {
+      axios.get('/get_past_runs')
+        .then(res => this.setState({ runs: res.data }))
+        .then(data => this.updateTable())
+        .catch(err => console.log("Error getting runs (" + err + ")"));
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
+    this.handleDeleteRowClose();
+  }
+
+  // Goes to the report for the ID
   goToReport(id) {
   	axios.post('/update_clicked_report', {
       data: id
@@ -117,7 +159,8 @@ class PastRuns extends React.Component {
               <TableRow>
                 <CustomTableCell>Run Name</CustomTableCell>
                 <CustomTableCell>Date of Run</CustomTableCell>
-                <CustomTableCell>Reports</CustomTableCell>
+                <CustomTableCell>Report</CustomTableCell>
+                <CustomTableCell>Delete</CustomTableCell>
               </TableRow>
             </TableHead>
             <TableBody>
@@ -128,12 +171,38 @@ class PastRuns extends React.Component {
                   </CustomTableCell>
                   <CustomTableCell>{row.date_ran}</CustomTableCell>
                   <CustomTableCell><Link component={RouterLink} onClick={() => this.goToReport(row.id)}>{row.link}</Link></CustomTableCell>
+                  <CustomTableCell>
+                    <IconButton onClick={() => this.askDeleteRow(row.id)}>
+                      <DeleteIcon />
+                    </IconButton>
+                  </CustomTableCell>
                 </TableRow>
               ))}
             </TableBody>
           </Table>
         </Paper>
         {this.renderRedirect()}
+        <Dialog
+          open={this.state.deleteOpen}
+          onClose={this.handleDeleteRowClose}
+          aria-labelledby="alert-dialog-title"
+          aria-describedby="alert-dialog-description"
+        >
+          <DialogTitle id="alert-dialog-title">{"Are you sure you want to delete this run?"}</DialogTitle>
+          <DialogContent>
+            <DialogContentText id="alert-dialog-description">
+              Deleting the run cannot be undone.
+            </DialogContentText>
+          </DialogContent>
+          <DialogActions>
+            <Button onClick={this.handleDeleteRowClose} color="primary">
+              Cancel
+            </Button>
+            <Button onClick={this.deleteRow} color="primary" autoFocus>
+              Delete
+            </Button>
+          </DialogActions>
+        </Dialog>
       </div>
     );
   }

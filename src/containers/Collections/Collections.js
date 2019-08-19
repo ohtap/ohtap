@@ -6,6 +6,9 @@ import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
+import IconButton from '@material-ui/core/IconButton';
+import DeleteIcon from '@material-ui/icons/Delete';
+import EditIcon from '@material-ui/icons/Edit';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import axios from 'axios';
@@ -58,10 +61,21 @@ class Collections extends React.Component {
         }
       ],
     }
+
+    this.editRow = this.editRow.bind(this);
+    this.deleteRow = this.deleteRow.bind(this);
   }
 
   // TODO: Fix data retrieval
   componentDidMount() {}
+
+  editRow(id) {
+    console.log("Edit " + id);
+  }
+
+  deleteRow(id) {
+    console.log("Delete " + id);
+  }
 
   render() {
     const { classes } = this.props;
@@ -84,6 +98,7 @@ class Collections extends React.Component {
                 <CustomTableCell>Description</CustomTableCell>
                 <CustomTableCell>Themes</CustomTableCell>
                 <CustomTableCell>Notes</CustomTableCell>
+                <CustomTableCell>Modify/Delete</CustomTableCell>
               </TableRow>
             </TableHead>
             <TableBody>
@@ -97,6 +112,14 @@ class Collections extends React.Component {
                   <CustomTableCell>{row.description}</CustomTableCell>
                   <CustomTableCell>{row.themes}</CustomTableCell>
                   <CustomTableCell>{row.notes}</CustomTableCell>
+                  <CustomTableCell>
+                    <IconButton onClick={() => this.editRow(row.id)}>
+                      <EditIcon />
+                    </IconButton>
+                    <IconButton onClick={() => this.deleteRow(row.id)}>
+                      <DeleteIcon />
+                    </IconButton>
+                  </CustomTableCell>
                 </TableRow>
               ))}
             </TableBody>

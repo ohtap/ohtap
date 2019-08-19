@@ -8,6 +8,9 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
+import IconButton from '@material-ui/core/IconButton';
+import DeleteIcon from '@material-ui/icons/Delete';
+import EditIcon from '@material-ui/icons/Edit';
 import axios from 'axios';
 
 const CustomTableCell = withStyles(theme => ({
@@ -38,7 +41,6 @@ const styles = theme => ({
 
 function createData(id, name, version, date_added, included, excluded) {
   return { id, name, version, date_added, included, excluded };
-
 }
 
 class KeywordLists extends React.Component {
@@ -59,7 +61,16 @@ class KeywordLists extends React.Component {
       ],
     };
 
-    // this.updateTable = this.updateTable.bind(this);
+    this.editRow = this.editRow.bind(this);
+    this.deleteRow = this.deleteRow.bind(this);
+  }
+
+  editRow(id) {
+    console.log("Edit " + id);
+  }
+
+  deleteRow(id) {
+    console.log("Delete " + id);
   }
 
   // TODO: Fix data retrieval
@@ -70,18 +81,6 @@ class KeywordLists extends React.Component {
       .then(data => this.updateTable())
       .catch(err => console.log("Error getting keywords (" + err + ")"));
   }
-
-  // Updates the front-end selection with our current keyword information
-  // updateTable() {
-  //   var rows = [];
-  //   for (var id in this.state.keywords) {
-  //     var k = this.state.keywords[id];
-  //     console.log(k);
-  //     var data = createData(id, k['name'], k['version'], k['date_added'], k['included'].join(", "), k['excluded'].join(", "));
-  //     rows.push(data);
-  //   }
-  //   this.setState({ rows: rows });
-  // }
 
   render() {
     const { classes } = this.props;
@@ -103,6 +102,7 @@ class KeywordLists extends React.Component {
                 <CustomTableCell>Date added</CustomTableCell>
                 <CustomTableCell>Included Keywords</CustomTableCell>
                 <CustomTableCell>Excluded Keywords</CustomTableCell>
+                <CustomTableCell>Modify/Delete</CustomTableCell>
               </TableRow>
             </TableHead>
             <TableBody>
@@ -115,6 +115,14 @@ class KeywordLists extends React.Component {
                   <CustomTableCell>{row.date_added}</CustomTableCell>
                   <CustomTableCell>{row.included}</CustomTableCell>
                   <CustomTableCell>{row.excluded}</CustomTableCell>
+                  <CustomTableCell>
+                    <IconButton onClick={() => this.editRow(row.id)}>
+                      <EditIcon />
+                    </IconButton>
+                    <IconButton onClick={() => this.deleteRow(row.id)}>
+                      <DeleteIcon />
+                    </IconButton>
+                  </CustomTableCell>
                 </TableRow>
               ))}
             </TableBody>

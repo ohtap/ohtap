@@ -31,14 +31,6 @@ var currRun = {
 	total: 0 // Progress of the run
 };
 
-// // Current displays
-// var currDisplay = {
-// 	summary: true,
-// 	runId: '',
-// 	individualId: '',
-// 	afterRun: true
-// };
-
 /*
  * Initializes the data into the session by reading in the current collections
  * located in data/corpus-files. It also reads in the data located in the data
@@ -278,6 +270,7 @@ app.post("/update_individual_run_keyword_contexts", function (req, res) {
 	data["runs"][currRun.id]["individual-reports"][individualRunName]["keyword-contexts"] = newContexts;
 
 	saveToSessionFile();
+	res.sendStatus(200);
 });
 
 app.get("/get_after_run", function (req, res) {
@@ -301,6 +294,14 @@ app.get("/get_keywords", function (req, res) {
 /** GETTING PAST RUNS **/
 app.get("/get_past_runs", function (req, res) {
 	res.status(200).send(data["runs"]);
+});
+
+app.post("/delete_past_run", function (req, res) {
+	var currData = req.body;
+	var runId = currData.id;
+	console.log("Deleting run " + runId);
+	delete data["runs"][runId];
+	res.sendStatus(200);
 });
 
 /** GENERAL PAGE SERVICE **/
