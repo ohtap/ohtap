@@ -8,9 +8,15 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
+import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import DeleteIcon from '@material-ui/icons/Delete';
 import EditIcon from '@material-ui/icons/Edit';
+import Dialog from '@material-ui/core/Dialog';
+import DialogActions from '@material-ui/core/DialogActions';
+import DialogContent from '@material-ui/core/DialogContent';
+import DialogContentText from '@material-ui/core/DialogContentText';
+import DialogTitle from '@material-ui/core/DialogTitle';
 import axios from 'axios';
 
 const CustomTableCell = withStyles(theme => ({
@@ -48,38 +54,75 @@ class KeywordLists extends React.Component {
     super(props);
 
     this.state = {
-      keywords: [],
-      rows: [
-        { 
-          id:'rape-3', 
-          name: 'rape', 
-          version: 3, 
-          date_added: '01/24/2019', 
-          included: "rap*, sex* assault, outrage, attack, insult, ravish, harass*, sex* abuse, seduce, seduction, took advantage of, sex* violence, hanky panky, abus*, incest*, anti-rape, hit on me, hit on her, pedophilia, child abuse, molest*, brutality", 
-          excluded: "rapport, rapping, rapidly, rappelling, Dr. Raper, heart attack, rapidly, rap, racist attack, under attack, sterilization abuse", 
-        }
-      ],
+      keywords: {},
+      rows: [],
+      deleteOpen: false,
+      currRowId: null,
     };
 
+    this.updateTable = this.updateTable.bind(this);
+
     this.editRow = this.editRow.bind(this);
+
+    this.askDeleteRow = this.askDeleteRow.bind(this);
+    this.handleDeleteRowClose = this.handleDeleteRowClose.bind(this);
     this.deleteRow = this.deleteRow.bind(this);
   }
 
-  editRow(id) {
-    console.log("Edit " + id);
-  }
-
-  deleteRow(id) {
-    console.log("Delete " + id);
-  }
-
-  // TODO: Fix data retrieval
   // Gets our data once the component mounts
   componentDidMount() {
     axios.get('/get_keywords')
       .then(res => this.setState({keywords: res.data}))
       .then(data => this.updateTable())
       .catch(err => console.log("Error getting keywords (" + err + ")"));
+  }
+
+   // Handles closing the "Delete Row" dialog
+  handleDeleteRowClose() {
+    this.setState({ deleteOpen: false, currRowId: null });
+  }
+
+  // Opens a modal to check if the user really wants to delete the row
+  askDeleteRow(id) {
+    this.setState({ deleteOpen: true, currRowId: id });
+  }
+
+  // Deletes the current row
+  deleteRow(id) {
+    axios.post('/delete_keyword_list', {
+      id: this.state.currRowId
+    })
+    .then(res => {
+      axios.get('/get_keywords')
+        .then(res => this.setState({ keywords: res.data }))
+        .then(data => this.updateTable())
+        .catch(err => console.log("Error getting keywords (" + err + ")"));
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+
+    this.handleDeleteRowClose();
+  }
+
+  editRow(id) {
+    console.log("Edit " + id);
+  }
+
+  // Updates the front-end selection with our past run information
+  updateTable() {
+    var rows = [];
+    for (var id in this.state.keywords) {
+      var v = this.state.keywords[id];
+      var name = v["name"];
+      var version = v["version"];
+      var date_added = v["date-added"];
+      var included = v["include"];
+      var excluded = v["exclude"];
+      var data = createData(id, name, version, date_added, included, excluded);
+      rows.push(data);
+    }
+    this.setState({ rows: rows });
   }
 
   render() {
@@ -113,13 +156,13 @@ class KeywordLists extends React.Component {
                   </CustomTableCell>
                   <CustomTableCell>{row.version}</CustomTableCell>
                   <CustomTableCell>{row.date_added}</CustomTableCell>
-                  <CustomTableCell>{row.included}</CustomTableCell>
-                  <CustomTableCell>{row.excluded}</CustomTableCell>
+                  <CustomTableCell>{row.included.join()}</CustomTableCell>
+                  <CustomTableCell>{row.excluded.join()}</CustomTableCell>
                   <CustomTableCell>
                     <IconButton onClick={() => this.editRow(row.id)}>
                       <EditIcon />
                     </IconButton>
-                    <IconButton onClick={() => this.deleteRow(row.id)}>
+                    <IconButton onClick={() => this.askDeleteRow(row.id)}>
                       <DeleteIcon />
                     </IconButton>
                   </CustomTableCell>
@@ -128,6 +171,27 @@ class KeywordLists extends React.Component {
             </TableBody>
           </Table>
         </Paper>
+        <Dialog
+          open={this.state.deleteOpen}
+          onClose={this.handleDeleteRowClose}
+          aria-labelledby="alert-dialog-title"
+          aria-describedby="alert-dialog-description"
+        >
+          <DialogTitle id="alert-dialog-title">{"Are you sure you want to delete this keyword list?"}</DialogTitle>
+          <DialogContent>
+            <DialogContentText id="alert-dialog-description">
+              Deleting the keyword list cannot be undone.
+            </DialogContentText>
+          </DialogContent>
+          <DialogActions>
+            <Button onClick={this.handleDeleteRowClose} color="primary">
+              Cancel
+            </Button>
+            <Button onClick={this.deleteRow} color="primary" autoFocus>
+              Delete
+            </Button>
+          </DialogActions>
+        </Dialog>
       </div>
     );
   }

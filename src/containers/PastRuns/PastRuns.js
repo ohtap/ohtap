@@ -57,7 +57,7 @@ class PastRuns extends React.Component {
     super(props);
 
     this.state = {
-      keywords: [],
+      runs: {},
       rows: [],
       redirect: false,
       deleteOpen: false,

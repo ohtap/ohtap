@@ -291,16 +291,30 @@ app.get("/get_keywords", function (req, res) {
 	res.status(200).send(data["keyword-lists"]);
 });
 
+// Deletes a keyword list
+app.post("/delete_keyword_list", function (req, res) {
+	var currData = req.body;
+	var keywordId = currData.id;
+	console.log("Deleting keyword list " + keywordId);
+	delete data["keyword-lists"][keywordId];
+
+	// saveToSessionFile();
+	res.sendStatus(200);
+});
+
 /** GETTING PAST RUNS **/
 app.get("/get_past_runs", function (req, res) {
 	res.status(200).send(data["runs"]);
 });
 
+// Deletes a past run
 app.post("/delete_past_run", function (req, res) {
 	var currData = req.body;
 	var runId = currData.id;
 	console.log("Deleting run " + runId);
 	delete data["runs"][runId];
+
+	// saveToSessionFile();
 	res.sendStatus(200);
 });
 
