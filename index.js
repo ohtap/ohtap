@@ -342,12 +342,9 @@ app.post("/add_keyword_list", function (req, res) {
 	data["keyword-lists"][kId]["version"] = currData.version;
 	data["keyword-lists"][kId]["date-added"] = currData.date_added;
 	data["keyword-lists"][kId]["include"] = currData.included.split(",");
-	// if ((typeof currData.excluded) !== "string") {
-	// 	currData.excluded = "";
-	// }
 	data["keyword-lists"][kId]["exclude"] = currData.excluded.split(",");
 
-	// saveToSessionFile();
+	saveToSessionFile();
 	res.sendStatus(200);
 });
 
@@ -362,7 +359,7 @@ app.post("/edit_keyword_list", function(req, res) {
 	data["keyword-lists"][kId]["include"] = currData.included;
 	data["keyword-lists"][kId]["exclude"] = currData.excluded;
 
-	// saveToSessionFile();
+	saveToSessionFile();
 	res.sendStatus(200);
 })
 	
@@ -378,7 +375,7 @@ app.post("/delete_keyword_list", function (req, res) {
 	console.log("Deleting keyword list " + keywordId);
 	delete data["keyword-lists"][keywordId];
 
-	// saveToSessionFile();
+	saveToSessionFile();
 	res.sendStatus(200);
 });
 
@@ -394,7 +391,7 @@ app.post("/delete_past_run", function (req, res) {
 	console.log("Deleting run " + runId);
 	delete data["runs"][runId];
 
-	// saveToSessionFile();
+	saveToSessionFile();
 	res.sendStatus(200);
 });
 
