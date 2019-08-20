@@ -95,34 +95,7 @@ function saveToSessionFile() {
 	});
 }
 
-// Adds a new collection into the data
-function addCollection(_id, name, shortened_name, collection_count, description, themes, notes) {
-	var newCollection = {
-		"id": _id,
-		"name": name,
-		"shortened-name": shortened_name,
-		"collection-count": collection_count,
-		"description": description,
-		"themes": themes,
-		"notes": notes
-	};
 
-	data["collections"][_id] = newCollection;
-}
-
-// Adds a new keyword list into the data
-function addKeywordList(_id, name, version, date_added, include, exclude) {
-	var newKeywordList = {
-		"id": _id,
-		"name": name,
-		"version": version,
-		"date-added": date_added,
-		"include": include,
-		"exclude": exclude
-	}
-
-	data["keyword-lists"][_id] = newKeywordList;
-}
 
 /** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/
 

@@ -319,6 +319,18 @@ class Collections extends React.Component {
                 margin="normal"
               />
               <br />
+              <input
+                style={{ display: 'none '}}
+                id="raised-button-file"
+                multiple
+                type="file"
+              />
+              <label htmlFor="raised-button-file">
+                <Button variant="raised" component="span">
+                  Upload Files
+                </Button>
+              </label>
+              <br />
               <TextField
                 label="Shortened Name"
                 value={ this.state.currRowShortenedName }
