@@ -61,9 +61,12 @@ class Collections extends React.Component {
       currRowId: null,
       editOpen: false,
       addOpen: false,
+      selectedFiles: null,
+      uploadLoaded: 0,
     }
 
     this.updateTable = this.updateTable.bind(this);
+    this.onChangeUpload = this.onChangeUpload.bind(this);
 
     this.askAddRow = this.askAddRow.bind(this);
     this.handleAddRowClose = this.handleAddRowClose.bind(this);
@@ -98,7 +101,7 @@ class Collections extends React.Component {
       currRowId: null,
       currRowName: "",
       currRowShortenedName: "",
-      currRowCollectionCount: "",
+      currRowCollectionCount: 0,
       currRowDescription: "",
       currRowThemes: "",
       currRowNotes: ""
@@ -106,9 +109,19 @@ class Collections extends React.Component {
   }
 
   addRow() {
+    var data = new FormData();
+    for (var i = 0; i < this.state.selectedFiles.length; i++) {
+      data.append('file', this.state.selectedFiles[i]);
+    }
+    axios.post("/upload", data, {})
+      .then(res => {
+        console.log(res.statusText);
+      });
+
     axios.post('/add_collection', {
       id: this.state.currRowId,
       name: this.state.currRowName,
+      collection_count: this.state.currRowCollectionCount,
       shortenedName: this.state.currRowShortenedName,
       description: this.state.currRowDescription,
       themes: this.state.currRowThemes,
@@ -215,6 +228,10 @@ class Collections extends React.Component {
     this.setState({ rows: rows });
   }
 
+  onChangeUpload(e) {
+    this.setState({ selectedFiles: e.target.files, uploadLoaded: 0, currRowCollectionCount: e.target.files.length });
+  }
+
   render() {
     const { classes } = this.props;
 
@@ -313,6 +330,7 @@ class Collections extends React.Component {
               />
               <br />
               <TextField
+                disabled
                 label="Collection Count"
                 value={ this.state.currRowCollectionCount }
                 onChange={(e) => this.setState({ currRowCollectionCount: e.target.value })}
@@ -320,16 +338,12 @@ class Collections extends React.Component {
               />
               <br />
               <input
-                style={{ display: 'none '}}
                 id="raised-button-file"
-                multiple
                 type="file"
+                name="corpus-files-upload"
+                onChange={this.onChangeUpload}
+                multiple
               />
-              <label htmlFor="raised-button-file">
-                <Button variant="raised" component="span">
-                  Upload Files
-                </Button>
-              </label>
               <br />
               <TextField
                 label="Shortened Name"

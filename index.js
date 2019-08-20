@@ -95,7 +95,28 @@ function saveToSessionFile() {
 	});
 }
 
+// Multer upload storage
+var storage = multer.diskStorage({
+	destination: function(req, file, cb) {
+		cb(null, "./data");
+	},
+	filename: function(req, file, cb) {
+		cb(null, file.originalname);
+	}
+});
 
+var upload = multer({ storage: storage }).array('file');
+
+app.post("/upload_corpus", function(req, res) {
+	upload(req, res, function(err) {
+		console.log(req.body);
+		console.log(req.files);
+		if (err) {
+			return res.status(500).json(err);
+		}
+		res.status(200).send(req.file);
+	});
+});
 
 /** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/
 
@@ -264,6 +285,7 @@ app.post("/add_collection", function (req, res) {
 	console.log("Adding collection " + collectionId);
 	data["collections"][collectionId] = {};
 	data["collections"][collectionId]["name"] = currData.name;
+	data["collections"][collectionId]["collection-count"] = currData.collection_count;
 	data["collections"][collectionId]["shortened-name"] = currData.shortenedName;
 	data["collections"][collectionId]["description"] = currData.description;
 	data["collections"][collectionId]["themes"] = currData.themes;
@@ -286,7 +308,7 @@ app.post("/edit_collection", function (req, res) {
 	data["collections"][collectionId]["themes"] = currData.themes;
 	data["collections"][collectionId]["notes"] = currData.notes;
 
-	// saveToSessionFile();
+	saveToSessionFile();
 	res.sendStatus(200);
 });
 
@@ -297,9 +319,17 @@ app.post("/delete_collection", function (req, res) {
 	console.log("Deleting collection " + collectionId);
 	delete data["collections"][collectionId];
 
-	// TODO: Delete the folder of the collection
+	// Deletes the folder and files of the collection
+	var currPath = "./data/corpus-files/" + collectionId;
+	if (fs.existsSync(currPath)) {
+		fs.readdirSync(currPath).forEach(function(file, index) {
+			var currFilePath = currPath + file;
+			fs.unlinkSync(currFilePath);
+		})
+		fs.rmdirSync(currPath);
+	}
 
-	// saveToSessionFile();
+	saveToSessionFile();
 	res.sendStatus(200);
 });
 
