@@ -224,7 +224,7 @@ class Collections extends React.Component {
           Collections
         </Typography>
         <Typography paragraph>
-          Add, upload, edit, and delete collections. On this demo version, all editing functionality is not allowed.
+          Add, upload, edit, and delete collections.
         </Typography>
         <br />
         <Button onClick={this.askAddRow} color="primary" autoFocus>

@@ -122,6 +122,9 @@ class KeywordLists extends React.Component {
     })
     .then(res => {
       axios.get('/get_keywords')
+        .then(res => {
+          this.setState({ keywords: res.data });
+        })
         .then(data => this.updateTable())
         .catch(err => console.log("Error getting keywords (" + err + ")"));
     })
@@ -129,7 +132,6 @@ class KeywordLists extends React.Component {
       console.log(err);
     });
 
-    this.updateTable();
     this.handleAddRowClose();
   }
 
@@ -173,26 +175,25 @@ class KeywordLists extends React.Component {
       currRowName: this.state.keywords[id]["name"],
       currRowVersion: this.state.keywords[id]["version"],
       currRowDateAdded: this.state.keywords[id]["date-added"],
-      currRowIncluded: this.state.keywords[id]["include"],
-      currRowExcluded: this.state.keywords[id]["exclude"]
+      currRowIncluded: this.state.keywords[id]["include"].join(","),
+      currRowExcluded: this.state.keywords[id]["exclude"].join(",")
     });
   }
 
   editRow() {
-    console.log(this.state.currRowIncluded);
-
-
-    axios.post("/edit_keyword_list", {
+    axios.post('/edit_keyword_list', {
       id: this.state.currRowId,
       name: this.state.currRowName,
       version: this.state.currRowVersion,
       date_added: this.state.currRowDateAdded,
-      included: this.state.currRowIncluded,
-      excluded: this.state.currRowExcluded
+      included: this.state.currRowIncluded.split(","),
+      excluded: this.state.currRowExcluded.split(",")
     })
     .then(res => {
       axios.get("/get_keywords")
-        .then(res => this.setState({ keywords: res.data }))
+        .then(res => {
+          this.setState({ keywords: res.data });
+        })
         .then(data => this.updateTable())
         .catch(err => console.log("Error getting keywords (" + err + ")"));
     })
@@ -200,12 +201,12 @@ class KeywordLists extends React.Component {
       console.log(err);
     });
 
-    this.updateTable();
     this.handleEditRowClose();
   }
 
   // Updates the front-end selection with our past run information
   updateTable() {
+    console.log(this.state.keywords);
     var rows = [];
     for (var id in this.state.keywords) {
       var v = this.state.keywords[id];
@@ -229,7 +230,7 @@ class KeywordLists extends React.Component {
           Keyword Lists
         </Typography>
         <Typography paragraph>
-          Add, edit, and delete keyword lists. On this demo version, all editing functionality is not allowed.
+          Add, edit, and delete keyword lists.
         </Typography>
         <br />
         <Button onClick={this.askAddRow} color="primary" autoFocus>

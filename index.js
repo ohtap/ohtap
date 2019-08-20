@@ -338,12 +338,14 @@ app.post("/add_keyword_list", function (req, res) {
 	var kId = currData.id;
 	console.log("Adding keyword list " + kId);
 	data["keyword-lists"][kId] = {};
-	data["keyword-lists"][kId]["id"] = kId;
 	data["keyword-lists"][kId]["name"] = currData.name;
 	data["keyword-lists"][kId]["version"] = currData.version;
 	data["keyword-lists"][kId]["date-added"] = currData.date_added;
-	data["keyword-lists"][kId]["include"] = currData.included;
-	data["keyword-lists"][kId]["exclude"] = currData.excluded;
+	data["keyword-lists"][kId]["include"] = currData.included.split(",");
+	// if ((typeof currData.excluded) !== "string") {
+	// 	currData.excluded = "";
+	// }
+	data["keyword-lists"][kId]["exclude"] = currData.excluded.split(",");
 
 	// saveToSessionFile();
 	res.sendStatus(200);
