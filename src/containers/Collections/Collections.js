@@ -67,6 +67,7 @@ class Collections extends React.Component {
 
     this.updateTable = this.updateTable.bind(this);
     this.onChangeUpload = this.onChangeUpload.bind(this);
+    this.uploadFiles = this.uploadFiles.bind(this);
 
     this.askAddRow = this.askAddRow.bind(this);
     this.handleAddRowClose = this.handleAddRowClose.bind(this);
@@ -109,15 +110,6 @@ class Collections extends React.Component {
   }
 
   addRow() {
-    var data = new FormData();
-    for (var i = 0; i < this.state.selectedFiles.length; i++) {
-      data.append('file', this.state.selectedFiles[i]);
-    }
-    axios.post("/upload", data, {})
-      .then(res => {
-        console.log(res.statusText);
-      });
-
     axios.post('/add_collection', {
       id: this.state.currRowId,
       name: this.state.currRowName,
@@ -131,6 +123,7 @@ class Collections extends React.Component {
       axios.get('/get_collections')
         .then(res => this.setState({ collections: res.data }))
         .then(data => this.updateTable())
+        .then(() => this.uploadFiles())
         .catch(err => console.log("Error getting collections (" + err + ")"));
     })
     .catch(function (err) {
@@ -139,6 +132,18 @@ class Collections extends React.Component {
 
     this.updateTable();
     this.handleAddRowClose();
+  }
+
+  uploadFiles() {
+    var data = new FormData();
+    for (var i = 0; i < this.state.selectedFiles.length; i++) {
+      data.append('file', this.state.selectedFiles[i]);
+    }
+
+    axios.post("/upload_collection", data, {})
+      .then(res => {
+        console.log(res.statusText);
+      });
   }
 
   // Handles closing the "Delete Row" dialog
@@ -337,10 +342,12 @@ class Collections extends React.Component {
                 margin="normal"
               />
               <br />
+              <Typography paragraph>Upload Collection Files</Typography>
+              <br />
               <input
                 id="raised-button-file"
                 type="file"
-                name="corpus-files-upload"
+                name="file"
                 onChange={this.onChangeUpload}
                 multiple
               />

@@ -19,6 +19,7 @@ app.use(cors());
 // Data files for session
 const dataFile = './data/session.json';
 var data = {};
+var currCollectionUploadId = null;
 
 // Current data for current run
 var currRun = {
@@ -96,25 +97,39 @@ function saveToSessionFile() {
 }
 
 // Multer upload storage
-var storage = multer.diskStorage({
-	destination: function(req, file, cb) {
-		cb(null, "./data");
-	},
-	filename: function(req, file, cb) {
-		cb(null, file.originalname);
-	}
-});
+var uploadFunction = function(_type) {
+	var storage = multer.diskStorage({
+		destination: function(req, file, cb) {
+			var dest = "./data/corpus-files/";
+			if (_type === "collection") {
+				dest = dest + currCollectionUploadId + "/";
+				if (!fs.existsSync(dest)){
+				    fs.mkdirSync(dest);
+				}
+			}
+			cb(null, dest);
+		},
+		filename: function(req, file, cb) {
+			var filename = file.originalname;
+			if (_type === "metadata") {
+				filename = Date.now() + "-" + filename;
+			}
+			cb(null, filename);
+		}
+	});
 
-var upload = multer({ storage: storage }).array('file');
+	var upload = multer({ storage: storage }).array('file');
 
-app.post("/upload_corpus", function(req, res) {
-	upload(req, res, function(err) {
-		console.log(req.body);
-		console.log(req.files);
+	return upload;
+}
+
+app.post("/upload_collection", function(req, res) {
+	var currUploadFunction = uploadFunction('collection');
+	currUploadFunction(req, res, function(err) {
 		if (err) {
 			return res.status(500).json(err);
 		}
-		res.status(200).send(req.file);
+		return res.status(200).send(req.file);
 	});
 });
 
@@ -284,6 +299,7 @@ app.post("/add_collection", function (req, res) {
 	var collectionId = currData.id;
 	console.log("Adding collection " + collectionId);
 	data["collections"][collectionId] = {};
+	currCollectionUploadId = collectionId;
 	data["collections"][collectionId]["name"] = currData.name;
 	data["collections"][collectionId]["collection-count"] = currData.collection_count;
 	data["collections"][collectionId]["shortened-name"] = currData.shortenedName;
