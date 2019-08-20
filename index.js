@@ -331,6 +331,38 @@ app.post("/delete_collection", function (req, res) {
 });
 
 /** GETTING AND UPDATING KEYWORD LISTS **/
+
+// Adds a new keyword list
+app.post("/add_keyword_list", function (req, res) {
+	var currData = req.body;
+	var kId = currData.id;
+	console.log("Adding keyword list " + kId);
+	data["keyword-lists"][kId] = {};
+	data["keyword-lists"][kId]["id"] = kId;
+	data["keyword-lists"][kId]["name"] = currData.name;
+	data["keyword-lists"][kId]["version"] = currData.version;
+	data["keyword-lists"][kId]["date-added"] = currData.date_added;
+	data["keyword-lists"][kId]["include"] = currData.included;
+	data["keyword-lists"][kId]["exclude"] = currData.excluded;
+
+	// saveToSessionFile();
+	res.sendStatus(200);
+});
+
+// Edits the keyword list
+app.post("/edit_keyword_list", function(req, res) {
+	var currData = req.body;
+	var kId = currData.id;
+	console.log("Editing keyword list " + kId);
+	data["keyword-lists"][kId]["name"] = currData.name;
+	data["keyword-lists"][kId]["version"] = currData.version;
+	data["keyword-lists"][kId]["date-added"] = currData.date_added;
+	data["keyword-lists"][kId]["include"] = currData.included;
+	data["keyword-lists"][kId]["exclude"] = currData.excluded;
+
+	// saveToSessionFile();
+	res.sendStatus(200);
+})
 	
 // Retrieves all the keyword lists in JSON format
 app.get("/get_keywords", function (req, res) {
