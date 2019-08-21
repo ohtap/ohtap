@@ -294,8 +294,8 @@ app.get("/get_current_run_data", function (req, res) {
 // Updates the keyword contexts
 app.post("/update_individual_run_keyword_contexts", function (req, res) {
 	var currData = req.body;
-	var individualRunName = currData.data.individualRunName;
-	var newContexts = currData.data.contexts;
+	var individualRunName = currData.individualRunName;
+	var newContexts = currData.contexts;
 
 	data["runs"][currRun.id]["individual-reports"][individualRunName]["keyword-contexts"] = newContexts;
 

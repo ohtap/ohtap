@@ -10,6 +10,7 @@ import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
+import axios from 'axios';
 
 const CustomTableCell = withStyles(theme => ({
   head: {
@@ -52,9 +53,9 @@ class IndividualReport extends React.Component {
 
 		this.state = {
 			data: this.props.parentData.data, // Passed from the parent report
-      keywordList: this.props.parentData.keywordList,
-      collection: this.props.parentData.collection,
-      individualRunName: this.props.parentData.collection + "-" + this.props.parentData.keywordList,
+			keywordList: this.props.parentData.keywordList,
+	    	collection: this.props.parentData.collection,
+	    	individualRunName: this.props.parentData.collection + "-" + this.props.parentData.keywordList,
 			timeRangeInterviewsData: {},
 			timeRangeBirthYearData: {},
 			keywordCounts: {},
@@ -64,10 +65,10 @@ class IndividualReport extends React.Component {
 
 	componentDidMount() {
 		this.generateTimeRangeInterviewsData();
-  	this.generateTimeRangeBirthYear();
-  	this.generateKeywordCountsData();
-  	this.generateIntervieweeRaceData();
-  }
+	  	this.generateTimeRangeBirthYear();
+	  	this.generateKeywordCountsData();
+	  	this.generateIntervieweeRaceData();
+	  }
 
   generateIntervieweeRaceData = () => {
   	var labels = [];
@@ -188,6 +189,14 @@ class IndividualReport extends React.Component {
     }
 
     this.setState({ data: data });
+
+    axios.post("/update_individual_run_keyword_contexts", {
+    	individualRunName: this.state.individualRunName,
+    	contexts: data['individual-reports'][this.state.individualRunName]['keyword-contexts']
+    })
+    .catch(function (err) {
+    	console.log(err);
+    });
   }
 
 	generateTimeRangeBirthYear = () => {
