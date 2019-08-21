@@ -27,7 +27,7 @@ var currRun = {
 	name: '',
 	time: '',
 	collections: [],
-	metadata: "metadata.csv",
+	metadata: "",
 	keywordList: [],
 	total: 0 // Progress of the run
 };
@@ -100,9 +100,9 @@ function saveToSessionFile() {
 var uploadFunction = function(_type) {
 	var storage = multer.diskStorage({
 		destination: function(req, file, cb) {
-			var dest = "./data/corpus-files/";
+			var dest = "./data/metadata-files/";
 			if (_type === "collection") {
-				dest = dest + currCollectionUploadId + "/";
+				dest = dest + "corpus-files/" + currCollectionUploadId + "/";
 				if (!fs.existsSync(dest)){
 				    fs.mkdirSync(dest);
 				}
@@ -112,7 +112,7 @@ var uploadFunction = function(_type) {
 		filename: function(req, file, cb) {
 			var filename = file.originalname;
 			if (_type === "metadata") {
-				filename = Date.now() + "-" + filename;
+				filename = "metadata" + Date.now() + path.extname(file.originalname);
 			}
 			cb(null, filename);
 		}
@@ -131,6 +131,27 @@ app.post("/upload_collection", function(req, res) {
 		}
 		return res.status(200).send(req.file);
 	});
+});
+
+app.post("/upload_metadata", function(req, res) {
+	var currUploadFunction = uploadFunction('metadata');
+	currUploadFunction(req, res, function(err) {
+		if (err) {
+			return res.status(500).json(err);
+		}
+		return res.status(200).send(req.file);
+	})
+});
+
+// Retrieves all the collections in JSON format
+app.get("/get_metadata_files", function (req, res) {
+	var metadataFiles = [];
+	var currPath = "./data/metadata-files";
+	fs.readdirSync(currPath).forEach(function(file, index) {
+		metadataFiles.push(file);
+	});
+
+	res.status(200).send(metadataFiles);
 });
 
 /** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/

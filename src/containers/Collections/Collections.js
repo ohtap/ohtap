@@ -62,7 +62,6 @@ class Collections extends React.Component {
       editOpen: false,
       addOpen: false,
       selectedFiles: null,
-      uploadLoaded: 0,
     }
 
     this.updateTable = this.updateTable.bind(this);
@@ -234,7 +233,7 @@ class Collections extends React.Component {
   }
 
   onChangeUpload(e) {
-    this.setState({ selectedFiles: e.target.files, uploadLoaded: 0, currRowCollectionCount: e.target.files.length });
+    this.setState({ selectedFiles: e.target.files, currRowCollectionCount: e.target.files.length });
   }
 
   render() {

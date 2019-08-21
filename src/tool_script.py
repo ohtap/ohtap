@@ -250,7 +250,7 @@ def get_included_files(collections, df, runJSON):
 # Reads in the metadata to collect statistics and excludes any files that are only male
 # interviewees or interviews with no transcripts for each collection.
 def read_metadata(collections, metadata_file, runJSON):
-	df = pd.read_csv(data_dirname + metadata_file, encoding = "utf-8", header = 0)
+	df = pd.read_csv(data_dirname + "metadata-files/" + metadata_file, encoding = "utf-8", header = 0)
 	return get_included_files(collections, df, runJSON)
 
 # Downloads relevant libraries and otherwise sets us up for a successful run.

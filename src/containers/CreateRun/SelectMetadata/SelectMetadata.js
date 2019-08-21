@@ -8,6 +8,7 @@ import Typography from '@material-ui/core/Typography';
 import Select from '@material-ui/core/Select';
 import Button from '@material-ui/core/Button';
 import { Redirect } from 'react-router-dom';
+import LinearProgress from '@material-ui/core/LinearProgress';
 import axios from 'axios';
 
 const styles = theme => ({
@@ -38,10 +39,6 @@ const styles = theme => ({
   },
 });
 
-const names = [
-  'metadata.csv',
-];
-
 function getStyles(name, that) {
   return {
     fontWeight:
@@ -52,15 +49,50 @@ function getStyles(name, that) {
 }
 
 class SelectKeywords extends React.Component {
-  state = {
-    name: '',
-    isButtonDisabled: true,
-    redirect: false,
-  };
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      name: '',
+      isButtonDisabled: true,
+      redirect: false,
+      selectedFile: null,
+      progress: 0,
+      metadataFiles: [],
+    };
+
+    this.onChangeUpload = this.onChangeUpload.bind(this);
+    this.uploadMetadata = this.uploadMetadata.bind(this);
+  }
+
+  // Gets our data once the component mounts
+  componentDidMount() {
+    axios.get("/get_metadata_files")
+      .then(res => this.setState({ metadataFiles: res.data }))
+      .catch(err => console.log("Error getting metadata files (" + err + ")"));
+  }
+
+  // Uploads the metadata file
+  uploadMetadata() {
+    var data = new FormData();
+    data.append('file', this.state.selectedFile);
+    const config = {
+      onUploadProgress: progressEvent => this.setState({ progress: progressEvent.loaded })
+    };
+
+    axios.post("/upload_metadata", data, config)
+      .then((res) => {
+        axios.get("/get_metadata_files")
+          .then(res => this.setState({ metadataFiles: res.data }))
+          .catch(err => console.log("Error getting metadata files (" + err + ")"));
+      })
+      .catch(function(err) {
+        console.log(err);
+      });
+  }
 
   handleChange = event => {
-    this.setState({ name: event.target.value });
-    this.setState({ isButtonDisabled: false });
+    this.setState({ name: event.target.value, isButtonDisabled: false });
   };
 
   handleChangeMultiple = event => {
@@ -92,6 +124,10 @@ class SelectKeywords extends React.Component {
   	this.setState({ redirect: true });
   }
 
+  onChangeUpload(e) {
+    this.setState({ selectedFile: e.target.files[0], progress: 0 });
+  }
+
   renderRedirect = () => {
 		if (this.state.redirect) {
 			return <Redirect to='/report' />
@@ -120,13 +156,26 @@ class SelectKeywords extends React.Component {
               id: 'metadata',
             }}
           >
-            {names.map(name => (
+            {this.state.metadataFiles.map(name => (
               <MenuItem key={name} value={name} style={getStyles(name, this)}>
                 {name}
               </MenuItem>
             ))}
           </Select>
         </FormControl>
+        <br />
+        <Typography paragraph>Upload a new metadata file.</Typography>
+        <br />
+        <input
+          id="raised-button-file"
+          type="file"
+          name="file"
+          onChange={this.onChangeUpload}
+        />
+        <Button onClick={this.uploadMetadata} color="primary">
+          Upload
+        </Button>
+        <LinearProgress variant="determinate" value={this.state.progress} />
         <br />
         <Button variant="contained" onClick={(e) => {e.preventDefault(); this.handleButtonClick();}} color="primary" disabled={this.state.isButtonDisabled} className={classes.button}>
 	        Next
