@@ -37,6 +37,7 @@ const SelectKeywords = loadable(() => import('../CreateRun/SelectKeywords'));
 const SelectMetadata = loadable(() => import('../CreateRun/SelectMetadata'));
 
 const Report = loadable(() => import('../Report'));
+const PastRunsReport = loadable(() => import("../Report/PastRunsReport"));
 
 const styles = theme => ({
   root: {
@@ -189,6 +190,7 @@ class DefaultLayout extends React.Component {
             <Route exact path='/create_run/select_metadata' component={SelectMetadata} />
             <Route exact path='/report' component={Report} />
             <Route exact path='/past_runs' component={PastRuns} />
+            <Route exact path='/past_runs_report' component={PastRunsReport} />
         </main>
         </BrowserRouter>
       </div>

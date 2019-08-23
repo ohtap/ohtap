@@ -1,13 +1,13 @@
 import React from 'react';
 import loadable from '@loadable/component';
+import CircularProgress from '@material-ui/core/CircularProgress';
 import axios from 'axios';
 
-const Navigation = loadable(() => import('./Navigation'));
-const Loading = loadable(() => import('./Loading'));
-const SummaryReport = loadable(() => import('./SummaryReport'));
-const IndividualReport = loadable(() => import('./IndividualReport'));
+const Navigation = loadable(() => import('../Navigation'));
+const SummaryReport = loadable(() => import('../SummaryReport'));
+const IndividualReport = loadable(() => import('../IndividualReport'));
 
-class Report extends React.Component {
+class PastRunsReport extends React.Component {
 	constructor(props) {
 		super(props);
 
@@ -21,7 +21,7 @@ class Report extends React.Component {
 	}
 
 	// Callback from child Loading component when done loading
-	endLoading = () => {
+	componentDidMount() {
 		axios.get('/get_current_run_data')
 			.then(res => this.setState({ data: res.data }))
 			.then(data => this.setState({ loading: false }))
@@ -40,7 +40,7 @@ class Report extends React.Component {
 
 	renderReport = () => {
 		if (this.state.loading) {
-			return (<Loading callbackDone={this.endLoading} />);
+			return (<CircularProgress />);
 		}
 		if (this.state.summary) {
 			return (<SummaryReport parentData={this.state.data} />);
@@ -60,4 +60,4 @@ class Report extends React.Component {
 	}
 }
 
-export default Report;
+export default PastRunsReport;

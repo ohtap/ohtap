@@ -125,7 +125,7 @@ class PastRuns extends React.Component {
   // Redirects the page to the next page
   renderRedirect = () => {
     if (this.state.redirect) {
-      return <Redirect to='/report' />
+      return <Redirect to='/past_runs_report' />
     }
   }
 
