@@ -225,10 +225,10 @@ class IndividualReport extends React.Component {
 	        </Typography>
 	        <Typography component="p">
 	          <b>Total collections: </b>{ summaryData['total-collections'] }<br />
-	          <b>&#x00025; collections with keywords: </b>{ (summaryData['total-collections-with-keywords'] / summaryData['total-collections']) * 100 } &#x00025;<br />
-	          <b>Total interviews: </b>{ summaryData['total-interviews'] }<br />
-	          <b>&#x00025; interviews with keywords: </b>{ (summaryData['total-interviews-with-keywords'] / summaryData['total-interviews']) * 100 } &#x00025;<br />
 	          <b>Total keywords: </b>{ summaryData['total-keywords'] }<br />
+	          <b>Total interviews: </b>{ summaryData['total-interviews'] }<br />
+	          <b>&#x00025; collections with keywords: </b>{ (summaryData['total-collections-with-keywords'] / summaryData['total-collections']) * 100 } &#x00025;<br />
+	          <b>&#x00025; interviews with keywords: </b>{ (summaryData['total-interviews-with-keywords'] / summaryData['total-interviews']) * 100 } &#x00025;<br />
 	          <b>Total keywords found: </b>{ summaryData['total-keywords-found'] }<br />
 	        </Typography>
 	      </Paper>

@@ -130,6 +130,7 @@ def get_included_files(collections, df, runJSON):
 	male_plus_interviews = {} # Interviews with both male and non-male interviews
 	interview_years = {}
 	interview_years_by_file = {}
+	total_interviews = 0
 
 	# Needed information across all collections
 	interview_years_all_collections = defaultdict(lambda:0)
@@ -191,7 +192,7 @@ def get_included_files(collections, df, runJSON):
 			interviewee_birth_country = r["interviewee_birth_country"]
 
 			curr_person = {}
-			curr_person["birth_decade"] = birth_decade if not pd.isnull(birth_decade) else "Not given"
+			curr_person["birth_decade"] = int(birth_decade) if not pd.isnull(birth_decade) else "Not given"
 			curr_person["education"] = education if not pd.isnull(education) else "Not given"
 			curr_person["identified_race"] = identified_race if not pd.isnull(identified_race) else "Not given"
 			curr_person["sex"] = sex if not pd.isnull(sex) else "Not given"
@@ -226,8 +227,13 @@ def get_included_files(collections, df, runJSON):
 				interview_years_by_file[curr_c][f] = year
 				interview_years_all_collections[year] += 1
 
+	# Calculates total number of interviews
+	for c in files_for_inclusion:
+		total_interviews += sum(files_for_inclusion[c].values())
+
 	# Updates the summary report data
 	runJSON["summary-report"]["total-interviewees"] = len(people)
+	runJSON["summary-report"]["total-interviews"] = total_interviews
 	runJSON["summary-report"]["time-range-interviews"] = interview_years_all_collections
 	runJSON["summary-report"]["time-range-birth-year"] = interviewee_metadata_all_collections["birth_decade"]
 	runJSON["summary-report"]["race"] = interviewee_metadata_all_collections["race"]
@@ -273,7 +279,8 @@ def set_up(runJSON):
 		"total-collections": len(collections),
 		"total-keywords": sum([len(k["include"]) for k in keywords]),
 		"total-collections-with-keywords": 0,
-		"total-interviews-with-keywords": 0
+		"total-interviews-with-keywords": 0,
+		"total-keywords-found": 0
 	}
 	keyword_regexes = convert_keywords(keywords)
 	collections = read_corpuses(collections)
@@ -374,7 +381,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 			num_with_keywords += 1
 			all_matches[file] = curr_matches
 
-	currRunJSON["total-keywords"] = total_keywords
+	currRunJSON["total-keywords-found"] = total_keywords
 	currRunJSON["total-interviews-with-keywords"] = num_with_keywords
 	currRunJSON["time-range-interviews"] = time_range_interviews
 	currRunJSON["keyword-counts"] = keyword_freq
@@ -437,7 +444,7 @@ def create_new_run(c, k, metadata, runJSON):
 	if num_with_keywords > 0:
 		runJSON["summary-report"]["total-collections-with-keywords"] += 1
 		runJSON["summary-report"]["total-interviews-with-keywords"] += num_with_keywords
-
+		runJSON["summary-report"]["total-keywords-found"] += currRunJSON["total-keywords-found"]
 
 
 	runJSON["individual-reports"][currRunId] = currRunJSON
