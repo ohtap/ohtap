@@ -10,20 +10,20 @@ import Input from '@material-ui/core/Input';
 import {Line, Bar, Doughnut} from 'react-chartjs-2';
 
 const styles = theme => ({
-	root: {
+  root: {
 
-	},
-	chart: {
+  },
+  chart: {
     paddingRight: '20px',
   },
   title: {
     whiteSpace: 'pre',
   },
-	paper: {
-		...theme.mixins.gutters(),
+  paper: {
+    ...theme.mixins.gutters(),
     paddingTop: theme.spacing.unit * 2,
     paddingBottom: theme.spacing.unit * 2,
-	},
+  },
   chips: {
     display: 'flex',
     flexWrap: 'wrap',
@@ -157,9 +157,7 @@ class SummaryReport extends React.Component {
 
   generateKeywordsOverTimeSelections = () => {
     var data = {};
-    var newData = {
-      'not-given': 0
-    };
+    var newData = {};
 
     if ('keywords-over-time' in this.state.data['summary-report']) {
       data = this.state.data['summary-report']['keywords-over-time'];
@@ -201,8 +199,6 @@ class SummaryReport extends React.Component {
     var labels = [];
     var dataSets = [];
     var addLabels = true;
-
-    var testDataSets = [];
 
     for (var i = 0; i < this.state.keywordsOverTimeChosen.length; i++) {
       var k = this.state.keywordsOverTimeChosen[i];

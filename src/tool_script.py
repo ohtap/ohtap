@@ -332,6 +332,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 
 	# Basic statistics
 	num_with_keywords = 0
+	num_interviews = 0
 	total_keywords = 0 # Total number of keywords found in all files
 	all_matches = {}
 	time_range_interviews = defaultdict(lambda:0)
@@ -353,6 +354,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 		curr_matches = []
 
 		time_range_interviews[date_of_interview] += 1
+		num_interviews += 1
 
 		# Loops through the regexes
 		for j in range(len(included_regexes)):
@@ -382,11 +384,26 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 			num_with_keywords += 1
 			all_matches[file] = curr_matches
 
+	currRunJSON["total-keywords"] = len(included_regexes)
 	currRunJSON["total-keywords-found"] = total_keywords
+	currRunJSON["total-interviews"] = num_interviews
 	currRunJSON["total-interviews-with-keywords"] = num_with_keywords
 	currRunJSON["time-range-interviews"] = time_range_interviews
 	currRunJSON["keyword-counts"] = keyword_freq
-	currRunJSON["keywords-over-time"] = keyword_to_dates
+
+	# Fixes up the keywords over time
+	keywordsOverTime = keyword_to_dates
+	all_years = []
+	for k, v in keywordsOverTime.items():
+		all_years += v.keys()
+	all_years = list(set(all_years))
+	all_years.sort()
+	newKeywordsOverTime = {}
+	for k, v in keywordsOverTime.items():
+		newKeywordsOverTime[k] = {}
+		for y in all_years:
+			newKeywordsOverTime[k][y] = v[y]
+	currRunJSON["keywords-over-time"] = newKeywordsOverTime
 
 	return all_matches
 
