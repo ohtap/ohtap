@@ -148,7 +148,9 @@ app.get("/get_metadata_files", function (req, res) {
 	var metadataFiles = [];
 	var currPath = "./data/metadata-files";
 	fs.readdirSync(currPath).forEach(function(file, index) {
-		metadataFiles.push(file);
+		if (file !== ".gitkeep") {
+			metadataFiles.push(file);
+		}
 	});
 
 	res.status(200).send(metadataFiles);
@@ -213,8 +215,9 @@ app.post("/choose_keywords", function (req, res) {
  * Runs the Python script and maintains communication between the script and our Node backend.
  */
 app.post("/run_python_script", function (req, res) {
-	// Remove after finishing up the metadata upload
-	currRun.metadata = "metadata.csv"
+	var currData = req.body;
+	currRun.metadata = currData.data;
+	console.log("Current run metadata file updated to " + currRun.metadata + "\n");
 
 	console.log("Running python script\n");
 	currRun.statusMessage = "Starting subcorpora run...";

@@ -115,13 +115,13 @@ class SelectKeywords extends React.Component {
       data: this.state.name
     })
     .then(function (res) {
-      console.log("Successfully posted metadata");
+      console.log("Running python script.");
     })
     .catch(function (err) {
       console.log(err);
     });
 
-  	this.setState({ redirect: true });
+    this.setState({ redirect: true });
   }
 
   onChangeUpload(e) {
