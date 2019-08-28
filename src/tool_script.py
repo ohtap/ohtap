@@ -223,9 +223,9 @@ def get_included_files(collections, df, runJSON):
 				else:
 					year = "19{}".format(year)
 
-				interview_years[curr_c][year] += 1
-				interview_years_by_file[curr_c][f] = year
-				interview_years_all_collections[year] += 1
+			interview_years[curr_c][year] += 1
+			interview_years_by_file[curr_c][f] = year
+			interview_years_all_collections[year] += 1
 
 	# Calculates total number of interviews
 	for c in files_for_inclusion:
@@ -280,7 +280,8 @@ def set_up(runJSON):
 		"total-keywords": sum([len(k["include"]) for k in keywords]),
 		"total-collections-with-keywords": 0,
 		"total-interviews-with-keywords": 0,
-		"total-keywords-found": 0
+		"total-keywords-found": 0,
+		"keywords-over-time": defaultdict(lambda:defaultdict(lambda:0)),
 	}
 	keyword_regexes = convert_keywords(keywords)
 	collections = read_corpuses(collections)
@@ -323,7 +324,7 @@ def need_to_exclude(before, after, m_text, exclude_regexes):
 	return False
 
 # Finds the keywords in each file.
-def find_keywords(files_for_inclusion, filenames, content, words, included_regexes, excluded_regexes, interview_years_by_file, currRunJSON):
+def find_keywords(files_for_inclusion, filenames, content, words, included_regexes, excluded_regexes, interview_years_by_file, runJSON, currRunJSON):
 	# Stores the frequency of each keyword across all files (keyword --> count)
 	keyword_freq = defaultdict(lambda:0)
 
@@ -341,7 +342,6 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 		if file not in files_for_inclusion or files_for_inclusion[file] == 0: 
 			continue
 
-		# TODO: Figure out why this is wrong...
 		date_of_interview = "Not given"
 		if file in interview_years_by_file:
 			date_of_interview = interview_years_by_file[file]
@@ -373,6 +373,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 				
 				keyword_to_dates[w][date_of_interview] += 1
 				total_keywords += 1
+				runJSON["summary-report"]["keywords-over-time"][w][date_of_interview] += 1
 
 				# Adds it onto the matches
 				curr_matches.append([m_loc, before, new_m_text, after])
@@ -437,7 +438,7 @@ def create_new_run(c, k, metadata, runJSON):
 
 	print_message("m", metadata)
 
-	all_matches = find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], currRunJSON)
+	all_matches = find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], runJSON, currRunJSON)
 	get_all_contexts(c["filenames"], c["content"], all_matches, currRunJSON)
 
 	num_with_keywords = currRunJSON["total-interviews-with-keywords"]
@@ -445,7 +446,6 @@ def create_new_run(c, k, metadata, runJSON):
 		runJSON["summary-report"]["total-collections-with-keywords"] += 1
 		runJSON["summary-report"]["total-interviews-with-keywords"] += num_with_keywords
 		runJSON["summary-report"]["total-keywords-found"] += currRunJSON["total-keywords-found"]
-
 
 	runJSON["individual-reports"][currRunId] = currRunJSON
 
@@ -461,6 +461,20 @@ def main():
 			create_new_run(c, k, metadata, runJSON)
 			totalProgress += progressPerRun
 			print_message("progress", totalProgress)
+
+	# Fixes up the keywords over time
+	keywordsOverTime = runJSON["summary-report"]["keywords-over-time"]
+	all_years = []
+	for k, v in keywordsOverTime.items():
+		all_years += v.keys()
+	all_years = list(set(all_years))
+	all_years.sort()
+	newKeywordsOverTime = {}
+	for k, v in keywordsOverTime.items():
+		newKeywordsOverTime[k] = {}
+		for y in all_years:
+			newKeywordsOverTime[k][y] = v[y]
+	runJSON["summary-report"]["keywords-over-time"] = newKeywordsOverTime
 
 	with open(data_dirname + "run.json", "w") as f:
 		f.write(json.dumps(runJSON))

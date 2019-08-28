@@ -4,6 +4,9 @@ import { withStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
 import Paper from '@material-ui/core/Paper';
 import Select from '@material-ui/core/Select';
+import MenuItem from '@material-ui/core/MenuItem';
+import Chip from '@material-ui/core/Chip';
+import Input from '@material-ui/core/Input';
 import {Line, Bar, Doughnut} from 'react-chartjs-2';
 
 const styles = theme => ({
@@ -21,7 +24,25 @@ const styles = theme => ({
     paddingTop: theme.spacing.unit * 2,
     paddingBottom: theme.spacing.unit * 2,
 	},
+  chips: {
+    display: 'flex',
+    flexWrap: 'wrap',
+  },
+  chip: {
+    margin: theme.spacing.unit / 4,
+  },
 });
+
+const ITEM_HEIGHT = 48;
+const ITEM_PADDING_TOP = 8;
+const MenuProps = {
+  PaperProps: {
+    style: {
+      maxHeight: ITEM_HEIGHT * 4.5 + ITEM_PADDING_TOP,
+      width: 250,
+    },
+  },
+};
 
 const format = () => tick => tick;
 
@@ -43,6 +64,7 @@ function createLineDataset(label, values) {
   var dataset = {
     label: label,
     fill: false,
+    type: 'line',
     lineTension: 0.1,
     backgroundColor: 'rgba(75,192,192,0.4)',
     borderColor: 'rgba(75,192,192,1)',
@@ -112,6 +134,8 @@ class SummaryReport extends React.Component {
       intervieweeRaceData: {},
       intervieweeSexData: {},
       keywordsOverTimeData: {},
+      keywordsOverTimeSelections: [],
+      keywordsOverTimeChosen: [],
     };
 
     // Helps with data validation in case data is formatted incorrectly
@@ -124,9 +148,98 @@ class SummaryReport extends React.Component {
   }
 
   componentDidMount() {
+    this.generateKeywordsOverTimeSelections();
     this.generateTimeRangeInterviewData();
     this.generateTimeRangeBirthYear();
     this.generateIntervieweeRaceData();
+    this.generateIntervieweeSexData();
+  }
+
+  generateKeywordsOverTimeSelections = () => {
+    var data = {};
+    var newData = {
+      'not-given': 0
+    };
+
+    if ('keywords-over-time' in this.state.data['summary-report']) {
+      data = this.state.data['summary-report']['keywords-over-time'];
+    }
+
+    var selections = [];
+    var allKeywords = [];
+    selections.push((<MenuItem value=""><em></em></MenuItem>));
+    for (var k in data) {
+      var item = (
+        <MenuItem value={ k }>{ k }</MenuItem>
+      );
+      selections.push(item);
+      allKeywords.push(k);
+    }
+
+    this.setState({ keywordsOverTimeSelections: selections, keywordsOverTimeChosen: allKeywords }, () => {
+      this.generateKeywordsOverTimeData();
+    });
+  }
+
+  handleKeywordsOverTimeChange = event => {
+    this.setState({ keywordsOverTimeChosen: event.target.value }, () => {
+      this.generateKeywordsOverTimeData();
+    });
+  }
+
+  // Generates data for the keywords over time
+  generateKeywordsOverTimeData = () => {
+    var data = {};
+    var newData = {
+      'not-given': 0
+    };
+
+    if ('keywords-over-time' in this.state.data['summary-report']) {
+      data = this.state.data['summary-report']['keywords-over-time'];
+    }
+
+    var labels = [];
+    var dataSets = [];
+    var addLabels = true;
+
+    var testDataSets = [];
+
+    for (var i = 0; i < this.state.keywordsOverTimeChosen.length; i++) {
+      var k = this.state.keywordsOverTimeChosen[i];
+      console.log(k);
+      if (k === "") {
+        continue;
+      }
+      var v = data[k];
+      var values = [];
+      var sortedData = sortMap(v);
+
+      for (var j = 0; j < sortedData.length; j++) {
+        const kv = sortedData[j];
+        const key = kv[0];
+        const value = kv[1];
+
+        if (key === 'Not given') {
+          newData['not-given'] += value;
+          continue;
+        }
+
+        if (addLabels) {
+          labels.push(key);
+        }
+        values.push(value);
+      }
+
+      addLabels = false;
+      dataSets.push(createLineDataset(k, values));
+    }
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+    
+    this.setState({ keywordsOverTimeData: newData });
   }
 
   // Generates data for the time range graph of interviews
@@ -201,7 +314,7 @@ class SummaryReport extends React.Component {
       labels: labels,
       datasets: dataSets
     };
-    
+
     this.setState({ timeRangeBirthYearData: newData });
   }
 
@@ -230,9 +343,35 @@ class SummaryReport extends React.Component {
       datasets: dataSets
     };
 
-    console.log(newData);
-
     this.setState({ intervieweeRaceData: newData });
+  }
+
+  // Generates data for the circle chart for the sex of interviewees
+  generateIntervieweeSexData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('sex' in this.state.data['summary-report']) {
+      data = this.state.data['summary-report']['sex'];
+    }
+
+    for (var key in data) {
+      const value = data[key];
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createDoughnutDataset(values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ intervieweeSexData: newData });
   }
 
   render() {
@@ -241,6 +380,9 @@ class SummaryReport extends React.Component {
       timeRangeInterviewData: triData,
       timeRangeBirthYearData: trbyData,
       intervieweeRaceData: irData,
+      intervieweeSexData: isData,
+      keywordsOverTimeData: kotData,
+      keywordsOverTimeSelections: kotSelections,
     } = this.state;
     const summaryData = this.state.data['summary-report'];
 
@@ -262,14 +404,44 @@ class SummaryReport extends React.Component {
         <br />
         <Paper className={classes.paper} elevation={1}>
           <Typography variant="h5" component="h3">
+            Keyword Use Over Time
+          </Typography>
+          <br />
+          <Select
+            multiple
+            value={ this.state.keywordsOverTimeChosen }
+            onChange={ this.handleKeywordsOverTimeChange }
+            input={<Input id="select-multiple-chip" />}
+            renderValue={keywordsOverTimeChosen => (
+              <div className={classes.chips}>
+                {keywordsOverTimeChosen.map(value => (
+                  <Chip key={value} label={value} className={classes.chip} />
+                ))}
+              </div>
+            )}
+            MenuProps={MenuProps}
+          >
+            { kotSelections }
+          </Select>
+          <Typography component="p">
+            <b>Total keywords found with no labeled year: </b>{ kotData['not-given'] }
+          </Typography>
+          <br />
+          <Bar data={kotData['graph-data']} legend={{
+            display: false
+          }} />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
               Time Range of Interviews
-            </Typography>
-            <br />
-            <Typography component="p">
-              <b>Total interviews with no interview data given: </b>{ triData['not-given'] }
-            </Typography>
-            <br />
-            <Bar data={ triData['graph-data'] } />
+          </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviews with no interview data given: </b>{ triData['not-given'] }
+          </Typography>
+          <br />
+          <Bar data={ triData['graph-data'] } />
         </Paper>
         <Paper className={classes.paper} elevation={1}>
           <Typography variant="h5" component="h3">
@@ -288,6 +460,13 @@ class SummaryReport extends React.Component {
             Race of Interviewees
           </Typography>
           <Doughnut data={ irData['graph-data'] } />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+            Sex of Interviewees
+          </Typography>
+          <Doughnut data={ isData['graph-data'] } />
         </Paper>
       </div>
     );
