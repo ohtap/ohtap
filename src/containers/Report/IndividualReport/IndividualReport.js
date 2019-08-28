@@ -173,6 +173,10 @@ class IndividualReport extends React.Component {
 
   componentDidMount() {
     this.generateKeywordsOverTimeSelections();
+    this.generateTimeRangeInterviewData();
+    this.generateTimeRangeBirthYear();
+    this.generateIntervieweeRaceData();
+    this.generateIntervieweeSexData();
   }
 
   generateKeywordsOverTimeSelections = () => {
@@ -285,10 +289,146 @@ class IndividualReport extends React.Component {
     });
   }
 
+  // Generates data for the time range graph of interviews
+  generateTimeRangeInterviewData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('time-range-interviews' in this.state.data) {
+      data = this.state.data['time-range-interviews'];
+    }
+
+    var sortedData = sortMap(data);
+
+    for (var i = 0; i < sortedData.length; i++) {
+      const kv = sortedData[i];
+      const key = kv[0];
+      const value = kv[1];
+
+      if (key === 'Not given') {
+        newData['not-given'] = value;
+        continue;
+      }
+
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createLineDataset('Time Range of Interviews (by decade)', values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ timeRangeInterviewData: newData });
+  }
+
+  // Generates data for the time range graph of birth years of interviewees
+  generateTimeRangeBirthYear = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('time-range-birth-year' in this.state.data) {
+      data = this.state.data['time-range-birth-year'];
+    }
+
+    var sortedData = sortMap(data);
+
+    for (var i = 0; i < sortedData.length; i++) {
+      const kv = sortedData[i];
+      const key = kv[0];
+      const value = kv[1];
+
+      if (key === 'Not given') {
+        newData['not-given'] = value;
+        continue;
+      }
+
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createLineDataset('Time Range of Interviewee Birth Dates (by decade)', values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ timeRangeBirthYearData: newData });
+  }
+
+  // Generates data for the circle chart for race of interviewees
+  generateIntervieweeRaceData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('race' in this.state.data) {
+      data = this.state.data['race'];
+    }
+
+    for (var key in data) {
+      const value = data[key];
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createDoughnutDataset(values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ intervieweeRaceData: newData });
+  }
+
+  // Generates data for the circle chart for the sex of interviewees
+  generateIntervieweeSexData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('sex' in this.state.data) {
+      data = this.state.data['sex'];
+    }
+
+    for (var key in data) {
+      const value = data[key];
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createDoughnutDataset(values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ intervieweeSexData: newData });
+  }
+
   render() {
     const { classes } = this.props;
     const {
       data,
+      timeRangeInterviewData: triData,
+      timeRangeBirthYearData: trbyData,
+      intervieweeRaceData: irData,
+      intervieweeSexData: isData,
       keywordsOverTimeData: kotData,
       keywordsOverTimeSelections: kotSelections,
     } = this.state;
@@ -338,6 +478,52 @@ class IndividualReport extends React.Component {
           <Bar data={kotData['graph-data']} legend={{
             display: false
           }} />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+              Time Range of Interviews
+          </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviews with no interview data given: </b>{ triData['not-given'] }
+          </Typography>
+          <br />
+          <Bar data={ triData['graph-data'] } />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+              Time Range of Interviewee Birth Dates
+            </Typography>
+            <br />
+            <Typography component="p">
+              <b>Total interviewees with no birth date given: </b>{ trbyData['not-given'] }
+            </Typography>
+            <br />
+            <Bar data={ trbyData['graph-data'] } />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+            Race of Interviewees
+          </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviewees with no data on race: </b>{ isData['not-given']}
+          </Typography>
+          <Doughnut data={ irData['graph-data'] } />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+            Sex of Interviewees
+          </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviewees with no data on sex: </b>{ isData['not-given']}
+          </Typography>
+          <Doughnut data={ isData['graph-data'] } />
         </Paper>
         <br />
         <Paper className={classes.paper} elevation={1}>

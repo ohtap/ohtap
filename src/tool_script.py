@@ -136,6 +136,9 @@ def get_included_files(collections, df, runJSON):
 	interview_years_all_collections = defaultdict(lambda:0)
 	interviewee_metadata_all_collections = defaultdict(lambda:defaultdict(lambda:0))
 
+	# Statistics about interviewees --> interviews
+	interviews_to_interviewees = defaultdict(lambda:[])
+
 	filenames_map = {}
 	for c in collections:
 		curr_id = c["id"]
@@ -185,6 +188,7 @@ def get_included_files(collections, df, runJSON):
 		# At this point, we have a new interview (not previously added) with at least one non-male
 		# interviewee we want to add!
 		interviewee_name = r["interviewee_name"]
+		interviews_to_interviewees[f].append(interviewee_name)
 		if interviewee_name not in people:
 			birth_decade = r["birth_decade"]
 			education = r["education"]
@@ -248,7 +252,8 @@ def get_included_files(collections, df, runJSON):
 		"male_interviews": male_interviews,
 		"male_plus_interviews": male_plus_interviews,
 		"interview_years": interview_years,
-		"interview_years_by_file": interview_years_by_file
+		"interview_years_by_file": interview_years_by_file,
+		"interviews_to_interviewees": interviews_to_interviewees
 	}
 
 	return metadata
@@ -324,7 +329,7 @@ def need_to_exclude(before, after, m_text, exclude_regexes):
 	return False
 
 # Finds the keywords in each file.
-def find_keywords(files_for_inclusion, filenames, content, words, included_regexes, excluded_regexes, interview_years_by_file, runJSON, currRunJSON):
+def find_keywords(files_for_inclusion, filenames, content, words, included_regexes, excluded_regexes, interview_years_by_file, people, interviews_to_interviewees, runJSON, currRunJSON):
 	# Stores the frequency of each keyword across all files (keyword --> count)
 	keyword_freq = defaultdict(lambda:0)
 
@@ -336,6 +341,14 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 	total_keywords = 0 # Total number of keywords found in all files
 	all_matches = {}
 	time_range_interviews = defaultdict(lambda:0)
+
+	# Interviewee statistics
+	birth_decade_map = defaultdict(lambda:0)
+	sex_map = defaultdict(lambda:0)
+	education_map = defaultdict(lambda:0)
+	race_map = defaultdict(lambda:0)
+	birth_country_map = defaultdict(lambda:0)
+	interviewees_done = {}
 
 	# Loops through each file, looking for keywords, and stores the matches
 	for i in range(len(content)):
@@ -355,6 +368,18 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 
 		time_range_interviews[date_of_interview] += 1
 		num_interviews += 1
+
+		interviewees = interviews_to_interviewees[file]
+		for interviewee in interviewees:
+			if interviewee in interviewees_done:
+				continue
+			interviewee_info = people[interviewee]
+			race_map[interviewee_info["identified_race"]] += 1
+			birth_decade_map[interviewee_info["birth_decade"]] += 1
+			sex_map[interviewee_info["sex"]] += 1
+			education_map[interviewee_info["education"]] += 1
+			birth_country_map[interviewee_info["birth_country"]] += 1
+			interviewees_done[interviewee] = 1
 
 		# Loops through the regexes
 		for j in range(len(included_regexes)):
@@ -390,6 +415,11 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 	currRunJSON["total-interviews-with-keywords"] = num_with_keywords
 	currRunJSON["time-range-interviews"] = time_range_interviews
 	currRunJSON["keyword-counts"] = keyword_freq
+	currRunJSON["sex"] = sex_map
+	currRunJSON["race"] = race_map
+	currRunJSON["birth_decade"] = birth_decade_map
+	currRunJSON["education"] = education_map
+	currRunJSON["birth_country"] = birth_country_map
 
 	# Fixes up the keywords over time
 	keywordsOverTime = keyword_to_dates
@@ -455,7 +485,7 @@ def create_new_run(c, k, metadata, runJSON):
 
 	print_message("m", metadata)
 
-	all_matches = find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], runJSON, currRunJSON)
+	all_matches = find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], metadata["people"], metadata["interviews_to_interviewees"], runJSON, currRunJSON)
 	get_all_contexts(c["filenames"], c["content"], all_matches, currRunJSON)
 
 	num_with_keywords = currRunJSON["total-interviews-with-keywords"]

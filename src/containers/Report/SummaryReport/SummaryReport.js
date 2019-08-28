@@ -438,6 +438,7 @@ class SummaryReport extends React.Component {
           <br />
           <Bar data={ triData['graph-data'] } />
         </Paper>
+        <br />
         <Paper className={classes.paper} elevation={1}>
           <Typography variant="h5" component="h3">
               Time Range of Interviewee Birth Dates
