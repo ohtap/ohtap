@@ -165,9 +165,13 @@ class IndividualReport extends React.Component {
       keywordCountsData: {},
       intervieweeRaceData: {},
       intervieweeSexData: {},
+      intervieweeEducationData: {},
       keywordsOverTimeData: {},
       keywordsOverTimeSelections: [],
       keywordsOverTimeChosen: [],
+
+      keywordsFalseHits: 0,
+      keywordsFlagged: 0,
     }
   }
 
@@ -177,6 +181,8 @@ class IndividualReport extends React.Component {
     this.generateTimeRangeBirthYear();
     this.generateIntervieweeRaceData();
     this.generateIntervieweeSexData();
+    this.generateIntervieweeEducationData();
+    this.updateFalseHitsFlaggedPercentages();
   }
 
   generateKeywordsOverTimeSelections = () => {
@@ -203,6 +209,12 @@ class IndividualReport extends React.Component {
     });
   }
 
+  handleKeywordsOverTimeChange = event => {
+    this.setState({ keywordsOverTimeChosen: event.target.value }, () => {
+      this.generateKeywordsOverTimeData();
+    });
+  }
+
   // Generates data for the keywords over time
   generateKeywordsOverTimeData = () => {
     var data = {};
@@ -214,13 +226,9 @@ class IndividualReport extends React.Component {
       data = this.state.data['keywords-over-time'];
     }
 
-    console.log(data);
-
     var labels = [];
     var dataSets = [];
     var addLabels = true;
-
-    console.log(data);
 
     for (var i = 0; i < this.state.keywordsOverTimeChosen.length; i++) {
       var k = this.state.keywordsOverTimeChosen[i];
@@ -259,6 +267,25 @@ class IndividualReport extends React.Component {
     this.setState({ keywordsOverTimeData: newData });
   }
 
+  updateFalseHitsFlaggedPercentages = () => {
+    var numFlagged = 0;
+    var numFalseHits = 0;
+    var data = this.state.data['keyword-contexts'];
+
+    for (var file in data) {
+      for (var i = 0; i < data[file].length; i++) {
+        if (data[file][i]["flagged"]) {
+          numFlagged += 1
+        }
+        if (data[file][i]["falseHit"]) {
+          numFalseHits += 1
+        }
+      }
+    }
+
+    this.setState({ keywordsFalseHits: numFalseHits, keywordsFlagged: numFlagged });
+  }
+
   handleCheckboxChange = (e) => {
     const item = e.target.name;
     var parts = item.split("-");
@@ -278,15 +305,16 @@ class IndividualReport extends React.Component {
       data['keyword-contexts'][file][pos]["falseHit"] = !falseHit;
     }
 
-    this.setState({ data: data });
-
-    axios.post("/update_individual_run_keyword_contexts", {
-      individualRunName: this.state.individualRunName,
-      contexts: data['keyword-contexts']
-    })
-    .catch(function (err) {
-      console.log(err);
-    });
+    this.setState({ data: data }, () => {
+      axios.post("/update_individual_run_keyword_contexts", {
+        individualRunName: this.state.individualRunName,
+        contexts: data['keyword-contexts']
+      })
+      .catch(function (err) {
+        console.log(err);
+      });
+      this.updateFalseHitsFlaggedPercentages();
+    });    
   }
 
   // Generates data for the time range graph of interviews
@@ -317,7 +345,7 @@ class IndividualReport extends React.Component {
     }
 
     var dataSets = [];
-    dataSets.push(createLineDataset('Time Range of Interviews (by decade)', values));
+    dataSets.push(createLineDataset('Time Range of Interviews', values));
 
     newData['graph-data'] = {
       labels: labels,
@@ -338,6 +366,8 @@ class IndividualReport extends React.Component {
       data = this.state.data['time-range-birth-year'];
     }
 
+    console.log(data);
+
     var sortedData = sortMap(data);
 
     for (var i = 0; i < sortedData.length; i++) {
@@ -355,7 +385,7 @@ class IndividualReport extends React.Component {
     }
 
     var dataSets = [];
-    dataSets.push(createLineDataset('Time Range of Interviewee Birth Dates (by decade)', values));
+    dataSets.push(createBarDataset('Time Range of Interviewee Birth Dates (by decade)', values));
 
     newData['graph-data'] = {
       labels: labels,
@@ -421,6 +451,34 @@ class IndividualReport extends React.Component {
     this.setState({ intervieweeSexData: newData });
   }
 
+  // Generates data for the circle chart for the sex of interviewees
+  generateIntervieweeEducationData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('education' in this.state.data) {
+      data = this.state.data['education'];
+    }
+
+    for (var key in data) {
+      const value = data[key];
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createDoughnutDataset(values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ intervieweeEducationData: newData });
+  }
+
   render() {
     const { classes } = this.props;
     const {
@@ -429,6 +487,7 @@ class IndividualReport extends React.Component {
       timeRangeBirthYearData: trbyData,
       intervieweeRaceData: irData,
       intervieweeSexData: isData,
+      intervieweeEducationData: ieData,
       keywordsOverTimeData: kotData,
       keywordsOverTimeSelections: kotSelections,
     } = this.state;
@@ -446,7 +505,9 @@ class IndividualReport extends React.Component {
             <b>Total keywords: </b>{ data['total-keywords'] }<br />
             <b>Total interviews: </b>{ data['total-interviews'] }<br />
             <b>&#x00025; interviews with keywords: </b>{ (data['total-interviews-with-keywords'] / data['total-interviews']) * 100 } &#x00025;<br />
-            <b>Total keywords found: </b>{ data['total-keywords-found'] }<br />
+            <b>Total keywords found: </b>{ data['total-keywords-found'] }<br /><br />
+            <b>&#x00025; keyword contexts flagged: </b>{ (this.state.keywordsFlagged / data['total-keywords-found']) * 100 } &#x00025;<br/>
+            <b>&#x00025; keyword contexts marked as false hits: </b>{ (this.state.keywordsFalseHits / data['total-keywords-found']) * 100 } &#x00025;<br/>
           </Typography>
         </Paper>
         <br />
@@ -528,6 +589,17 @@ class IndividualReport extends React.Component {
         <br />
         <Paper className={classes.paper} elevation={1}>
           <Typography variant="h5" component="h3">
+            Education of Interviewees
+          </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviewees with no data on education: </b>{ ieData['not-given']}
+          </Typography>
+          <Doughnut data={ ieData['graph-data'] } />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
               Keywords In Context
           </Typography>
           {Object.entries(contexts).map( ([key, value]) => (
@@ -538,7 +610,7 @@ class IndividualReport extends React.Component {
               <Table className={classes.row}>
                 <TableHead>
                   <TableRow>
-                    <CustomTableCell>Incorrect</CustomTableCell>
+                    <CustomTableCell>False Hit</CustomTableCell>
                     <CustomTableCell>Flagged</CustomTableCell>
                     <CustomTableCell>Context</CustomTableCell>
                   </TableRow>

@@ -133,6 +133,7 @@ class SummaryReport extends React.Component {
       keywordCountsData: {},
       intervieweeRaceData: {},
       intervieweeSexData: {},
+      intervieweeEducationData: {},
       keywordsOverTimeData: {},
       keywordsOverTimeSelections: [],
       keywordsOverTimeChosen: [],
@@ -153,6 +154,7 @@ class SummaryReport extends React.Component {
     this.generateTimeRangeBirthYear();
     this.generateIntervieweeRaceData();
     this.generateIntervieweeSexData();
+    this.generateIntervieweeEducationData();
   }
 
   generateKeywordsOverTimeSelections = () => {
@@ -265,7 +267,7 @@ class SummaryReport extends React.Component {
     }
 
     var dataSets = [];
-    dataSets.push(createLineDataset('Time Range of Interviews (by decade)', values));
+    dataSets.push(createLineDataset('Time Range of Interviews', values));
 
     newData['graph-data'] = {
       labels: labels,
@@ -369,6 +371,34 @@ class SummaryReport extends React.Component {
     this.setState({ intervieweeSexData: newData });
   }
 
+  // Generates data for the circle chart for the sex of interviewees
+  generateIntervieweeEducationData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('education' in this.state.data['summary-report']) {
+      data = this.state.data['summary-report']['education'];
+    }
+
+    for (var key in data) {
+      const value = data[key];
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createDoughnutDataset(values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ intervieweeEducationData: newData });
+  }
+
   render() {
     const { classes } = this.props;
     const {
@@ -376,6 +406,7 @@ class SummaryReport extends React.Component {
       timeRangeBirthYearData: trbyData,
       intervieweeRaceData: irData,
       intervieweeSexData: isData,
+      intervieweeEducationData: ieData,
       keywordsOverTimeData: kotData,
       keywordsOverTimeSelections: kotSelections,
     } = this.state;
@@ -471,6 +502,17 @@ class SummaryReport extends React.Component {
             <b>Total interviewees with no data on sex: </b>{ isData['not-given']}
           </Typography>
           <Doughnut data={ isData['graph-data'] } />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+            Education of Interviewees
+          </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviewees with no data on education: </b>{ ieData['not-given']}
+          </Typography>
+          <Doughnut data={ ieData['graph-data'] } />
         </Paper>
       </div>
     );

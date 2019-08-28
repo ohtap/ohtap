@@ -22,6 +22,26 @@ MAX_EXCLUDE_REGEX_LENGTH = 50
 punctuation = ['\.', '/', '\?', '\-', '"', ',', '\\b'] # Punctuation we use within our regexes
 data_dirname = os.getcwd() + "/data/"
 
+# Fills in decade years
+def fill_years(data, step):
+	all_years = []
+	not_given = data["Not given"] if "Not given" in data else 0
+	for k in data.keys():
+		if k != "Not given": all_years.append(int(k))
+
+	new_data = defaultdict(lambda:0)
+	new_data["Not given"] = not_given
+	all_years.sort()
+	for i in range(all_years[0], all_years[-1] + step, step):
+		if str(i) in data:
+			new_data[i] = data[str(i)]
+		elif i in data:
+			new_data[i] = data[i]
+		else:
+			new_data[i] = 0
+
+	return new_data
+
 # Prints out a JSON string that is then read by the Node.js backend.
 def print_message(_type, content):
 	message = {
@@ -238,8 +258,8 @@ def get_included_files(collections, df, runJSON):
 	# Updates the summary report data
 	runJSON["summary-report"]["total-interviewees"] = len(people)
 	runJSON["summary-report"]["total-interviews"] = total_interviews
-	runJSON["summary-report"]["time-range-interviews"] = interview_years_all_collections
-	runJSON["summary-report"]["time-range-birth-year"] = interviewee_metadata_all_collections["birth_decade"]
+	runJSON["summary-report"]["time-range-interviews"] = fill_years(interview_years_all_collections, 1)
+	runJSON["summary-report"]["time-range-birth-year"] = fill_years(interviewee_metadata_all_collections["birth_decade"], 10)
 	runJSON["summary-report"]["race"] = interviewee_metadata_all_collections["race"]
 	runJSON["summary-report"]["sex"] = interviewee_metadata_all_collections["sex"]
 	runJSON["summary-report"]["education"] = interviewee_metadata_all_collections["education"]
@@ -413,11 +433,11 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 	currRunJSON["total-keywords-found"] = total_keywords
 	currRunJSON["total-interviews"] = num_interviews
 	currRunJSON["total-interviews-with-keywords"] = num_with_keywords
-	currRunJSON["time-range-interviews"] = time_range_interviews
+	currRunJSON["time-range-interviews"] = fill_years(time_range_interviews, 1)
 	currRunJSON["keyword-counts"] = keyword_freq
 	currRunJSON["sex"] = sex_map
 	currRunJSON["race"] = race_map
-	currRunJSON["birth_decade"] = birth_decade_map
+	currRunJSON["time-range-birth-year"] = fill_years(birth_decade_map, 10)
 	currRunJSON["education"] = education_map
 	currRunJSON["birth_country"] = birth_country_map
 
@@ -433,6 +453,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 		newKeywordsOverTime[k] = {}
 		for y in all_years:
 			newKeywordsOverTime[k][y] = v[y]
+		newKeywordsOverTime[k] = fill_years(newKeywordsOverTime[k], 1)
 	currRunJSON["keywords-over-time"] = newKeywordsOverTime
 
 	return all_matches
@@ -521,6 +542,7 @@ def main():
 		newKeywordsOverTime[k] = {}
 		for y in all_years:
 			newKeywordsOverTime[k][y] = v[y]
+		newKeywordsOverTime[k] = fill_years(newKeywordsOverTime[k], 1)
 	runJSON["summary-report"]["keywords-over-time"] = newKeywordsOverTime
 
 	with open(data_dirname + "run.json", "w") as f:
