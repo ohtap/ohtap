@@ -206,7 +206,6 @@ class SummaryReport extends React.Component {
 
     for (var i = 0; i < this.state.keywordsOverTimeChosen.length; i++) {
       var k = this.state.keywordsOverTimeChosen[i];
-      console.log(k);
       if (k === "") {
         continue;
       }
@@ -424,7 +423,7 @@ class SummaryReport extends React.Component {
             { kotSelections }
           </Select>
           <Typography component="p">
-            <b>Total keywords found with no labeled year: </b>{ kotData['not-given'] }
+            <b>Total keywords not shown because there is no labeled year: </b>{ kotData['not-given'] }
           </Typography>
           <br />
           <Bar data={kotData['graph-data']} legend={{
@@ -459,12 +458,20 @@ class SummaryReport extends React.Component {
           <Typography variant="h5" component="h3">
             Race of Interviewees
           </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviewees with no data on race: </b>{ isData['not-given']}
+          </Typography>
           <Doughnut data={ irData['graph-data'] } />
         </Paper>
         <br />
         <Paper className={classes.paper} elevation={1}>
           <Typography variant="h5" component="h3">
             Sex of Interviewees
+          </Typography>
+          <br />
+          <Typography component="p">
+            <b>Total interviewees with no data on sex: </b>{ isData['not-given']}
           </Typography>
           <Doughnut data={ isData['graph-data'] } />
         </Paper>
