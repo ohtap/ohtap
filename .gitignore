@@ -2,6 +2,9 @@
 
 # data
 /data/*.json
+/data/metadata-files/*.csv
+/data/corpus-files/*
+!/data/corpus-files/.gitkeep
 
 # dependencies
 /node_modules
