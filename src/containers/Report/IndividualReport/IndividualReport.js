@@ -183,6 +183,7 @@ class IndividualReport extends React.Component {
     this.generateIntervieweeSexData();
     this.generateIntervieweeEducationData();
     this.updateFalseHitsFlaggedPercentages();
+    this.generateKeywordCountsData();
   }
 
   generateKeywordsOverTimeSelections = () => {
@@ -479,6 +480,38 @@ class IndividualReport extends React.Component {
     this.setState({ intervieweeEducationData: newData });
   }
 
+  generateKeywordCountsData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('keyword-counts' in this.state.data) {
+      data = this.state.data['keyword-counts'];
+    }
+
+    var sortedData = sortMap(data);
+
+    for (var i = 0; i < sortedData.length; i++) {
+      const kv = sortedData[i];
+      const key = kv[0];
+      const value = kv[1];
+
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createBarDataset('Counts of Keywords Found', values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ keywordCountsData: newData });
+  }
+
   render() {
     const { classes } = this.props;
     const {
@@ -490,6 +523,7 @@ class IndividualReport extends React.Component {
       intervieweeEducationData: ieData,
       keywordsOverTimeData: kotData,
       keywordsOverTimeSelections: kotSelections,
+      keywordCountsData: kcData,
     } = this.state;
     const contexts = this.state.data['keyword-contexts'];
 
@@ -506,8 +540,9 @@ class IndividualReport extends React.Component {
             <b>Total interviews: </b>{ data['total-interviews'] }<br />
             <b>&#x00025; interviews with keywords: </b>{ (data['total-interviews-with-keywords'] / data['total-interviews']) * 100 } &#x00025;<br />
             <b>Total keywords found: </b>{ data['total-keywords-found'] }<br /><br />
-            <b>&#x00025; keyword contexts flagged: </b>{ (this.state.keywordsFlagged / data['total-keywords-found']) * 100 } &#x00025;<br/>
-            <b>&#x00025; keyword contexts marked as false hits: </b>{ (this.state.keywordsFalseHits / data['total-keywords-found']) * 100 } &#x00025;<br/>
+            <b>&#x00025; keyword contexts flagged: </b>{ (this.state.keywordsFlagged / data['total-keywords-found']) * 100 } &#x00025;<br />
+            <b>&#x00025; keyword contexts marked as false hits: </b>{ (this.state.keywordsFalseHits / data['total-keywords-found']) * 100 } &#x00025;<br /><br />
+            <b>Data directory and subcorpora folders:</b>{ this.state.data["runDirname"] }<br />
           </Typography>
         </Paper>
         <br />
@@ -539,6 +574,14 @@ class IndividualReport extends React.Component {
           <Bar data={kotData['graph-data']} legend={{
             display: false
           }} />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+              Count of Keywords Found
+            </Typography>
+            <br />
+            <Bar data={ kcData['graph-data'] } />
         </Paper>
         <br />
         <Paper className={classes.paper} elevation={1}>

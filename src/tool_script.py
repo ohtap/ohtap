@@ -22,6 +22,16 @@ MAX_EXCLUDE_REGEX_LENGTH = 50
 punctuation = ['\.', '/', '\?', '\-', '"', ',', '\\b'] # Punctuation we use within our regexes
 data_dirname = os.getcwd() + "/data/"
 
+# Writes all the original interviews that have keywords into a subdirectory.
+def write_subcorpora(subcorpora_dirname, filenames, content, keyword_freq_files):
+	os.mkdir(subcorpora_dirname)
+	for i in range(len(filenames)):
+		file = filenames[i]
+		if file not in keyword_freq_files: continue
+		new_file = "{}/{}".format(subcorpora_dirname, file)
+		with open(new_file, "w", encoding = "utf-8") as f:
+			f.write(content[i])
+
 # Fills in decade years
 def fill_years(data, step):
 	all_years = []
@@ -307,6 +317,7 @@ def set_up(runJSON):
 		"total-interviews-with-keywords": 0,
 		"total-keywords-found": 0,
 		"keywords-over-time": defaultdict(lambda:defaultdict(lambda:0)),
+		"keyword-counts": defaultdict(lambda:0)
 	}
 	keyword_regexes = convert_keywords(keywords)
 	collections = read_corpuses(collections)
@@ -417,6 +428,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 				# Updates the statistics
 				keyword_freq[w] += 1
 				curr_keywords[w] += 1
+				runJSON["summary-report"]["keyword-counts"][w] += 1
 				
 				keyword_to_dates[w][date_of_interview] += 1
 				total_keywords += 1
@@ -455,6 +467,8 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 			newKeywordsOverTime[k][y] = v[y]
 		newKeywordsOverTime[k] = fill_years(newKeywordsOverTime[k], 1)
 	currRunJSON["keywords-over-time"] = newKeywordsOverTime
+
+	write_subcorpora(currRunJSON["runDirname"], filenames, content, all_matches.keys())
 
 	return all_matches
 
@@ -501,7 +515,8 @@ def create_new_run(c, k, metadata, runJSON):
 	currRunJSON = {
 		"id": currRunId,
 		"collection": c["id"],
-		"keyword-list": k["id"]
+		"keyword-list": k["id"],
+		"runDirname": runJSON["runDirname"] + "/" + currRunId
 	}
 
 	print_message("m", metadata)

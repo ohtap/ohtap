@@ -155,6 +155,7 @@ class SummaryReport extends React.Component {
     this.generateIntervieweeRaceData();
     this.generateIntervieweeSexData();
     this.generateIntervieweeEducationData();
+    this.generateKeywordCountsData();
   }
 
   generateKeywordsOverTimeSelections = () => {
@@ -399,6 +400,38 @@ class SummaryReport extends React.Component {
     this.setState({ intervieweeEducationData: newData });
   }
 
+  generateKeywordCountsData = () => {
+    var labels = [];
+    var values = [];
+    var data = {};
+    var newData = {};
+
+    if ('keyword-counts' in this.state.data['summary-report']) {
+      data = this.state.data['summary-report']['keyword-counts'];
+    }
+
+    var sortedData = sortMap(data);
+
+    for (var i = 0; i < sortedData.length; i++) {
+      const kv = sortedData[i];
+      const key = kv[0];
+      const value = kv[1];
+
+      labels.push(key);
+      values.push(value);
+    }
+
+    var dataSets = [];
+    dataSets.push(createBarDataset('Counts of Keywords Found', values));
+
+    newData['graph-data'] = {
+      labels: labels,
+      datasets: dataSets
+    };
+
+    this.setState({ keywordCountsData: newData });
+  }
+
   render() {
     const { classes } = this.props;
     const {
@@ -409,6 +442,7 @@ class SummaryReport extends React.Component {
       intervieweeEducationData: ieData,
       keywordsOverTimeData: kotData,
       keywordsOverTimeSelections: kotSelections,
+      keywordCountsData: kcData,
     } = this.state;
     const summaryData = this.state.data['summary-report'];
 
@@ -424,7 +458,8 @@ class SummaryReport extends React.Component {
             <b>Total interviews: </b>{ summaryData['total-interviews'] }<br />
             <b>&#x00025; interviews with keywords: </b>{ (summaryData['total-interviews-with-keywords'] / summaryData['total-interviews']) * 100 } &#x00025;<br />
             <b>Total keywords searched for: </b>{ summaryData['total-keywords'] }<br />
-            <b>Total keywords found: </b>{ summaryData['total-keywords-found'] }<br />
+            <b>Total keywords found: </b>{ summaryData['total-keywords-found'] }<br /><br />
+            <b>Data directory: </b>{this.state.data["runDirname"]}<br />
           </Typography>
         </Paper>
         <br />
@@ -456,6 +491,14 @@ class SummaryReport extends React.Component {
           <Bar data={kotData['graph-data']} legend={{
             display: false
           }} />
+        </Paper>
+        <br />
+        <Paper className={classes.paper} elevation={1}>
+          <Typography variant="h5" component="h3">
+              Count of Keywords Found
+            </Typography>
+            <br />
+            <Bar data={ kcData['graph-data'] } />
         </Paper>
         <br />
         <Paper className={classes.paper} elevation={1}>
