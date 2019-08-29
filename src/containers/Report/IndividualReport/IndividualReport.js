@@ -667,7 +667,7 @@ class IndividualReport extends React.Component {
                       <CustomTableCell>
                         <Checkbox checked={v.flagged} name={v.id} value="flagged" onClick={this.handleCheckboxChange} />
                       </CustomTableCell>
-                      <CustomTableCell>{v.keywordContext}</CustomTableCell>
+                      <CustomTableCell>{v.keywordContext[0]}<b>{v.keywordContext[1]}</b>{v.keywordContext[2]}</CustomTableCell>
                     </TableRow>
                   ))}
                 </TableBody>

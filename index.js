@@ -65,7 +65,7 @@ var currRun = {
  }
 
 // Serves the session
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 5001;
 app.listen(port, function() {
 	// Creates a session JSON file if one does not exist and writes to it
 	const rawContents = `{ 

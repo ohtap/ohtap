@@ -139,7 +139,8 @@ def read_corpuses(collections):
 			if ".txt" not in file: continue
 			filenames.append(file)
 
-			with open("{}/{}".format(directory, file), "r", encoding = "ISO-8859-1") as f:
+			# "ISO-8859-1" encoding otherwise?
+			with open("{}/{}".format(directory, file), "r", encoding = "utf-8") as f:
 				content.append(f.read())
 
 		c["filenames"] = filenames
@@ -493,11 +494,9 @@ def get_all_contexts(filenames, content, all_matches, currRunJSON):
 			word = m[2]
 			after = m[3]
 
-			bold_word = "<b>{}</b>".format(word)
-			curr_context = "...{}{}{}...".format(before, bold_word, after)
 			cJSON = {
 				"id": str(j) + "-" + f,
-				"keywordContext": curr_context,
+				"keywordContext": [before, word, after],
 				"flagged": False,
 				"falseHit": False
 			}
