@@ -1,109 +1,85 @@
-# OHTAP Subcorpora Tool
-Hilary Sun (hsun3@cs.stanford.edu), Stanford Computer Science, Winter/Spring 2019
+# Winnow: Generate relevant subcorpora from your oral history collections for easier analysis.
 
-## About
+Winnow is a tool that generates relevant subcorpora based on metadata and lists of researcher-generated keywords. Winnow provides researchers with smaller subsets of large collections of texts that they can then analyze via traditional close-reading methods or with out-of-the-box textual analysis tools or custom scripts.
 
-A web application to generation subcorporas for oral history analyses. 
+For more implementation details about the tool and its use cases, please see the [Wiki](https://github.com/ohtap/subcorpora-tool/wiki).
 
-### Design Document
+## Software Engineers
 
-Please see our design document [here](https://docs.google.com/document/d/1Y2Y7lZVFSKBxc57EO8zOrN_WNm-I7aYD5-6W2gl3GNA/edit).
+* Hilary Sun (hilary@cs.stanford.edu), Winter/Spring/Summer 2019
 
-## Use Cases
+## Running the application
 
-Can be used locally by downloading the repository and running it.
+To run the application, follow the following steps.
 
-## Sample Application (TBD)
+### Installation
 
-A sample static web application is running at [https://ohtap-subcorpora-tool.herokuapp.com](https://docs.google.com/document/d/1Y2Y7lZVFSKBxc57EO8zOrN_WNm-I7aYD5-6W2gl3GNA/edit). This contains a few sample transcripts for you to play around with and explore the functionality of the subcorpora tool.
+You only need to do this installation process once.
 
-## Installation
+#### Cloning the repository
 
-### Clone repository
-
-To clone the repository and install relevant packages onto your local machine, run:
+Clone the repository, located here: [https://github.com/ohtap/subcorpora-tool](https://github.com/ohtap/subcorpora-tool).  Go into the `subcorpora-tool` directory. You can run this command in your terminal:
 
 ```
 # Clone the repository
-$ git clone git@github.com:ohtap/subcorpora-tool.git
+git clone git@github.com:ohtap/subcorpora-tool.git
 
-# Go into the project main folder
-$ cd subcorpora-tool
+# Enter into the subcorpora-tool directory
+cd subcorpora-tool
 ```
 
-You only need to clone it once.
+### Installing the Node modules
 
-## Usage
-
-### Running the application
-
-In order to build the static HTML files, run:
+To install the Node modules, run:
 
 ```
-$ npm run build
+npm install
 ```
 
-You only need to run this once if you don't edit any of the files.
+## Running the application
 
-To run the local web application:
+### Building the static files
+
+We need to build the static HTML files to display. Run:
 
 ```
-$ node index.js
+npm run build
 ```
 
-You should see the line `OHTAP Subcorpora Tool launched` in the terminal after running this command if the web application is successfully running locally.
+You do not need to run this command again if you never update the React.js files.
 
-Open up your web browser to [https://localhost:5000](https://localhost:5000).
+### Running it locally
 
-### Running the subcorpora tool
+To run the web application locally, run:
 
-Navigate to the tab "Create a new run."
+```
+npm run start
+```
 
-#### (1) vNaming your run
+Currently, this runs the command ```node index.js```. You should see the line `OHTAP Subcorpora Tool launched` in the terminal after running this command if the web application is successfully running locally.
 
-Give your run a name. It will automatically create a new run with the ID composed of the name, date, and time. This should be unique to each run, unless you somehow miraculously create multiple reports in the same second (or if you switch time zones and happen to do a run at the same time). The code for this page is in `/src/containers/CreateRun/CreateRun.js`.
-
-#### (2) Selecting collections
-
-Here you will select the collections that will be included in the run. There is a multiple selection tool. The code for this page is in `/src/containers/CreateRun/SelectCollections/SelectCollections.js`.
-
-#### (3) Selecting keyword lists
-
-Here you will select the keyword lists that will be included in the run. There is a multiple selection tool. The code for this page is in `/src/containers/CreateRun/SelectKeywords/SelectKeywords.js`.
-
-#### (4) Selecting metadata
-
-#### (5) Running the Python script
-
-The subcorpora folder formed will be within the folder `data/subcorpora`.
-
-### Adding, editing, and deleting keyword lists
-
-Navigate to the tab "Keyword Lists." Add by clicking on the button "Add New Keyword List," edit by clicking on the pencil icon beside the relevant list, and delete by clicking on the trash can icon beside the relevant list.
-
-### Viewing and clearing past runs
-
-Navigate to the tab "Past Runs." Clear the list by clicking on the button "Clear past runs."
-
-### Sharing data
-
-All session data will be stored in `data/session.json`. This contains all the keyword lists, reports, collection names, etc. This is meant to be shareable between people to restore sessions.
-
-They will not, however, be able to see the subcorpora formed.
+You can then navigate to [http://localhost:5000/](http://localhost:5000/) in your web browser to see the web application.
 
 ## Directory structure
 ```
 .
 |	+--
-+-- build		# Contains the built static HTML files
-+-- public		# Contains default HTML
-|	+--
-+-- src 		# Contains all the React files
-+-- .gitignore	# List of files and folders to ignore
-+-- index.js 	# Main entry point
-+-- README.md 	# Instructions the web app
-+-- 
++-- build				# Contains the built static HTML files
++-- data 				# Contains data files and uploads
+|	+-- corpus-files	# Uploaded corpus text files
+|	+-- metadata-files	# Uploaded metadata CSV files
+|	+-- runs			# Files from runs
+|	+-- run.json 		# JSON file containing the data from the last run made
+|	+-- session.json 	# JSON file containing all the data from this session
++-- node_modules		# Folder containing Node modules
++-- public				# Contains default HTML
++-- src 				# Contains all the React files
+|	+-- containers		# All the React JavaScript files--our frontend code
+|	+-- index.js 		# File containing all of our backend code
++-- .gitignore			# List of files and folders to ignore
++-- index.js 			# Main entry point
++-- LICENSE				# MIT license information
++-- package.json 		# Node modules
++-- package-lock.json 	# Node modules
++-- README.md 			# Instructions for the web app
 ```
-
-## Acknowledgements
-
