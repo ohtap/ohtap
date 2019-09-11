@@ -75,9 +75,8 @@ You can then navigate to [http://localhost:5000/](http://localhost:5000/) in you
 +-- public				# Contains default HTML
 +-- src 				# Contains all the React files
 |	+-- containers		# All the React JavaScript files--our frontend code
-|	+-- index.js 		# File containing all of our backend code
 +-- .gitignore			# List of files and folders to ignore
-+-- index.js 			# Main entry point
++-- index.js 			# File containing all of our backend code
 +-- LICENSE				# MIT license information
 +-- package.json 		# Node modules
 +-- package-lock.json 	# Node modules
