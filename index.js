@@ -65,17 +65,17 @@ var currRun = {
  }
 
 // Serves the session
-const port = process.env.PORT || 5001;
+const port = process.env.PORT || 5000;
 app.listen(port, function() {
 	// Creates a session JSON file if one does not exist and writes to it
 	const rawContents = `{ 
-		'keyword-lists': {},
-		'collections': {},
-		'runs': {}
+		"keyword-lists": {},
+		"collections": {},
+		"runs": {}
 	}`;
 
 	if (!fs.existsSync(dataFile)) {
-		fs.writeFile(dataFile, rawContents, { flag: 'wx' }, function (err) {
+		fs.writeFileSync(dataFile, rawContents, { flag: 'wx' }, function (err) {
 		    if (err) throw err;
 		});
 		initializeData();
