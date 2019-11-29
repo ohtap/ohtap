@@ -137,8 +137,10 @@ app.post("/upload_metadata", function(req, res) {
 	var currUploadFunction = uploadFunction('metadata');
 	currUploadFunction(req, res, function(err) {
 		if (err) {
+			console.log("Failed to upload metadata file: " + err + "\n");
 			return res.status(500).json(err);
 		}
+		console.log("Metadata file uploaded!\n");
 		return res.status(200).send(req.file);
 	})
 });
