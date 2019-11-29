@@ -102,7 +102,7 @@ var uploadFunction = function(_type) {
 		destination: function(req, file, cb) {
 			var dest = "./data/metadata-files/";
 			if (_type === "collection") {
-				dest = dest + "corpus-files/" + currCollectionUploadId + "/";
+				dest = "./data/corpus-files/" + currCollectionUploadId + "/";
 				if (!fs.existsSync(dest)){
 				    fs.mkdirSync(dest);
 				}
@@ -127,8 +127,10 @@ app.post("/upload_collection", function(req, res) {
 	var currUploadFunction = uploadFunction('collection');
 	currUploadFunction(req, res, function(err) {
 		if (err) {
+			console.log("Failed to upload collection: " + err + "\n");
 			return res.status(500).json(err);
 		}
+		console.log("Collection uploaded!\n");
 		return res.status(200).send(req.file);
 	});
 });
