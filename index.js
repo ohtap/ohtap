@@ -328,6 +328,7 @@ app.post("/add_collection", function (req, res) {
 	console.log("Adding collection " + collectionId);
 	data["collections"][collectionId] = {};
 	currCollectionUploadId = collectionId;
+	data["collections"][collectionId]["id"] = collectionId;
 	data["collections"][collectionId]["name"] = currData.name;
 	data["collections"][collectionId]["collection-count"] = currData.collection_count;
 	data["collections"][collectionId]["shortened-name"] = currData.shortenedName;

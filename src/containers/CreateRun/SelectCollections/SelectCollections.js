@@ -96,7 +96,7 @@ class SelectCollections extends React.Component {
     for (var k in collections) {
       const item = collections[k];
       const name = item['shortened-name'];
-      const _id = item['id'];
+      const _id = k;
       idsOrder.push(_id);
       menuBody.push(<MenuItem key={_id} value={_id} style={getStyles(name, this)}>{name}</MenuItem>);
     }
