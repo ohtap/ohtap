@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import loadable from '@loadable/component';
-import './App.css';
 
 const DefaultLayout = loadable(() => import('./containers/DefaultLayout'));
 
