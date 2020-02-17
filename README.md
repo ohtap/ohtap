@@ -60,6 +60,20 @@ Currently, this runs the command ```node index.js```. You should see the line `O
 
 You can then navigate to [http://localhost:5000/](http://localhost:5000/) in your web browser to see the web application.
 
+## Running tests
+
+Running this command will run any Jest tests in watch mode related to React files changed:
+
+```
+npm test
+```
+
+Running this command will run all Python unit tests for the `tool_script.py`.
+
+```
+python src/tool_script_test.py
+```
+
 ## Directory structure
 ```
 .

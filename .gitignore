@@ -16,6 +16,8 @@
 # production
 /build
 
+# Python cache
+/src/__pycache__/*
 
 # misc
 .DS_Store

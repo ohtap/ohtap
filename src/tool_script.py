@@ -96,8 +96,8 @@ def create_run_directory(runId):
 	return dirname
 
 # Gets punctuation joined by bars (this is punctuation that we decide to count as separation!)
-def get_punctuation_for_regex():
-	return "|".join(punctuation)
+def get_punctuation_for_regex(punc):
+	return "|".join(punc)
 
 # Converts the keyword list to Python regex form. Returns the full list of words and the 
 # included and excluded regexes.
@@ -108,7 +108,7 @@ def convert_keywords(keywords):
 		# Sorts the included words backwards to make sure we get the longer words first
 		included_words = k["include"]
 		included_words = sorted(included_words, key=lambda l: (len(l), l), reverse=True)
-		punc = get_punctuation_for_regex()
+		punc = get_punctuation_for_regex(punctuation)
 		included_regexes = []
 		for w in included_words:
 			r = r'(?:{})({})(?:{})'.format(punc, w.replace("*", "[a-zA-Z]*"), punc)
