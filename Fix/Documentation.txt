@@ -1,0 +1,4 @@
+- Each folder contains information from the OHTAP_metadata sheet on Google Drive which needed to be fixed, along with the script used to fix that information
+	- "Filenames" folder: Once we were able to indicate that a given interview had multiple interviewees, we needed to change our filenames to link multiple interviewees with the same filename
+	- "IDs" folder: Interviewee IDs needed to be assigned and fixed during the shift to having separate sheets for interview and interviewee metadata in June 2019
+		- Note: The script present in "IDs" should no longer be used to fix interviewee ids

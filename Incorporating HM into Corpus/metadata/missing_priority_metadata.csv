@@ -1,0 +1,252 @@
+project_file_name,collection_id,year of birth,birth_decade,researcher_assumed_birth_decade,researcher_assumed_race OR identified_race
+BWSP_English_Lydia.txt,BWSP,,,1940,Black or African American [stated]
+ROHA_Archibald_Alice.txt,ROHA,1905,1900, ,Black or African American [stated]
+ROHA_Higgins_Joan.txt,ROHA,1923,1920, ,White
+ROHA_Robinson_Mary.txt,ROHA,1917,1910, ,White
+SHSA_Murray_Mary.txt,SHSA,1922,1920, ,White
+SHSF_Jacobs_Charlotte.txt,SHSF,1946,1940, ,White
+SHSF_Mahoney_Sally.txt,SHSF,1939,1930, ,White
+SHSF_Miner_Anne.txt,SHSF,1940,1940,,White
+SHSF_Packer_Nancy_2.txt,SHSF,1925,1920,,White
+SHSF_Shapiro_Lucy.txt,SHSF,1940,1940,,White
+SHSF_Keohane_Nannerl_2.txt,SHSF,1940,1940,,White
+SHSF_Tversky_Barbara.txt,SHSF,1941,1940, ,White
+RTRB_Torres_Mary.txt,RTRB,1923,1920, ,White
+RTRB_Michell_Jean.txt,RTRB,1925,1920,,White
+RTRB_Miles_Irene.txt,RTRB,,,1920,White
+RTRB_Pursley_Marilyn.txt,RTRB,1918,1910,,White
+UNCSW_Cook_Alice_Hanson.txt,UNCSW,1903,1900,,White
+UNCSW_Page_Myra.txt,UNCSW,1897,before 1900,,
+UNCSW_Rogers_Grace_Hemphill.txt,UNCSW,1887,before 1900,,
+UNCSW_Ransdall_Hollace.txt,UNCSW,,,,
+UNCTWMS_Bell_Brenda.txt,UNCTWMS,1944,1940,,
+UNCTWMS_Lewis_Helen_Matthews.txt,UNCTWMS,1924,,1920,
+UNCTWMS_Colette_Marian.txt,UNCTWMS,1947,,1940,
+UNCTWMS_Evans_Gaye.txt,UNCTWMS,1943,1940,,
+UNCTWMS_Groover_Marian.txt,UNCTWMS,1947,1940,,
+UNCTWMS_Pickering_Mimi.txt,UNCTWMS,1950,,1950,
+UNCTWMS_Rostan_June.txt,UNCTWMS,1947,1940,,
+UNCTWMS_Levy_Dianne.txt,UNCTWMS,1947,1940,,
+UNCTWMS_White_Connie.txt,UNCTWMS,1954,1950,,
+UNCTWMS_Ivins_Melody_1.txt,UNCTWMS,1955,1950,,
+UNCTWMS_Rollins_Sheryl_Clark.txt,UNCTWMS,1949,1940,,
+UNCTWMS_Robinson_Gail.txt,UNCTWMS,1945,1940,,
+UNCTWMS_Ray_Gloria.txt,UNCTWMS,1947,1940,,
+UNCTWMS_Short_Joan_Boyd.txt,UNCTWMS,1945,1940,,
+UNCTWMS_Begalla_Martha.txt,UNCTWMS,1945,1940,,
+UNCTWMS_Walsh_Deborah_Jane.txt,UNCTWMS,1953,1950,,
+UNCTWMS_Randolph_Gail.txt,UNCTWMS,1947,1940,,
+UNCTWMS_Mashburn_Lillian_Tauxe.txt,UNCTWMS,1943,1940,,
+UNCTWMS_Herr_Mary.txt,UNCTWMS,1940,1940,,
+UNCTWMS_Mays_Mary_Katherine.txt,UNCTWMS,1950,1950,,
+UNCTWMS_Judy_Rebecca_Ann.txt,UNCTWMS,1940,1940,,
+UNCTWMS_Fuchs_Laurie.txt,UNCTWMS,1950,,1950,
+UNCTWMS_Elmore_Bessie.txt,UNCTWMS,1948,1940,,
+UNCTWMS_Renz_Constance_Anne.txt,UNCTWMS,1950,1950,,
+UNCTWMS_Ray_Sylvia.txt,UNCTWMS,1941,,1940,
+UNCTWMS_JohnsonHostler_Monika.txt,UNCTWMS,,,1970,
+UNCTWMS_Lester_Lorayne.txt,UNCTWMS,1935,1930,,
+UNCTWMS_Nickle_Carol.txt,UNCTWMS,1941,1940,,
+UNCTWMS_Grant_Patricia.txt,UNCTWMS,1952,1950,,
+UNCTWMS_Giardina_Carol.txt,UNCTWMS,1946,1940,,
+UNCTWMS_Holt_Sibal.txt,UNCTWMS,1946,1940,,
+UNCTWMS_Wolf_Paula.txt,UNCTWMS,1953,1950,,
+UNCTWMS_Sassman_Susan.txt,UNCTWMS,1955,1950,,
+UNCTWMS_Henderson_Margaret.txt,UNCTWMS,1955,1950,,
+UNCTWMS_Barrett_Margaret_Bowers.txt,UNCTWMS,1964,1960,,
+UNCTWMS_Fortney_Judith.txt,UNCTWMS,1938,1930,,
+UNCTWMS_Radcliff_Melissa.txt,UNCTWMS,,,1970,
+UNCTWMS_Stokes_Jeanette.txt,UNCTWMS,1951,,1950,
+UNCTWMS_Gruelle_Kit.txt,UNCTWMS,1954,1950,,
+UNCTWMS_Cravey_Altha.txt,UNCTWMS,1952,1950,,
+UNCTWMS_Benedict_Salli.txt,UNCTWMS,1947,1940,,
+UNCTWMS_Stulberg_Dorothy.txt,UNCTWMS,1925,1920,,
+UNCTWMS_Brown_Laura_Clark.txt,UNCTWMS,1970,1970,,
+UNCTWMS_Zalph_Ruth_Colish.txt,UNCTWMS,1930,1930,,
+UNCTWMS_Hutchison_Carolyn.txt,UNCTWMS,1959,1950,,
+UNCTWMS_Hill_Linda_Upton.txt,UNCTWMS,1954,1950,,
+UNCTWMS_Edwards_Laura.txt,UNCTWMS,1962,1960,,
+UNCTWMS_Buckley_Suzanne.txt,UNCTWMS,1981,1980,,
+UNCTWMS_Marshall_Senseney.txt,UNCTWMS,1945,1940,,
+UNCTWMS_Pevia_Kim_Adrienne.txt,UNCTWMS,1957,1950,,
+UNCTWMS_Byrd_Erin_Dale.txt,UNCTWMS,1974,1970,,
+UNCTWMS_Turner_Katherine.txt,UNCTWMS,1967,1960,,
+UNCTWMS_Leeper_Connie.txt,UNCTWMS,1956,1950,,
+UNCTWMS_Davis_Catherine.txt,UNCTWMS,1952,1950,,
+UNCTWMS_Wilson_Gen.txt,UNCTWMS,1952,1950,,
+UNCTWMS_Hatcher_Paris.txt,UNCTWMS,1979,1970,,
+UNCTWMS_Garcia_Serena.txt,UNCTWMS,1971,,1970,
+UNCTWMS_Woods_Charity.txt,UNCTWMS,1977,,1970,
+UNCTWMS_Ross_Loretta.txt,UNCTWMS,1953,,1950,
+UNCTWMS_Morrow_Sarah_Taylor.txt,UNCTWMS,1921,1920,,
+UNCTWMS_Parsons_Darlene.txt,UNCTWMS,1953,1950,,
+UNCTWMS_Basham_Janelle.txt,UNCTWMS,1976,1970,,
+UNCTWMS_Prior_Karen_Swallow.txt,UNCTWMS,1965,1960,,
+UNCTWMS_Reisman_Judith.txt,UNCTWMS,1935,1930,,
+OOHYLC_Messenger_Dorothy.txt,OOHYLC,1913,1910,,White
+OSS_Stanford_Mary_Jane.txt,OSS,1936,,1930,White
+OSS_Malave_Maria.txt,OSS,,,1940,Hispanic/Latinx [stated]
+OSS_Nunnallee_Marilee.txt,OSS,1945,,1940,White
+OSS_McConnell_Wendy.txt,OSS,1982,,1980,White
+OWHF_Martin_Kay.txt,OWHF,1944,,1940,White
+OWHF_Creveling_Ginny.txt,OWHF,1946,,1940,Asian
+OWHF_Boyd_Betty.txt,OWHF,1924,,1920,White
+OWHF_Feldman_Nancy.txt,OWHF,1922,,1920,White
+OWHF_Rhea_Jeanine.txt,OWHF,1938,,1930,White
+OWHF_Coats-Ashley_Nancy.txt,OWHF,,,1940,White
+OWHF_Longacre_Jacqulyn.txt,OWHF,1936,,1930,White
+OWHF_Ross_Cindy.txt,OWHF,1952,,1950,White
+OWHF_Taylor_Kathryn.txt,OWHF,1955,,1950,White
+SOOH_Cash_June.txt,SOOH,1941,,1940,White
+SOOH_Sellers_Arlene.txt,SOOH,1944,,1940,White
+SOOH_Richardson_Faye.txt,SOOH,1938,1930,,White
+SOOH_Jones_Theola_Cudjoe.txt,SOOH,1946,1940,,Indigenous American or Alaskan Native
+SOOH_Howard_Norma.txt,SOOH,1958,,1950,Indigenous American or Alaskan Native
+SOOH_Wynne_Gail.txt,SOOH,1950,1950,,White
+SOOH_Hodges_Pauline.txt,SOOH,1929,1920,,White
+SOOH_Tucker_Erma.txt,SOOH,1943,1940,,White
+SOOH_Schwabe_Margaretha.txt,SOOH,1949,1940,,White
+SOOH_Edgmon_Mary_Jo.txt,SOOH,1922,1920,,White
+SOOH_Valencia-Weber_Gloria.txt,SOOH,1948,,1940,Two or More Races
+SOOH_Bridges_Jeanne_Rorex.txt,SOOH,1951,,1950,Indigenous American or Alaskan Native
+SOOH_Henderson_Mary_Horsechief.txt,SOOH,1962,1960,,Indigenous American or Alaskan Native
+WOL_Taylor_Carolyn_Thompson.txt,WOL,1957,,1950,White
+WOL_Gray_Twyla_Mason.txt,WOL,1954,1950,,White
+WOL_Mitchell_Cleta_Deatherage.txt,WOL,1950,,1950,White
+WOL_Williams_Penny.txt,WOL,1937,,1930,White 
+WOL_Coleman_Carolyn.txt,WOL,1952,1950,,White
+WOL_Weedn_Trish.txt,WOL,1950,,1950,White
+WOL_Denney_Lee.txt,WOL,1953,,1950,White
+WOL_McDaniel_Jeannie.txt,WOL,1948,,1940,White
+WOL_Collins_Jan.txt,WOL,1941,,1940,White
+WOL_Johnson_Constance.txt,WOL,1952,,1950,Black or African American
+WOL_Horner_Maxine.txt,WOL,1933,,1930,Black or African American
+WOL_McNiel_Skye.txt,WOL,1978,1970,,White
+WOL_Leftwich_Debbe.txt,WOL,1952,,1950,White
+WOL_Pittman_Anastasia.txt,WOL,1970,,1970,Black or African American
+WOL_Peterson_Pam.txt,WOL,1955,,1950,White
+WOL_Riley_Nancy.txt,WOL,1958,,1950,White
+WOL_Hastings_Joan.txt,WOL,1932,,1930,White
+WOL_Hamilton_Rebecca.txt,WOL,1948,,1940,White
+WOL_Fallin_Mary.txt,WOL,1954,,1950,White
+WOL_Askins_Jari.txt,WOL,1953,,1950,White
+BWSP_Baumgarten_Sylvia.txt,BWSP,,,,White
+BWSP_Black_Lois.txt,BWSP,1931,,1930,White
+BWSP_Brown_Janice.txt,BWSP,1918,,,White
+BWSP_Burroughs_Marjorie.txt,BWSP,,,,White
+BWSP_Chapman_Clarice.txt,BWSP,,,,White
+BWSP_Cogan_Martha_2.txt,BWSP,1905,1900,,White
+BWSP_Dannenberg_Carol.txt,BWSP,1944,,1940,White
+BWSP_Desai_Tejal.txt,BWSP,1972,,1970,Asian
+BWSP_Fairchild_Joyce.txt,BWSP,1925,,1920,White
+BWSP_Fausto-Sterling_Anne.txt,BWSP,,,,White
+BWSP_Gardner_Martha.txt,BWSP,1966,,1960,White
+BWSP_Gorton_Arlene_2.txt,BWSP,,,,White
+BWSP_Hopkins-Stapleton_Doris.txt,BWSP,1906,,1900,White
+BWSP_Johnson_Gladys.txt,BWSP,,,,White
+BWSP_Kay_Sarah.txt,BWSP,1988,,1980,Two or More Races
+BWSP_Lamphere_Louise.txt,BWSP,,,,White
+BWSP_Landman_Margot.txt,BWSP,,,,White
+BWSP_Leonard_Margery.txt,BWSP,,,,White
+BWSP_Mahdesian_Linda.txt,BWSP,1960,,1960,Two or More Races
+BWSP_Mikuriya_Mary.txt,BWSP,1934,,1930,Two or More Races
+BWSP_Miller_Kristie.txt,BWSP,1948,,1940,White
+BWSP_Morgan_Anna.txt,BWSP,,,,White
+BWSP_Morse_Charlotte.txt,BWSP,,,,White
+BWSP_Moss_Beverly.txt,BWSP,,,,White
+BWSP_Palmer_Alison.txt,BWSP,,,,White
+BWSP_Phillips_Elizabeth.txt,BWSP,,,,Black or African American
+BWSP_Richardson_Joyce.txt,BWSP,,,,Black or African American
+BWSP_Rodriguez_Hannelore.txt,BWSP,,,,Asian
+BWSP_Roitman_Rose.txt,BWSP,,,,White
+BWSP_Ross_Hilary.txt,BWSP,,,,White 
+BWSP_Semonoff_Susan.txt,BWSP,,,,White
+BWSP_Sweet_Mary.txt,BWSP,,,,White
+BWSP_Testa_Dorothy.txt,BWSP,,,,White
+BWSP_Wade_Jeree.txt,BWSP,,,,Black or African American
+BWSP_Winsor_Elizabeth.txt,BWSP,,,,White
+ROHA_Bloom_Adaline.txt,ROHA,,,,White
+ROHA_Dempsey_Dorothy.txt,ROHA,,,,White
+ROHA_Drelich_Pearl.txt,ROHA,,,,White
+ROHA_Feller_Frieda.txt,ROHA,,,,White
+ROHA_Godfrey_Nancy.txt,ROHA,,,,White
+ROHA_Harris_Wilma.txt,ROHA,,,,Black or African American
+ROHA_Herman_Susan.txt,ROHA,,,,White
+ROHA_Hunter_Nan.txt,ROHA,,,,White
+ROHA_Juengst_Pauline.txt,ROHA,,,,White
+ROHA_Karesh_Janice.txt,ROHA,,,,White
+ROHA_Kramer_Barbara.txt,ROHA,,,,White
+ROHA_Mandel_Adrienne_2.txt,ROHA,,,,White
+ROHA_Manning_Lois.txt,ROHA,,,,White
+ROHA_Morrison_Barbara.txt,ROHA,,,,Black or African American
+ROHA_Pinsdorf_Marion.txt,ROHA,,,,White
+ROHA_Rotholz_Anne.txt,ROHA,,,,White
+ROHA_Seitelback_Akiko_2.txt,ROHA,,,,Asian
+ROHA_Spetgang_Tilly_2.txt,ROHA,,,,White
+ROHA_Taylor_Kathleen.txt,ROHA,,,,White
+ROHA_Thompson_Pearl.txt,ROHA,,,,White
+ROHA_Treash_Eileen.txt,ROHA,,,,White
+SCAP_Abrams_Lisa.txt,SCAP,,,,White
+SCAP_Baldwin_Tammy.txt,SCAP,,,,White 
+SCAP_Callahan_Kara.txt,SCAP,,,,White
+SCAP_Carr_Carolyn.txt,SCAP,,,,White
+SCAP_Grace_Martha.txt,SCAP,,,,White
+SCAP_Hazeltine_Glenna.txt,SCAP,,,,White
+SCAP_Jimenez_Ileana.txt,SCAP,,,,Hispanic/Latinx
+SCAP_Kessler_Elizabeth.txt,SCAP,,,,White
+SCAP_King_Brandy.txt,SCAP,,,,White
+SCAP_LaBarbera_Jen.txt,SCAP,,,,Two or More Races
+SCAP_Leiter_Ruth.txt,SCAP,,,,White
+SCAP_Lewis_Sylvia.txt,SCAP,,,,White
+SCAP_McNulty_Molly.txt,SCAP,,,,White
+SCAP_Rosenthal_Betsy.txt,SCAP,,,,White
+SCAP_Rothblum_Esther.txt,SCAP,,,,White
+SCAP_Simpson-Sawyer_Miranda.txt,SCAP,,,,White 
+SCAP_Wang_Kit.txt,SCAP,,,,Asian
+SCAP_Winawer-Wetzel_Sarah.txt,SCAP,,,,White
+SCAP_Yahm_Elinor.txt,SCAP,,,,White
+SHSA_Tracy_Else.txt,SHSA,,,,White
+SHSA_Gartrell_Nanette.txt,SHSA,,,,White
+SHSA_Gianturco_Paola.txt,SHSA,,,,White
+SHSF_Chu_Jean.txt,SHSF,,,,White
+SHSF_Donaldson_Sarah.txt,SHSF,,,,White
+SHSF_Gelpi_Barbara.txt,SHSF,,,,White
+SHSF_Kraemer_Helena.txt,SHSF,,,,White
+SHSF_Maccoby_Eleanor.txt,SHSF,,,,White
+SHSF_Martin_Joanne.txt,SHSF,,,,White
+SHSF_Meier_Linda.txt,SHSF,,,,White
+SHSF_Strober_Myra.txt,SHSF,,,,White
+SHSF_Traugott_Elizabeth.txt,SHSF,,,,White
+SHSF_Kennedy_Jeanne.txt,SHSF,,,,White
+SHSF_Collier_Jane.txt,SHSF,,,,White
+SHSF_Litt_Iris.txt,SHSF,,,,White
+RTRB_Esser_Edythe.txt,RTRB,,,,White
+SCAL_Ahrens_Lois.txt,SCAL,,,,White
+SCAL_Ballas_Joan.txt,SCAL,,,,White
+SCAL_Berkman_Joyce.txt,SCAL,,,,White
+SCVF_Alexander_Dolores.txt,SCVF,,,,White
+SCVF_Apuzzo_Virginia.txt,SCVF,,,,White
+SCVF_Berek_Judy.txt,SCVF,,,,White
+SCVF_Gilbert_Ronnie.txt,SCVF,,,,White
+SCVF_Gould_Sara.txt,SCVF,,,,White
+SCVF_Henry_Fran.txt,SCVF,,,,White
+SCVF_Kramer_Marian.txt,SCVF,,,,Black or African American
+SCVF_Lerner_Gerda.txt,SCVF,,,,White
+SCVF_Moraga_Cherrie.txt,SCVF,,,,Hispanic/Latinx
+SCVF_Nelson_Marjory.txt,SCVF,,,,White
+SCVF_Nussbaum_Karen.txt,SCVF,,,,White
+SCVF_Payne_Ladoris.txt,SCVF,,,,Black or African American
+SCVF_Pratt_Minnie_Bruce.txt,SCVF,,,,White
+SCVF_Roma_Catherine.txt,SCVF,,,,White
+SCVF_Steinem_Gloria.txt,SCVF,,,,White
+SCVF_Smith_Barbara.txt,SCVF,,,,Black or African American
+SCVF_Stout_Linda.txt,SCVF,,,,White
+SCVF_Thom_Mary.txt,SCVF,,,,White
+SCVF_Vazquez_Carmen.txt,SCVF,,,,Hispanic/Latinx
+SCVF_Winslow_Barbara.txt,SCVF,,,,White
+OSS_Smith_Bonnie.txt,OSS,,,,White
+OSS_Waldrop_Ruthann.txt,OSS,,,,White
+OSS_Chitwood_Marian.txt,OSS,,,,White
+HM_Shorter_Vera.txt,HM,,,,Black or African American
+HM_Cantarella_Marcia.txt,HM,,,,Black or African American
+HM_Stevens_Rochelle.txt,HM,,,,Black or African American

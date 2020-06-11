@@ -1,0 +1,28 @@
+word_1,word_2,count
+sex* abuse,sex* assault,4
+sex* assault,sex* violence,4
+sex* abuse,sex* violence,4
+harass*,sex* violence,4
+incest*,raped,2
+incest*,sex* assault,2
+incest*,sex* abuse,2
+incest*,sex* violence,2
+rape,raping,2
+rape,rapes,2
+rape,sex* assault,2
+harass*,rape,2
+rape,sex* abuse,2
+rape,sex* violence,2
+rapes,raping,2
+raping,sex* assault,2
+harass*,raping,2
+raping,sex* abuse,2
+raping,sex* violence,2
+rapes,sex* assault,2
+harass*,rapes,2
+rapes,sex* abuse,2
+rapes,sex* violence,2
+harass*,sex* assault,2
+harass*,sex* abuse,2
+harass*,raped,2
+raped,sex* violence,2

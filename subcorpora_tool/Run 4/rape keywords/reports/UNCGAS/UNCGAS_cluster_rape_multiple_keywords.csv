@@ -1,0 +1,7 @@
+word_1,word_2,count
+rape,raped,4
+harass*,rape,4
+harass*,raped,2
+rape,sex* assault,2
+harass*,sex* assault,2
+playboy,rape,2

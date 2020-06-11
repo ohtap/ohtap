@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042047" dt="2018-08-15"><version>5.1</version><date value="2005-04-12" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Nellie Sarracino Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Nellie Sarracino</interviewee><interviewer>Elizabeth Castle</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>CASTLE: We can go back at some point and talk about where you were born and
+raised, but just to kind of continue on the conversation we&#039;ve been having,
+let&#039;s talk about the experience with the Santa Fe Indian Village in Richmond.
+Could you tell me the first time you remember hearing about the railroad
+company, and what was your family relationship with the railroad company?
+
+NELLIE SARRACINO: When I heard about the Santa Fe Indian--about the railroad?
+Oh, I guess ever since we were little, the old folks talked about the railroad,
+because in the old days the old folks were more interested in what was happening
+to the railroad. Then my brother-in-law, Victor, and my husband and Pete
+Marie--their grandfather was the one that agreement with the railroad. The white
+man could not pronounce his Indian name. His Indian name was Hiyuwe [phonetic],
+but the white people called him Highway.
+
+CASTLE: And this was 1922? When was this first agreement? Are you saying that
+this is your family remembering the first agreement in the twenties?
+
+N. SARRACINO: I really don&#039;t exactly know what year this was, but I think Victor
+would tell you when he gets here.
+
+CASTLE: What was the agreement between the railroad officials and the Laguna people?
+
+N. SARRACINO: Oh, the agreement was for the Santa Fe to come through the Indian
+reservation, when they first brought their railroad across through the
+reservation. That was when they made that verbal agreement.
+
+CASTLE: And what did the Laguna get for the agreement?
+
+N. SARRACINO: Well, they were promised jobs, and whatever, I guess, they might
+need to have. I guess that was the verbal agreement with the railroad. Just like
+you&#039;re talking about our housing in Richmond Colony, that was the verbal
+agreement, too. That&#039;s why Santa Fe put up those homes for us. After taking the
+wheels off the boxcars, they had moved them down to where we used to live. At
+first they were still on wheels, right across the coach yard, where the coach
+yard is. But then later, then Santa Fe moved them down to the Santa Fe Indian Village.
+
+CASTLE: So you&#039;re talking about Richmond. You&#039;re in Richmond, California.
+
+N. SARRACINO: Yes.
+
+CASTLE: Tell me when you first moved to Richmond.
+
+N. SARRACINO: In 1942.
+
+CASTLE: Were you with your husband and your kids? Did you all live together?
+
+N. SARRACINO: No, I was not married then, at that time. But I was working for
+the railroad.
+
+CASTLE: What did you do for the railroad?
+
+N. SARRACINO: At first when they hired me I was an engine wiper. Then a few
+weeks after, they transferred me into the shop where I was a helper to a mechanic.
+
+CASTLE: So you started off as an engine wiper.
+
+N. SARRACINO: Yes. I started out as an engine wiper.
+
+CASTLE: What was your job?
+
+N. SARRACINO: Because during the war times, they were mostly using steam
+engines. They were not using diesels. Diesels had come about way much later, but
+they were all steam engines they were using. During the war times they hired all
+the retired engineers back on the job. I worked with two railroad retirement
+engineers. One was Clyde Lam [phonetic], and one was Beckman [phonetic].
+
+CASTLE: When something is a steam engine, what is it that you have to do? As an
+engine wiper, what is it that you do?
+
+N. SARRACINO: Well, what we were doing was wiping off all the excess oil on the
+engines, you know. That was what the engine wiper used to do. Then later I was
+transferred to a mechanic helper, machinist helper, and then after that I was
+transferred to the supply room where they supplied the steam engines, where you
+had to supply them with oil and lanterns that they used.
+
+CASTLE: What was your favorite job out of all--I mean, that&#039;s a lot of
+transfers. Was there one job that you liked more than another?
+
+N. SARRACINO: Well, I would rather test--you know, it&#039;s funny. When they were
+using the steam engines, you had to test the water. That was my favorite job,
+after working in the supply room.
+
+CASTLE: What did you do to test the water?
+
+N. SARRACINO: When they come in you have to catch them right away in the yard,
+and then take the water out from the steam engine. After you take the water out
+from the steam engine, then you put chemicals in the water, and then it
+registers where the boiler has to be washed out from the steam engine, and
+they&#039;d take them back to the shop to work on the boilers.
+
+CASTLE: So it sounds like it&#039;s not as messy as having to wipe the engines.
+
+N. SARRACINO: You&#039;re right. [laughs]
+
+CASTLE: It&#039;s a little more technical, too, right?
+
+N. SARRACINO: That&#039;s true.
+
+CASTLE: So is this all throughout 1942? How long did you have these jobs, and
+what else did you do after that, in terms of work?
+
+N. SARRACINO: At work? Well, that was my job. I worked for Santa Fe about four
+years. Then when I got married, then my husband told me not to work
+anymore.CASTLE: So this husband, where did you meet this person?
+
+N. SARRACINO: Well, he was an electrician. His name was Sandy Sarracino.
+
+CASTLE: And you met him in the Indian village.
+
+N. SARRACINO: Yes.
+
+CASTLE: Can you tell me--do you remember the first time you saw him, or the
+first date that you went on?
+
+N. SARRACINO: Well, I never knew him. See, he&#039;s from Laguna, but see, he&#039;s way
+over in another village. But I just got to know him at work, on the job.
+
+CASTLE: So you worked together.
+
+N. SARRACINO: No, I&#039;d never worked with him, because he was an electrician at
+the coach yard. But I worked in the same area, only the shop was way to the back
+of the coach yard, where all the engines come in.
+
+CASTLE: I guess I hadn&#039;t thought about the fact that you all are really the
+Richmond Santa Fe Indian Village family. I mean, you met your husband there. I
+mean, that you&#039;d live here in the pueblo, and then find each other all the way
+over in Richmond, California.
+
+N. SARRACINO: Right. Right.CASTLE: So what year did you two get married, you and Sandy?
+
+N. SARRACINO: In--let me see now. I have to think. [laughs]
+
+CASTLE: Sometime in the forties.
+
+N. SARRACINO: That was in &#039;44.
+
+CASTLE: 1944. Can you stop for a second?
+
+[Interruption. Tape recorder turned off.]
+
+CASTLE: You said you had an uncle.
+
+N. SARRACINO: Yes. Tom Ahmi [phonetic] was his name, and he was the one that
+came home to visit from Richmond, because they needed some more people to go out
+there to work for the railroad. So I went with him out to Richmond, and the very
+next day I got that job, and I was put to work the very next--a couple of days
+later after that.
+
+CASTLE: Who went along with you? How many women were with you when you went out
+to Richmond? Do you remember?
+
+N. SARRACINO: No, I was the only one that went with my uncle.
+
+CASTLE: Did other women come soon after that?
+
+ 01-00:10:00
+
+N. SARRACINO: Well, there were other women that did work for the railroad, too.
+There was other Laguna ladies that worked.
+
+CASTLE: Did they have similar jobs to you?
+
+N. SARRACINO: Oh yes, they had different jobs. Some were coach cleaners, and
+some were supply ladies, and some still worked in the shop with the engines.
+
+CASTLE: Do you remember their names?
+
+N. SARRACINO: Yes.
+
+CASTLE: What were their names?
+
+N. SARRACINO: The ladies&#039; name was Daisy Beardsley [phonetic], Julia Poncho
+[phonetic], Gertie Henderson [phonetic], Nellie Hill [phonetic], Elizabeth Arkey
+[phonetic], Juanita Cashrol [phonetic], and let me see who else. There were
+other Acoma [phonetic] ladies that did work there.
+
+CASTLE: You all didn&#039;t arrive together, but you came all around that general
+time, the early forties.
+
+N. SARRACINO: Yes. They all came at different times, probably, because I really
+don&#039;t remember exactly, you know.
+
+CASTLE: Do you remember when you first got there, did you have any idea what to
+expect? I mean, when you first got into the rail yard, was this just a totally
+new world for you, or what was that, for those first few days or weeks, like
+there? Do you remember that?
+
+N. SARRACINO: The first few days I was there?
+
+CASTLE: Yes. What was it like? Had you traveled a lot before that, or was this
+the first time that you had gone so far from--
+
+N. SARRACINO: That was the first time I&#039;ve gone that far.
+
+CASTLE: Was it exciting? Was it scary?
+
+N. SARRACINO: Not really, no. No, it was interesting to make that trip.
+
+CASTLE: And you went out on the railroad.
+
+N. SARRACINO: Right.
+
+CASTLE: Took a train out.
+
+N. SARRACINO: Because they furnish you a pass to travel when you first go out there.
+
+CASTLE: From what I understand the agreement was largely focused on any Laguna
+man who wanted to work and have a job for the railroad. Do you know why women
+were working, why they were brought in? Was it because of the need with World
+War II?
+
+N. SARRACINO: Well, that was during the war times, and they needed more people
+to work for the railroad. There was, of course, other men that worked, but they
+needed a lot of help with the coach yard and then the engines.
+
+CASTLE: So did you live by yourself when you first got there? Did you live with
+other women?
+
+N. SARRACINO: No, I lived with my sister. She was already out--they were already
+out there, her and her family.
+
+CASTLE: And what&#039;s her name?
+
+N. SARRACINO: Her name was Doris, Doris Devore [phonetic].
+
+CASTLE: Doris Devore. So they were already out, established.
+
+N. SARRACINO: They were already out there, yes.
+
+CASTLE: And they were living in a boxcar.
+
+N. SARRACINO: They were already living in the boxcar.
+
+CASTLE: So describe to me what the village was like. I know it changed over
+time, as improvements were made by the railroad. But what was it like when you
+first got there, and describe the living conditions for me.
+
+N. SARRACINO: At first, the boxcars, of course, were still on wheels, and then,
+much later, they took the wheels off the boxcars and moved them down to the area where--
+
+[Tape recorder turned off.]
+
+CASTLE: You were describing to me the boxcars. At first they had wheels; then
+they took the wheels off. What were they like inside? Describe to me what it was
+like [unclear].
+
+N. SARRACINO: Well, they were nice inside. They had two bedrooms, and then, of
+course, a living room. But later when they were removed down to where we were,
+another site, then they added the kitchen and the bathrooms. The men had their
+own restroom, and the women had their own restroom. There were two boxcars that
+were used as restrooms. Like showers, they had showers, and, of course, wash
+basins and stuff like that.
+
+CASTLE: How long was it before you had your own bathrooms built into the boxcars?
+
+N. SARRACINO: Oh, not too long, about maybe two, three months, after they
+finished with adding the kitchens and the bathrooms.
+
+CASTLE: What was it, I mean, because boxcars aren&#039;t--they&#039;re long, but they&#039;re
+not necessarily very wide. How was it like, living inside? Were they comfortable?
+
+N. SARRACINO: Oh, they were comfortable, yes.
+
+CASTLE: So you had a kitchen. How else did you cook? Did you cook traditional
+food? And eventually, did you build outdoor ovens, is what I understood?
+
+N. SARRACINO: Oh yes, way much later we had built ovens so we can bake bread,
+oven bread.
+
+CASTLE: What&#039;s required to bake the bread? Do you need sand to bake the bread?
+[to someone else] Go ahead and ask.
+
+Narrator&#039;s Daughter:
+
+Mom, remember when you guys first made the ovens?
+
+N. SARRACINO: Yes.
+
+Narrator&#039;s Daughter:
+
+And you guys had to go to the secured area, and you guys had to ask for sand to
+build them, because it was a secured area, and you guys had to get permission to
+go in.
+
+N. SARRACINO: Oh yes, to get the dirt.
+
+Narrator&#039;s Daughter:
+
+That&#039;s what you can tell her.
+
+CASTLE: Why was that?
+
+N. SARRACINO: We had to ask permission to get the dirt.
+
+CASTLE: From where?
+
+N. SARRACINO: From Point Richmond.
+
+Narrator&#039;s Daughter:
+
+A certain kind of sand that they needed. They couldn&#039;t find that sand anywhere,
+and they had to haul it.
+
+CASTLE: That&#039;s a lot of effort to make bread.
+
+N. SARRACINO: Not really, no.
+
+CASTLE: We need to talk about World War II.
+
+[Tape recorder turned off.]
+
+Narrator&#039;s Daughter:
+
+My aunt, her aunt had--
+
+N. SARRACINO: They had their own oven, the Acomas did, and then the Lagunas had
+their own oven.
+
+CASTLE: Did the Acomas and the Lagunas live in different parts of the village,
+or was it just families all interspersed? Was there a section that had Acomas
+living in it, different from the Lagunas?
+
+N. SARRACINO: Oh no, no. You know, the thing with the people out there, it&#039;s
+like we were all just like one whole family, just everybody was friendly. There
+were no problems.
+
+CASTLE: I wasn&#039;t thinking as much about problems, but I just wondered if, like,
+families tended to live closer, you know, since they&#039;re probably from Acoma
+village, did they stay together? Because sometimes that&#039;s how people describe
+it. I&#039;m trying to get a sense of what the yard looked like. I mean, how many
+boxcars were there? Were there ten? Were there twenty? Were there fifty? Or was
+it just a really big space?
+
+N. SARRACINO: There were thirty boxcars.
+
+CASTLE: Oh, so you know exactly. [Sarracino laughs.] Didn&#039;t need to guess all
+that many different options.N. SARRACINO: There were thirty units where two
+families had one boxcar on one side, but both of the kitchens were added
+together. Like they were units, one whole unit, but the bathrooms were separate,
+and the kitchens were separate, and the bedrooms were separate from each other.
+
+Unidentified Female:
+
+They were like duplexes.
+
+N. SARRACINO: Just like there&#039;s one boxcar here, and the other boxcar here
+[demonstrates], and then the kitchen and the bathrooms separated the two boxcars.
+
+CASTLE: So the two boxcars are like this, and then in between is--
+
+N. SARRACINO: Right. Right.CASTLE: Okay, so it&#039;s like an H, kind of. Okay, so
+two families. So you married Sandy--
+
+N. SARRACINO: Yes.
+
+CASTLE: --and you lived in a boxcar. What family lived in the other boxcar?
+
+N. SARRACINO: Oh, the neighbors?
+
+CASTLE: Yes, who were the neighbors?
+
+N. SARRACINO: The Montoyas.
+
+CASTLE: Did they have children?
+
+N. SARRACINO: Yes.
+
+CASTLE: When did you have your first child? Was she born there in Richmond
+Village, or was she born back home in Laguna?
+
+N. SARRACINO: They were both born in Albuquerque. At the time there was still an
+Indian hospital in Albuquerque.
+
+CASTLE: What year was your first child born?
+
+N. SARRACINO: 1945.
+
+CASTLE: Maybe we could talk a little bit about what it was like to be in
+Richmond during World War II. I mean, already you ended up with a job in the
+village because of wartime need.
+
+[aside] Brendan, what do you want to ask in terms of World War II that you&#039;re
+thinking is helpful to Richmond?
+
+FUREY: How would you describe to someone who didn&#039;t live through World War II
+the atmosphere in Richmond during the war? There were the three shipyards, the
+Ford Motor plant, American Radiator, a lot of activity going on in Richmond. How
+would you describe an average day in Richmond during World War II?
+
+N. SARRACINO: I guess you just kind of get used to all of this, you know, and
+just don&#039;t think anything about it, you know.
+
+CASTLE: Was it different?
+
+N. SARRACINO: The only--
+
+CASTLE: I mean, was there energy in the air?
+
+N. SARRACINO: The only difference was when we had earthquakes. [laughs]
+
+CASTLE: You mean being out in California?
+
+N. SARRACINO: Right.
+
+CASTLE: You experienced earthquakes when you were there?
+
+N. SARRACINO: Oh yes, oh yes.
+
+CASTLE: And they were scary?
+
+N. SARRACINO: It was kind of scary. Gives you a funny feeling when they have
+those earthquakes.CASTLE: Did you have to deal with rationing or ration coupons,
+in terms of the food? Were there certain things you couldn&#039;t get during World
+War II?
+
+N. SARRACINO: Oh yes. We had some kind of ration books that you had to have like
+so much for meat, so much for sugar, and you couldn&#039;t find no stockings, nylon
+stockings, anywhere. [laughs]
+
+CASTLE: So what did you do, being a young woman on the town? What do you do
+without stockings?
+
+N. SARRACINO: They used to come out with some kind of cream, like, to put on
+your legs, like the different shades of stockings, you know. But then once in a
+while Macy&#039;s would come out with nylon stockings. If you were there, you were
+lucky to get a pair, but you were only allowed one pair.
+
+CASTLE: Ooh, that&#039;s a lot of pressure.
+
+N. SARRACINO: Really. Right.CASTLE: How do you avoid runs in that one pair of stockings?
+
+N. SARRACINO: And then shoes, you had to use coupons for shoes, too.
+
+CASTLE: So did you have to be really strategic?
+
+N. SARRACINO: You had to kind of watch your coupons.
+
+CASTLE: Did you share things with other people? I&#039;m curious. Did anyone ever
+share shoes or anything, since it was hard to get a hold of these items?
+
+N. SARRACINO: No. I think everybody got along with whatever they had, you know,
+in the line of coupons.
+
+CASTLE: Did you ever use stocking cream--
+
+N. SARRACINO: No.
+
+CASTLE: --to make your legs look like suntan?
+
+N. SARRACINO: No. No. I think mostly everybody wore socks.
+
+CASTLE: What did you wear to work, on a daily basis, in this job, in the
+different jobs you had working in the rail yard?
+
+N. SARRACINO: Well, regular work clothes, coveralls.
+
+CASTLE: Coveralls?
+
+N. SARRACINO: I mean, I wore coveralls. And if they need to go to the laundry,
+well, you wear your regular work clothes. [laughs]
+
+CASTLE: So what did you do during wartime in Richmond for fun? What was social
+life like? Did you go out? Did you go dancing anywhere?
+
+N. SARRACINO: Oh yes, yes. We had a small buggy. We used to have to carry both
+girls in the buggy and push them down the street. [laughs] Yes, we went to the
+movies, and went to Cow Palace when they have rodeos.
+
+CASTLE: Oh, really?
+
+N. SARRACINO: Oh yes, because, personally, we met Gene Autry and Roy Rogers.
+
+CASTLE: At the Cow Palace?
+
+N. SARRACINO: Yes. Even Gene Autry came and sat with us and talked with us for a
+while, before he started the second show.
+
+CASTLE: How were you introduced to him?
+
+N. SARRACINO: He just came and sat by us, because he knew--well, he worked with
+some Navajos on the Navajo reservation, he said, when they were making movies. I
+guess he just figured that we were Indian people, so he just came and started to
+talk to us. He sat by us. And Roy Rogers was the same way.
+
+CASTLE: Were they nice?
+
+N. SARRACINO: Yes.
+
+CASTLE: So that was like a Sunday afternoon or something, or a weekend.
+
+N. SARRACINO: Oh yes.
+
+CASTLE: Did you hold dances in the village?
+
+N. SARRACINO: No. Well, dancing in the village, we had our own Indian dances,
+and the Acomas the same way, too.
+
+CASTLE: So, traditional dancing? Or ceremonial dancing?N. SARRACINO: Right,
+traditional dancing, yes.
+
+CASTLE: When did you do that? For what reasons, and when?N. SARRACINO: But for
+dancing, like American dance, I guess you would call it, well, my husband had
+his own dance band.
+
+CASTLE: Really.
+
+N. SARRACINO: Yes.
+
+CASTLE: What did they do?
+
+N. SARRACINO: He had a man that played the drum, and another one played the
+saxophone. His name was Philip Sanshoe [phonetic] that played the saxophone. The
+Garcia man played the drums, and my husband played the accordion.
+
+CASTLE: The accordion?
+
+N. SARRACINO: Yes. He knows how to play. I still have the accordion.
+
+FUREY: What kind of a band, was it Western swing, or what type of songs were
+they playing?
+
+N. SARRACINO: Well, just regular American music.
+
+CASTLE: So dance songs?
+
+N. SARRACINO: Yes.
+
+CASTLE: Would they play at dance halls, and people would dance?
+
+N. SARRACINO: Yes, right. They used to use the Santa Fe assembly hall to have
+those American dances, what we call American dances.
+
+CASTLE: So that&#039;s how you distinguish between, as Pueblo people--
+
+N. SARRACINO: Right.
+
+CASTLE: --who dance for a lot of reasons.
+
+N. SARRACINO: Yes. Both tribes, both the Acomas and the Lagunas came and enjoyed
+their dancing.
+
+FUREY: Do you remember Dude Martin&#039;s band?
+
+N. SARRACINO: What&#039;s that now?
+
+FUREY: Dude Martin. He played in Richmond during the war a lot.
+
+N. SARRACINO: Oh yes, yes.
+
+FUREY: His was the most popular band in Richmond.
+
+N. SARRACINO: And people never used to go elsewhere, I don&#039;t think, for dancing,
+because some places, you know, get rough.
+
+CASTLE: Where were the dances that you went to?
+
+N. SARRACINO: At the Santa Fe yard.
+
+CASTLE: And that&#039;s in the village?
+
+N. SARRACINO: Yes, Santa Fe--no, Santa Fe assembly hall. I&#039;ll show you a picture
+of the Santa Fe building, and this was upstairs where they had the assembly
+hall. That was where they had the American dances.
+
+CASTLE: What was the name of your husband&#039;s band? Did they have a name?
+
+N. SARRACINO: He never had a name. [laughs]
+
+CASTLE: I mean, who did you dance with if he was playing? You had plenty of
+friends to go?
+
+N. SARRACINO: Well, we&#039;d just go watch, maybe, or he&#039;d rest for a while and come
+and we&#039;d dance.
+
+CASTLE: But you don&#039;t recall ever going really far away from the village to go
+dancing. You didn&#039;t go into Richmond itself, or Oakland, or San Francisco? Did
+you ever do that, to dance?
+
+N. SARRACINO: No, not for dancing, but we&#039;d go to YWCA for like Thanksgiving or whatever.
+
+CASTLE: You mentioned that you often danced traditionally in the village.
+
+N. SARRACINO: Yes.
+
+CASTLE: For what different reasons or occasions would you do that? Just for
+ceremonial purposes, or to celebrate something? Can you give me an example?
+
+N. SARRACINO: Yes, to celebrate some kind of occasion, or just for like maybe
+somebody&#039;s birthday they would have something.
+
+CASTLE: Did you ever participate in any activities outside of the village where
+you danced, to show people your culture, like at school? Or did people come to
+the village?
+
+ 01-00:29:56
+
+N. SARRACINO: Oh yes, right. Sometimes we&#039;d dance for the school, and sometimes,
+remember, we showed you a picture where we danced in San Francisco at that
+Continental Airlines.
+
+CASTLE: What was that for, their first flight?
+
+N. SARRACINO: When it first inaugurated from San Francisco to Albuquerque. When
+it took its first flight.CASTLE: I see. And who danced? Who was it that was dancing?
+
+N. SARRACINO: The dance was--what we called it was the war dance; social dance,
+I guess you would call it.
+
+CASTLE: Did you go to church, or did you have any traditional ways of practicing spirituality?
+
+N. SARRACINO: Oh yes, we went to church on Sundays at Point Richmond, or either
+down there or on Tenth Street, where there was another Catholic church, which
+was St. Mark&#039;s.
+
+CASTLE: Who went to that church? Would other different ethnic groups go to that church?
+
+N. SARRACINO: I think mostly all the people went to the Catholic churches.
+
+CASTLE: You mean all the people from the village?
+
+N. SARRACINO: Yes. They were all Catholic people that were there.
+
+CASTLE: Were there other, like, ethnic Catholics there?
+
+N. SARRACINO: No.
+
+CASTLE: Did you recognize--were there other white people there, or you know, Polish?
+
+N. SARRACINO: Well, I mean, you know, when you go to church there&#039;s all
+different kinds of people there.
+
+CASTLE: Okay. So you all went to church together.
+
+N. SARRACINO: Yes, we all--yes.
+
+CASTLE: And when you were in the village itself, did you have any traditional
+spiritual practices that you held within the village?
+
+N. SARRACINO: Oh no, no.
+
+CASTLE: In terms of social life also, what are some of the things that you or
+the men did? Were there sports teams that were formed during that time?
+
+N. SARRACINO: Oh yes. The men had a Santa Fe baseball team.
+
+CASTLE: Who did they play?
+
+N. SARRACINO: Other teams from the city. I&#039;ll show you a picture of the baseball
+players that was taken when we first had that reunion for the Santa Fe Indian people.
+
+CASTLE: We&#039;ve called it a village, and at some point it also has the name
+colony. Can you describe the political system? Was there a council elected? How
+did the colony take care of its needs and govern itself?
+
+N. SARRACINO: Well, we had our officers, just like from the tribal. He had to
+come from the tribal office at Laguna, and they elect a governor, a secretary, a
+treasurer, and I think two other officials. Those were the people that ran the
+Santa Fe Indian Village; same way with the ones on the Acoma side. They had the
+same thing, too.
+
+CASTLE: Oh, okay. So there were two sets of--
+
+N. SARRACINO: Right. Two different--the Acomas had their own officers, and the
+Laguna people had their own officers, and they had village meetings every week.
+The men got together. There might be something that was needed at the village,
+or they might discuss about something, you know. Like, they had to vote
+sometimes for something from the main tribal office at Laguna.
+
+CASTLE: So, in the village the council had a say on what happened back home.
+
+N. SARRACINO: Right. Yes. They got letters from the main tribal office.
+
+CASTLE: And those letters, they described what was happening at home.
+
+N. SARRACINO: Yes.
+
+CASTLE: So that there was a lot of communication between--
+
+N. SARRACINO: Right.
+
+CASTLE: Because this is a big thing, that you&#039;re a group of--
+
+N. SARRACINO: Yes. We weren&#039;t just out there, but we had communications from the
+main tribal office at Laguna.
+
+CASTLE: Would you say that there was a really strong sense of home and place and culture?
+
+N. SARRACINO: Right. Yes.
+
+CASTLE: And all these different things that we&#039;ve been talking about played into
+that, right?
+
+N. SARRACINO: Right.
+
+CASTLE: What languages were spoken in the village?
+
+N. SARRACINO: Indian language. Well, both English and Indian.
+
+CASTLE: Were there other places where Indians went in the Bay Area, other
+meeting centers or places that--did you ever visit them, like the Intertribal
+Friendship House? Do you remember that?
+
+N. SARRACINO: Right.
+
+CASTLE: And what else? Was there a place in San Francisco, an Indian center that
+you ever attended?
+
+N. SARRACINO: Oh yes.
+
+CASTLE: What kind of things would you do?
+
+N. SARRACINO: It was a get-together for the people, like maybe they have a
+little powwow, or somebody&#039;s birthday came up, or maybe it might be a
+Thanksgiving or Christmas dinner that was being planned at the Tribal Friendship
+House. Before the Tribal Friendship House it was YWCA.
+
+CASTLE: Oh, really.
+
+N. SARRACINO: Yes.
+
+CASTLE: In Oakland?
+
+When you were out in the village, did you miss home? Did you miss being back here?
+
+N. SARRACINO: Oh yes, because we had old folks back home, you know, where you
+had to, of course, come see them. Like when my husband is on vacation, like
+Santa Fe would give the men two weeks vacation. Then after they worked so many
+years, then they got three weeks vacation, with pay.
+
+CASTLE: And you would come back to Laguna?
+
+N. SARRACINO: Oh yes, we&#039;d come back and visit my parents, because they were
+both still living here.
+
+FUREY: Did you belong to a union, a trade union? I&#039;m not sure what the union was
+at Santa Fe.
+
+NARRATOR&#039;S DAUGHTER: You know, like when my dad belonged to the union, the
+oilers union, the firemen and oilers union. Did the women--at the time when you
+were working, did you belong to a union?
+
+N. SARRACINO: A what?
+
+FUREY: The trade union connected for labor bargaining. You know what a union is?
+
+N. SARRACINO: A union? No.
+
+CASTLE: I&#039;ll have to say no. Well, this picture of you with your oilcan back
+here as an oiler--
+
+when you first said you wiped down engines, when did you work as an oiler? Was
+that the job wiping down engines, or what does an oiler do?
+
+N. SARRACINO: The oiler? Okay, the oiler is the one that checks all the wheels.
+If the wheels are not packed with waste--they called it waste, and you put them
+around the wheels, and then you have to check all the wheels, and then oil the
+waste, make sure that the waste is all soaked with oil, because if something
+happens on the road--because after you check an engine out you have to sign your
+name. Then if that engine is having wheel problems, then they&#039;ll call you in and
+ask you, &quot;Did you work on that engine?&quot;
+
+CASTLE: So you&#039;re held accountable.
+
+N. SARRACINO: Then you have to really be careful with the wheels, because see,
+those wheels get hot on the rail, and then you have to really make sure they&#039;re
+packed real good, and then oiled real good, and then--
+
+ 01-00:40:05
+
+CASTLE: Describe to me when you&#039;re saying they&#039;re packed with--it&#039;s called waste?
+
+N. SARRACINO: Yes.
+
+CASTLE: What is that exactly? Is it a bunch of greasy gunk? Describe to me what
+waste is.
+
+N. SARRACINO: I don&#039;t know how I would describe that. It&#039;s like a whole bunch of
+thread shredded that they call waste. Okay. Then you pack this waste around the
+wheel, and then you have to make sure you oil the waste real good, because after
+you work on an engine you have to sign your name, and then if that engine should
+have wheel problems on the way somewhere, then you&#039;re in for it.
+
+CASTLE: Did you ever have a problem with any wheels?
+
+N. SARRACINO: No. No.
+
+CASTLE: Did you know anyone who did?
+
+N. SARRACINO: Yes. I don&#039;t know how to describe that waste--
+
+CASTLE: Is it like a substance that sticks to the wheel?
+
+N. SARRACINO: Yes. It&#039;s kind of like--you would say like cotton, but then it&#039;s
+not really cotton. It&#039;s kind of shredded string-like thing that you have to pack
+around the wheels.
+
+CASTLE: Right. What would happen if there wasn&#039;t that waste to give some
+release? Because if not, it would be all metal on metal, right?N. SARRACINO:
+Yes, right.
+
+CASTLE: So this gives it--and then you keep that oiled, and so it allows it to
+go smoothly around.
+
+N. SARRACINO: Right.
+
+CASTLE: Yes, that makes sense. That sounds like a pretty tough job.
+
+N. SARRACINO: Yes.
+
+CASTLE: I&#039;m thinking, you know, a lot of women took new jobs on that they might
+not have done before World War II--
+
+N. SARRACINO: Yes.
+
+CASTLE: --you know, whether they were welding or riveting. It&#039;s a pretty
+important job, because if anything goes wrong, something could happen. How long
+did you do that job?
+
+N. SARRACINO: I did that about maybe two years. Then they switched me to testing
+the engines when they come in.
+
+CASTLE: And that you liked to do.
+
+N. SARRACINO: That was to test the water with chemicals, and then if that
+chemical doesn&#039;t register to the point where it&#039;s supposed to be, then the
+engine has to go into the shop and they have to clean out the boiler, because
+see, during the wartimes they used mostly steam engines. There were no diesels
+at all, just steam engines.
+
+CASTLE: Did you ask to be transferred to that job from being an oiler?
+
+N. SARRACINO: No. They just kind of pick you, I guess, and then they put you in
+that department.
+
+CASTLE: Was it more responsibility, do you think, than the job you had before
+that? Because it sounds like it was.
+
+N. SARRACINO: No. Well, they come around and they check on you. The bosses come
+around all the time. They walk back and forth. Then if you are really a good
+worker, I guess, or I don&#039;t know how they pick you, but anyway, then they come
+up and they just tell you, maybe say, &quot;Tomorrow you go test the engines, and
+that&#039;s going to be your job.&quot;
+
+CASTLE: Do you remember, were there times, or do you remember any talk about,
+like the bosses, or people thinking there were jobs that women shouldn&#039;t do,
+that they weren&#039;t capable of doing?
+
+N. SARRACINO: No, I think everybody did what they had to do.
+
+CASTLE: Can we take a break?
+
+[Tape recorder turned off.]
+
+N. SARRACINO: It&#039;s a newspaper clipping.
+
+Narrator&#039;s Daughter:
+
+Oh no, I haven&#039;t come to it yet. I didn&#039;t see it yet; not yet anyway.
+
+N. SARRACINO: She was washing the wheels.
+
+Narrator&#039;s Daughter:
+
+Okay. It&#039;s not in these ones.
+
+N. SARRACINO: And I was handing the supplies up to the engineer, that Clyde Lam.
+
+Narrator&#039;s Daughter:
+
+Oh, it&#039;s probably in one of these, then.
+
+FUREY: Maybe we could bring the album over here so she could just look at--
+
+Narrator&#039;s Daughter:
+
+It&#039;s not in that one. But there&#039;s that picture that Daddy and what&#039;s-his-name
+was in San Francisco, right? It&#039;s in there, but it&#039;s in 1940s, before he married her.
+
+N. SARRACINO: Oh, this was at Oakland Park.
+
+FUREY: What year was this picture?
+
+N. SARRACINO: Gee, I guess I don&#039;t know. There&#039;s Ruthie. She was just a little
+thing. That&#039;s Terry.
+
+FUREY: So the early fifties.
+
+N. SARRACINO: Yes, that&#039;s my husband and that&#039;s me, and that&#039;s a neighbor. And
+here&#039;s Ruthie, way down here. Is there, by chance, a picture of Dad when he
+retired? I wanted to show them that now; Santa Fe building where we used to have
+those American dances.
+
+Narrator&#039;s Daughter:
+
+Is it in an album like that one? Is it like that one, or one of those plastic ones?
+
+N. SARRACINO: It&#039;s kind of in a newer album. These are the old ones. Some of
+these are gone. See, here&#039;s a Santa Fe boxcar. This one, out this way is the
+shower and the bathroom, right here. This was taken at the zoo. Here&#039;s Ruthie,
+way down here.
+
+[Background conversation, inaudible.]N. SARRACINO: See, these were all taken at
+the zoo in San Francisco. You know, they used to take my husband to the zoo,
+that Fleishhacker Zoo, and they used to put him inside where the eagle is and take
+
+movies of him. Somebody took something out from here. Oh, man, it&#039;s summer,
+because during the winter usually I tried to wear my coveralls, because it&#039;s cold.
+
+CASTLE: Yes. Now this is your oilcan right here?
+
+N. SARRACINO: Yes. Remember the one I&#039;m carrying in that picture?
+
+CASTLE: Wow. So where was this picture shot?
+
+N. SARRACINO: That was taken in the Santa Fe yard.
+
+CASTLE: Do you remember where it was published? Was it in a newspaper?
+
+N. SARRACINO: Yes, it was the Richmond paper.
+
+Narrator&#039;s Daughter:
+
+And that one was, too, that one that we had? That was in a magazine.
+
+CASTLE: Oh wow, a Richmond magazine?
+
+Narrator&#039;s Daughter:
+
+She couldn&#039;t remember. It wasn&#039;t just Richmond.
+
+CASTLE: Do you remember this picture that was in a magazine?
+
+N. SARRACINO: Oh yes, that one.
+
+CASTLE: What magazine was that in?
+
+N. SARRACINO: The Santa Fe magazine.
+
+CASTLE: A company magazine?
+
+N. SARRACINO: Yes, and then it was plastered all over the newspapers, that one.
+
+CASTLE: Do you remember what year that was taken?
+
+N. SARRACINO: I don&#039;t even remember what year that was.
+
+CASTLE: Because I could look it up and get copies of it from the different
+newspapers, you know.
+
+Narrator&#039;s Daughter:
+
+Probably after she was here, between &#039;42 and &#039;43, I guess.
+
+N. SARRACINO: Yes, I think that&#039;s what what&#039;s-his-name had to do, Curt.
+
+CASTLE: I could just talk to him.
+
+N. SARRACINO: There were some he said he couldn&#039;t find anyway. This was in the
+Richmond paper.
+
+CASTLE: [reads] &quot;Just like the WACs, the WAVES, and the Women Marines, our women
+workers on the Santa Fe have taken the places of men who have gone off to war.
+Nellie Arkey, engine supplier at Richmond, takes pride in her humble duties as
+she passes a lantern to Clyde Lam, hostler. Her co-worker Daisy L. Beardsley
+works diligently nearby.&quot; Cool.
+
+N. SARRACINO: This was taken at YWCA.
+
+CASTLE: What was this for? Was this a performance for visitors?
+
+N. SARRACINO: I guess it was like some kind of thing like Thanksgiving dinner,
+they used to--
+
+CASTLE: Because that&#039;s a California Indian.
+
+ 01-00:49:49
+
+N. SARRACINO: Yes, California Indian, yes. See, we weren&#039;t married then, yet.
+That&#039;s my husband right there. But this one here, this man is an Acoma man, this
+one here. His name was Alan Hunt [phonetic], but he&#039;s gone.
+
+CASTLE: Alan Hunt?
+
+N. SARRACINO: Yes.
+
+CASTLE: Is that Acoma dress?
+
+N. SARRACINO: Yes. He&#039;s an Acoma.
+
+CASTLE: What&#039;s that dance? Is this for a certain dance, this dress, this regalia?
+
+N. SARRACINO: Yes. See, this man, that&#039;s the one that you saw right here. This
+man here?CASTLE: That&#039;s Alan?
+
+N. SARRACINO: Alan, that&#039;s him right here, and this is another Laguna man, and
+then that&#039;s my husband right there. That was the time we weren&#039;t married yet.
+
+CASTLE: Did you know each other?
+
+N. SARRACINO: No, I never knew him.
+
+Narrator&#039;s Daughter:
+
+One of her best friends was my dad&#039;s sister. She still didn&#039;t know him when he
+was here, but she knew his sister, and then her brothers, I guess, knew my dad,
+but they never met.
+
+CASTLE: All this time.
+
+Narrator&#039;s Daughter:
+
+Yes, they never met. Then she was here. But my uncle likes to tease that he was
+playing the drums before he met her or whatever, he was playing the drums and my
+dad fell off the stage at this thing, just watching her. [laughs]
+
+CASTLE: I see. There&#039;s a lot of good pictures here.
+
+N. SARRACINO: That was taken at the beach. Let me see there. See, this is part
+of the roundhouse right here, the centerfield roundhouse.
+
+CASTLE: And that was in the rail yard.
+
+N. SARRACINO: Yes. That&#039;s one of the grandfathers. His name is Paul Thomas, and
+this is his brother-in-law, Tony Goat [phonetic]. This was taken at that,
+remember, that amusement park?
+
+Narrator&#039;s Daughter:
+
+In San Francisco?N. SARRACINO: Just a little off that San Francisco beach.
+
+CASTLE: What&#039;s that called?
+
+FUREY: Playland.
+
+N. SARRACINO: Yes, Playland. Yes, where the Cliff House used to be. I mean, it&#039;s
+still there, I guess, the Cliff House.
+
+CASTLE: That&#039;s still there, but the amusement park isn&#039;t.
+
+N. SARRACINO: Yes. See, that&#039;s my brother-in-law that never came back.
+
+CASTLE: So that&#039;s taken overseas?
+
+N. SARRACINO: That was taken overseas in the service.
+
+Narrator&#039;s Daughter:
+
+Yes, and then her brother--in the other one had a picture overseas, too, which
+is--he&#039;s writing to her, telling her, &quot;These are my two buddies.&quot;
+
+N. SARRACINO: See, this was taken in the Santa Fe yard.
+
+CASTLE: Oh, okay. And who&#039;s in this picture?
+
+N. SARRACINO: That was taken, I guess, before they had it fenced. They fenced it
+long after with a cyclone fence. Oh, here&#039;s the Cliff House.
+
+CASTLE: Now what&#039;s the &quot;R&quot; for?
+
+N. SARRACINO: Ruth. Is that an oven? Yes.
+
+CASTLE: Is that a picture of a traditional--
+
+N. SARRACINO: Yes, traditional oven. We&#039;ve got a picture that was taken in
+Richmond Colony; one of the ladies took a picture of that. Oh, here&#039;s that Santa
+Fe office, and there was an assembly hall in the second floor.
+
+CASTLE: That&#039;s where the dances were?
+
+N. SARRACINO: Yes, they have those dances.
+
+CASTLE: Those crazy American dances.
+
+N. SARRACINO: Yes. And then I still have the accordion that my husband used to play.
+
+CASTLE: Oh, a recording of him playing?
+
+N. SARRACINO: Every time when there&#039;s some kind of a contest, like, he would
+join down at the tribal building.
+
+Narrator&#039;s Daughter:
+
+He was something, my dad.
+
+N. SARRACINO: He would always come in first. [laughs]
+
+CASTLE: Yes? He always won?
+
+Narrator&#039;s Daughter:
+
+He always enjoyed himself. Yes, he used to wear that hat and play the accordion.
+
+N. SARRACINO: There&#039;s a picture of him right there on the thing, with that sombrero.
+
+CASTLE: So it sounds like he was a funny guy.
+
+Narrator&#039;s Daughter:
+
+A very patient man.N. SARRACINO: Yeah. I think that&#039;s taken where the Cliff
+House is.
+
+This one here is my uncle, the one that was governor out there. That was taken
+in San Francisco somewhere.
+
+CASTLE: Well, let&#039;s take a break. How about that? Let&#039;s stop.
+
+Interview 2: April 14, 2005Begin File Sarracino, N. 02 04-14-0502-00:00:00
+
+NELLIE SARRACINO: --he told them, &quot;We&#039;re going to deport all the dagos back to
+where they came from.&quot; [laughs]
+
+FUREY: Dagos. Fortunately we have no Italian people in the room right now to be
+offended. So, shall we commence?
+
+N. SARRACINO: I&#039;m just going to stand.
+
+FUREY: Okay. Last time we just started off with your experience in Richmond, but
+this time we could go back to where you were born and the year you were born,
+and your name.
+
+N. SARRACINO: My name? [laughs] My name is Nellie Sarracino. I was born here in
+New Mexico at Encinal [phonetic] Village.
+
+FUREY: What year were you born?
+
+N. SARRACINO: 1925, January 30th.
+
+FUREY: Can you tell us a little bit about your parents, what your parent&#039;s names
+were, and what they did?
+
+N. SARRACINO: My father&#039;s name was Charlie Francisco Arkey [phonetic], and he
+was a farmer. But he did work with the railroad in Fresno, California. He worked
+as a fireman when Beckman was engineer. And my mother, of course, was a housewife.
+
+FUREY: Did he work in Fresno before you were born?
+
+N. SARRACINO: Oh yes, right.
+
+FUREY: And he returned to the reservation to--
+
+N. SARRACINO: Yes.
+
+FUREY: For when you were born.
+
+N. SARRACINO: Yes.
+
+FUREY: So can you tell us a little bit about your early years in the late
+twenties? Can you tell us about your life as a little kid, what you would do,
+how your daily life was like?
+
+CASTLE: Where&#039;d you go to school?
+
+N. SARRACINO: At the day school here at Encinal. I went up to sixth grade, and I
+went off to school in Albuquerque. That was a boarding school in Albuquerque for
+the Indian people.
+
+FUREY: What was Encinal like back then? Now we have TVs, satellite dishes here,
+refrigerators. Could you tell us what your home was like here?
+
+N. SARRACINO: Oh, it was all right. I mean, you know, everybody had whatever.
+Like you&#039;re talking about refrigerators and TV, well, we were just like
+everybody else, I guess.
+
+FUREY: And what would your mother do during the day? What would be the first
+thing your mother would do?
+
+N. SARRACINO: My mother&#039;s name?
+
+FUREY: No. In the morning, what would your mother do?
+
+N. SARRACINO: Cook breakfast. But she used to milk cows, though, early in the
+morning. My father had a lot of cattle where they penned the cattle up, just a
+few yards from here. My mother made cheese, and my grandmother made the butter.
+That&#039;s why I don&#039;t care for milk.
+
+[Castle laughs]
+
+FUREY: What kind of chores did you have around the house?
+
+N. SARRACINO: Really, I don&#039;t even remember that far back, as to what kind of
+toys we had.
+
+NARRATOR&#039;S DAUGHTER: No, chores, Mom; work, chores, work around the house.
+
+N. SARRACINO: Oh, well, just I guess clean house, whatever.
+
+FUREY: So in sixth grade you go off to Albuquerque.
+
+N. SARRACINO: Right.
+
+FUREY: Now, was that a big change for you, going from the reservation?
+
+N. SARRACINO: Oh no, no, no.
+
+FUREY: Tell us a little bit about the school that you went to in Albuquerque.
+
+N. SARRACINO: It was nice going to school. We had different departments where
+you learned a lot of different things to do, like sewing, doing laundry work in
+the laundromat, and, of course, a lot of art and craft sewing, and then, of
+course, home economics, where they teach you different kind of things like
+sewing, making dresses, and cooking. That was what we learned.
+
+FUREY: Were your classmates--were there other Lagunas in the school?
+
+N. SARRACINO: Oh yes. Well, we were all mixed. There were all different tribes
+that went to school at the Indian school, and then some, of course, yes, Lagunas
+were my classmates.
+
+FUREY: So do you remember friends from other tribes? Can you tell us about some
+of the other friends you had there?
+
+N. SARRACINO: Oh, gosh, I won&#039;t even name all the tribes, but there was Hopis,
+San Felipes, San Juans, Santa Domingos, Santa Anas, and Isleras [phonetic] that
+went to school there. There were all different tribes that went to school there.
+
+FUREY: You must have come home on the weekends.
+
+N. SARRACINO: Well, you don&#039;t even come home on weekends. You just stayed there
+at the school.
+
+CASTLE: Did you miss home?
+
+N. SARRACINO: At the school here, yes, you got a chance to come home.
+
+CASTLE: Did you miss home, though, while you were in Albuquerque? Was it hard to
+be away from home all that time?
+
+N. SARRACINO: Oh no, no, no, because we had all kinds of activities that the
+school had for the kids that were going to school there.
+
+FUREY: So you went to school there from sixth grade till which age?
+
+N. SARRACINO: No, seventh grade.
+
+FUREY: Seventh grade until which grade?
+
+N. SARRACINO: Yes, I was in the seventh grade in 1937, I remember. I first went
+off to school that year, then went up to eleventh grade. Then I transferred over
+to Gallup. I was going to school in Gallup, and finished there.
+
+FUREY: So you were a little closer to home.
+
+N. SARRACINO: Yes, because I had a sister that was working for the government at
+Fort Wingate, and my brother-in-law was the bus driver, so I had a chance to
+ride the bus back and forth to Gallup.
+
+FUREY: And at this point you had family that worked on the railroad.
+
+N. SARRACINO: Oh, yes.
+
+FUREY: Worked for Santa Fe. Can you tell us about what kind of jobs your family
+had in the railroad during the 1930s?
+
+N. SARRACINO: Well, my father was the one that worked for the railroad--after
+moving back home, he worked for the section gang, they called it. That was down
+at New Laguna. Their section was down at New Laguna. I don&#039;t know how many years
+he worked down there at the section gang. Then after that he worked for ECW,
+soil erosion or something. I don&#039;t know what they called it.
+
+FUREY: When did you first hear about the colonies, the Santa Fe colonies in the
+west? When did you first hear that there were possibilities of employment?
+
+N. SARRACINO: It wasn&#039;t really a colony at that time. It was just that my uncle
+was the one that was in charge up there. Tom Ahmi [phonetic] was his name. He
+had come home just to visit, and he was asking me if I wanted to work for Santa
+Fe, so then I went out there with my uncle to Richmond. At that time it wasn&#039;t a
+colony yet, but the Laguna people lived there in boxcars, as I was telling you
+before. At that time they were still on wheels, and that was how I got to Richmond.
+
+FUREY: Do you remember when you first came into the Bay Area what it looked
+like? It was a big city; you saw the ocean.
+
+N. SARRACINO: Well, really, it was no difference. Being in Albuquerque, it&#039;s a
+big city and nothing new.
+
+FUREY: Describe what the village looked like when you arrived there. The boxcars
+were burgundy, and there were about thirty boxcars.
+
+N. SARRACINO: Right.
+
+FUREY: So could you describe, for someone who doesn&#039;t know what they looked like
+during World War II, could you just tell us, paint a little picture?
+
+ 02-00:10:00
+
+N. SARRACINO: Well, not really much to say about that, because everybody knows
+what a boxcar looks like, and I have a sister that was already there with her
+family, so that was who I lived with for a while when I was working there.
+
+CASTLE: What&#039;s your sister&#039;s name?
+
+N. SARRACINO: Doris Devore.
+
+CASTLE: And did she also work for the railroad, or just your uncle or your brother-in-law?
+
+N. SARRACINO: No, no, she was a housewife. My brother-in-law worked for the railroad.
+
+FUREY: And how did you find work?
+
+N. SARRACINO: How did I find work?
+
+CASTLE: That&#039;s what she came up to do.
+
+FUREY: Well, how did you get the employment, because you were an oiler.
+
+N. SARRACINO: Well, you have to apply for work at the Santa Fe office like
+everybody else, you know. You have to go wherever they&#039;re hiring work, so that
+was how I applied for a job. Then I went to work the very next day, because they
+were hiring a lot of people during the wartimes.
+
+FUREY: Can you describe to us what you did the first couple of weeks, and what
+your job duties were?
+
+N. SARRACINO: Oh yes. Yes, I think I told you that in that first interview I had.
+
+FUREY: Okay. So what year did you arrive in Richmond?
+
+N. SARRACINO: 1943.
+
+FUREY: So at this point many of the men had gone away overseas. They&#039;d been drafted.
+
+N. SARRACINO: Oh yes. The very first time when my uncle came after the men,
+there was over a hundred men that went to Richmond to work for Santa Fe. But
+they had to go through health screenings like everybody else, and if they
+passed, well, they took them on to Richmond to work for the railroad. There was
+over a hundred men, and they used to all sleep in the assembly hall. They all
+had single beds, before they were put into boxcars. The men that had families
+were the ones that had the boxcars, but the single men lived at the firehouse.
+They called it the firehouse, because there was a big room upstairs at the
+firehouse, and they had a kitchen of their own where they cooked.
+
+FUREY: And Mr. Shutiva, he just described to us how when he went into the
+service his father was very, very nervous, and kind of scared about what was happening.
+
+N. SARRACINO: Yes. That was where?
+
+FUREY: He said during World War II there was a lot of fear among the elders for
+the young people who went away to war. He said they weren&#039;t sure if people were
+going to come bomb, because the village was right next to Standard Oil and the
+Santa Fe shipyards, so if you&#039;re going to bomb, that would be a good target.
+
+N. SARRACINO: Right.
+
+FUREY: So how did you feel about the war? Was it a scary time?
+
+N. SARRACINO: Well, really, I guess you just don&#039;t think about something like
+that, you know. But then I&#039;m sure some of us probably were just wondering what
+might happen, you know, because Standard Oil was the main area where Japan was
+going to bomb, Standard Oil. But as far as I can remember, there was a big bomb
+they took up on First Street. There were two buildings on each side. It was an
+empty lot, and the day that the army were there, they got everybody off the
+streets and they had to carry this bomb out real slowly, and I don&#039;t know what
+they did with it.
+
+FUREY: Now did you work with Japanese, because Mr. Shutiva said when he was a
+teenager what he would do is he would collect the sand and apply the sand to the
+brakes, because in order for the brakes to work you had to put a little bit of
+sand in between, apply the sand. At the beginning of the war there were Japanese
+who were employed there, and later they were taken away. Do you remember--N.
+SARRACINO: No.
+
+FUREY: Yes, probably by &#039;43--I think it was May of &#039;42 when all the Japanese
+were relocated. And there were Mexican nationals who also worked and lived right
+next to the village, right?
+
+N. SARRACINO: Yes. They lived right next to the Indian village, because that was
+during the wartimes. They brought the nationals there, and they had to have an
+interpreter, because they didn&#039;t speak English. But they worked for the
+railroad. I remember they were there for a couple of years, and then they took
+them away. I think it was after when the war was over.
+
+FUREY: Can you describe to us--so you&#039;re right next to Standard Oil. I forget
+who told me, but a lot of the smoke from Standard Oil would come into the yard,
+and the children would breathe the smoke. Do you remember the smoke coming into
+the village?
+
+N. SARRACINO: Well, yes, but I don&#039;t know really just what kind of smoke that
+was. Once in a while that happened, not all of the time; once in a while, when
+the air probably is blowing towards the Santa Fe Indian Village. But as far as I
+can remember, it wasn&#039;t all the time.
+
+FUREY: Can you describe for us times that it rained quite a bit?
+
+N. SARRACINO: What?
+
+FUREY: When it rained, can you describe times when it flooded?
+
+N. SARRACINO: Oh yes.
+
+FUREY: Because it was next to the swamps.
+
+N. SARRACINO: We used to get flooded because we were near the beach, I mean near
+the ocean there, when it rained. It used to rain a lot. You&#039;ve lived in San
+Francisco and you know how that weather is out there.
+
+FUREY: You talked a little bit last time about the activities you would do to
+have fun at nighttime, the nightlife. You&#039;d go to Oakland. Can you tell us a
+little bit about what you would do for fun?
+
+N. SARRACINO: Yes, well, I think I already had told you that. I don&#039;t want to--
+
+FUREY: Fair enough.
+
+CASTLE: Ruth, would you mind moving into that seat next to her? What did you
+talk about earlier, when it was your uncle came?
+
+NARRATOR&#039;S DAUGHTER: Yes, my Uncle John?
+
+CASTLE: What were you guys talking about?
+
+NARRATOR&#039;S DAUGHTER: I had asked her like if she remembered, because she used to
+tell us about the people, and at that time they were called colored people. I
+had asked her if she remembered them, you know, what had happened, and then she
+was telling me--what was the name of that man that kind of like opened it up for
+those people?
+
+N. SARRACINO: Oh, that was John L. Lewis, because the coloreds in Richmond had
+their own town. They called it North Richmond. I don&#039;t know if you&#039;ve heard
+about that North Richmond. That was a colored town, and nobody could drive into
+that colored town. They had kind of like a big gate at the entrance. And when
+they rode on the train, they had a different car to ride. Even in Richmond they
+wouldn&#039;t mix in like restaurants, they had special areas where they can go. But
+as far as I remember, then there was a man named John L. Lewis that opened a
+thing for the coloreds, where they can mix.
+
+CASTLE: Was he a lawyer, or a politician?
+
+N. SARRACINO: No, no. I think he was from somewhere in Florida somewhere. He was
+some kind of a commissioner.
+
+CASTLE: Okay. Was it John L.?
+
+N. SARRACINO: John L. Lewis.
+
+CASTLE: Because I know John Lewis was a big--
+
+N. SARRACINO: John L. Lewis was his name.
+
+CASTLE: I wonder if that&#039;s the same guy. He turned out to be a big politician later.
+
+N. SARRACINO: Maybe.
+
+CASTLE: In the Civil Rights Movement.
+
+N. SARRACINO: I don&#039;t know.
+
+CASTLE: He opened access?
+
+N. SARRACINO: Yes. That was then when coloreds could, you know, come into town
+and shop and mix with other people, you know. But as far as I can remember, they
+had their own town, North Richmond.
+
+CASTLE: And they did all their social activities, like stayed to themselves in
+North Richmond, more or less? What else were we talking about earlier that you
+all--no, I can&#039;t remember either.
+
+ 02-00:20:13
+
+NARRATOR&#039;S DAUGHTER: She was just asking him what he remembered, and he
+remembered staying in the hall.
+
+N. SARRACINO: I think he was some kind of commissioner, that John L. Lewis, from
+back East.
+
+CASTLE: Do you just remember his name from the newspapers?
+
+N. SARRACINO: From the newspapers.
+
+CASTLE: Okay. Yes, so he probably was the same guy. He&#039;s a really--I just didn&#039;t
+know that, so I&#039;ll have to look it up. If he desegregated Richmond--
+
+N. SARRACINO: Yes. You might find it in the newspapers somewhere.
+
+CASTLE: That&#039;s really important that they covered it in the newspapers, then.
+
+N. SARRACINO: He probably knows where North Richmond is, if he&#039;s lived there
+long enough.
+
+CASTLE: Was it Parchester [phonetic] Village in that area, or was that different?
+
+NARRATOR&#039;S DAUGHTER: It was further.
+
+N. SARRACINO: But you weren&#039;t allowed to go into their area, because that was
+colored town.
+
+FUREY: It wasn&#039;t part of Richmond. It was outside of Richmond.
+
+N. SARRACINO: Yes, during the--
+
+NARRATOR&#039;S DAUGHTER: Actually, it&#039;s close to Pennsylvania Avenue.
+
+N. SARRACINO: --the times we were out there. But I remember when you rode the
+train, they had their own car. They put them in another different car. They
+wouldn&#039;t mix with the other people, I mean, which was sad, but I mean, you know,
+they&#039;re humans, too.
+
+CASTLE: But not always treated that way.
+
+N. SARRACINO: That&#039;s right. Just like the rest of us Indians.
+
+CASTLE: You felt treated that way?
+
+N. SARRACINO: Not really, no. Everybody was friendly. Oh, we had a lot of
+friends, the business people especially, because my husband worked with
+different people. When they go out to perform, or they go to conventions, and
+they get hired and they meet different people.
+
+CASTLE: So this was your husband&#039;s, when they would go out dancing?
+
+N. SARRACINO: Yes. They have to join the Star Guild, they called it. It was $300
+to join the Star Guild.
+
+CASTLE: Star Guild?
+
+N. SARRACINO: Yes.
+
+CASTLE: What is that?
+
+N. SARRACINO: That&#039;s some kind--well, you know, they get hired at like--they can
+go into like Las Vegas, to Harrah&#039;s Club, and to different convention places. I
+remember we also worked the Smiley Burnett [phonetic] down in Lodi [phonetic].
+
+NARRATOR&#039;S DAUGHTER: I think it&#039;s basically like the Actors Guild, but at that
+time I guess it was called--
+
+CASTLE: I see, okay. So it&#039;s kind of like the membership group.
+
+N. SARRACINO: Yes. Just like a union, I&#039;m sure, you know. They have to belong to
+something to enter, because there&#039;s a life-size cardboard picture of my husband
+at San Francisco, at the hotel. He stands there as you open the door, on your
+left-hand side. It&#039;s a life-size picture of him, but it&#039;s a cardboard.
+
+CASTLE: What&#039;s he wearing in it?
+
+N. SARRACINO: All his Indian gear.
+
+CASTLE: Does he have like the headdress?
+
+N. SARRACINO: The war bonnet.
+
+CASTLE: The war bonnet that we saw pictures of.
+
+N. SARRACINO: Yes, because when we went there for--well, usually the man that
+was in charge of the group usually took us to dinner up there, to San Francisco,
+and that was how I got to see that picture of my husband. It&#039;s a cardboard,
+life-size cardboard.
+
+CASTLE: That&#039;s kind of a strange thing to see, isn&#039;t it?
+
+N. SARRACINO: Yes, really, yes. And then as you go in, they have a big room
+where they&#039;ve got tables all lined up, where the performers have their pictures,
+and then theirs was on the table, too. Then when somebody wants some kind of
+performance, I guess that&#039;s where they go, and they contract these people.
+
+CASTLE: I see. Make sure I get this right, was this his war dance group?
+
+N. SARRACINO: Yes.
+
+CASTLE: He had a group where he played music, too, right?
+
+N. SARRACINO: Right. That was just at the Indian village.
+
+CASTLE: Okay, so that was for the dances that Ruth was telling us about.
+
+N. SARRACINO: Yes.
+
+CASTLE: Well, some of them. Well, you had rock and roll, kind of disco times,
+too, didn&#039;t you?
+
+NARRATOR&#039;S DAUGHTER: They played the music from the what--forties? And by the
+time the fifties came, it was like the record hop with the 45s. The music they
+had were the 75 records, and they played, I guess, kind of like the jazz bands,
+and they also played, I guess you would call it Mexican music, also. But me and
+my sister were talking about it one day, but they have names for that specific
+kind of music from the Southwest, and she&#039;s the one that can remember. There are
+different styles of music and you dance to it, and they used to play that.
+
+N. SARRACINO: Plus he had his own instruments, his own band. He had his own
+drums. Victor is the one that&#039;s got the drums, supposed to have the drums.
+
+NARRATOR&#039;S DAUGHTER: Oh, he still has them?
+
+N. SARRACINO: Yes.
+
+NARRATOR&#039;S DAUGHTER: Where did Dad order his accordion from?
+
+N. SARRACINO: Germany. It was specially ordered. His friend Mr. Manning ordered
+that for him from Germany.
+
+NARRATOR&#039;S DAUGHTER: Oh, the jeweler. He was a jewelry man.
+
+FUREY: He didn&#039;t buy it from Germany during the war, did he?
+
+N. SARRACINO: Yes. That was during the wartimes. He had it specially ordered.
+
+FUREY: He ordered a German accordion during the war?
+
+N. SARRACINO: Yes. Mr. Manning ordered that for him, the man that owns a jewelry
+store in downtown Richmond.
+
+NARRATOR&#039;S DAUGHTER: On Tenth Street.
+
+N. SARRACINO: And Mr. Wolfe [phonetic] was his friend, too.
+
+NARRATOR&#039;S DAUGHTER: He was a jeweler.
+
+N. SARRACINO: He owned a jewelry store, that man.
+
+CASTLE: Is that the same place where you would go in, that you got lockets from?
+
+NARRATOR&#039;S DAUGHTER: Yes, from Mr. Manning. He gave us lockets and [unclear]
+rings, I guess because he knew my parents.
+
+N. SARRACINO: Yes, we knew them real well. They were good friends.
+
+CASTLE: So you knew a lot of people in Richmond.
+
+N. SARRACINO: Oh, gosh, yes.
+
+CASTLE: I mean, it sounds like you just had friends and connections and free
+food and jewelry. How did you make these different sets of friends? Where did
+you meet people?
+
+N. SARRACINO: Like Mr. Manning, we met him when he first wanted the group to
+perform in the parade. He was really a good friend of ours, Mr. Manning. I think
+there&#039;s a picture of little Ian [phonetic], when Ian, the big Ian you met, he
+was just a little guy. He used to perform.
+
+NARRATOR&#039;S DAUGHTER: That was later, so they knew him when we were little.
+
+N. SARRACINO: Just like this man that was in charge of the grandfather, he
+shoots arrows with his bow, and he puts balloons all around on a board, like,
+and he shoots these arrows. He has a show like that. But the last one he
+wouldn&#039;t do, and this little guy sneaks out, my little grandson; he was little
+then. And he had a little, little bow and arrow about so long. I don&#039;t know if
+he still has it. He comes out from behind the curtains and shoots that balloon.
+
+CASTLE: The last balloon?
+
+N. SARRACINO: The last balloon.
+
+NARRATOR&#039;S DAUGHTER: I don&#039;t even know if he remembers.
+
+N. SARRACINO: And everybody is surprised, because he sneaks out before Mr.
+Tom--his name was Mr. Tom--before Mr. Tom shoots that last balloon. But this
+little guy comes out from behind the curtains and shoots that balloon.
+
+CASTLE: Where was this done?
+
+N. SARRACINO: Wherever, wherever, wherever they need a show.
+
+CASTLE: I see.
+
+FUREY: Did you perform during World War II?
+
+N. SARRACINO: Oh yes, yes.
+
+FUREY: Do you remember any specific parades or dances, performances during World
+War II?
+
+N. SARRACINO: Gosh. I won&#039;t even know, because there&#039;s a whole bunch of parades
+we did. Those are all the trophies that you see on top. Those were first-place
+trophies we got.
+
+NARRATOR&#039;S DAUGHTER: I think they did it like Fourth of July, the Christmas
+parade, a New Year&#039;s parade, something like that. But those were like three at
+least that I remember--
+
+CASTLE: For the City of Richmond?
+
+NARRATOR&#039;S DAUGHTER: --that my dad would tell us that they used to participate
+in, just like I didn&#039;t know--I guess they had a baseball team, so that was
+during that time when he was there before the war and after, I guess, that they
+had a baseball team. I guess like Windsell [phonetic] had a baseball team back
+home, and he had a baseball team also.
+
+ 02-00:29:57
+
+N. SARRACINO: And I forget what the name of that stadium is where we performed
+with some of the movie stars. Remember down in Los Angeles?
+
+NARRATOR&#039;S DAUGHTER: Oh, they performed at the Starlight--
+
+N. SARRACINO: And the camera man was wondering if she was a girl. They kept
+coming up close to her. &quot;Is she a girl, or is she a boy?&quot; She used to do the
+eagle dance.
+
+FUREY: This is in the early sixties or late fifties?
+
+NARRATOR&#039;S DAUGHTER: Yes, late fifties.
+
+FUREY: One thing we&#039;re trying to talk about on this trip, in this project, is
+church and religion. What church did you go to in Richmond? Do you remember the name?
+
+N. SARRACINO: St. Mary&#039;s.
+
+FUREY: And what was that congregation like?
+
+N. SARRACINO: That was at Point Richmond. No, it was Lady of Mercy, Lady of Mercy.
+
+CASTLE: Did you go every Sunday?
+
+N. SARRACINO: Everybody walks to church from the village. But like she was
+telling me about the Shutiva family. I think they belonged to another church,
+that family, already, when we lived in Richmond. But see, he married--Mary is a
+Catholic, so they had to get married in the Catholic church.
+
+CASTLE: And then you stood up for them?
+
+N. SARRACINO: Yes. That was who we sponsored.
+
+CASTLE: Did you go to church every Sunday?
+
+N. SARRACINO: Oh, we went to church every Sunday. We walked, because it wasn&#039;t a
+long walk.
+
+NARRATOR&#039;S DAUGHTER: About a quarter mile, or pretty close to half a mile.
+
+CASTLE: In your Sunday best? Did you dress up for it? I always remember going to
+Catholic church, and everybody dressed up.
+
+N. SARRACINO: Oh, I don&#039;t know. I don&#039;t remember being well dressed, really
+dressed up. [laughs]
+
+FUREY: What were some of the activities you&#039;d do at church? So you&#039;d go to mass,
+but were there other dinners that you had with people?
+
+N. SARRACINO: Oh, there were all different nationalities that went to church
+there, all different people. As long as they were Catholics, they were in church.
+
+FUREY: And you, like you mentioned earlier, you&#039;re part Italian.
+
+N. SARRACINO: What? [laughs]
+
+FUREY: You said a couple of minutes ago that you&#039;re part Italian. Can you talk
+about maybe some of the other families that you knew at church, some of the
+connections you made?
+
+N. SARRACINO: Not really, no, no. I don&#039;t think we know too many people at church.
+
+NARRATOR&#039;S DAUGHTER: I think they just went to church and they came home, and if
+was, say, like Easter, then they would go to church, come home, and just do
+something in the village, you know. They didn&#039;t really like go on picnics with a
+church picnic, or they didn&#039;t go with the crowd that whatever the church
+activity was doing. The only thing I remember was after the children, after
+they, I guess, brought their children, then years later, then the lady from
+Standard Oil, that&#039;s when she started coming, huh?
+
+N. SARRACINO: Yes, Martha. She was the one that taught them catechism, and then
+when they were ready then they made, like, maybe their First Holy Communion, or
+Confirmation, something like that. I think what&#039;s-his-name, Curt, has that in
+the book already.
+
+NARRATOR&#039;S DAUGHTER: Yes, because I think she was there right when Irvin
+[phonetic], because she remembers that same time--
+
+N. SARRACINO: Yes, she worked for Standard Oil.
+
+NARRATOR&#039;S DAUGHTER: --for the older kids. She had already been coming to teach
+catechism then by the time we were of age and started going to catechism. But
+she must have been there for a long time. But she was a member of Our Lady of
+Mercy, there, too, and she worked at Standard Oil, and she had a friend. I
+forget her friend&#039;s name, but she used to come with her to teach catechism.
+
+FUREY: Would she come to the village?
+
+N. SARRACINO: Yes, she comes down to the village. Yes, because the kids all go
+meet her at the--they had a recreation hall where we had a big building, where
+they used that for a recreation building.
+
+FUREY: I don&#039;t know if we discussed it last time, but how did you meet your husband?
+
+N. SARRACINO: On the job.
+
+FUREY: Do you remember a story about meeting him?
+
+N. SARRACINO: No.
+
+FUREY: You don&#039;t remember the day you met him.
+
+N. SARRACINO: No. Too many years ago. [laughs]
+
+CASTLE: Well, I don&#039;t remember the story of meeting my husband, and that was
+only eight years ago, so it&#039;s not always a big--
+
+N. SARRACINO: That&#039;s about sixty years ago. [laughs]
+
+FUREY: What did he do on the job? Where was his job?
+
+N. SARRACINO: He was an electrician&#039;s helper. He&#039;s an electrician. Like I was
+telling you, remember, the lights went out on the train one time coming home,
+and the conductors were trying to see what they could do about it, but they
+didn&#039;t know just what exactly was wrong with it. So here comes the cook. He
+said, &quot;Get Chief to check that thing.&quot; So he&#039;s an electrician on the coaches. My
+husband went there, and sure enough the lights came back on.
+
+CASTLE: He was good at it.
+
+ [interruption]
+
+NARRATOR&#039;S DAUGHTER: Mom, you and Dad, did you guys come home to get married?
+
+N. SARRACINO: Oh yes, we got married at Old Laguna Church, and before we got
+married, Daddy had to make his First Holy Communion. [laughter]
+
+CASTLE: You&#039;ve got to follow the rules.
+
+N. SARRACINO: Yes. I remember it was still there, and he had breakfast with
+Father Lemmert [phonetic].
+
+NARRATOR&#039;S DAUGHTER: Then what did you guys come home in?
+
+N. SARRACINO: We came home in a wagon. Yes, there were no cans tied to it.
+[laughter] Remember how they tie all those cans?
+
+CASTLE: That would have spooked the horse, wouldn&#039;t it?
+
+N. SARRACINO: Yes.
+
+NARRATOR&#039;S DAUGHTER: Remember when they were selling war bonds?
+
+N. SARRACINO: Oh yes. Eleanor Roosevelt was the one that was selling war bonds
+at that time, President Roosevelt&#039;s wife. She was the one that even sold war
+bonds across with Tony Frow, Theresa&#039;s father. Yes, and somebody got the idea
+for that hula hoop. That was how that hula hoop was originated, because they saw
+her father doing the hoop dance with the hoops, and that was how they got those
+hoops. That&#039;s what they told on TV one time.
+
+NARRATOR&#039;S DAUGHTER: I guess after years later?
+
+N. SARRACINO: Yes.
+
+NARRATOR&#039;S DAUGHTER: Because then they came out with it.
+
+CASTLE: Yes, yes. So seeing your dad do the--
+
+N. SARRACINO: No, Theresa&#039;s father. I don&#039;t know if you know Theresa.
+
+NARRATOR&#039;S DAUGHTER: No, they don&#039;t know Theresa.
+
+N. SARRACINO: She doesn&#039;t know Theresa. Well, she--
+
+NARRATOR&#039;S DAUGHTER: That was my dad&#039;s friend.
+
+N. SARRACINO: Yes, she went to school at Berkeley, and her father was the one
+that was selling war bonds with Eleanor Roosevelt, and when they went across
+selling war bonds, somebody got the idea to make hula hoops, and that was how
+that hula hoops was originated.
+
+NARRATOR&#039;S DAUGHTER: Because they didn&#039;t come out till later.
+
+N. SARRACINO: Yes. It was from this Indian man. They got the idea from Tony Frow
+[phonetic]. His name was Tony Frow.
+
+NARRATOR&#039;S DAUGHTER: So they were already like, I guess, helping to sell war
+bonds, because I remember Dad made that--they made a song about Uncle Sam.
+
+N. SARRACINO: Yes.
+
+NARRATOR&#039;S DAUGHTER: And then remember at the end it says, &quot;We&#039;re going to win
+the war.&quot;
+
+N. SARRACINO: Yes. Right.NARRATOR&#039;S DAUGHTER: So they would make songs for that time.
+
+CASTLE: It was like a traditional--this was an Indian song, or how was it sung?
+
+N. SARRACINO: It&#039;s an Indian song, but only telling that we were going to win
+the war.
+
+ 02-00:39:59
+
+NARRATOR&#039;S DAUGHTER: I know that my brother-in-law, his father, too, he made
+songs, because Jacob would sing them.
+
+N. SARRACINO: Yes.
+
+NARRATOR&#039;S DAUGHTER: He&#039;s gone now, too. He just passed away, but he remembered
+those songs.
+
+CASTLE: They&#039;re just like a hand drum and then people would sing?
+
+NARRATOR&#039;S DAUGHTER: Well, basically like our regular music we play, or you
+could call it like a forty-nine, where it&#039;s part English, part Indian. But they
+had songs during the war already about kind of--
+
+FUREY: Do you remember the words to those, how it went?
+
+NARRATOR&#039;S DAUGHTER: The only part I remember is just like, &quot;Buy you, Uncle
+Sam,&quot; which was the war bond. I guess before the war, when they were starting to
+come out, and at the end it just said, &quot;We&#039;re going to win the war. We&#039;re going
+to win the war.&quot;
+
+Then the other one that I remember was from my brother-in-law, but it talked
+about--and then in the English. But in the Indian words it was the regular
+language, where it talked about the war, when they went over; they were going
+overseas. But, see, I don&#039;t know if his brothers remember it, but he did, when
+his father, I guess, used to sing then. Because we were asking, and then I asked
+him one day and he sang, because of my dad. &quot;Did you guys make songs during the war?&quot;
+
+He goes, &quot;Yeah, we did.&quot; So they did, but I don&#039;t even know if anybody remembers
+them anymore, because a lot of the men that were out there in Richmond, they&#039;re
+already gone.
+
+CASTLE: Who would you sing the songs for? Were they just sung around the
+village, or were they sung in public places?
+
+NARRATOR&#039;S DAUGHTER: I think they were just sung in the village when the men got
+together. When they would practice singing, I guess they&#039;d come up with a song,
+and they would, like, sing it, make songs, because my father, I guess, basically
+was like a songwriter, because a lot of the songs I guess that they sing
+here--like we were standing at the plaza one day and my uncle said, &quot;Do you know
+who wrote that song?&quot;
+
+And we just looked at him. &quot;No. You?&quot;And he said, &quot;No, your father.&quot; So her
+father&#039;s a writer, too, and her brother. They sing songs that they&#039;ve written,
+and even now. But like my Dad, I remember, really old songs also, but he was, I
+guess, basically a songwriter, my father. He made music. But anyway, that&#039;s what
+I got was that basically they did. They made songs during the wartime.
+
+Then in the Korean War my uncle, her brother, made us a song when he was in
+Korea, about the war. He said he made a new song, so he sent it to us when he
+was in Korea.
+
+CASTLE: It sounds like your husband--when you two first got together, not only
+was he a really friendly guy on the job, but also the music that he sang, and
+the performances--he really got to know a lot of people.
+
+N. SARRACINO: Right.
+
+CASTLE: Both of you did, in Richmond. I&#039;ve heard you tell some really
+interesting stories about traveling on the trains, too. How were you treated
+when you traveled on the train home or somewhere, because of your relationship?
+Did they know you were his wife, and did they treat you well because of it? Do
+you remember?
+
+N. SARRACINO: Oh yes. Everybody was nice on the train, even the conductors, and
+they tried to give you with whatever you might need to have. But the cooks were
+the ones that always--were the ones that invited us to a free meal on the train,
+because they know my husband, that he worked for the coach yard as an electrician.
+
+CASTLE: I see. Did they call you something in particular? How did they address you?
+
+N. SARRACINO: They always said, &quot;Oh, here comes Mrs. Chief.&quot; [laughs]
+
+CASTLE: And that&#039;s a pretty--I mean, if there&#039;s a lot of Indians working on the
+railroad, being Chief or Mrs. Chief is no small--I mean, that&#039;s a pretty
+significant role to play.
+
+N. SARRACINO: Well, see, he [unclear] people, too, because he advertised for the
+railroad, for that new Super Chief that came through at one time.
+
+CASTLE: Is that a train? That&#039;s a new kind of train?
+
+N. SARRACINO: Yes, that new diesel engine.
+
+CASTLE: Oh, okay. So was it the first?
+
+N. SARRACINO: That was the first time that it was inaugurated, that was diesel.
+
+CASTLE: Instead of the steam engine you were telling me about?
+
+N. SARRACINO: Yes. They didn&#039;t use steam engines no more. They usually used more
+steam engines during the wartime, see, because they were shipping maybe Jeeps
+and army supplies, so it was the steam engines that really were on the railroad
+all the time. But the Chief came through, Super Chief came through when it was
+first inaugurated, and that&#039;s when the three men used to always advertise for
+Santa Fe, for Thomas, Santiago Thomas, and Sandy, my husband.
+
+CASTLE: What would they do?
+
+N. SARRACINO: They&#039;d dance. They&#039;d put out a--they even used to go around with a
+nurse that traveled with them.
+
+CASTLE: Why was that?
+
+N. SARRACINO: Because sometimes, you know, you never know, maybe something might
+happen, or you know. But they always had a nurse.
+
+CASTLE: Just for them?
+
+N. SARRACINO: Just for them.
+
+CASTLE: That&#039;s pretty important, then.
+
+N. SARRACINO: Right.
+
+CASTLE: So how would it work? They would go perform at the depots when the train stopped?
+
+N. SARRACINO: Well, probably at different stations. They&#039;d make a platform for
+them, and then that&#039;s where they&#039;d take part in dancing.
+
+CASTLE: So would the railroad--Santa Fe would pull them off the jobs they
+normally held?
+
+N. SARRACINO: Right, but they got paid.
+
+CASTLE: Sounds like it would be pretty fun to go around and do that.
+
+N. SARRACINO: Yes, really, advertise for Santa Fe.
+
+CASTLE: Well, you were mentioning the steam engines during the war. Did they
+transport a lot of troops around, too? People keep saying troop trains.
+
+N. SARRACINO: Oh yes, right. That&#039;s true, yes. They used to transfer soldiers on
+what they called troop trains.
+
+CASTLE: Did they come through Richmond?
+
+N. SARRACINO: They&#039;d come through Richmond, because you see, some of them go to
+Treasure Island, and maybe Alameda to that naval base, or Oakland Naval Base.
+
+CASTLE: Did they ever get a chance to stop in Richmond, and were there ever any
+Laguna boys or Indian boys that would come to the village?
+
+N. SARRACINO: Oh yes, they would come and visit, you know. Not after they got
+off the train, but after like maybe they were shipped back from overseas, over
+to Treasure Island, and they would come and visit.
+
+CASTLE: So the word was just out. People knew that there was an Indian village,
+or they heard.
+
+N. SARRACINO: Yes.
+
+CASTLE: And then they would come over and seek you out.
+
+N. SARRACINO: Yes. And the ladies in the village would all get together and
+cook, and then we would all eat together with the service boys that come to visit.
+
+CASTLE: The whole village would come?
+
+N. SARRACINO: Right.
+
+CASTLE: I bet that really gave them--it was like a big warm hug.
+
+N. SARRACINO: Just probably, poor things. They were probably lonesome for
+home-cooked meals.
+
+CASTLE: There you go. I&#039;m sure they were fed well. I can attest to that. [laughs]
+
+NARRATOR&#039;S DAUGHTER: Was Dr. Brown there during the war, or later?
+
+N. SARRACINO: No. Dr. Brown was always there. He was the Santa Fe doctor, Dr. Brown.
+
+NARRATOR&#039;S DAUGHTER: Because he had his little office right in the middle,
+before the train yard, before you go up the viaduct. That&#039;s where we used to go,
+and he had an office in town, so as we got bigger then she&#039;d take us down to the--
+
+N. SARRACINO: Yes, he had an office on 23rd Street.
+
+NARRATOR&#039;S DAUGHTER: Yes, and MacDonald.
+
+N. SARRACINO: But then his nurse was always there at the [unclear].
+
+CASTLE: She was right there in the yard?
+
+N. SARRACINO: Right. There was a clinic right there at the Santa Fe yards.
+
+CASTLE: Could the families go, too?
+
+N. SARRACINO: There was a nurse there all the time.
+
+CASTLE: So they provided medical care for you?
+
+N. SARRACINO: Oh yes, right.
+
+CASTLE: That&#039;s a big deal. I mean, that&#039;s important. They really did--sounds
+like they thought of most of the stuff that you needed.
+
+N. SARRACINO: Yes. She was there whenever, I guess, somebody needed medical
+care. Like somebody got hurt, maybe, at the shop doing something, and then she
+was there.
+
+FUREY: When did you become involved in the Four Winds Club?
+
+N. SARRACINO: The Four Winds? Gosh, I don&#039;t even remember what year it was.
+
+FUREY: After the war, or before?
+
+N. SARRACINO: That was before the war. A lot of the Indian people were there at
+that Four Winds.
+
+ 02-00:50:02
+
+CASTLE: What kind of club was it? Was it like a social club?
+
+N. SARRACINO: It was just kind of like a get-together; I guess you would call it
+social club.
+
+CASTLE: Different tribes?
+
+N. SARRACINO: Yes, different tribes go there.
+
+CASTLE: From all over.
+
+N. SARRACINO: From all over.
+
+CASTLE: Like Oakland and San Francisco and the whole thing.
+
+N. SARRACINO: Yes, because at that time they were starting to get--you know,
+relocating people.
+
+CASTLE: I see. I see.
+
+N. SARRACINO: I don&#039;t remember what year that was, because they had an Indian
+Consortium Office in San Pablo.
+
+NARRATOR&#039;S DAUGHTER: Yes, that was later. That was in the sixties.
+
+N. SARRACINO: That was where Terry worked. When people came in, she would be the
+one to look for jobs for them, my oldest daughter.
+
+CASTLE: Okay.
+
+N. SARRACINO: Yes, and they had several people working there.
+
+CASTLE: That was part of the relocation?
+
+N. SARRACINO: Right. That was the Indian Consortium Office, they called it.
+Different tribes come in, you know, the relocated people. But Santa Fe is not a
+relocated area. It&#039;s just, I guess, from different tribes.
+
+CASTLE: So the Laguna and Acoma [phonetic], you all had been there prior to the
+war for a long time. You really established community life there.
+
+N. SARRACINO: Right.
+
+CASTLE: And then the new relocatees coming in, you were able--did you remember
+kind of feeling like the wise ones? I mean, did you ever help people a little
+bit get adjusted to urban life, or offer advice or anything?
+
+N. SARRACINO: Well, that was the relocation office part of the thing, that they
+placed people, like they looked for apartments for them, or they would help them
+with whatever they might need to have. Yes. But my husband and I worked with the
+Urban Indian Tribe Resource Center in Oakland.
+
+CASTLE: Did you.
+
+NARRATOR&#039;S DAUGHTER: Yes, when they first started.
+
+N. SARRACINO: They had started that.
+
+CASTLE: What did you do for them, or with them?
+
+N. SARRACINO: Well, there&#039;s kids that had problems with their parents, maybe, or
+maybe both parents drank and they were having problems in school, or somebody
+else might be having problems at school with some whatever, you know. But they
+would send you out, but what you mostly find, I always will say, just like the
+teen center down here when we worked with them, is that it&#039;s not all the
+student&#039;s fault. Sometimes it&#039;s the teacher&#039;s fault. That&#039;s what you might find
+out. That&#039;s what we find out. It&#039;s not all the student&#039;s fault. It&#039;s sometimes
+the teacher&#039;s fault. There&#039;s always a problem for a child like that, I guess.
+
+And then there were a couple of doctors that come in. What did they call these people?
+
+NARRATOR&#039;S DAUGHTER: The psychologists?
+
+N. SARRACINO: Yes. They come in and they talk to the kids, you know, and then,
+of course, you know, each one maybe has a different problem from the other.
+
+CASTLE: Was there a sense that some of the problems had to do with adjusting to
+urban life?
+
+N. SARRACINO: No, no, no.
+
+CASTLE: Or maybe people--well, you tell me. Because what I was wondering is
+that, you know, if you&#039;re coming into a school system, and you&#039;re talking about
+the teachers being responsible, too, you know, there&#039;s kind of problems
+sometimes understanding different cultures. Right? So sometimes the teachers
+might not give full consideration for where the student&#039;s coming from, and what
+that student&#039;s needs are. Am I making stuff up, or do you know if that had
+anything to do with some of the conflicts?
+
+N. SARRACINO: No, I don&#039;t think so. No. No, it&#039;s probably the problem might be
+at home, or the problem might be at school. And then you have to go out and find
+out what the problem is at school. And then sometimes it&#039;s the parents&#039; fault at
+home, because both parents might be drinking and just going to parties, you know.
+
+NARRATOR&#039;S DAUGHTER: Or maybe the parents didn&#039;t adjust to--
+
+CASTLE: Yes, that&#039;s what I wondered.
+
+NARRATOR&#039;S DAUGHTER: But they also, when the first Title IV Program--at that
+time it was called Title IV--they were also part of that committee, too, as
+grandparents. My dad helped with singing, with their dancing, and my mother,
+Nellie, helped with the shawl making. That was later, though. But they still
+participated in a lot of things when they were in Richmond.
+
+CASTLE: I guess part of what I&#039;m really interested to know myself, and it would
+be important for people, is just the fact that you lived in the colony, and you
+built this really rather remarkable strong life there, and then the relocation
+program is what most people know about, when they think of native people moving
+to urban areas. And so it&#039;s very interesting to know the relationship between
+maybe what you were able to offer from your wisdom and your experience, having
+been in the urban area before, to all these parents coming in on the relocation
+program with families.
+
+N. SARRACINO: Well, I won&#039;t really know too much about that, because that was
+their program.
+
+CASTLE: I see.
+
+NARRATOR&#039;S DAUGHTER: But I think like when they went to start the powwows and
+stuff, and when they got to meet more of those people, then I guess just by
+talking they probably suggested to them, &quot;Well, did you know that there&#039;s a
+Friendship House? Did you know that there&#039;s other places that there&#039;s powwows?
+Or you can call the Friendship House,&quot; and let them know that there&#039;s a listing
+of stuff. I&#039;m pretty sure that&#039;s how it went, because then people started
+like--you know, the people they ran into, they would let them know, like, what
+was around that they could go to.
+
+CASTLE: Yes, just that kind of word of mouth, I wondered.
+
+NARRATOR&#039;S DAUGHTER: Just let me ask her--how did you meet the Jacksons?
+
+N. SARRACINO: Well, they used to come to the village and visit.
+
+NARRATOR&#039;S DAUGHTER: But how did they know the village was there?
+
+N. SARRACINO: Probably from the Oakland Friendship House.
+
+NARRATOR&#039;S DAUGHTER: The Jacksons are one of the families that&#039;s been there for
+a long time. And then my aunt, she read an article, huh? It was in the
+newspaper, and her husband said, &quot;Look. There&#039;s Indians here.&quot; And she was Ethel
+Rudall [phonetic]. She didn&#039;t know that they were there until my uncle read a
+paper one day and it said that there was a group of native people that lived in Richmond.
+
+N. SARRACINO: That was there; that first started, that Friendship House. But she
+won&#039;t say who had offered that money to buy that Friendship House.
+
+CASTLE: She wouldn&#039;t say?
+
+N. SARRACINO: No, she won&#039;t say.
+
+CASTLE: It&#039;s a mystery?
+
+N. SARRACINO: Yes.
+
+CASTLE: Well, the Oakland--the Friendship House has been there for so long.
+
+N. SARRACINO: Oh, right.
+
+CASTLE: It&#039;s such an important part of the community, and it kind of comes out
+of your experience.
+
+N. SARRACINO: They always change different people to be on their staff, you
+know. Of course I was on there the last year we were there, but I had to tell
+that I couldn&#039;t be longer on their staff, because we were ready to come home.
+But I think I was only on the board for about maybe, oh, about maybe three, four
+months, something like that, because I remember we fired one man from [unclear].
+And the man over here at the Rainbow won&#039;t believe me. He say, &quot;Oh no, Mrs.
+Sarracino,&quot; he says, &quot;not Alfred Algee [phonetic].&quot;
+
+And I says, &quot;You don&#039;t know Alfred Algee.&quot;
+
+He says, &quot;Yeah, I know Alfred Algee.&quot;
+
+&quot;He&#039;s a Pomo,&quot; I said. I know him. Then when we went to Council on Aging in
+Carlsbad, Giuseppe and I went down to breakfast early, and him and Paul Pina
+[phonetic] were sitting at the table, and when I got my tray I asked them, &quot;You
+mind if I join you guys?&quot; I said to him.
+
+&quot;Oh no, Mrs. Sarracino, sit down,&quot; they say. &quot;So I want to apologize to you,&quot; he
+said to me.
+
+&quot;For what?&quot; I asked him.
+
+&quot;Remember you told me about Alfred Algee?&quot;
+
+I said, &quot;Oh yeah.&quot; I said, &quot;What about him?&quot;
+
+&quot;Well, he finally got fired in Albuquerque on Council on Aging.&quot;
+
+&quot;I told you so,&quot; I said.
+
+ 02-00:59:41
+
+CASTLE: You&#039;d known.
+
+N. SARRACINO: Of course. You want me to show you my reports? I still have them
+at home.
+
+CASTLE: Keep the evidence? Was there any kind of wrapping up questions that you
+have that you can think of?
+
+N. SARRACINO: You&#039;re going to miss your flight.
+
+FUREY: Do you like telling history like this?
+
+N. SARRACINO: No.
+
+FUREY: Or was it difficult?
+
+NARRATOR&#039;S DAUGHTER: Without the camera, she doesn&#039;t like--
+
+N. SARRACINO: Not before a camera, sir.
+
+FUREY: Okay, turn it off.
+
+[end of interview]
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

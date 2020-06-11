@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042042" dt="2018-08-15"><version>5.1</version><date value="2005-03-30" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Ermestine Martin Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Ermestine Martin</interviewee><interviewer>Nadine Wilmot</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>WILMOT: Good morning. Today is March 30, 2005. We are here today with Ermestine
+Martin. So just to begin, I want to ask you when and where you were born.
+
+MARTIN: I was born May 5, 1926.
+
+WILMOT: And where were you born?
+
+MARTIN: Checotah Oklahoma.
+
+WILMOT: How do you spell that?
+
+MARTIN: Excuse me, Checotah.
+
+WILMOT: Checo--MARTIN: Checotah.
+
+WILMOT: Checotah, Oklahoma. And was that a small town?
+
+MARTIN: Small town, yes.
+
+WILMOT: Can you tell me your parents&#039; names?
+
+MARTIN: My father was Roy Williams and my mother was Tressy Malvrin, later Williams.
+
+WILMOT: Where did they come from? Where are their families from?
+
+MARTIN: They were, Oklahoma, I guess, by way of Africa.
+
+WILMOT: Had they migrated to Oklahoma from another place, do you know?
+
+MARTIN: I don&#039;t think they lived in any other state than Oklahoma. I haven&#039;t
+heard them discuss the bordering states like Texas or Kansas. Although my mother
+went to school at Topeka, Kansas at Kansas Industrial Education, KIEI. Kansas
+Industrial Education Institution. She graduated from there, I think it was in
+Topeka, Kansas. I know it was in Kansas. I&#039;m not sure of the city.
+
+WILMOT: Did they ever tell you the story of how they met each other?
+
+MARTIN: No, I didn&#039;t hear that. I heard that my dad proposed to my mom in their
+orchard. They had a fruit orchard surrounding their home. I remember the orchard
+because I used to work with my grandfather while he was trimming those trees and
+things. Later I guess I heard my dad say how he proposed to her father. He asked
+for her there in the orchard. I thought that was kind of cute. [laughter]
+
+WILMOT: And what kind of stories did you hear about your mother&#039;s family from
+your mother, what did she tell you about them, her family?
+
+MARTIN: She didn&#039;t tell me very much because she didn&#039;t know a lot. She knew her
+father, but she didn&#039;t remember her mother. I think her mother was a
+schoolteacher and I guess she was pregnant and had the baby and then went back
+and caught pneumonia, something like that.
+
+WILMOT: So she died young.
+
+MARTIN: She died when my mother was just an infant. Also, she was my dad&#039;s
+teacher at Paradise School, and of course then, I guess he knew her by his
+teacher there in school. And then later.WILMOT: Your mother&#039;s mother was your
+father&#039;s teacher?
+
+MARTIN: Yes. My father was some years older than my mother.
+
+WILMOT: This was at Paradise School?
+
+MARTIN: Yes. There&#039;s a district there at Checotah, and this is called Checotah
+Route 1 area. That was the school, and then the church there, Paradise church
+and Paradise School.
+
+WILMOT: Was it like another town?
+
+MARTIN: No, sort of like a district.
+
+WILMOT: Outside of Checotah.
+
+MARTIN: Outside, yes, but the town that accommodated them for the necessities
+and so forth was Checotah, it was a base.
+
+WILMOT: A base?
+
+MARTIN: The base for them to go in and do their government affairs.
+
+WILMOT: Like, post office, everything.
+
+MARTIN: Yes, all of that was there. The banks. Either there or another town, but
+that was the closest.
+
+WILMOT: Was this one of those famous all-black towns in Oklahoma?
+
+MARTIN: No. It wasn&#039;t. I went to high school in an adjacent district to Route 1,
+which was my area, was Rentiesville, and that was an all-black school. I went up
+to, graduated from Rentiesville High School. It was Rentiesville School, because
+I think it went k-12.
+
+WILMOT: Do you remember who you went to school with?
+
+MARTIN: Oh yes, I remember all my schoolmates.
+
+WILMOT: Who were they?
+
+MARTIN: They weren&#039;t that many, you know, it was small. My classmates or schoolmates?
+
+WILMOT: Your schoolmates, classmates. If you describe them generally, was this
+an integrated school was it segregated, was it all black?
+
+MARTIN: It was all black. There were a few families that were very very fair,
+you probably couldn&#039;t tell, they were, you know, fair enough to be sometimes
+missed as far as what nationality they were. But everyone considered themselves black.
+
+WILMOT: And was there a native American presence at this school, with your
+classmates, in the community rather? I should really speak to the community.
+
+MARTIN: Was there Indians in the area? I&#039;m sure, but they weren&#039;t at that school.
+
+WILMOT: Were there other people there like yourself who were part native, part
+Indian and were on the rolls?
+
+MARTIN: What--my father, I believe, was possibly more Indian, I mean, a large
+percentage. But they were considered Creek Freedmen, they were there when
+Oklahoma became a state, and the government sort of--similar to what they&#039;re
+doing today, they kind of brought in ownership, home ownership, and then land to
+go with that. That&#039;s what--both of my parents were Creek Freedmen.
+
+WILMOT: What does it mean to be a Creek Freedperson?
+
+MARTIN: Well, the Indians and the blacks were both given a settlement in a
+sense. They were there at the time and place, and they were given 160 acres of
+land. I&#039;m not sure what the Indians were given, but my mother still has her
+land. Most of them didn&#039;t keep it. I don&#039;t think they--again, I don&#039;t think it
+was done in the sense that to give a person something without enough education
+and so forth to handle that--it takes a lot of strength. I don&#039;t know exactly
+why but most of them didn&#039;t keep the land, didn&#039;t hold onto it.
+
+WILMOT: Is that piece of land still in your family?
+
+MARTIN: Yes.
+
+WILMOT: Your mom&#039;s land.
+
+MARTIN: My mother&#039;s land.
+
+WILMOT: Can you tell me a little bit more about what you knew about your
+father&#039;s family, what he talked about?
+
+MARTIN: I heard him talk about his family, and I knew his mother.
+
+WILMOT: You grew up with your grandmother on your father&#039;s side.
+
+MARTIN: I really didn&#039;t grow up with her, but I would sometimes stop by her home
+in Checotah. She lived in town. Because she too had land, and my dad too, but
+somehow they weren&#039;t able to hold onto it. For whatever reason they did not have
+it. Seemingly, they didn&#039;t even remember exactly where, what part of the area
+that was their land. Evidently someone got to them and got some kind of
+negotiation and took the land.
+
+WILMOT: Was it, was there, did you know, did that land pass into white peoples&#039;
+hands? Or did it stay--
+
+MARTIN: Yes, I&#039;m sure it&#039;s--most of the people that I think took the land or
+bought the land, or made a deal, was other than black.
+
+WILMOT: White people. Did you ever hear that song, &quot;Coming to the territory,
+coming to the nation?&quot;
+
+MARTIN: I never heard that one.
+
+WILMOT: It&#039;s about Oklahoma. It was actually a Bessie Smith song.
+
+MARTIN: How does it go? I&#039;ve never--
+
+WILMOT: I don&#039;t know the tune, because I&#039;ve only seen the words.
+
+MARTIN: What are the words?
+
+WILMOT: Coming to the territory, coming to the nation. And then it goes on from
+there, and I don&#039;t know the rest of it. It&#039;s about Oklahoma and how it was a
+place where there was more opportunity for black people to be free.
+
+MARTIN: More opportunity for black people to be free.
+
+WILMOT: In the very early, in the 1800s.
+
+MARTIN: Well, I think--1800s, I don&#039;t know.
+
+WILMOT: Of course not, you weren&#039;t--MARTIN: But I did hear, I know there were,
+they had--my dad was born in 1888. They had a school there that the black
+children were attending, that was the Paradise School. So I don&#039;t know of the
+opportunities that they got by being free. I don&#039;t know whether they were slaves
+of Indians, I don&#039;t think they were.
+
+WILMOT: No, when I say free, I don&#039;t mean free versus slave, I mean free, more
+opportunities period.
+
+MARTIN: Perhaps so.
+
+WILMOT: And also more of a strong community. That&#039;s the reputation in Oklahoma,
+in addition to kind of the very violent things that also happened in Oklahoma in
+terms of the Oklahoma race riots. There&#039;s all those, you know, it&#039;s like these
+two histories that meet.
+
+MARTIN: Yes, but, I never knew that the Indians--I don&#039;t really know what
+happened to the land. As I said, I think quite a few of the people that granted
+that land probably never really knew that area that they bought, because someone
+with possibly quite a bit of knowledge and understanding took it from them in a
+sense, but not really.
+
+WILMOT: Do you mean, kind of craftily, swindled them?
+
+MARTIN: I don&#039;t think it took much to do that, but they were aware that that
+person was not quite aware. As I understood a story my dad would tell of a man
+that had some land and someone bought him this, offered him this beautiful horse
+and a silver saddle, all of the works just for his land. It was kind of strange,
+my dad said, the horse got angry because he couldn&#039;t feed him, he gave up all
+his land, he didn&#039;t hold on to an acre. He didn&#039;t think about--of course,
+someone overpowered him in thought or in conversation. Then looking at that
+beautiful horse and the gorgeous saddle and all that. People, we all do that. He
+was sold, the idea that he should have this horse and saddle. Many of them were,
+I understand, they were sold on the idea. Maybe, I don&#039;t know whether they ever
+knew what they were doing.
+
+WILMOT: The value of what they were giving up.
+
+MARTIN: Yes, even if they really knew what they were--you know, like if
+government does things, many times, that the average person doesn&#039;t understand
+what the government has done, or enough knowledge about real estate and
+transactions to actually handle what they were dealt, they were dealt this land.
+I guess you have to have knowledge to make things work in your best interest. If
+you don&#039;t know--and it happens today now too. People are doing things and don&#039;t
+realize what--if you don&#039;t have some education, some intelligence, and really,
+you can&#039;t really manage yourself as well as those that really go to school and
+know more. My mom did, because, as I said, she went to what was called KIEI, I
+remember it better at home, on the wall. It was, as I said before, Kansas
+Industrial Education Institute. She probably was one of the few who held on.
+
+WILMOT: That wasn&#039;t your--your mom wasn&#039;t from Kansas, she was from Oklahoma?
+
+MARTIN: She was from Oklahoma.
+
+WILMOT: But she went there for school.
+
+MARTIN: Yes, that would make her still have the land, perhaps.
+
+WILMOT: How would you describe your parents&#039; personalities? Who were they?
+
+MARTIN: Personalities, like?
+
+WILMOT: What was your father like? What was your mother like?
+
+MARTIN: [laughter] My father was a lot of fun. Mama was different, she was just
+about like that picture. [shuffles papers] That&#039;s about as much as you&#039;re going
+to get out of her.
+
+WILMOT: As a smile?
+
+MARTIN: Yes, she would occasionally--just is just about all you&#039;re going to get
+from her. She would, we&#039;d do something real funny and she would get with it and
+laugh. She was very sweet and very kind.
+
+WILMOT: Can you tell me what kind of work your parents did? If they were kind of
+concerned with this land, working the land?MARTIN: Oh, we worked the land.
+
+WILMOT: What did you grow on the land? And did you grow it to sell, or did you
+grow it for your family?
+
+MARTIN: We grew it--we had things that we sold. We sold cotton, I guess corn as
+well, and we had cattle, and we sold cream. We didn&#039;t sell the milk, but we
+separated it. My dad had a separator, a machine that would take the cream off
+the milk immediately. He would sell it at the market.
+
+WILMOT: Did other families then come to you with their milk so that you could
+separate it?
+
+MARTIN: No.
+
+WILMOT: Was it a kind of special thing to have in your community?
+
+MARTIN: I didn&#039;t know anyone else when I was growing up that had one of those.
+
+WILMOT: Did people want to use yours?
+
+MARTIN: [laughter] They didn&#039;t have no cows! I didn&#039;t know any, just in that
+little Route 1 area, I didn&#039;t know any people in that district that still had
+their land.
+
+WILMOT: You were one of the few families that still had your land.
+
+MARTIN: Mm-hmm.
+
+WILMOT: So everyone else was actually share-cropping on other peoples&#039; land.
+
+MARTIN: There were some that had the land, but I don&#039;t remember them
+having--they may have had a separator, one of those. We had pretty much all the machinery.
+
+WILMOT: Were there people close enough to visit? Like your playmates and your
+friends? Could you go visit?
+
+MARTIN: Yes, but you didn&#039;t do that much because you were busy.
+
+WILMOT: In terms of working your land, was that kind of where--was the whole
+family engaged in that, or did you hire people to do it for you?
+
+MARTIN: We occasionally hired. But in the basic setting up the land, setting up
+the crops, we did that. Then we had tractors. When I grew up we drove the
+tractors. I didn&#039;t remember--I know I had some cousins lived up the way there,
+and I don&#039;t remember them doing all that hard work that we did. [laughter] They
+didn&#039;t have to do that much work. But we had to. We were just compelled to work.
+
+WILMOT: Did you have family in the area? Aunties and uncles? And just to ask
+you, is this light bothering your eyes? Do you want to take a minute?
+
+MARTIN: No, it&#039;s just the conversation bothers me. [tearing]
+
+WILMOT: Because it&#039;s remembering your family. Okay. Do you want to take a break
+or do you want to continue? Let&#039;s take a break.
+
+[tape pause]
+
+WILMOT: We&#039;re back on today.
+
+MARTIN: Hi.
+
+WILMOT: Hi. Well, so you were talking about the land and your family. Were you
+an only child or did you have siblings?
+
+MARTIN: I had a brother, Leandre, and a sister, Leota Williams. I was the middle child.
+
+WILMOT: You were the middle one.
+
+MARTIN: Yes. The bigger one.WILMOT: Do you remember, did you have a best friend
+at that time?
+
+MARTIN: You mean when I lived there?
+
+WILMOT: Mm-hmm.
+
+MARTIN: Well, I had, not necessarily, my cousins lived not far from me, on the
+adjoining properties I think. Ellen, was I think about my same age. That was
+about the only person that was--you know, that I knew of in that immediate area
+that had children or who were black.
+
+WILMOT: Were there white people that lived around?
+
+MARTIN: Oh yes.
+
+WILMOT: You lived in an area with many white people.
+
+MARTIN: Well see, around there, there are acres and acres of land so you&#039;re
+spaced out, that&#039;s a natural spacing of people when you&#039;re on acres of land.
+It&#039;s not like a lot, and another lot next door.
+
+WILMOT: You couldn&#039;t see your neighbors.
+
+MARTIN: You had to go forty--you go half a mile to get to her home, I suppose.
+Those other, by the time I became able to understand things, it seems like my
+neighbors immediately pretty much were Caucasian people.
+
+WILMOT: Do you remember about how old you were when you became aware of race as
+important, or race as significant?
+
+MARTIN: I didn&#039;t really know much about it. I didn&#039;t even bother about it
+because we had Paradise School and the white people went another half a mile to
+another school. But we would play together on the way from school. We had a
+pond, would freeze with ice and we would skate--with our shoes on, the white and
+the black would go that, on our way home and have a little fun for ten or so
+minutes, sliding across that ice. Then they would go to their home and we&#039;d go
+to ours. It didn&#039;t matter, it didn&#039;t bother us. I didn&#039;t really think about
+that, too much, about the segregation. That&#039;s the way it was. My parents, I
+think, didn&#039;t really want to get involved into NAACP times, and then you really
+try to get in there and do something about it then. But before, I think people
+kind of accepted it and didn&#039;t care. I had my family and my friends, and then I
+had those friends too, they were my friends. But we just didn&#039;t go to the same
+school. That to me, in one sense, is what you do at the school--if it&#039;s an equal
+opportunity in that school. I don&#039;t remember their school being any better than
+our school. It might have been, I don&#039;t know. I was never in their school. I
+know they had the school, and they started a bus for them before we had one I think.
+
+WILMOT: Did your family go to church?
+
+MARTIN: Yes, we went to Rentiesville, the all-black town, the little black town
+I was telling you about where I went to high school. We would go to church there.
+
+WILMOT: What denomination was your family, were you raised?
+
+MARTIN: We were Baptists.
+
+WILMOT: You were Baptists.
+
+MARTIN: Yes. They had a Methodist church in that town and a Baptist. They still
+have those two churches there in Rentiesville.
+
+WILMOT: And when your family went to go shopping and buy groceries or things for
+the house, where would you go?
+
+MARTIN: Checotah.
+
+WILMOT: Checotah, yes. And this town, what did you call it? Rentersville?MARTIN:
+Rentiesville. They had one store a black woman owned, the Price family had the
+store, the general store.
+
+WILMOT: How did you get to school when you started going to high school?
+
+MARTIN: My dad bought a bus, a school bus. I don&#039;t remember how we got there
+before that so much, but I guess we walked. We walked to Rentiesville. The white
+kids had a bus, I think before we did. Then my dad--and maybe they spoke out and
+they said if we could buy one and manage it, they would work with us. I don&#039;t
+know if they made a business deal of it, but I know my dad bought the bus and my
+brother drove it, I guess drove the bus to school, to Rentiesville. I guess he
+was sixteen or seventeen.
+
+WILMOT: Your brother.
+
+MARTIN: When he drove it, yes.
+
+WILMOT: And this is Le--how do you say it?
+
+MARTIN: Leaudrey. Yes he&#039;d go to--there was another community adjacent down
+where kids were, a lot ways from Rentiesville, and Rentiesville was the central
+point for the black children. I think the deal was made that if someone could
+buy the bus and drive the bus, they could have it, or the city, the county would
+work with them. I know when they had, also they had some food programs in, I
+guess it, how do you say it, W?
+
+WILMOT: WPA.
+
+MARTIN: WPA, yes. That bus would, my dad or my brother would drive it to this
+city, maybe Eufaula, county seat, somewhere to pick up all the things and bring
+it to the school building in Rentiesville.
+
+WILMOT: So he was really involved in your education, he was really involved,
+like a parent who was really involved in the school.
+
+MARTIN: You mean my brother?
+
+WILMOT: Oh yes, your brother, sorry.
+
+MARTIN: My brother was a student there.
+
+WILMOT: Right, I&#039;m sorry.
+
+MARTIN: He was a year ahead of me. But he would, he was just smart enough to do
+it, had the ability. Then my dad--you know, they had the land, so they had the
+money to buy the bus. [laughter] But it was a used one, it was one that the
+whites had used. Here I go again. [weeping]
+
+WILMOT: That&#039;s okay.
+
+MARTIN: But anyway, he drove it. I would stay at home and drive a car to school.
+We had those things, because we had the land. I guess the land, because the
+corn--I&#039;ve never seen an ear of corn that looked like--my mother had an area
+called &quot;the bottom&quot; and the ears of corn, it seemed like they were more than a
+foot long. They were real long.
+
+WILMOT: Really healthy.
+
+MARTIN: Real healthy.
+
+WILMOT: The bottom must have been close to, was it close to a creek?
+
+MARTIN: Yes.
+
+WILMOT: That&#039;s probably what it was.
+
+MARTIN: And then we fished there, it was called &quot;the big hole.&quot; It was like the
+creek going through but there was a big hole, there was nice fish in there.
+People would like to come from Checotah and fish in the big hole which was on my
+mom&#039;s land. Back to that, I guess that&#039;s how she got that institution, because
+of the land.
+
+WILMOT: They were able to leverage the land for money to do things.
+
+MARTIN: Yes, and then you worked that land, you had to work it. You just don&#039;t
+have land, you have to work it.
+
+WILMOT: I want to ask you about your social life in high school. Were you
+popular in high school?
+
+MARTIN: Not really, I&#039;ve never been very popular.
+
+WILMOT: [laughter]
+
+MARTIN: I&#039;m not a popular person. [laughter]
+
+WILMOT: Okay!
+
+MARTIN: I really am.
+
+WILMOT: I asked you a funny question though too. It&#039;s a funny question to say,
+&quot;Were you popular?&quot;
+
+MARTIN: I know, but I&#039;ve never been a popular person. I&#039;m not popular now. Vie
+would probably tell you that.
+
+WILMOT: I&#039;m sure it depends on who you talk to.
+
+MARTIN: No, I think most people would admit that I&#039;m not popular. I don&#039;t care
+to be popular.
+
+WILMOT: Okay.
+
+MARTIN: I just--I don&#039;t want my grandkids to be popular. I&#039;ve got to tell them
+now that being popular is--it&#039;s costly sometimes.
+
+WILMOT: You mean, having attention attracted to you?
+
+MARTIN: Not just--you said was I popular in school and that, I said not really,
+that wasn&#039;t me.
+
+WILMOT: What was your social life like in high school?
+
+MARTIN: I didn&#039;t have much of a social life because we were out on the land.
+Other people were--
+
+WILMOT: It was a rural community, it was a real country community.
+
+MARTIN: Yes, so I didn&#039;t have a social life. I was out there working. The family
+was busy. You don&#039;t neglect the farm.
+
+WILMOT: What kind of things were you doing?
+
+MARTIN: I was working with the cows, canning food. Everything.WILMOT: In your
+family, what was the attitude around education? Did all three of you, the
+siblings, go to college, or was it just you?
+
+MARTIN: Let&#039;s see, my sister and I did, but my brother was drafted in the
+service after high school. He was valedictorian of his class, very smart. That&#039;s
+why I said he was smart enough to drive the bus. Whatever he wanted to do, he
+could do it. He was a straight A student. When he came back, when I left
+Langston University, and because of the draft he came to California, he came
+here and he started work and he didn&#039;t go back. He didn&#039;t go to college.
+
+WILMOT: So he was drafted into World War II.
+
+MARTIN: Correct.
+
+WILMOT: And you were at college at Langston. Langston is in what state? I&#039;m sorry.
+
+MARTIN: Langston is in Oklahoma. It&#039;s not far from Oklahoma City, it&#039;s close to
+Guthrie and was quite a distance from Checotah.
+
+WILMOT: Were you excited about going? Were you scared to leave your family?
+
+MARTIN: No!
+
+WILMOT: No you weren&#039;t excited, or you weren&#039;t scared?
+
+MARTIN: I wasn&#039;t either way. I wasn&#039;t excited and I wasn&#039;t scared. I was going
+to college, that was it. I wasn&#039;t that excited, it was just something I was
+going to do. I wasn&#039;t like, exactly told that, &quot;You&#039;re going,&quot; I surprised--I
+think I told them I was going, I told my parents I was going. I worked at the,
+like, you know, Eufaula Oklahoma had a military ammunition depot and I worked
+there. My mother worked there too. I saved my money, and just told my mom I was going.
+
+WILMOT: Did everyone from your high school go to college?
+
+MARTIN: You mean that graduated with me? I really don&#039;t know.
+
+WILMOT: How many people was it, about, in your high school?
+
+MARTIN: It was about eight of us only.
+
+WILMOT: In the graduating class?
+
+MARTIN: Mm-hmm. The class was small.
+
+WILMOT: So you knew each other.
+
+MARTIN: We knew each other but I didn&#039;t really know them that well because when
+my brother would take the bus he would go down to Pine Hollow, it was another
+district, and bring up all the black kids out of there and take them all, bring
+them all to Rentiesville, that black town. I would be--somehow I would stay in
+the house and not take that long ride, and do some things before going to
+school. I was allowed to drive the car to school.
+
+WILMOT: Was there, did people kind of come to know you as the family that drove
+the, that had the bus? Was that special status?
+
+MARTIN: Well, you see, I don&#039;t know, because I wasn&#039;t their friends and they
+weren&#039;t exactly my friends because they lived in a distant--I really have no
+idea. You brought a question that I never thought of, what they thought of me. I
+know I was the only kid drove a car to school and parked it with the teachers.
+The teachers had cars, and our car was maybe newer than some, some teachers
+didn&#039;t have one. But the land did that.
+
+WILMOT: What about like dating in high school and social life of that nature,
+when you came to be a young person and their were boys?
+
+MARTIN: Some boys liked me I guess, and some, I don&#039;t know whether they liked me
+or not. [laughter]
+
+WILMOT: Did you go to movies or go out on dates?
+
+MARTIN: Not really, we didn&#039;t do a lot of that. We&#039;d go to church, and then
+probably come back home. We weren&#039;t into that kind of society where we did a lot
+of things like that. I think you go then, and in my case, it was to get out of
+there and go to college, and not so much--there were some people that I knew
+there at school. But I think maybe in those days you didn&#039;t think about as much
+dating. I don&#039;t think you did as they do today.
+
+WILMOT: Maybe you would just think about marriage.
+
+MARTIN: I think you think more about marriage and trying to get yourself
+established and things like that, not how many times you can date somebody or
+what you&#039;re dating. Especially, maybe the children that lived in Rentiesville
+might have done a lot of socializing, or in Checotah, but I didn&#039;t.
+
+WILMOT: You were really out in the--
+
+MARTIN: Yes. And then my best friend, in a sense, was white people, were my
+friends, because they were my neighbors, and we did things together. At the
+butcher, my daddy would butcher the hogs, by what meat, and they would join
+together. When you&#039;re--just like I was, across the way from me on a piece of
+land I think was owned by maybe some of my family. There was some white people,
+and I knew the girls well, and they were kind of my friends, but only to say
+&quot;hi&quot; and recognize each other. But I don&#039;t think I ever remember being in their home.
+
+WILMOT: Or them coming to your home?
+
+MARTIN: No, but we&#039;d skate on the pond. Because I think the parents didn&#039;t know
+we were skating, we just had a good time. Just for a second, because we were all
+wise enough not to stay there long enough to let the parents worry about us
+coming home. We just skate across there and come home. I don&#039;t--the other people
+were Jacksons and they had one little boy, little Caucasian kid, and he was
+walked from his house up to our house--didn&#039;t know where he would be, sometimes
+he&#039;d come up.
+
+WILMOT: He&#039;d just wander away from his house to yours.
+
+MARTIN: But they didn&#039;t mind. It was just--the roads had not a lot of traffic or
+anything, there was no bad people loose in the area. His name was John Henry,
+they were Jacksons. He would come, stay with us a while, maybe we&#039;d take him
+home. He was younger than I was, a lot younger. I&#039;d walk him part of the way
+home. Then my cousin lived up about a half a mile. I think they went--I didn&#039;t
+socialize much with her either. These people were right close to me. I kind of
+think that when a person or families are neighbors and get along okay, that you
+don&#039;t feel segregation so much. Especially when you&#039;re on the farm and you raise
+everything, you don&#039;t have to do the kind of thing you have to do when you--say
+for example that I was in the city, in a mass of black people, I think as you
+get many numbers together then that&#039;s probably where more problems start.
+
+WILMOT: And you have to buy more things and you&#039;re more in contact with white people.
+
+MARTIN: I think that if you are in the situation that I was in, there were only
+a few people in the whole area out there, and my immediate neighbors were not black.
+
+WILMOT: I understand.
+
+MARTIN: So that got to be just my friends, you know, get along with them and
+they got along with me.
+
+WILMOT: How many years were you between high school and college? Because you
+said you were working in the ammunitions factory with your mother.
+
+MARTIN: No, I worked, after getting out of high school I worked to go to
+college, for that semester, for the first semester.
+
+WILMOT: Then you were right into college.
+
+MARTIN: I went right, yes, I just stayed there for two months, or two and a half months.
+
+WILMOT: What was college like for you?
+
+MARTIN: It was okay.
+
+WILMOT: What did you major in?
+
+MARTIN: Domestic science.
+
+WILMOT: How many years were you there?
+
+MARTIN: I was there one year.
+
+WILMOT: And did you, was the social life--was this a coed school? Were there
+boys also there?
+
+MARTIN: Oh yes.
+
+WILMOT: So it was coed, there was a lot--what was the social life like there?
+
+MARTIN: What was it like? It was, from my side, I didn&#039;t actually have a social
+life there, as far as, you mean, boys?
+
+WILMOT: Or in general, just friends.
+
+MARTIN: I had some friends, yes.
+
+WILMOT: Movies, dances.
+
+MARTIN: Not too much of all of that either. I think that, I think in today&#039;s
+world they have more of that than they did in those days, do you? You seem to be
+well informed.
+
+WILMOT: [laughter]
+
+MARTIN: Do you think they had so much social life as they do today?
+
+WILMOT: It depends on who you talk to. I find that people say sometimes they did
+a lot of dancing, and I don&#039;t mean dating, I mean dancing. People say, &quot;Oh we
+were out, we went dancing all the time, we had people over to our house all the
+time.&quot; It depends on who you talk to. Or, &quot;We went to the movies, we went to
+different things.&quot; It&#039;s whichever, however.
+
+MARTIN: I think where I lived, if I had lived in Rentiesville or Checotah I
+would have a lot more of that to talk about, but where I lived, we had to get
+there and be there. You weren&#039;t allowed to be--maybe spend the night no where
+{??} things like that. We had a family and that was a pretty close-knit family.
+
+WILMOT: So you lived at home while you were at school, at college.
+
+MARTIN: No, I lived on the campus.
+
+WILMOT: Oh you did?
+
+MARTIN: Yes. They had quite a nice campus. They had an agricultural department,
+and I think they raised a lot of the food, they had very nice food. I remember
+being 130 pounds and went to right quickly to about 160. I think because out on
+the farm I was always quite busy, and there I didn&#039;t do anything but go to the
+dining hall for my food. It seemed like the food was very good. I have an
+inclination to gain weight rapidly anyway. And no exertion. When you&#039;re on the
+farm you&#039;re moving, you have to move. Even working at McAllister. I said
+Eufaula, but it was McAllister was were the ammunition depot was.
+
+WILMOT: McAllister. That would have been, 1926, that would have been in the
+middle, actually you had just--did the Depression--
+
+MARTIN: It was in the forties.
+
+WILMOT: Did the Depression affect your family at all?
+
+MARTIN: The Depression.
+
+WILMOT: In the 1930s. I know you were very young then, you were only four at the time.
+
+MARTIN: I don&#039;t know, they built a house, they put together an orchard probably
+in the thirties.
+
+WILMOT: Now you said--can you tell me a little bit about coming out to--oh no,
+here&#039;s one question. When you left Langston University--
+
+MARTIN: I left because my parents were leaving. Dad sold the farm equipment, and
+they came through Langston.
+
+WILMOT: To get you.
+
+MARTIN: No, they didn&#039;t come for me, they came to say goodbye. They were
+stopping in Oklahoma City to have the car tuned up or something like that. They
+drove away and I kept thinking, &quot;I ought to go with them.&quot; I wanted to go with them.
+
+WILMOT: Did they want you to come, or they wanted you to finish school?
+
+MARTIN: They didn&#039;t know I felt that way, I didn&#039;t say that. I just thought,
+after they drove away and I thought about them. Then I went, I tipped out of the
+dormitory and ran downtown, that&#039;s kind of on a country road, small highway--the
+university is kind of off the highway, the busses are down there on the highway.
+I tipped down, got down and got a bus to Oklahoma City. I knew the woman&#039;s
+name--I don&#039;t know how I was thinking other than I was overpowered by the fact
+that I wanted to go and I didn&#039;t know how to call them. So I went out there and
+at the bus station, I was so lucky, the bus, the men, the porters in the bus
+station, I asked him if he knew Mary Cooksie, who had a rooming house, I knew
+she had a rooming house, and he said he thought he did know them, and when he
+got off he would take me there. I was also very brave, because I didn&#039;t know the
+man. But I had something I wanted to do, I wasn&#039;t scared of nothing, because my
+goal was to go there and come to California with them. He did know, he drove me
+up to that place, and he went to the door with me and that was the right place,
+and it shocked them. [laughter] They were shocked to see me coming up there. I
+spent the night and then we came back to Langston and I checked out, that&#039;s how
+I left, coming to California.
+
+WILMOT: They were going to California because the drought had caused all the
+crops to fail?
+
+MARTIN: Yes, they had had so many years of crop failure. See, my mother never
+worked, but she started working at Eufaula, I mean, McAllister. I think that&#039;s
+probably why she started to work. Then he couldn&#039;t make a successful crop at
+all. I don&#039;t know how that heat and no water, it was really awful.
+
+WILMOT: So when you--did you drive out to California with your family, or did
+you take the bus or did you take the train?
+
+MARTIN: No, we drove that car that I was driving to high school. It was a 1940 Chevy.
+
+WILMOT: You drove it all the way--did you go to L.A. first, or did you come
+straight through?
+
+MARTIN: No we came straight through, because my dad had some friends who lived
+in Richmond, this town, they had made some contact with him. We came her and
+found a place to live in North Richmond. We found a little place, one room or
+something with a small kitchen.
+
+WILMOT: Where was it?
+
+MARTIN: It was in North Richmond on Sixth Street, I believe. I used to remember
+the woman&#039;s name that had this little accommodation for us. We stayed there
+until we had some other people that Dad knew that built a hotel on Gertrude and
+he had a little three-room house that we rented until we went to Canal? They had
+Canal Projects. We went to live there.
+
+WILMOT: You were how old when you came here?
+
+MARTIN: I was probably nineteen.
+
+WILMOT: You were nineteen, and so that would have been 1945 that you came here,
+right at the end of the war.
+
+MARTIN: Yes, it was at the end of the war. That&#039;s why I said I didn&#039;t really
+work in the shipyards.
+
+WILMOT: Yes. What kind of work did you do when you got here?
+
+MARTIN: I didn&#039;t do anything for a while. My first job was at NBC company in San Francisco.
+
+WILMOT: Was that a paper company?
+
+MARTIN: No, it was National Biscuit Company, and I was successful in being
+talked about because I became supervisor.
+
+WILMOT: You were so young.
+
+MARTIN: Yes, but I worked hard.
+
+WILMOT: Did you take the Key train over there?
+
+MARTIN: No, I took the bus. We were here, but down about, you know, the Canal
+was not far from here, the Canal apartments. The shipyard was just around the
+corner from Canal Projects, where we lived. The route to the shipyard number 3,
+there was a bus service going there, so I used the bus to go to San Francisco.
+
+WILMOT: So you were, what was Richmond like then? I want to ask you more
+specifically, because that was a broad question, who were your neighbors? What
+was the community like?
+
+MARTIN: I didn&#039;t know too much about it. [laughter] I mean, when I came to North
+Richmond I didn&#039;t know anybody, and I don&#039;t remember meeting any girls in North
+Richmond. Although I went to a church, I went to {McLaughlin?} Temple and I
+would look at them and enjoy their music, when I first came. I don&#039;t remember
+meeting any girls or boys in North Richmond when I came here, when I stayed out
+there. It was sort of like I lived at home. I didn&#039;t bother too much. That
+wasn&#039;t my goal. My goal was to get me a job and get back in school, something
+like that. So that keeps your mind so going, you&#039;re not totally interested in--
+
+WILMOT: As far as neighbors, even beyond social life, did you live in a black
+community, or was it integrated?
+
+MARTIN: Where, in North Richmond?
+
+WILMOT: Here in North Richmond.
+
+MARTIN: North Richmond was primarily all-black, I think.
+
+WILMOT: I don&#039;t know.
+
+MARTIN: There were a few others.
+
+WILMOT: Were people from Oklahoma, or were people from other states?
+
+MARTIN: The people that my dad knew here was from Oklahoma. One was from Tulsa
+and I don&#039;t know where the other one was from.
+
+WILMOT: Did you know any other people who were also from like, Louisiana or
+Texas, Arkansas, other places?
+
+MARTIN: You mean, in North Richmond when I was there?
+
+WILMOT: Mm-hmm.
+
+MARTIN: I don&#039;t remember meeting any people.
+
+WILMOT: Okay. [laughs]
+
+MARTIN: Because it wasn&#039;t that long. It&#039;s kind of like, you&#039;re there for maybe
+six months or so.
+
+WILMOT: Oh, okay. And then you went to the Canal?
+
+MARTIN: And then I went from that 6th Street to Gertrude, and we weren&#039;t there
+long and then we were in Canal, and then I met people.
+
+WILMOT: So who lived around you in Canal?
+
+MARTIN: Willie McGee&#039;s mom and father was our next door neighbor. Do you know
+Willie McGee? He&#039;s a famous ball player from here, from Richmond. All the church
+people I knew. I met people there. I started work in San Francisco, and I met
+people from the Canal area. Because I was there a long time, and I wasn&#039;t in the
+other, North Richmond, I wasn&#039;t there very long. But I remember personalities
+because I would go to that church and watch them sing. I don&#039;t know if you know
+Ernestine Cleveland Reeves?
+
+WILMOT: Hmm-mm.
+
+MARTIN: She has quite a religious work in Oakland, a woman, she&#039;s now a bishop.
+That was there their membership was and I used to hear them sing and I&#039;d go back home.
+
+WILMOT: You were also making money for the first time. No, you worked before at
+the ammunition center, but what did you do with your money? Were you saving it,
+were you spending it? Were you buying yourself clothes, were you buying yourself
+stockings? I know it was during the war.
+
+MARTIN: [laughter] What I did with it, I remember, the first money I made, I
+bought a suit for my mom, one for myself, and a dress, black and white, for my
+sister, and something for my dad, and we went to--we dressed up in those clothes
+to go to the beach. I had gone to the beach, and I wanted them to go, and we
+dressed up to go. We were on the bus going to the beach. Did you ever go there?
+
+WILMOT: Which beach?
+
+MARTIN: In San Francisco.
+
+WILMOT: Ocean Beach?
+
+MARTIN: The one where all the--
+
+WILMOT: Cliff House?
+
+MARTIN: That area, yes.
+
+WILMOT: Ocean Beach, all the way past the avenues.
+
+MARTIN: That&#039;s right. I think we went all the way on the bus. I don&#039;t know why I
+thought you had to dress up to go, but I bought these things with my money so we
+could dress up and go to the beach. I saved my money, because I didn&#039;t have to
+pay to live at home. My father was doing--he got some work right away, and he
+was a good worker, so he was successful. I think he worked some at the shipyard.
+Then there was something going on in the Canal area, and he rented a little
+place and opened up a business called the Paper Shack, no, it wasn&#039;t the Paper
+Shack, Kiss Shack I think. It had Kiss soda pop, Kiss, a K. I think that&#039;s what
+he named it, Kiss Shack. He had a lot of, ice cream, and my mother thought he
+shouldn&#039;t quit the work to do that, she thought the work was somewhat more
+secure, but he quit anyway. Then I used to get, when I was going back to school,
+I would come home from school and work there with him and my mom. It was a real
+thriving little business. My dad had this kind of personality that would draw
+people as well. He was more sociable than me and my mom I guess. My brother was
+real sociable too. My sister too. I probably got that kind of--my mom was
+sociable but not to the extent that my dad was. But my mom was so religious, she
+was always in church. She was there. Because she became chairperson of the
+Deborah circle and had, I think, at one time, the largest group of women in her circle.
+
+WILMOT: Chairperson of the what circle?
+
+MARTIN: Deborah, biblical, Bible.
+
+WILMOT: Thank you.
+
+MARTIN: She really was highly respected by her--
+
+WILMOT: Was this still a Baptist church?
+
+MARTIN: That was Baptist, still the church I am in today, and she died as a
+member there.
+
+WILMOT: She passed in 1991?
+
+MARTIN: 1984.
+
+WILMOT: 1984. Okay.
+
+MARTIN: My dad died in &#039;81, and she died in &#039;84.
+
+WILMOT: She followed him. I wanted to ask you more about when you said there was
+something going on in Canal and so your father got this little shop. Did your
+whole family move out of Canal at that time, or did you stay?
+
+MARTIN: No, we were living in Canal. But just in the same Canal area he started
+the business.
+
+WILMOT: Oh I see, when you said there was something going on you meant something
+positive, there was enough traffic for people to really--
+
+MARTIN: Oh, there&#039;s a lot of people living in Canal.
+
+WILMOT: What were your--
+
+MARTIN: There&#039;s like so many, in little building, had maybe eight families, and
+then another one kind of made an L shape and there was another eight families.
+
+WILMOT: How many units? So there were eight units in each of these buildings?
+
+MARTIN: I think probably eight.
+
+WILMOT: Or maybe were families sharing?
+
+MARTIN: Oh no, they had their own. The ones where we were living, our unit had
+two bedrooms.
+
+WILMOT: Were they--
+
+MARTIN: There wasn&#039;t two bedrooms, there was a bedroom and living room and we
+used the living room as a bedroom.
+
+WILMOT: So there was two bedrooms.
+
+MARTIN: There was two rooms. It was a kitchen, bathroom, and two other rooms.
+
+WILMOT: Ah, so you used them, okay.
+
+MARTIN: And most families seemed to have used the living room as, you know, a
+combination of sleeping and a living room.
+
+WILMOT: You may have told me, the other families, where were they from? Were
+they Bay Area folk?
+
+MARTIN: Next door was a group, was a group of people from Chicago, and other
+people were from throughout the United States. Mostly from the south lands. The
+girl next door, that family, I don&#039;t know the parents were, but the girls were
+from Chicago. I think they came here. Maybe they weren&#039;t from Chicago.
+
+WILMOT: Are you in touch with any of the people that you lived with when you
+were that young?
+
+MARTIN: Did I what?
+
+WILMOT: Are you in touch with any of those people still?
+
+MARTIN: That I knew there? Not really. Yes, in a sense. You know, like, the
+people in our church, a lot of them lived right around our unit, which was 89M I
+think. Building 89M or something like that. They were always at the same church
+that my mother--I think my mother and some of the ladies worked at a fish place,
+cannery, somewhere down on here they had a fish cannery and several of the
+people that went to church with my mom, they all worked there.
+
+WILMOT: Do you remember where the people who went to church with your mother
+were from?
+
+MARTIN: I really don&#039;t know.
+
+WILMOT: Any of the ladies?
+
+MARTIN: Mrs. Haines was one of them and I think she--I don&#039;t know where they
+were from. As a matter of fact, I didn&#039;t know--I wasn&#039;t really that close. We
+were right there but I worked in San Francisco and just sleeping and then I&#039;d go
+to San Francisco to work, and I imagine I wasn&#039;t in nobody&#039;s house, because I
+was reared kind of like that.
+
+WILMOT: You were busy.
+
+MARTIN: Yes, I was reared to not be in peoples&#039; houses all the time.
+
+WILMOT: Did you have a sense that--why were people, why do you think that was?
+
+MARTIN: Why?
+
+WILMOT: What you just said. Reared to not be in peoples&#039; house all the
+time.MARTIN: [laughter] Why? I guess they knew. My mom had a lot of wisdom, I
+guess that&#039;s wisdom, maybe not. It might be not good, but that&#039;s the way, you
+weren&#039;t to be in peoples&#039; homes.
+
+WILMOT: You were to just be close to home.
+
+MARTIN: You were supposed to be doing something, and you can&#039;t do much in
+someone else&#039;s home. You&#039;ve got to get out, either go to school or go to work,
+or do something for yourself, sewing or cooking or canning, or do something. You
+don&#039;t be in someone&#039;s home.
+
+WILMOT: Just visiting.
+
+MARTIN: Yes. We don&#039;t know why. [laughter] We don&#039;t quite know why you do that,
+other than holidays and things.
+
+WILMOT: Well, I wanted to ask you also, did you have a sense of why people came
+here? When you talked to--why did the people who lived in Canal Project, why
+were people here? Why did they come here?
+
+MARTIN: They came here to find--to better their conditions. They heard about the
+need for people to work in the shipyards. I would say 95 percent of them came
+for that reason. To get a job--I understand they said there were a lot of people
+from Oklahoma, Arkansas, I guess, all those places. They mostly probably all had
+sort of that--I know Oklahoma had this serious, very serious drought. There was
+a way to survive. I thought my dad made probably a good move, because if he
+couldn&#039;t do the farming, and then you know, he could work, and he came where
+there was work in California. Although it was just closing down when we came.
+But he right away got a job in the shipyards, I believe. No, he joined the
+union. I think they did some cleanup work out there. This other part, they were
+cleaning up, was where he found this, saw this piece of land, this little place
+and whoever controlled it, he asked them if he could rent it. He was
+self-motivated and he rented that. My mother thought he should stay in the
+construction business. Then she worked there too, we all worked.
+
+In the afternoon, we had a lot of ice cream, I don&#039;t know why ice cream seemed
+to have been so special.
+
+WILMOT: The sweet shop.
+
+MARTIN: Yes. Then I remember dipping till this finger was kind of setting, kind
+of getting a little bit deformed. Because you know, like, when families kind of
+come back, everybody&#039;s home and it will be real crowded. Then he started selling
+vegetables in there, too.
+
+WILMOT: Let&#039;s take a break.
+
+[End of Session]
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

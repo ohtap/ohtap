@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042011" dt="2018-08-15"><version>5.1</version><date value="2010-07-09" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Gloria Magleby Interview 1: Rosie the Riveter World War II Home Front Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Gloria Magleby</interviewee><interviewer>Javier Arbona</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format>video</clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>ARBONA: This is Javier Arbona, and I&#039;m here with Gloria Magleby on July 9, 2010.
+We&#039;re here today for an oral history interview. You were just mentioning that
+you wanted to start with--
+
+MAGLEBY: Coming to California.
+
+ARBONA: Coming to California. And that&#039;s actually the same thing I had on my
+outline. So why don&#039;t you tell us a little bit about that?
+
+MAGLEBY: I will indeed. I was born in Southern Utah. My father was a contractor
+and we moved around a little bit in Utah, and then ended up in Elko, Nevada,
+where my father was a contractor and built houses there. Then came 1941.
+December 7, 1941, and there came the Pearl Harbor debacle. That was a terrible
+thing to happen. I lost a cousin in that bombing of Pearl Harbor, but it changed
+our lives, and of course it changed the lives of everybody in America. It&#039;s
+interesting because--I&#039;m just going to throw this in--the number of people
+killed at Pearl Harbor on that bombing escapade of the Japanese at that time was
+almost the same number that were killed on 9/11 at New York. That&#039;s just plain
+interesting to me because when it happened, we heard it on the news of course.
+And it was a Sunday. It was a little scary, very scary, especially when we
+realized that we had a cousin that was killed, who was in the Navy band at Pearl Harbor.
+
+But that started the move to California. My father found work in California and
+the entire family came here. Now entire family at that time was only two
+children, and that was me and my twin brother and my mother and father, although
+I had four other siblings at the time. But they were older and married and moved
+their way. But they all ended up in California anyway. So, 1941 was the bombing
+of Pearl Harbor, and that started the movement of our family to Pittsburg,
+California. And we said Pittsburg because this is unincorporated area where I
+live now named Bay Point, but at the time we moved we thought we were coming to
+Pittsburg. Now it&#039;s interesting to look back on it because I say I&#039;m from Bay
+Point, not Pittsburg. But when we first moved, we moved to Pittsburg.
+
+ARBONA: Where did you say you were moving from?
+
+MAGLEBY: Elko, Nevada. We only lived in Elko a couple of years, but it was an
+interesting town. Very interesting, and I&#039;m just going to throw this in. When we
+ran for election in high school, the one that won the most votes gave the most
+beer and pretzels away in Elko, Nevada. That was unheard of in my family and
+life, but even so, while we lived in Elko, it was a lot of fun.
+
+Moving to California was totally different for me. Remember, I was only about
+fourteen so things didn&#039;t dawn me until later. When I look back, it&#039;s a lot of
+fun to look back because as I&#039;m older, I realize that I was going through
+tremendous history at the time, but didn&#039;t realize it at the very moment. My
+twin brother and I took a bus from Elko to meet my family here. My mother took
+another bus to Pittsburg to pick us up. We couldn&#039;t drive cars a lot because gas
+was hard to get. You couldn&#039;t buy gas; you had to have a coupon, and you could
+only give gallons at a time. It was important to use that gas expeditiously and
+not just waste it. Everything we did we tried to find ways and means to get
+there by bus.
+
+So we got to California and my mother and father bought a house. It wasn&#039;t going
+to be ready until 1943, so for one year we lived in a motel in California, here
+in Bay Point. That was interesting living because it was no different from a
+house. Because we had two bedrooms--no, we had one bedroom and used the living
+room for the other bedroom. We lived for one year in a motel. My twin brother
+and I took a bus to school at Mt. Diablo High School in Concord. And so that one
+year, 1942, was one where we lived in a motel.
+
+1943 we moved into this house where are we sitting right now. That means that
+I&#039;ve lived in this house since it was built, and that was 1943. That makes it
+about--what? Sixty-seven years, something like that. So here I am, and I just
+had a birthday, so I am now eighty-four years old. And I don&#039;t feel older than
+thirty-nine, Jack Benny [laughter]. It&#039;s incredible how time flies, but this is
+the house that we moved into finally. It was built brand new by the Enes family.
+It was called Enes tract. All of the houses around here were Enes tract. We
+moved in, and my father built a little attic room for my brother. Although it&#039;s
+a two bedroom house, my brother had a room, I had a room, and my mother and
+father had a room. So that&#039;s interesting because in 1943 we were in this brand
+new house. We didn&#039;t have much furniture, but we moved in and loved the idea
+that we had our own house. This is 1943.
+
+ARBONA: I want to get back to 1943, but I&#039;m also interested if we could rewind a
+little and go back to Elko, because you lived there for fourteen years.
+
+MAGLEBY: No, two years.
+
+ARBONA: Oh, two years. I understood wrong.
+
+MAGLEBY: We had moved around in Utah. We left Monroe when we were about eleven
+years old. Then we moved to American Fork. Everywhere we went it was because my
+father had work. If he didn&#039;t have work, we had to find work--he had to find
+work. And we moved wherever he found work. So, Monroe is where we were born, for
+about eleven years, and I say that&#039;s where I grew up. Then we moved to American
+Fork, Utah. Then Salt Lake City, Utah. Then Elko, Nevada. Then Pittsburg,
+California. We were used to moving around. We did it quite well. My twin brother
+and I found friends no matter where we went. We still have those good friends.
+We still remember and keep good friends. But Elko was just a stopping place, and
+we didn&#039;t spend that much time there. But that&#039;s where we were in 1941 when
+Pearl Harbor was bombed, and that&#039;s what brought us to California. Because my
+father found work in California, and that&#039;s how we got to buy a house, because
+he finally had a job where he got paid, not a job where he gave everything away.
+He&#039;d build a house and then the wife would come in and say, &quot;Well, could you
+redo this a little?&quot; He&#039;d say, &quot;Oh, of course I can.&quot; So we didn&#039;t make money.
+He was just too good and too kind. But he built some magnificent homes for
+people, but he wanted it to be just right for the wife especially, because she&#039;s
+the one that lives there most of the time and is there. So we didn&#039;t make a lot
+of money while he was contracting, but finally got a job at Shell Chemical.
+That&#039;s interesting because I also got a job there later on. But 1943 is when we
+moved into this house.
+
+Now, my twin brother and I went to school Mt. Diablo High School in Concord and
+that was a magnificent school in those days. It was one of the best in
+California, accredited. It was one of the best in America. It was such a good
+school that it was well known to be one of the best--of course in
+California--and all of California and even wider than that. So we felt honored
+to be able to go to that school. When we went to school, we took the bus every
+morning. We loved it there. For the first time in a long time, we had homework.
+Seemed like we didn&#039;t have homework in other towns. But at Mt. Diablo we had
+homework and we did it every night. We were glad to do it, we were glad to
+learn. There was an attitude at Mt. Diablo that you were at a special school
+that you paid honor to that school by doing well, and we did. We tried to do well.
+
+I was very active in the school. As a matter of fact, I loved going to school
+there so much that I never missed one single day. We went as juniors, and then
+seniors. As a junior and senior, I didn&#039;t miss one day of school because I loved
+that school, Mt. Diablo High School. And even today, I give honor to that
+school. It was a place where we truly enjoyed the teachers and enjoyed the
+curriculum. I learned Spanish for the first time in my life. My twin brother
+took some--I think he took Latin or maybe a little Spanish, I&#039;m not sure. But
+later on, as we graduated and when you realize that this is 1943 and 1944, the
+war is going full blast, World War II. And as we graduated in 1944. Remember,
+July 1944 was when the big explosion came.
+
+We didn&#039;t graduate until June of 1944, and the morning after graduation my twin
+brother and a bunch of our high school senior boys went in the service because
+we were at war. Either you got drafted or you decided to join. They decided to
+join the Navy. A bunch of boys from my class went in the Navy and they took off
+that morning, the next morning after we graduated for San Diego to be in the
+Navy, and they certainly were.
+
+But then of course, V-E Day came, and that was shortly after. I can&#039;t remember
+VE Day to be honest with you, because that was 1945, so they were only in the
+service for a little while and really didn&#039;t get into action. They were called
+to do various things, but the boys I graduated with all came home safe. One of
+the boys that went in the service early was killed in action. So we knew what it
+was like to be killed during World War II, having gone through it with one of
+our classmates. But the boys that went into the service right after graduation,
+they all survived the war. I don&#039;t think any of them got into actual combat of
+any kind.
+
+ARBONA: What was the atmosphere in the high school in that period of the 1940s?
+
+MAGLEBY: Well, remember now, we&#039;re fifteen, sixteen, seventeen. We had fun.
+Despite the war, despite the fact that we couldn&#039;t buy cars, we couldn&#039;t buy
+sugar, we couldn&#039;t buy shoes, we couldn&#039;t buy some clothes. We still had a
+fabulous time going to school. It was like we existed despite the war. And we
+laughed and played and had football games and baseball games, and went to the
+games. We&#039;d collect a coupon for five gallons of gas and go to a ball game. So
+we didn&#039;t really suffer a whole lot. People nowadays say, &quot;You couldn&#039;t buy
+shoes?! You couldn&#039;t buy gas?&quot; No, we couldn&#039;t. But we had a lot of fun anyway.
+And we had our senior ball and our senior prom, and we put on plays. We had a
+great time going to school, truly a great time. I guess it&#039;s because you&#039;re
+young and you don&#039;t realize that things were that bad.
+
+Because after the bombing of Pearl Harbor the adult people--not us, because we
+just didn&#039;t realize how serious it was--adult people felt like they were coming
+for America. That the Japanese weren&#039;t--that was the first bombing in Pearl
+Harbor, that that was just the first step in them coming to America. So when we
+got to California, we knew what it was to have air raid wardens. We knew what it
+was to have our parents go to buildings and identify any aircraft whatsoever,
+and they would and learned how to identify aircraft. Because we felt confident
+that the Japanese were coming, and first off it&#039;s California, we&#039;re right in the
+line of fire. We had brownouts. We pulled all the drapes. We were checked on.
+Air raid wardens were checking to making sure there wasn&#039;t one single thing that
+showed light in the house. We were sure that the Japanese were coming to America
+to bomb us and take over America. And lo and behold, they did not. They didn&#039;t
+come close to America as far as I am aware. And so although we were very aware
+that they could, they didn&#039;t come, and so we were saved in that regard.
+
+But we were very aware that there was a war going on. I had four brothers. All
+four brothers were in the service and interesting enough, my twin brother was in
+the Navy, and the next brother up was in the Marine Corps, the next brother up
+was in the Merchant Marine, the next brother up was in the Army. So we were
+participating in the war effort for sure. My Marine brother was in Saipan or
+Saigon. I can&#039;t remember what the name of that was, where he spent a lot of time
+and actually was in some combat. But we were all part and parcel of World War
+II. But we didn&#039;t mind it. We knew we had to hurry and get things together
+because we were not anywhere near ready for a war. We didn&#039;t concentrate on the
+Army, the Navy, the Marine Corps. We didn&#039;t concentrate on supplies. And all of
+the sudden everything stopped, and everything turned to the war effort. We
+couldn&#039;t buy a lot of things and we didn&#039;t care because it had to go the war,
+and we were happy to do it.
+
+ARBONA: When your brothers left for war, what would a day like that be like?
+
+MAGLEBY: It was one of sadness, but we knew it had to be. We straightened our
+shoulders, even as young people, and said, &quot;Goodbye. Do a good job.&quot; There was
+not a whole lot of mourning because we knew had to be done. We had to go protect
+our company, and we had to protect it mainly from the Japanese. But remember we
+had already joined the war in Europe. We were already part of that. My older
+brother was drafted into the Army, and he was part and parcel of that war. We
+called it the European War. And now we&#039;re involved in another war on the other
+side of the world. So our family was deeply involved in World War II, both in
+Europe and in the Pacific. But nobody really mourned a lot about people going to
+war, because we knew they had to do, and they were proud to. They were delighted
+to be a part of the fighting force. It wasn&#039;t like, &quot;Oh, I got to go to war. How
+can I get out of this?&quot; Nobody tried to get out. Except conscientious objectors,
+and they had every right to get out. But as far as going to war, that was just
+part and parcel of our thinking. You had to go. You didn&#039;t argue. You went
+because it was the right thing to do, and we felt like it was right.
+
+ARBONA: When I&#039;ve read about the period, I&#039;ve often times heard references, or
+seen references in books to places like Fort Mason where the soldiers would
+depart from. Would the family go there the day of the departure?
+
+MAGLEBY: No, no. As a matter of fact, I&#039;m going to tell you a story about
+Pittsburg because Pittsburg had a huge camp. It was built at the time of the
+bombing of Pearl Harbor. We knew we had to build some camps in a hurry to hold
+our servicemen. So in Pittsburg it was called Camp Stoneman. That camp held at
+one time 153,000 troops. It was a huge camp, and they embarked from Camp
+Stoneman down to the waterfront where the ships would come to take them to World
+War II. Bear in mind that Pittsburg is not a big time and Camp Stoneman was just
+off to the side of the town. We all knew Camp Stoneman was there, and we all
+knew that there were boats waiting for them at the waterfront in Pittsburg. So
+when we went to Pittsburg and we knew fellas were going to the service, nobody
+said anything because &quot;loose lips sink ships.&quot; That was one of the things we&#039;d
+always say. Just don&#039;t talk about anybody going anywhere. If we went to church,
+and some servicemen came to church, we didn&#039;t mention that there was a chance
+that they would have to go to war or when. We just didn&#039;t talk about it because
+were afraid that maybe there were spies that picking up on things like that. But
+let me tell you, there were times in Pittsburg when thousands of men left the
+camp in the middle of the night, walked down Harbor Street--bear in mind that
+they didn&#039;t make one sound--there was nothing to do.
+
+[Phone interruption]
+
+ARBONA: We are back from the phone call pause. This is still tape one with
+Gloria Magleby. You were just telling me a little bit about the fear of spies
+and the knowledge that if there were soldiers at church or somewhere, you didn&#039;t
+really want to talk about the war.
+
+MAGLEBY: We didn&#039;t much about anything that was going on at Camp Stoneman
+because we did not want anybody--we didn&#039;t want to be a part of any spying, or
+as you say, loose lips sink ships. We didn&#039;t want to be a part of that. It&#039;s
+interesting to realize that as the men left Camp Stoneman in the middle of the
+night and walked down Harbor Street, nobody in Pittsburg knew they were doing
+that. Nobody talked about it because they didn&#039;t know it was happening. Here&#039;s
+thousands of men walking down Harbor Street in Pittsburg to the waterfront where
+there were huge ships docked waiting for them to board and ready to go the
+Pacific war zone. When you think back on it, it&#039;s incredible to believe that
+night after night that happened. Not just one night, but many, many nights in
+the middle of the night here are army personnel, soldiers, walking down
+Pittsburg&#039;s streets as quiet s they could without saying one single word, and
+nobody knew about it and nobody told about it. And if they did know about it,
+they wouldn&#039;t tell about it because it was something we knew we shouldn&#039;t talk
+about. But it was interesting now looking back on it, that&#039;s how they got to the
+ship. They had to walk down the street to get to the boat. And they did. Off
+they went to the war, some of them never to return because there were lots of
+deaths in the Pacific, too. Those days are filled with almost, like it didn&#039;t
+happen, when I think back.
+
+When you&#039;re young, those things don&#039;t count as much. You live your life; like I
+say, when we went to high school, we had a great time in high school in the
+middle of the war. We didn&#039;t let it stop us from doing much of anything. We
+saved our money for war bonds or war stamps, and you bought a war stamp every
+Monday for twenty-five cents, and that was great if you had a quarter. A quarter
+was big money in those days. We&#039;d buy a war stamp on Mondays and then save them,
+and eventually you could redeem them. If you bought a war bond, it was more like
+fifteen dollars, and that was worth about twenty-five dollars before you knew
+it, or maybe more. If you still had those today, you would be very rich if you
+had kept them and saved them. That was part and parcel of what we went through
+during World War II. The war was going strong, but our lives were still going
+on, too.
+
+ARBONA: Tell me a little bit about the stamps, too. If you would get together
+with friends, you&#039;d go out to do something and spend them where?
+
+MAGLEBY: Well, the stamp was a war stamp. You saved them. You didn&#039;t spend them.
+You could redeem them for money, but it was just exactly like today. If you
+bought a treasury bond you saved it. You didn&#039;t go out and spend it. Too many
+times we felt like we needed the money, so we&#039;d spend them anyway. You know how
+kids are. If you needed money and you had a dollar in stamps, you collected the
+dollar because that would buy lots. That would buy a lot of stuff. As a matter
+of fact, I remember one time when we lived in Salt Lake--
+
+[Phone interruption]
+
+MAGLEBY: --interested in history and so on and he and I collaborate on lots of
+things, but we can talk about it later.
+
+ARBONA: Don&#039;t let me forget. If there are other people that you know who would
+be interested in an oral history, we could get contacts.
+
+MAGLEBY: He only came here since 1996, so it&#039;s not somebody that&#039;s older, but
+nevertheless there are very few that remember all of this left. Very few. My
+classmates remember, and that&#039;s kind of fun. Let me tell you what my classmates
+do. This is interrupting the story a little bit. Remember we graduated in 1944.
+The explosion of Port Chicago happened in 1944, so we all remember it. But as a
+class, we&#039;ve stayed together pretty much. As for me, I never married. I lived in
+this house ever since it was built.
+
+I&#039;ve kept in touch with classmates for these sixty-seven years, and now we meet
+in the school, in the term of school, like September to June, every month at Mt.
+Diablo High School. They have an on-campus restaurant called Serendipity. We go
+over there once a month, and we are in collaboration with the school, the
+principal, and the faculty. They bring class members of the school, current kids
+that go to school, to the Serendipity restaurant, and we treat them to lunch.
+They bring the kids that are kind of on the edge, that could care less about
+going to school, who could care less about a teacher or learning anything. Then
+they sit with us and we tell them what it was like going to school during World
+War II. If we tell them that we couldn&#039;t buy shoes, they say, &quot;You couldn&#039;t buy
+shoes?!&quot; They can&#039;t believe it. Then we tell them how much we loved school. And
+before they leave, they put their arms around us--because some of them don&#039;t
+even know what a grandparent is--and we&#039;re like their grandparents. It&#039;s
+incredibly interesting to see them as they come in and sit down and say, &quot;Oh,
+we&#039;re going to have lunch with some old fogies. This ought to be fun.&quot; And
+before they leave, they are in the palm of our hands because we love that school
+so much. They feel it, they know it, and they respect it all the more. The
+faculty and the principal say, &quot;Please don&#039;t stop coming because this is making
+a world of difference to some of the kids who used to care less about school.&quot;
+
+Our class was, to me, still very important. Although many of us have died--we
+had only about 102 graduate, and there&#039;s maybe thirty or forty of us left--we
+still get together whenever we can, and we do once a month, during the school
+year, to enjoy lunch with the kids who go to school now. We tell them what a
+great school they go to. &quot;If you don&#039;t like it, you better because you&#039;ll have
+to speak to us. You&#039;ll have to apologize to us.&quot; But they love to have lunch
+with us, and it&#039;s a free lunch. We get the Bay Point Chamber of Commerce to
+supply the money for their lunches, and so it just makes a world of difference
+because they understand how much we loved school. How much we didn&#039;t ever want
+to miss school.
+
+Now we&#039;ve reached about 1944 and Camp Stoneman, but we can go on.
+
+ARBONA: You mentioning the high school there, even though that came a bit from a
+detour, I wanted to pause on that for a little bit too and talk about it. The
+school--I&#039;m curious, when you came to California and went to Mt. Diablo High
+School, was the school recently built?
+
+MAGLEBY: It was an older school.
+
+ARBONA: It was older.
+
+MAGLEBY: Yes it was. And it was the only one, virtually, in almost all of Contra
+Costa. There were very few other schools. Richmond had a school. Oakland had a
+school, but not Contra Costa. Mt. Diablo was where there are about seventeen
+high schools now. It was the only one. It still wasn&#039;t that big. There were
+maybe 1,700 students in the whole school. Maybe not that many. I&#039;m thinking more
+like 800 in the whole school because in our class there were a little over a
+hundred. Although there were bigger classes underneath us; it wasn&#039;t a huge
+school, but it was the only school in the area.
+
+ARBONA: In the area.
+
+MAGLEBY: And the principal, Ms. Bertha Romaine. They named a building after her.
+Bertha Romaine was our principal. We were so respectful of her that there is no
+way in this world that we would ever accost her or call her names. Today kids
+have a tendency to say anything they want to teachers. We did not. We were very
+respectful of teachers and especially the principal. We had a dean of girls,
+Miss [Irma] Bromley, and she also was respected so much. Our coach, Pete Kramer,
+we would have walked to Missouri for him, or crawled to Missouri if that&#039;s
+possible, because we respected them so much. When I look at our yearbook now, I
+realize what great faculty members we had. The Spanish teacher, Ms. Witt. We
+didn&#039;t know she was married. Women didn&#039;t get married as teachers in those days.
+You really weren&#039;t supposed to get married, and if you did you better keep it
+quiet because that wasn&#039;t something you do and you might lose your job. But Ms.
+Witt was married, and we didn&#039;t even know it. Married to Mr. Cox. Her name was
+Mrs. Cox, and we didn&#039;t even know it. Knowing her afterward we finally realized
+she was married the whole time we were going to school.
+
+ARBONA: Why was that you couldn&#039;t get married or that the teachers were expected
+not to--?
+
+MAGLEBY: I have no idea. I have no idea. It was more of a culture than anything
+I think. There was no law. It was just something you didn&#039;t do. If you were a
+woman teacher, the last thing you did was get married. That was not right. You
+shouldn&#039;t be married as a woman teacher. The men could be married, but not the
+women. The men could be married, and we knew that. We thought all the women that
+were our teachers were not married. Many of them were not married, but some of
+them were and didn&#039;t tell us. But it was kind of fun afterward to realize that
+was just something the women teachers didn&#039;t do, and that&#039;s marry. So whatever
+happened happened.
+
+ARBONA: Do you have any recollection of how old she was?
+
+MAGLEBY: She was like in her thirties, and she stayed for a long time and taught
+for a long time and lived for a long time. I was pleased to go to lunch with her
+many times after I graduated, years and years after I graduated. She lived to be
+101 and was sharp as a tack right up to the last. That was our Spanish teacher
+Irmgard Witt. She was a very, very interesting teacher, and we loved her. But I
+got to know her even better after graduation.
+
+ARBONA: Did she mention something about her marriage?
+
+MAGLEBY: Oh, yeah. She said she didn&#039;t tell anybody that she was married, but
+she was. She didn&#039;t have children, but she was married. It was interesting to
+note that I don&#039;t know that there were any others that I can think of that were
+married, but I think there was one other woman that was married. But if you got
+married, you left school and got married. But you didn&#039;t come back and teach.
+That was a no-no for some strange reason. Things have changed now for sure. They
+can be married and divorced and married and divorced sixteen times if they want
+to be, and still come back and teach. But school was important to me growing up,
+and I&#039;m so grateful for Mt. Diablo High School for the good education that it
+gave us.
+
+ARBONA: You also mentioned that the class sizes were getting bigger and bigger.
+
+MAGLEBY: Yes, they were.
+
+ARBONA: Was that because of people coming to the state or the area?
+
+MAGLEBY: People coming to California because of the war. That&#039;s why we called
+the people from Oklahoma Okies and people from Arkansas Arkies, because lots of
+them--and you know the stories of people that came during the Dust Bowl and so
+on. There were jobs in California during World War II. Lots of people from
+Oklahoma and Arkansas came to California to live and get work. There was some
+kind of a stigma attached to that, and we called those from Oklahoma Okies and
+from Arkansas Arkies. It was not a good name. You&#039;re a little bit underneath the
+high-class California people, which was so unfair, so very unfair. But that&#039;s
+what happened. So many from Oklahoma came to California, all over California,
+not just Northern California. When I think about it now, that was the rudest
+things we could do, is call somebody an Okie. That meant they couldn&#039;t make a
+living, they had to come here. They never called me that, although I came in
+World War II. Because I wasn&#039;t from Oklahoma. It&#039;s a strange story. Strange,
+strange story.
+
+ARBONA: Did you ever identify as coming from somewhere else?
+
+MAGLEBY: Well, yes, we all did. But it was different coming from Oklahoma for
+some reason. I don&#039;t know what that was, unless it was because there were a lot
+of them that came. But they integrated into California, and now you don&#039;t even
+realize that many, many people living next door to you started out in Oklahoma.
+But that was a stigma attached somehow. I don&#039;t know how it came about, and I
+don&#039;t care, but I didn&#039;t like it. It&#039;s so unfair. Very unfair. But going to
+school was lots of fun.
+
+ARBONA: And you learned Spanish.
+
+MAGLEBY: And I learned a little bit of Spanish. We had a lot of fun in her class
+because she was a very interesting teacher. I had two years of Spanish, and then
+after we graduated and my brother--I told you my brother went into the
+service--after that he was called on a mission by our church. The Church of
+Jesus Christ of Latter Day Saints. He was called on a mission to Mexico, and
+boy, did he learn Spanish fast there. As a matter of fact, he&#039;d rather speak
+Spanish than English. He could speak it fluently. When he came back from his two
+year mission to Mexico, he purposely found people who could speak Spanish and
+related to them. They&#039;d go out and have breakfast together, and their entire
+conversation would be Spanish. Spanish in California is a second language. It
+just is. And now we almost print everything in English and Spanish because of
+the fact that so many Latinos live in California and it&#039;s only fair that they
+have some communication with every community.
+
+I&#039;m very active in this community in Bay Point. As a matter of fact, the thing
+that I&#039;m noted for here is organizing groups and organizations. I&#039;m good at
+that, and I enjoy it. So one of the first things I organized--and, by the way, I
+was elected to the Municipal Advisory Council, which is like the city council,
+but it&#039;s unincorporated, in 1998, and from that time on, I became very active in
+the community. Before that, I had a job and I worked in my church, but I wasn&#039;t
+active in the community. But in 1998, I became a member of the Municipal
+Advisory Council [MAC] and it started me on a quest to get more people involved.
+I was a member of the board of directors on the MAC, as we called it, and in
+2003 I was elected as chairman of the board of directors for the Municipal
+Advisory Council.
+
+And so I felt like I had a little bit of clout, and I thought to myself, &quot;What
+we need in this community is to revive what was the West Pittsburg pride into
+the Bay Point pride.&quot; We changed the name of West Pittsburg to Bay Point. I was
+part and parcel of that because I thought it was a good name. I organized the
+Bay Point Pride. That was simply to keep the community clean and tidy. As a
+matter of fact, it is now ten years old, since I organized the Bay Point Pride.
+Having been successful doing that and getting more people involved in cleaning
+the community, cleaning vacant yards, and then we started a program of yard of
+the month. You have the prettiest yard, you get a reward. That has been going
+and been so successful I figured, &quot;Well, lets&#039; see, what else do we need in Bay
+Point?&quot; And I organized the Bay Point Historical Society. I was the organizer of
+that because I felt like we needed one. And lo and behold we had one before you
+know it. Such as today I am interested in history. I am very interested in The
+Bancroft Library, and that I&#039;ll tell you about in a minute. But I organized the
+Bay Point Historical Society, which is still going strong. People are still
+coming to it. We have luncheons once a year and talk about the history of Bay Point.
+
+Then I said, &quot;Well, Bay Point&#039;s a pretty good-sized town. We should have a
+chamber of commerce.&quot; So I organized the chamber of commerce. Lo and behold, we
+have now a chamber of commerce, organized in 2003. I did all of this in 2003.
+
+Then in 2004 one more thing I organized was the Bay Point Garden Club. I said,
+&quot;Every community needs a garden club.&quot; Because I was successful in the others, I
+figured I could organize anything. Since that time, all four of these
+organizations are very active and going strong.
+
+ARBONA: I can see why you have so many appointments and you are so busy.
+
+MAGLEBY: I have many, many appointments. This house is not a house; it&#039;s an
+office. It holds the materials for all of those organizations, because I am
+available, this house is available to store things.
+
+ARBONA: What do you think if we actually come back to these things because I
+think this is very important local history from the recent past? But I was
+thinking we could go back to the high school, and you were talking about Spanish
+speakers in California. Is there anything else that you can add to the
+population of the high school, and were there Latinos in Mt. Diablo High School?
+
+MAGLEBY: We did not have Latinos in high school. That movement did not start in
+1944. We did not have people from Mexico to California. We did not have any of
+that. We had one or two who were Latino, but they were here for a long, long
+time, had been here for a long time. The movement of Latinos, or the Mexican
+people, did not start until way later. And to be honest with you, I can&#039;t begin
+to tell you when it started, such as it is now, like the border is being
+inundated with people coming from Mexico. Not in 1944. When I was going to
+school, there might have been two or three kids in high school who were Latino.
+We did not have to have things printed in Spanish. We didn&#039;t, because there
+weren&#039;t that many Latinos going to school. There were very few, as a matter of
+fact. That movement didn&#039;t start until way later. I&#039;m thinking it had to be the
+sixties, seventies, maybe even as late as the eighties before this influx of
+Mexican people came to California. So there wasn&#039;t any reason for us to have to
+learn Spanish, because we didn&#039;t have to; we just wanted to because it was a
+good teacher, and we loved the language. So the only reason we took Spanish is
+because we wanted it to be part of our unit credit, so we did.
+
+ARBONA: I have another question the geography of this area where we&#039;re in right
+now. You&#039;ve loved in this house pretty much most of your life.
+
+MAGLEBY: Right.
+
+ARBONA: And we&#039;re in Bay Point. So what was it like to--well, back then it
+wasn&#039;t Bay Point, right? It was called--
+
+MAGLEBY: West Pittsburg. And a few other little names. We called it Enes Track
+and Bella Vista, like that.
+
+ARBONA: Did you get out to Port Chicago? Did you get out to the other neighborhoods?
+
+MAGLEBY: As a matter of fact, some of my classmates lived in Port Chicago. And
+Port Chicago of course was where I got my first job. My first job was at the
+Naval Magazine in Port Chicago. The people from the Naval Magazine needed people
+to work there so they came to our school. They came in April or May of 1944 and
+solicited people that need a job at the Naval Magazine. I thought to myself,
+&quot;This is ideal. This is perfect. I can get a job at the Naval Magazine and help
+myself with some money to get to college. So I signed up immediately to work at
+the Naval Magazine at Port Chicago right out of high school. Two or three days
+after I graduated I found my way to their employment office and was signed up as
+an employee of the US Navy that I worked for. I think we went to Mare Island
+first to sign up, but then we ended up where we were called to be and that&#039;s
+Port Chicago, and I worked in Port Chicago.
+
+Of course, as you well know, if I graduated in June of 1944, and I started work
+in early July of 1944 at the Naval Magazine in Port Chicago, the explosion came
+only seventeen days later, July 17, 1944, 10:17 at night. I was in my house, and
+when the explosion came it was the loudest noise I have ever heard in my entire
+life. I don&#039;t think my ears will ever be the same. It was absolutely, totally so
+loud that you cannot explain it. That was the first explosion, and then came the
+second one. I was in the bathroom at the time, ready to get ready for bed and I
+don&#039;t think I was jolted as much as I was shocked at the noise. Then here came
+the second explosion, and then I was truly shocked. My mother and father were in
+the front bedroom of our house, windows right there. Not one window was broken
+at their bedroom. But in this room where I&#039;m sitting, all the windows in the
+front were broken. The door was blown across the room and ended up over on that
+side of the room. The garage door was broken and open. All the nails in the
+ceiling came out half way. Dishes were all broken. We knew it was bad.
+
+But to my mind, my mind didn&#039;t go to Port Chicago at the moment. It went to the
+Japanese. I figured the Japanese had dropped a bomb across the street from my
+house. I figured that it was an airplane that had done, so there weren&#039;t going
+to be any Japanese out there, but that was the first experience I had, the first
+thought I had, &quot;the Japanese have come to America, or California, and they&#039;ve
+dropped a bomb right across the street from my house.&quot; It was that loud. It
+wasn&#039;t that loud. And it didn&#039;t take long at turning the radio on and listening
+to the news to find out. I thought, &quot;Oh my gosh.&quot; I had just helped load one of
+those ships completely full of ammunition and both of them had exploded.&quot; I knew
+my job was in jeopardy. But guess what? Three days later a knock at the door,
+and here&#039;s somebody from my job saying, &quot;Come back to work. We&#039;ve got to clean
+up the mess. We&#039;re going to be in business again.&quot; So I went back to the Naval
+Magazine and said, &quot;Wow. Look what happened.&quot;
+
+Let me tell you the most horrific thing that happened going back to work was the
+smell of dead bodies as you&#039;re driving down Port Chicago Highway to get to work.
+There were lots of bodies around. They had not all been picked up. And the smell
+of dead bodies is something I don&#039;t ever want to smell again. But they did
+finally recover the bodies, and of course the story of Port Chicago becomes
+world renowned. But I was part and parcel of the working force at the time.
+Nobody that I knew intimately was killed that day. Some of the men that I knew
+that we worked with were killed. And the black sailors, a lot of black sailors
+were killed. But I did not know anyone personally that was killed at Port
+Chicago. All I know is that I smelled their bodies, and it was not a good smell.
+The odor was terrible. But we did clean up. We started cleaning up, and then we
+started loading ships again. And at that time, it was like we survived, we&#039;re
+ready to go back to war.
+
+ARBONA: What did your job entail?
+
+MAGLEBY: Just clerk. A clerk typist. You&#039;d get information from where the
+ammunition was, and you&#039;d write orders to have certain ammunition come and be
+placed in a certain location of Port Chicago. Then the next paperwork would be
+loaded on the ship. A funny thing happened when we were working. You could buy a
+war bond or war stamps there too. I bought a war bond one time, and when you
+bought a bond, you got to go down in the basement where there were a lot of
+bombs. In the basement of our building, as a matter of fact. There were all
+kinds of bombs down there. You got to stencil a message on a bomb. Of all the
+horrible things I ever said in my life, I stenciled on one of the big bombs in
+the basement or the lower half of my building, &quot;Here&#039;s one for you, Tojo.&quot;
+
+And that makes me think now of what war does to people. You write on a bomb, &quot;I
+hope this hits you, Tojo, and kills you.&quot; That&#039;s what war does. You forget what
+you&#039;re saying because you hate. Wars kill people and you&#039;re glad that they&#039;re
+dead when they&#039;re on the other side. That&#039;s one thing that wars can do is change
+your heart and soul into something bad, and that&#039;s why I hate wars, too. People
+who hate wars usually have been to war. I felt like I had been to war. Taking a
+stencil and saying, &quot;Here&#039;s one for you, Tojo,&quot; makes me sorry that I did that.
+But we did it because--and if you went to the movies and you see news of a
+Japanese plane going down, everybody in the theater clapped and yelled, &quot;Yeaaa!
+Another Japanese going down.&quot; Wars do terrible things to us. As I think about it
+now, and we clapped and hollered when a Japanese plane was shot and going down
+and men dying, we still cheered. That&#039;s what war can do to you. It&#039;s a sad thing
+to think about. It really is.
+
+ARBONA: Tell me a little bit more about going to the movies. As a parenthesis,
+you mentioned the films.
+
+MAGLEBY: Before the movie, we always had a preview kind of--it was a news
+preview. We didn&#039;t have TV, of course. We didn&#039;t listen to the radio all that
+much, but we learned what the news was going to the movies. You&#039;d find out
+President Roosevelt signed this, President Roosevelt did that, President
+Roosevelt declared war on the Japanese, and you&#039;d get to see it in the movies.
+As a matter of fact, come to think about it, we were in school in Elko, Nevada,
+and we had a paging system. We got to hear President Roosevelt on that paging
+system as he declared war. I remember he said that--it was probably the Monday
+or Tuesday after the bombing when we declared war--and he said something like,
+&quot;That dastardly event.&quot; And I thought, &quot;Oh, that&#039;s a bad word, isn&#039;t it?
+Dastardly.&quot; Because I was thinking of bastard and not dastard. But no, it&#039;s a
+good word. But we heard President Roosevelt declare war on the Japanese while we
+were in school. That&#039;s when I was fourteen years old. That was quite a day. I
+will never forget hearing his voice.
+
+In the meantime, the explosion happened, we continued on with the war, and when
+V-E Day came early 1945, we were delighted that it had come, but when V-J Day
+came, it was right here at home. We were so delighted that the war was over. And
+both of them happened in one year. V-J Day late in the year and V-E Day early in
+the year. Both wars ended 1945. From that time on, we were free to live as free
+people and our freedom was secure. We were very delighted that the war, the war,
+which was world war, was over. World War II was truly world war. I will always
+be glad that I lived through it because it reminds me of how you can survive
+with people dying in your own family--not my family, but in many families. You
+can live through it. You survive. You can even survive horrible wars and go on
+and go to college and get jobs and live until you&#039;re eighty-four!
+
+ARBONA: Actually, we are at fifty-four minutes right now, almost fifty-five. So
+that means there&#039;s a little bit left in the tape, but there&#039;s so much to talk
+about in terms of Port Chicago. Maybe if we just talk briefly about something.
+If there&#039;s anything else that you want to expand on that you&#039;ve just mentioned
+so that we can almost get to the end of this tape.
+
+MAGLEBY: Well, let me think. Our classmates were part and parcel of the war too.
+So when we look back on it now, as I talk to my classmates, we tell these kids
+that come to eat with us that World War II didn&#039;t stop our lives. We went on
+with our lives. We got married, or many did. I didn&#039;t, but many did and had
+children. So you can survive wars by living your life the way you wanted it to
+be lived. There was no scarcity of jobs. When you got out of high school, you
+almost had a job before you left school. It was rare that you looked for a job
+because they were very, very plentiful. It&#039;s different today. When you get out
+of high school, it&#039;s hard to find a job. When you get out of college, it&#039;s hard
+to find a job. But not in those days. Jobs were so plentiful. And then in the
+early fifties, the United States became like in good shape. We had money to
+spend, and we spent it. But those days are precious to me because they&#039;re part
+and parcel of my life to kind of balance things out. If things are good, there
+were some sad times too. But that&#039;s the balance that you take and you make. You
+have sadness and gladness. If you can look for the gladness, the sadness drifts away.
+
+I am delighted to be here today, but let me say one more thing. While I was
+going to college, I went to the University of California for a semester, and the
+best thing I ever did was go to The Bancroft Library. I did find there some
+original papers from my church, The Church of Jesus Christ of Latter Day Saints,
+from a very, very prominent woman in the church, Eliza R. Snow. She wrote a poem
+after the martyrdom of Joseph Smith and her brother, and I found that poem at
+The Bancroft Library. So if anybody says they don&#039;t have stuff that&#039;s great, I
+would challenge anything because I asked if I could look at it, and they said,
+&quot;Put all your pens away. Put everything away. You may have a pencil, but nothing
+else. Put everything aside. We do not want this material to be damaged in any
+way.&quot; I took that from their library, copied that poem in pencil, and it was
+quite a long poem. When I finished it, they took it from my hands and put it
+back in the library, and there it still is. But I will ever be grateful that I
+got that poem copied and I still have copies of it.
+
+ARBONA: That&#039;s wonderful.
+
+MAGLEBY: Eliza R. Snow&#039;s original writings.
+
+ARBONA: Why don&#039;t we pause right there with that thought, and we can take a
+break and maybe change tapes here.
+
+ARBONA: Once again, this is July 9, 2010, and this is Javier Arbona speaking. I
+am here with Gloria Magleby, and this is tape two of our oral history today. And
+we were talking a moment ago about Port Chicago and your work there as a clerk.
+One of the things I was just wondering about, I was curious about was, were you unionized?
+
+MAGLEBY: No, no unions. None at all.
+
+ARBONA: With the Navy.
+
+MAGLEBY: With the Navy.
+
+ARBONA: And I also was interested to ask you, then, a broader question, just
+before the explosion. We read so much about today, the conditions at the base.
+And was there any discussion or a consciousness that perhaps conditions were
+unsafe? Or how did you feel about that?
+
+MAGLEBY: Not at all. There was no talk ever about any conditions that were
+unsafe. Not with us, anyway. We loaded ships, and we did the paperwork for the
+ships; we saw the personnel come in the office periodically. We&#039;d see the
+officers, the Naval officers, and we&#039;d see some of the workers, black and
+Caucasian. But never any talk about, &quot;I don&#039;t think we should let this condition
+go on.&quot; Never anything like that was--nothing ever mentioned about unsafe
+conditions. It was a boat, we were loading it, and we were doing well; that&#039;s
+all I know.
+
+ARBONA: In terms of doing well, you mean my measure of the success in the war?
+
+MAGLEBY: We were doing it on time; we were getting the boats loaded on time.
+Remember that before I came to work there, they had loaded many boats to send
+them off to the Pacific. This is just one of the boats that was ready to go,
+that blew up. And for what reason, no one will ever know. And another one
+partially loaded. So no, never any thought whatsoever of anything so drastic
+happening, or anything ever unsafe. Maybe they did on the waterfront, but not in
+the officer workers, not with--the general consensus or feelings there, never
+any word whatsoever about unsafe conditions.
+
+ARBONA: As a clerk, it sounds like the work that you did had to do with knowing
+where munitions were--
+
+MAGLEBY: Right.
+
+ARBONA: --in the base, in the space of the base. Can you describe that a little
+bit? Were the munitions stored in boxcars?
+
+MAGLEBY: Well, interesting enough, in Henderson, Nevada, there were lots of
+munitions that we had to transport to Port Chicago. What they were doing in
+Henderson, Nevada, I don&#039;t know, whether they were being made there or
+manufactured there or stored there. All I know is a lot of my paperwork for
+stuff that had to go back to Henderson or stuff that had to come from Henderson,
+Nevada to our loading docks; that was an important place that we thought about.
+And where the ammunition came from had to be from big manufacturing plants. And
+that could very well have been in Nevada, because we were not afraid of things
+in Nevada; Nevada was out of the way of anything. Japanese wouldn&#039;t bomb Nevada
+because they couldn&#039;t find anything there. But of course, the first A-bomb
+explosion happened in Nevada, too I&#039;m understanding. But no. When we worked, the
+ammunition was somewhere and we made the paperwork possible for it to be loaded
+on the boat, so that they knew how much was on that boat; they knew how many
+bombs were on the boat, they knew how much ammunition of any kind. Mostly bombs,
+because I had the feeling that they were going to go to aircraft stations and
+aircraft were going to drop the bombs. You didn&#039;t have a bomb on the ground;
+bombs come from the air.
+
+ARBONA: You described for us the explosion before, and then you went back to
+work there. Did you feel that things were unsafe at that point? Or did you feel
+that it was just as before or what?
+
+MAGLEBY: Well, I can understand you asking that question, but remember, I&#039;m
+eighteen years old. And I felt as safe as sound. I didn&#039;t have one concern about
+no safety. The explosion happened; it was tragic. But we were there to clean it
+up, not be afraid of it. No. No worry whatsoever about unsafe conditions, or us
+being unsafe for any reason. None at all. None at all.
+
+ARBONA: And your parents at the time--you were living in this very house?
+
+MAGLEBY: I was.
+
+ARBONA: And in the house, were there discussions about that? Did your parents
+ever mention anything about the base?
+
+MAGLEBY: No. They were just glad that I had a job. And of course I only worked
+till December, and then went to school at the University of Nevada. But while I
+worked there, they were very glad that I had a job and very glad that I was
+getting paid, which I was. But when you think about--when I went to the
+University of Nevada, I was out of state. And so I had to pay out-of-state dues.
+That was $75 for a semester. So when I saved up $75--remember now, I&#039;m working
+from July through December, and I saved up $75? That was a lot of money in those
+days. But I had it ready to go. And my sister lived in Reno, so I went to live
+with her and go to school at the University of Nevada in Reno, and kind of
+helped take care of her one son. Her husband was in the Army. And by the way, he
+was injured, to a degree, as he was in Europe. And so he had some injuries, but
+not life threatening. But when you think about it, $75 a semester is quite a bit
+in those days.
+
+But after 1945--and I was in the University of Nevada from January to June or
+July 1945--V-E Day happened in Nevada, for me. Then the GI Bill came in the act,
+and that happened right away. The Congress passed the GI Bill in 1945. Because
+when I went to go back to school in the University of Nevada starting in
+September, the charge was $150 a semester. I could not afford that. And so I had
+to come back here and go to school at the University of California. Not that I
+didn&#039;t want to go to Cal at the time, but it was just something that--a friend
+of mine and I had family that lived in Reno, and so we both went there to
+school. But in September, I went to school for free at the University of
+California, not being an out-of-state student. And it was so easy in those days.
+There wasn&#039;t a dime that I paid to go to school. I had to buy books, but even
+then, it wasn&#039;t that much, didn&#039;t cost that much. And I enjoyed going to school
+at Cal. I didn&#039;t feel a part of the Berkeley group because I lived at home and
+not in a campus, not in a dorm or anything. So I missed that part of going to
+Cal. But I&#039;ll always be a Cal favorite. If there&#039;s a team and it&#039;s from
+California, Berkeley, I&#039;m cheering for it all the way.
+
+ARBONA: What happened next? Can you refresh that memory a little bit? You were
+at Cal for how long, in total?
+
+MAGLEBY: Only one semester.
+
+ARBONA: One semester.
+
+MAGLEBY: One semester. Then I had to get a job.
+
+ARBONA: And then you went to work not back at Port Chicago?
+
+MAGLEBY: No, I didn&#039;t go back to the Naval Magazine. I got a job with a man who
+had a printing business. And as a matter of fact, he sold the business to me, so
+I became a business owner. But I was so young that I didn&#039;t realize what a
+business owner was. I didn&#039;t realize that you had to save your money, not give
+it away. And so I didn&#039;t last in business that long because I was too free with
+everything. If somebody said, &quot;how much is it going to cost?&quot; I&#039;d say, &quot;Oh, for
+you--&quot; And so I gave too much away. And finally, actually sold it again to
+someone else and went to work at Shell Chemical Company, right two minutes from
+where I live. And it&#039;s right down on Willow Pass Road, and now it&#039;s called
+Henkel Corporation.
+
+But Shell Chemical, in those days, made agricultural--ammonium sulfate. And I
+started work there in their adhesives department, where they make structural
+adhesives for the aircraft industry. A very, very interesting job, being a
+customer service person. And you sell adhesives to the aircraft industry. And so
+now, starting when I started work there, which would be 1948, it meant that you
+glue planes together; you bond them. You don&#039;t have bolts, nuts, rivets; you
+have glue. And people still have a hard time believing that airplanes are bonded
+together, that they don&#039;t have a lot of metal in them to hold them together.
+Because guess what? They come loose. And that&#039;s a lot worse than having a strong
+bond, and a lot lighter weight. So it made it fun to work there because it was
+something so new and so different. And I was delighted to be able to work there.
+Of course I got the dates wrong. I didn&#039;t start there till 1959, because I was
+in my business, trying to keep it afloat for about eleven years. But that was
+eleven years of just learning; I didn&#039;t earn anything. I didn&#039;t make any money.
+
+ARBONA: Well, eleven years, by today&#039;s measures, would probably--
+
+MAGLEBY: Pretty good.
+
+ARBONA: --be a very successful business.
+
+MAGLEBY: Pretty good. But I lasted it, but I didn&#039;t make any money. And it
+seemed like I owed everybody.
+
+ARBONA: Where was the business located?
+
+MAGLEBY: In Pittsburg, on Black Diamond Street. And the building is long gone,
+since I left. Because Pittsburg has revitalized their downtown, and it is
+turning out to be a fabulous little community. I am so pleased with what&#039;s
+happening in Pittsburg. It looks like another town. And everything that they&#039;ve
+built has been fruitful. And I&#039;m looking forward to more and better from
+Pittsburg because the downtown Pittsburg is going to be something to behold. But
+that building is long gone, where I worked in from &#039;48 to about &#039;59.
+
+ARBONA: You used to sell general goods, or what was the merchandise?
+
+MAGLEBY: I was printing.
+
+ARBONA: Printing.
+
+MAGLEBY: But remember now that copy machines are coming out pretty soon, and
+printers now print specialized things. You don&#039;t print forms anymore because you
+can copy the form. If you&#039;ve got a form, all you do is put it in your copy
+machine and copy it. I have a copy machine in my house, right next to my
+computer. And so printing businesses specialize in printing now, not forms.
+Because in those days I made the forms and printed them up and sold them. But
+you can&#039;t sell forms anymore because all you need to do is copy them. That&#039;s the
+difference between those days and nowadays, when copy machines are so easy to
+have and to find and to use.
+
+ARBONA: I had a question going back a little bit to the naval magazine, because
+I&#039;m trying to imagine--you have these African-American sailors working there.
+Did you ever see them around town or in Pittsburg when they were off duty?
+
+MAGLEBY: Yes. Yes, we did. Yes, we did. And because we lived in Pittsburg,
+Pittsburg was amenable to the black people. We had black people that lived in
+Pittsburg, and in Bay Point. And so it wasn&#039;t unusual at all to see black
+sailors. And on leave, if they went to town in Pittsburg, it was great. I did
+not go to Concord to spend evenings, even though I went to high school there, so
+I don&#039;t know how much they appeared in Concord. But in this general area, if
+there was a black sailor, it was a black sailor. What&#039;s the difference between
+that and a white sailor? No difference at all, because Pittsburg was amenable to
+the black people. And they felt at home going to Pittsburg.
+
+ARBONA: Is that because there was an African-American community also living--?
+
+MAGLEBY: Yes, exactly. I&#039;m sure it was; I&#039;m sure it was. And they were welcome
+at the churches, and the churches welcomed them. And people invited them to
+dinner, and they enjoyed having dinner with the black families that lived in
+Pittsburg. So it was a little different because some of the other communities
+were proud that they didn&#039;t have black people. And that was so unfair and so
+bigoted, really. But Pittsburg was amenable to black people. And that&#039;s why it
+was easy to watch them; a black sailor that worked at the Naval Magazine was a
+black sailor. And he was welcome in Pittsburg. And welcome anywhere. I was not a
+bigoted person. Never have been; never will be.
+
+ARBONA: How do you think that happened?
+
+MAGLEBY: Oh, I think because of my mother and father. They liked everybody. And
+my church. My church is one that says, like Martin Luther King, you judge people
+by their character, not their color. And I learned that quite early in life. I
+was impressed with how they behaved, and I was always congenial with them, but
+never felt any different from anybody else. Color was lost with me; I didn&#039;t see it.
+
+ARBONA: Did that change at all in Pittsburg after the war?
+
+MAGLEBY: Not at all. Not at all. Matter of fact, it became easier and easier in
+Pittsburg. And then black people moved into the Antioch area, into the Concord
+area, and finally into Northern California, so black families are everywhere.
+And it&#039;s no different next door to a black family than an Asian family, a
+Spanish family, or a Caucasian family. I wrote a little poem about Bay Point, or
+a little song, actually. And one of the parts of it says, &quot;We are Caucasian,
+black, brown, and Asian. And everybody accepts all of them. All of the above.&quot;
+
+ARBONA: So we&#039;re here on Marys Road--
+
+MAGLEBY: Marys Avenue.
+
+ARBONA: Marys Avenue. Would that characterize this very avenue?
+
+MAGLEBY: Yes, it would. Yes, it would.
+
+ARBONA: There are various families?
+
+MAGLEBY: We have black families across the street, we have a Latino family next
+door, a black family up the street. I just can&#039;t begin to tell you how many
+because I don&#039;t count them. I don&#039;t care what color you are. And if you live on
+Marys Avenue, you&#039;re welcome to live on Marys Avenue; we don&#039;t have problems.
+Once in a while, we have maybe a break-in of some kind, so we get together as a
+group, on a neighborhood watch, and we all pull together for the same purpose,
+and that&#039;s to keep each other safe. We watch out for each other. And that&#039;s very
+nice, too. I rent to a black family. I have a little rental on the back of my
+house. And they are sweet, sweet people. I love them.
+
+ARBONA: It sounds like the church is very important, also in your world view and
+in your person.
+
+MAGLEBY: It is very important. It is very important.
+
+ARBONA: I&#039;m interested to know, were your parents born into that church, also?
+
+MAGLEBY: Yes, indeed. Born in Utah, because that&#039;s where the Mormon pioneers
+finally came, starting out with Joseph Smith in Vermont and moving to
+Pennsylvania, moving to Ohio, finally to Nauvoo, Illinois. And then being chased
+out of that area. The LDS, or Latter Day Saints, had to leave Illinois and
+finally crossed the plains to Salt Lake City. And that&#039;s why Salt Lake City is
+the center for the Mormon Church. But Mormons live everywhere, or Latter Day
+Saints live everywhere. But it&#039;s a very, very real part of my life. It gives me
+reasons to live and reasons to love. I enjoy life, and I&#039;m very fulfilled, not
+even being married, because of the fulfilling part that the church plays in my
+life. And it does a great deal. I teach in church. I&#039;ve learned to be a good
+teacher. I teach kids, little kids; I can teach adults, and enjoy teaching. As a
+matter of fact, it&#039;s one of the things that I think I should&#039;ve been, a teacher.
+Because I could&#039;ve, I think, added to a lot. And I added to my own life by being
+a teacher because I admire teachers so much. I admire what they do and what they
+accomplish in our local public schools, and wherever they each. I love a teacher.
+
+ARBONA: Have you always worshipped in the same temple or the same church in this
+area? Or have there been a couple of different ones where you go to?
+
+MAGLEBY: Yeah, well, in this area, we first went to church in the Legion Hall,
+American Legion Hall, because we didn&#039;t have a building. And that was in 1943.
+As I say, that&#039;s when we came to California. We met in the Legion Hall for a
+long time. And it was a long time, until we finally bid on an Army church. And
+it was put up for bid by the Army. There were fifteen organizations in our
+community that put in a bid for the Army chapel in what we called West Garrison,
+on Crest View Drive in Pittsburg. And the Church of Jesus Christ of Latter Day
+Saints won the bid. And guess what we paid for that whole building. $985. For
+the whole church building, including a fabulous furnace, which was worth more
+than that. And so our first church was an Army chapel that we remodeled a little
+bit. As a matter of fact, we bought a dispensary, a medical dispensary from the
+Army because that was where the Army was, right there, and we added that to the
+church building. Then we bought a dental clinic and added that. So we had a
+cultural hall, and we had classrooms, and we had a church chapel, all because
+the Army was here. We enjoyed that building for many, many years.
+
+Then they sold it and built a brand new building of the church, Church of Jesus
+Christ of Latter Day Saints, in Antioch. And now we have our own building in
+this area, on Golf Club Road in Bay Point, or Pittsburg, and that&#039;s where we go
+to church now. So we did have different buildings. But as far as the temple in
+Oakland is concerned, that is our temple; that&#039;s where we go to do ordinance
+work for the dead. And that&#039;s a pleasure to do, also. But that&#039;s the only temple
+in our area. There&#039;s one in Sacramento, and there&#039;s other temples about in
+California, but that&#039;s the closest one to us.
+
+ARBONA: That chapel that you mentioned, that had been a part of Camp Stoneman?
+
+MAGLEBY: You bet it was. It was part of Camp Stoneman. It was where they went to
+church, where the servicemen went to church. As a matter of fact, our church met
+with some of the men there at one time, and we had a man from Martinez who could
+speak very fluent German. And they had German prisoners of war who were
+imprisoned there. And they took those German prisoners of war and said, &quot;If you
+want to come and listen to a subject about church, you&#039;re welcome to.&quot; And five
+members of that German prisoner of war cadre were baptized in the San Joaquin
+River by our priesthood and joined the Church of Jesus Christ of Latter Day
+Saints. And when they went back to Germany they were members of our church. And
+of course they joined in and helped with the church back there. And told their
+families, &quot;We joined the Church of Jesus Christ of Latter Day Saints in
+California.&quot; And so that was quite an incident because here they are, five
+prisoners with guards, and priesthood in white clothes, down at the river
+baptizing by immersion for the remission of sins, these German prisoners of war.
+It was quite an occasion.
+
+ARBONA: Wow. Well, we are getting a little bit close to what you told me was
+your kind of--
+
+MAGLEBY: Cut-off time, yep.
+
+ARBONA: --deadline, but to ask you one more question that maybe we can finish
+on. You said before that the end of the war was an opportunity to ask, how do we
+want to live? And you felt you had the freedom at that point. How did you see,
+then, that way that you wanted to live? How would you describe that way that you
+wanted to live then?
+
+MAGLEBY: Well, it gave us freedom to choose. Before, we pretty well had to do
+what was available for us. For example, you didn&#039;t have cars, so you couldn&#039;t
+drive very many places. But after the war, and we realized that we were going to
+have cars made, we&#039;re going to build some new cars and buy a car, we were able
+to choose our life a little bit more. And that choice became very precious to
+us. I had a brother who, as I say, went on a mission, and then he came back and
+was able to go to school at the College of Mortuary Science and became a
+mortician and built--as a matter of fact, he hauled one of the buildings--. This
+is a story. My brother became a mortician. And he needed a mortuary. He hauled
+one of the buildings at Camp Stoneman, which was a medical dispensary, over to
+Pleasant Hill. And there it stands today, as the Oak Park Hills Chapel, on North
+Main Street in Walnut Creek. That was at Camp Stoneman at one time and became
+his chapel. And it was something that you could do then. Choices were more--they
+were available to us. And the fact that we didn&#039;t have to live under the
+Japanese rule or German rule, we felt relieved and special. We felt like we came
+together; we did it ourselves. We fought the war, we won the war, and we were
+very, very pleased that we were free to do what we did. And we were able to go
+to school, get jobs, and complete our lives and fulfill our lives.
+
+ARBONA: And you yourself, what was the choice you wanted to make at that point?
+
+MAGLEBY: Well, I didn&#039;t have as many goals as men do because--I didn&#039;t get
+married, and so my goals were to earn a living and to participate in the church
+and in the community. And by the way, finally now, I&#039;m communicating in the
+community, or involved in the community, more than I ever dreamed. I am more
+involved in this community than any other person, I&#039;m sure. But it&#039;s because I
+love this community and I love to see it grow bigger and better. Bay Point will
+be bigger and better. And I&#039;m helping to make it so. And I&#039;m very humble about
+that because I know that it&#039;s not me, but it&#039;s from our Father in heaven, who
+gives me the courage to go ahead and make one step forward again.
+
+ARBONA: Well, I am personally very impressed. And it sounds like you have a lot
+to be proud of.
+
+MAGLEBY: And a lot left to do.
+
+ARBONA: And a lot left to do. Very good.
+
+MAGLEBY: And I&#039;m eighty-four and still got time to do it.
+
+ARBONA: Well, since I don&#039;t want to step on the time that you have to get ready
+for your next appointment, [laughs] since you&#039;re a very busy person, why don&#039;t
+we finish up with looking at those photos that you have of your brothers and
+your parents and maybe we can--?
+
+MAGLEBY: All right. All right. That would be very nice. That would be very nice.
+
+ARBONA: We can get a little bit of--
+
+MAGLEBY: We can certainly do that.
+
+ARBONA: We can do that. Let me see if I can get the camera.
+
+MAGLEBY: We&#039;ll do that, and a pleasure.
+
+ARBONA: I&#039;m going to try to zoom in one these, and you can--I think I&#039;ll keep
+the audio going. So if I can get the camera off of here, and I am going to zoom
+into the photos.
+
+MAGLEBY: Now, the first one there is my family, and behind them is my mother and
+father. So you can see what you have there.
+
+ARBONA: I&#039;m going to try to zoom in.
+
+MAGLEBY: Let me tell you who&#039;s on the front row. On the left is Gloria, that&#039;s
+me; then my father, Harold Magleby; then my mother, Alta Erickson Magleby; then
+my sister, Mildred Magleby {Robie?}. On the back row is my twin brother,
+{Roger?} Magleby; then my oldest brother, Burns Magleby; then the middle
+brother, Harold Junior Magleby; and then my brother Douglas Magleby. All of them
+were in World War II.
+
+ARBONA: Those were from left to right?
+
+MAGLEBY: Yes, from left to right.
+
+ARBONA: So Douglas would be the one on the far right.
+
+MAGLEBY: On the far right.
+
+ARBONA: Okay. And then we also--
+
+MAGLEBY: And in back of that is a picture of my mother and father, if you can
+see that.
+
+ARBONA: Yeah, I think we can get, also a clip of that.
+
+MAGLEBY: And that&#039;s a picture that we use all the time, because that was when
+they were, oh, maybe fifty-one years old. And it&#039;s hard for me to believe that
+my father and mother were only fifty-one at one time, but they always seemed
+very old. Children always think their parents are old. Now I&#039;m older than both
+of them were when they died.
+
+ARBONA: Wow. Can you repeat their names one more time?
+
+MAGLEBY: Beg pardon?
+
+ARBONA: Can you repeat their names one more time?
+
+MAGLEBY: Alta Erickson Magleby and Harold, Joseph Harold Magleby. He went by
+Harold more than Joseph, but JHM. Both of them born, one month apart, in Monroe,
+Utah. My mother was one month older than my father, and don&#039;t think that he
+didn&#039;t remind her of that ever year. &quot;I&#039;d hate to be as old as you are.&quot; [they
+laugh] But we had a great time together. We laughed a lot, we sang a lot
+together. We did a lot of singing together. And as the families came along, we
+had family reunions that were incredible. Everybody participated.
+
+ARBONA: Had your grandparents come from abroad? Or were they born--
+
+MAGLEBY: Yes, from Denmark and from Norway.
+
+ARBONA: Which side of the family--?
+
+MAGLEBY: And also from Scotland and Wales, on my mother&#039;s side. So as far as I&#039;m
+concerned, I&#039;m part Danish, Norwegian, Scotch and Welsh. All of the above.
+
+ARBONA: All right. Well, I think we probably should stop there. But thank you so
+much, Gloria.
+
+MAGLEBY: Oh, you&#039;re welcome. You&#039;re entirely welcome.
+
+[End of Session]
+
+  
+
+  
+
+  
+
+  
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt>video</fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

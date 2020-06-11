@@ -1,0 +1,153 @@
+word_1,word_2,count
+rape,raped,36
+attack,rape,26
+attack,raped,26
+incest*,rape,20
+incest*,raped,20
+rape,sex* violence,16
+attack,harass*,16
+harass*,rape,12
+raped,sex* violence,12
+rape,sex* abuse,12
+raped,sex* abuse,12
+harass*,raped,10
+attack,incest*,10
+incest*,sex* violence,10
+attack,sex* abuse,10
+rape,sex* assault,8
+raped,sex* assault,8
+anti-rape,rape,8
+anti-rape,raped,8
+attack,sex* violence,8
+anti-rape,incest*,8
+molest*,rape,8
+molest*,raped,8
+attack,raping,8
+attack,sex* assault,6
+playboy,rape,6
+anti-rape,attack,6
+harass*,incest*,6
+anti-rape,sex* violence,6
+child abuse,rape,6
+child abuse,raped,6
+attack,molest*,6
+child abuse,sex* abuse,6
+attack,clarence thomas,6
+incest*,molest*,6
+brutalized,rape,6
+brutalized,incest*,6
+rape,raping,6
+raped,raping,6
+playboy,sex* abuse,6
+anti-rape,harass*,4
+outrage,rape,4
+outrage,sex* abuse,4
+harass*,sex* assault,4
+sex* abuse,sex* assault,4
+child abuse,sex* assault,4
+attack,child abuse,4
+harass*,sex* abuse,4
+molest*,sex* abuse,4
+sex* abuse,sex* violence,4
+incest*,sex* abuse,4
+brutalized,molest*,4
+anita hill,rape,4
+clarence thomas,rape,4
+anita hill,raped,4
+clarence thomas,raped,4
+anita hill,attack,4
+anita hill,sex* abuse,4
+clarence thomas,sex* abuse,4
+anita hill,clarence thomas,4
+harass*,outrage,4
+attack,insult,4
+brutalized,raped,4
+incest*,raping,4
+anita hill,harass*,4
+incest*,sex* assault,4
+harass*,sex* violence,2
+rape,ravish,2
+outrage,raped,2
+raped,ravish,2
+outrage,ravish,2
+ravish,sex* abuse,2
+rape,rapes,2
+rape,sodomized,2
+raped,rapes,2
+raped,sodomized,2
+rapes,sex* assault,2
+attack,rapes,2
+harass*,rapes,2
+rapes,sex* abuse,2
+molest*,rapes,2
+rapes,sodomized,2
+child abuse,rapes,2
+molest*,sex* assault,2
+sex* assault,sodomized,2
+attack,sodomized,2
+harass*,molest*,2
+harass*,sodomized,2
+child abuse,harass*,2
+sex* abuse,sodomized,2
+molest*,sodomized,2
+child abuse,molest*,2
+child abuse,sodomized,2
+anti-rape,sex* abuse,2
+molest*,sex* violence,2
+brutalized,sex* violence,2
+anita hill,sex* violence,2
+clarence thomas,sex* violence,2
+child abuse,sex* violence,2
+anita hill,child abuse,2
+child abuse,clarence thomas,2
+pedophilia,rape,2
+pedophilia,raped,2
+attack,pedophilia,2
+pedophilia,sex* violence,2
+incest*,pedophilia,2
+attack,outrage,2
+insult,outrage,2
+harass*,insult,2
+insult,rape,2
+insult,raped,2
+insult,raping,2
+clarence thomas,raping,2
+clarence thomas,incest*,2
+anita hill,outrage,2
+clarence thomas,outrage,2
+outrage,playboy,2
+clarence thomas,harass*,2
+harass*,playboy,2
+anita hill,playboy,2
+clarence thomas,playboy,2
+raping,sex* assault,2
+harass*,raping,2
+anti-rape,raping,2
+anita hill,raping,2
+brutalized,raping,2
+anti-rape,sex* assault,2
+anita hill,sex* assault,2
+brutalized,sex* assault,2
+attack,brutalized,2
+brutalized,harass*,2
+anita hill,incest*,2
+anita hill,anti-rape,2
+anti-rape,brutalized,2
+anita hill,brutalized,2
+fondling,rape,2
+fondling,raped,2
+playboy,raped,2
+fondling,sex* assault,2
+playboy,sex* assault,2
+fondling,sex* abuse,2
+fondling,incest*,2
+incest*,playboy,2
+child abuse,incest*,2
+fondling,playboy,2
+child abuse,fondling,2
+child abuse,playboy,2
+rape,rapist,2
+attack,rapist,2
+rapist,sex* abuse,2
+playboy,rapist,2
+attack,playboy,2

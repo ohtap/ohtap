@@ -1,0 +1,1105 @@
+
+Tobey: This is Karen Tobey interviewing Helen Kraemer. It is October 29th,
+2014. Helen has been a pioneer in math and statistics at Stanford. Helen,
+I thought we would start today with where you grew up, your youth, and
+your family.
+Kraemer: [00:00:42] I grew up in Ansonia, Connecticut, which is just a little outside
+of New Haven--not the pretty part of Connecticut but the industrial belt.
+My father was Stanley Chmura, a factory worker born in Massachusetts,
+but brought up in Poland with the equivalent of about three years of
+formal schooling. He knew enough English to read the newspapers, but
+he never read a book and could never, to the end of his days, add,
+subtract, multiply or divide. I’m mentioning that because—I am the
+oldest of the four, a younger sister and two younger brothers, and all four
+of us have advanced degrees in mathematical sciences of some sort. I
+find that somewhat remarkable.
+My mother was born in Poland and came here as a three-year-old.
+She grew up in the United States, spoke perfect English and went
+through the United States school system. [00:01:44] But it was she who
+
+13
+
+eventually had to be naturalized. She was a high school dropout.
+Academics were not a big thing in my family, but my father put
+tremendous emphasis on the importance of education, having had none
+himself. When he died, at his funeral, many men came up to me to say,
+“You know, your father, he kept saying to me, you have to educate your
+children, you have to educate your children. Now my son is a doctor or a
+lawyer…” My father was really committed to education.
+Tobey: That commitment to education, in spite of your parents’ lack of higher
+education, really spurred you and your siblings on.
+Kraemer: [00:02:35] Absolutely.
+Tobey: That’s very interesting.
+Kraemer: [00:02:39] I graduated from Ansonia High School and got a scholarship
+to Smith. I got my degree there in 1958 in mathematics.
+Tobey: Which was unusual at Smith at that time, wasn’t it?
+Kraemer: [00:02:56] Oh, yes. My recollection was that there were two math faculty
+members when I first came and three when I graduated.
+Tobey: Three math faculty members?
+Kraemer: [00:03:05] Math faculty members. [laughter] Moreover, it was all
+theoretical math. We had only one course in any sort of applied math and
+that was Probability and Statistics. ..That course was taught by a Mount
+Holyoke professor, because we had no faculty to teach it at Smith. Now
+Math is a huge department with a lot of faculty and a lot of graduates. It’s
+really changed. In my class But, I think there were only four math majors.
+Tobey: In a class of how many?
+
+14
+
+Kraemer: [00:03:39] Three hundred? That’s a guess.
+Tobey: Three hundred. So girls were not generally into math at that time.
+Kraemer: [00:03:45] No. I graduated in 1958. It was a time when you went to one
+of the “Seven Sisters”1 to meet Ivy League men, get married, have
+wonderful children, and be their mainstays. Your husband and children
+would succeed and you would bask in their glories. There wasn’t any
+great emphasis on what you yourself were going to do for a living or
+what you were going to do with your life.
+Tobey: You didn’t have great expectations for a career yourself?
+Kraemer: [00:04:19] No, and actually the situation was somewhat worse. Because of
+the theoretical nature of my major, I could not envision how one could
+make a living in mathematics other than teaching. So initially I thought
+that after I got out, I would teach. Then after my junior year, I had a
+summer job at Bell Telephone Laboratories. I suddenly realized for the
+first time the value of statistics. This was just after I had taken the
+Probability and Statistics sequence and gotten the only B that I had ever
+in my life gotten in math.
+Tobey: In statistics.
+Kraemer: [00:04:50] That obviously told me that this is where I should devote my
+life! What they were doing at Bell involved both mathematics and
+statistics, and I was totally intrigued. Instead of just going off and getting
+a teaching credential, I decided to get a master’s degree in statistics,
+
+The Seven Sisters is a group of liberal arts colleges in the Northeastern United States that are historically
+women's colleges. They are Barnard College, Bryn Mawr College, Mount Holyoke College, Radcliffe College,
+Smith College, Vassar College, and Wellesley College.
+1
+
+15
+
+realizing I only had one course as an undergraduate. I applied to various
+postgraduate institutions and finally got a Fulbright for the first year and
+then came to Stanford for the second year.
+My experience then also tells you how different the times are. I
+applied to Harvard. At the time Harvard did not have women
+undergraduates, but were admitting some women in the graduate
+programs. [00:05:38] I was informed that they would welcome me, that I
+could come and take the classes with the Harvard men and take all the
+same exams, but at the end of it, I would get a Radcliffe degree! I’m a
+Smith graduate and a Radcliffe degree is not an inducement to go to
+Harvard! I also applied to Cal Berkeley, which had a statistics department
+headed by a woman, Elizabeth Scott. She wrote me they would be glad to
+have me, but it was their policy not to give money to women. [00:06:10]
+You can imagine, coming from Connecticut to California with no
+promise of any sort of support was not in the cards.
+Stanford welcomed me with open arms and offered me a teaching
+assistantship. Then when I was offered the Fulbright, Stanford said that
+they would just hold off for another year. Needless to say, I came to
+Stanford with great joy.
+Tobey: Because that was the most affordable alternative.
+Kraemer: [00:06:36] Not only that, but Stanford was welcoming, and that made a
+big difference. That didn’t mean that everybody here was welcoming. I
+was greeted my first day at Sequoia Hall (the Statistics department) by a
+faculty member who told me he believed that there was no place for
+
+16
+
+women in the graduate programs. Having women in the department was
+a waste of time and space and he would do everything possible to see
+that I would never get a degree.
+Tobey: In statistics.
+Kraemer: [00:06:58] But he was one man in an otherwise very welcoming
+department, so it worked out.
+Tobey: So that department was math and statistics or just statistics?
+Kraemer: [00:07:12] Statistics, a standalone department at Stanford, yes.
+Tobey: It was a standalone department. So that’s where you entered and that’s
+where you got your PhD.
+Kraemer: [00:07:18] Yes. I got a PhD three years later, I think. Yes, three years
+later.
+Tobey: That’s a quick turnaround.
+Kraemer: [00:07:25] Yes, it actually was. My daughter, who many years later got her
+PhD in biochemistry at Michigan State, told me she felt that I got my
+degree almost by accident. She said when I described my experience, I
+fell into a wonderful thesis problem and it worked out very nicely. I took
+my orals and I got my degree and there I was, [laughter] whereas she
+struggled.
+Tobey: You were a pioneer in the field at that time.
+Kraemer: [00:07:52] Actually, my daughter is probably more than a little bit right. I
+did have a lot of good luck.
+Tobey: Part of the equation is sometimes luck, isn’t it?
+Kraemer: [00:08:01] That is true. That is true.
+
+17
+
+Tobey: You were speaking a little bit about your daughter, so somewhere in this
+period of time, marriage and motherhood came into play.
+Kraemer: [00:08:17] I actually took my orals one week and got married the week
+afterward. And [laughter] then our first child (our son who later died
+when he was six), was born some fourteen months later. So I went from
+Ph.D. to wifehood to motherhood rather quickly. I had a daughter
+(Stacey) three years later and a second daughter (Karen) another three
+years after that, just after our son died.
+Tobey: You had some difficulties in terms of those early years with the son who
+passed away.
+Kraemer: [00:08:48] Very much so. Yes, it was very difficult. Robbie was epileptic
+from the time he was born. He began having seizures at about four
+months. By the time he was six, the seizures were totally out of control
+and no medication seemed to be able to control them. . He was in the
+hospital about once a month with some sort of pulmonary problems and
+eventually he died of those pulmonary problems.
+Tobey: Oh, how sad.
+Kraemer: [00:09:16] Robbie died on a Monday, and Karen, my youngest daughter,
+was born the next Sunday. Very quick. Very difficult.
+Tobey: It had to be very difficult. And were you working at this time?
+Kraemer: [00:09:29] Yes and no. Initially my noble plan was that I would stay home
+with the children until they were in school and then I would resume my
+career. I now know that this is not a very logical or feasible plan for that
+stage of life. But actually I never followed through on the plan because
+
+18
+
+within about six months of being a stay-at-home mother, my husband
+was urging me to go back to work. It wasn’t that I didn’t enjoy being
+home with the baby; it was that I vegetated and Art ended saying, “But
+you’re not the woman I married! [laughter] Go back to work!” So, I did.
+Tobey: So he influenced you to go back.
+Kraemer: [00:10:09] Absolutely. We got a licensed practical nurse to come in and
+stay with Robbie and I went back to work halftime. Then I worked
+halftime until the girls went to school.
+Tobey: That was a nice way to balance work and family responsibilities.
+Kraemer: [00:10:30] Moreover I was tenured while I was still halftime.
+Tobey: You were tenured while you were halftime. Does that happen today?
+Kraemer: [00:10:37] I was told by a dean--many years later -- that getting tenured
+while part-time had never happened. I had to show him in the records
+that I was still halftime when I was tenured. But that happened a very
+long time from the time I first began working at Stanford.
+Tobey: Good for you. Well, that’s certainly pioneering in and of itself.
+Kraemer: [00:10:58] I think there’s something worthwhile being able to say that
+happened at least once, so it should be able to happen again.
+Tobey: Right, yes. You believe it should be able to happen again, especially for
+women who tend to go part time as they’re having children?
+Kraemer: [00:11:17] Or for men who are sharing childcare. I think the whole
+process of promotion and tenure should be based completely on the
+quality of the work. If you can produce in a half time job the quality of
+work that’s equal to somebody else production in a full time job, it
+
+19
+
+doesn’t make any sense to deny you the stature that’s associated with that
+production. But I have to admit I did go to full time very shortly after I
+was tenured. [laughter]
+Tobey: And then stayed with your career for many, many years afterwards.
+Remembering back to that time when you were first at Stanford, what
+was going on in the outside world at that time? Do you recall?
+Kraemer: [00:12:08] The Vietnam War.
+Tobey: The Vietnam War was probably the big item, wasn’t it?
+Kraemer: [00:12:12] I had two brothers that were of draftable age and status,
+although my husband was in a job that precluded being drafted. It was
+very troublesome era and it was a really rough time.
+Tobey: It was a rough time. How did that affect you in your work or the
+environment at Stanford?
+Kraemer: [00:12:32] I don’t remember that it really had very much direct effect on
+me. I was struggling in so many other areas that I don’t think I was that
+involved, to be honest.
+Tobey: At the same time, the women’s movement was just beginning. Do you
+recall that beginning and what was that like for you?
+Kraemer: [00:12:50] Oh yes. Can I tell you a story that I think illustrates what was
+going on and how rapidly things changed?
+Tobey: Absolutely.
+Kraemer: [00:12:56] In my last year of graduate studies in the statistics department,
+we had a biostat seminar (one still ongoing today). The presenters were
+talking about the use of survival methods to look at breast cancer
+
+20
+
+survival. In this case, a lecture was given by Lincoln Moses talking about
+the statistical issues and by an oncologist who was talking about the
+medical issues. This was at the time researchers first started looking at
+lumpectomies as an alternative to total mastectomies and radical
+mastectomies. The evidence was very clear that under certain conditions,
+the lumpectomy was just as effective as these radical mastectomies,
+which basically were crippling.
+[00:13:47] I was the only woman in the room. That was the way it was at
+the time. I raised my hand and said, “Well, you know, there have been
+these five or six studies, all of which have shown that lumpectomies are
+just as effective as more radical procedures. How long will it take to
+convince the medical community not to do radical mastectomies in these
+circumstances?” The oncologist laughed and said, “Oh,” he said, “I’ll
+continue to do radical mastectomies forever, because I feel so much
+better when I hack it all off.”
+[00:14:18] Everybody but me in the room laughed—it was meant as a
+joke. I must have turned scarlet and I didn’t know what to say. Five years
+later, I was now a faculty member, and there were a handful of women in
+the room. That’s one change right there; more than half of
+biostatisticians these days, I believe, are women.
+Tobey: Oh, huge. Sea change.
+Kraemer: [00:14:40] Huge change and it happened so quickly. Five years later, the
+same oncologist came in and said the same thing in answer to one of the
+female students’ questions. But this time that woman stood up, looked
+
+21
+
+him in the eye and said, “I hope you do the same thing for testicular
+cancer!” The oncologist said, “Oh, that’s different…different entirely.”
+She said, “Not to me it is!” I thought, oh, things have really changed!
+There is so much to be gained in having a mixture of men and
+women, whether we’re talking about the faculty or the student body.
+Everything changes and it was so rapid.
+Tobey: That’s a wonderful story to illustrate how the women’s movement began
+to integrate itself into your professional career and into the whole society.
+Do you have other stories of that sort that have to do with women
+getting their views more listened to, maybe more included in the
+department?
+Kraemer: [00:15:55] The women’s movement was mirrored in the ever increasing
+number of women that were coming into the medical school, for
+example. When I first was there, I had always had the impression that it
+was very difficult for women to get into the medical school. When--I
+don’t know how many years later, seven, ten years later perhaps--I was
+on the admissions committee of the medical school, about half who were
+being admitted in were women.
+Tobey: Right. That is a big change.
+Kraemer: [00:16:23] So there was no longer major discrimination. Integration of
+the faculty is still a problem. Women are still a minority on the faculty,
+even true today. There’s something about the entry to the faculty that’s
+more difficult than entry to professional training programs.
+Tobey: Do you have any idea what that is?
+
+22
+
+Kraemer: [00:16:42] I don’t know. There are problems in a number of areas. I
+know of one case with a happy ending to the story. The female faculty
+member is now, I believe, tenured at Harvard. But she didn’t get
+promoted and tenured here at Stanford because she worked so closely
+with a male professor who was very prominent in his field. The suspicion
+was that somehow she acted as his assistant or associate, as opposed to
+being a freelance investigator on her own. Yet if you looked at the
+record, she and this male professor had been very careful to make sure
+that the path that she was carving was distinct from the path that he was
+on. I worked with them both, and it was clear to me and those they
+worked with that they were both independent investigators.
+[00:17:30] And yet when it came to the promotion process, it just didn’t
+work. She left Stanford and went elsewhere and succeeded. I mean, she’s
+a marvelous researcher. But there were many problems of that sort.
+Tobey: Yes. I think it still happens here and there.
+Kraemer: [00:17:47] Unfortunately, it still happens, yes.
+Tobey: Going back to your college and your PhD work. Did all of your financing
+come from scholarship and TA-ing (working as teaching assistant)?
+Kraemer: [00:18:16] I was rapidly moved off the TA-ship when I came to Stanford
+to a public health traineeship, which was wonderful. Not only did that
+mean more money but the money was tax-exempt. Lincoln Moses met
+me when I came and he and I had a talk. When he realized how
+interested I was in application of statistical methods to health, in
+particular to the behavioral aspects of health, an interest I’ve never lost,
+
+23
+
+he very quickly moved me into his training program. Yes, all my money
+came from public support. The condition of such support was that after
+you graduated, you would devote some time to medical research. I did
+that for forty-five years. I think I paid it back!
+Tobey: You paid it back and then some. So Lincoln Moses was kind of a
+mentor?
+Kraemer: [00:19:14] Yes, he was.
+Tobey: Can you tell us a little bit more about what he did to mentor you as a
+woman in that field?
+Kraemer: [00:19:23] He was one of the three or four faculty members in the
+department of statistics that were determined that women would actually
+get PhDs in the statistics. There had been none here before. I had
+actually come here for a master’s degree, but every time I asked how do I
+file for the master’s degree, my advisors kept saying it’s OK, just keep
+going. Before I knew it, I was in the PhD program and going through
+qualification exams, working on a PhD topic. At that point, I was almost
+finished. I never did get that master’s degree. That is part of why Stacey
+says that my PhD was almost an accident. [laughter]
+[00:20:00] Lincoln and other faculty simply determined what was going to
+be. Yes, there’s a bit of paternalism here, but a very benevolent
+paternalism. Then just as I was finishing the PhD, there was a group of
+professors, Lincoln and several others, who decided to figure out where I
+should go next to be best located.
+Tobey: For your more permanent work.
+
+24
+
+Kraemer: [00:20:29] For a permanent position, for a faculty position. . Considering
+my interest in the behavioral aspects of medicine, they decided that I
+should go to Columbia, which is still one of the really good places in that
+area. Unfortunately, I had forgotten to notify them that I was getting
+married to somebody who was staying here and I intended to stay with
+him, [laughter] Columbia wouldn’t work. Paternalism only goes so far. I
+stayed here at Stanford on a post-doc with Lincoln and Pat Suppes, my
+thesis advisor, who is still emeritus at Stanford2, a half time post-doc with
+Lincoln in medicine and a half time post-doc with Pat over in the
+behavioral side.
+[00:21:13] Then I had the baby, stayed home a bit and then went back to
+work. It was Lincoln who had a long discussion with David Hamburg.
+David had just reorganized the psychiatry department for what was then
+the new Stanford Medical School, which had only fairly recently moved
+from San Francisco. David Hamburg was determined that his
+department of psychiatry would be very research oriented, as opposed to
+the more non-research oriented departments in the rest of the country.
+Lincoln told him that if a research orientation was going to happen, they
+were going to have to get a statistician. And by the way, he said, “I have
+just the one for you!” [laughter] In 1964 I was hired by David Hamburg
+into the department of Psychiatry and Behavioral Sciences.
+Tobey: I see. So that’s how that all began.
+
+2
+
+Pat Suppes died in November 2014.
+25
+
+Kraemer: [00:22:03] Well, Lincoln was of the opinion that research in psychiatry
+required innovative statistical analysis--and I think he was right. He also
+believed that there were a few areas of medicine where the problems are
+so unique that you really need to have statisticians acclimated to those
+particular problems. Those areas included psychiatry, pulmonary
+medicine, anesthesiology, and a couple of other areas -- and Lincoln tried
+to place statisticians in those fields. I’m the one who lasted the longest,
+but that I think was more because of David Hamburg’s vision of what
+the department of psychiatry was to be about than something about the
+fields or departments.
+Tobey: You think that’s why you lasted?
+Kraemer: [00:22:44] To succeed, I think you’d have to have an awful lot of support
+from the department chairman, at least to get started in a specialty field
+of that sort.
+Tobey: And you had that.
+Kraemer: [00:22:52] I did.
+Tobey: Yes. As you proved your competence. That’s all really interesting, I mean,
+everything from how you got here to why you stayed. There were
+obviously any number of influences from Stanford in your life and in
+your career. Were there other people who mentored or influenced you to
+do what you have done?
+Kraemer: [00:23:28] I’d hate to use the word “mentoring” per se, because it’s more
+like a collaboration, doing the kind of work I do. I collaborated with
+virtually everybody in the department. Everybody in the department with
+
+26
+
+whom I’ve collaborated has taught me a little bit more about what they’re
+doing and what I should be doing. So yes, there have been a lot of
+people. I’d mention in particular my ex-department chair, David Kupfer,
+who’s at the University of Pittsburgh (where I had an appointment after I
+retired at Stanford). He and I started working together thirty or so years
+ago and published extensively together.
+Tobey: I saw his name on a number of your publications. Just an insert here,
+when I asked for your resume, there were forty-one pages of resume with
+thirty-five of those, at least, being publications where you have either
+been primary author, co-author, or research collaborator.
+Kraemer: [00:24:33] Oh, much more than thirty-five. More like three hundred!
+Tobey: Pages. Thirty-five pages of research studies, articles, and books.
+Kraemer: [00:24:36] Oh, pages! Thirty-five pages, I will admit. [laughter]
+Tobey: And I was rather overwhelmed.
+Kraemer: [00:24:45] Well, it’s interesting, because most people struggle for
+publication. Statisticians generally don’t. We have a sort of a funny
+obverse problem. If we put our names on every project that we consulted
+on, that wouldn’t be thirty-five pages; it would be a hundred pages. One
+of the things that I learned from Lincoln Moses early on was that you
+had to make a decision whether your intellectual contribution to a
+particular paper or a particular study was sufficient to warrant coauthorship.
+[00:25:21If all you’re doing is saying, “Here’s how to do a routine
+standard procedure,” -- that might be very helpful to the researcher, but
+
+27
+
+it doesn’t really take any of your intellectual ability to do it. In those cases
+you have to say no to being a co-author, and that happens a lot of times.
+When looking at a statistician’s resume, which is the way you should be
+looking at mine, you have to distinguish between those efforts in which I
+am the senior author that appear either in methodological journals or are
+didactic papers in psychiatry, psychology, and whatever other fields I’ve
+published in, which are basically my research, and those where I am a
+junior author listed lower down in the authorship list, which probably
+means I’ve contributed in a major way but it isn’t my own research.
+Tobey: That’s a good distinction to make and I wouldn’t have made it without
+your help.
+Kraemer: [00:26:18] I realized that I wasn’t the only one who was thinking about
+such issues when President Donald Kennedy, our president at Stanford,
+wrote a position paper talking about the responsibilities of accepting
+authorship on a paper. His argument was very much along this line: you
+don’t give authorship to somebody who merely handled the papers in
+your study. People who are listed as authors have to have made
+identifiable intellectual contributions to the study and must take
+responsibility for them.
+Tobey: Since we’re talking about some of the studies that you’ve been involved
+with, and there have been so many, what do you consider the most
+significant of those studies, if any?
+Kraemer: [00:27:18] This is like asking me which of my children I like the best.
+[laughter]
+
+28
+
+Tobey: Oh, is it? Well, I don’t want to do that.
+Kraemer: [00:27:23] Actually, I think I’ll discuss a recent experience. I think that
+the work that I did with DSM-5 is a culmination of a lot of work, an
+effort that in essence I prepared for about thirty years.
+Tobey: The Diagnostic and Statistical Manual of Psychiatric Disorders.
+Kraemer: [00:27:38] That’s right. The fifth version. I think it was the first time that
+I could apply the work that I had previously done in looking at the
+reliability of measures in diagnosis, the work that I’d previously done in
+optimizing decision making, the work that I’d previously done in
+randomized clinical trials and risk research--a broad spectrum of things
+that somehow all coalesced on one problem. Did I succeed? Probably
+not as well as I would have liked to, but I was really grateful for the
+opportunity to get those ideas out and I think I made a difference. I think
+DSM-V is different from the earlier versions. .
+Tobey: What were some of the differences that you feel you were responsible for
+or had a hand in?
+Kraemer: [00:28:26] One of the major difficulties that I saw in previous DSMs was
+that when it came time to evaluate the quality of the diagnosis, the field
+trials, they didn’t actually specify for whom these diagnoses were meant
+to be used. It makes a big difference whether you’re talking about
+diagnosing people who are coming into a clinic versus diagnosing people
+you’re calling and interviewing on the phone in an epidemiological study.
+I think it has always been incorrectly assumed that if it was good for one
+purpose, it was good for all purposes.
+
+29
+
+[00:29:02] So in earlier field trials they did things like selecting--very
+carefully selecting -- the patients to go into those field trials, as opposed
+to just taking patients as they came. I did convince the DSM researchers
+this time that you had to evaluate the quality of treatment on the people
+you intended to use it on and you had to evaluate that quality using the
+clinicians who were intended to use the DSM. For the most recent
+version, the field trials did it exactly that way. The downside of doing it
+that way is that, because we’re now talking about very heterogeneous
+samples of both patients and clinicians, the reliabilities in DSM-5 seem
+much lower than they had been in DSM-4, just as had been predicted.
+But I think we did it right, which is, I think, the thing that I most value.
+Tobey: Good. It sounds like a wonderful contribution.
+Kraemer: [00:29:55] I hope so.
+Tobey: It also sounds like you had some wonderful relationships with colleagues
+over the years. You’ve already mentioned Lincoln Moses and Pat Suppes
+Are there other collaborations and other people with whom you’ve
+worked who come to mind as having had an impact or having been
+wonderful to work with?
+Kraemer: [00:30:26] This is again…
+Tobey: Picking your favorite children.
+Kraemer: [00:30:29] Yes, picking my favorite children. [laughter]
+Tobey: We know that you might leave some out.
+Kraemer: [00:30:34] I am still working with a lot of the people that I worked with
+in the past. I’ve been retired now for seven years, but I am still working
+
+30
+
+with some of the people that I have worked with before, those that I
+truly enjoyed working with. Jerry Yesavage, I still see frequently. He and I
+worked together for about thirty years. He’s in the department of
+psychiatry here at Stanford, at the VA. I am working with VJ Periyakoil,
+who is actually not in psychiatry, but runs the hospice at the VA. Her
+area of interest is issues related to death and dying, which I think is an
+important area, not very well researched or understood. .
+[00:31:22] There are people like Jack Barchas, who is currently chairman
+of the psychiatry department at Cornell but who used to be at Stanford
+and with whom I’ve worked extensively.
+For the last twenty to twenty-five years that I was working at
+Stanford, I took about a quarter of my salary and earned it somewhere
+other than psychiatry. I have to admit that the reason I did this was
+because I thought medical research was much easier in other fields than it
+was in psychiatry. I thought psychiatry was particularly tough. .
+[00:31:58] I found by doing research in other medical fields that it’s no
+tougher or easier in psychiatry [laughter] than it is anyplace else. But that
+gave me the opportunity to work with Bob DeBusk, in cardiology, and
+later at the Prevention Center. I chose to work at the Prevention Center
+because epidemiology seemed so weak in psychiatry. I wanted to learn
+about epidemiology and how it was done in cardiology, oncology and
+other fields where it was very well developed.
+It’s really hard to answer your question. There are so many people
+that I worked with. [laugher]
+
+31
+
+Tobey: You obviously worked with a lot of wonderful people and you’ve been a
+part of a fair number of administrations at Stanford, too. Can you
+describe any of the administrative people and how you saw the university
+changing as you saw different presidents come and go?
+Kraemer: [00:33:00] I think in the medical school, we’re more affected by the
+provost, the dean and our chairman than we are by the president. At least
+I was.
+Tobey: Then let’s talk the provosts.
+Kraemer: [00:33:05] There have been so many since I first came on. I really don’t
+have great insights as to how they compare with each other.
+Tobey: They didn’t have a direct influence.
+Kraemer: [00:33:19] I’ve been in the department under every chairman of the
+department of psychiatry since the beginning until my retirement and
+that does have a direct effect on everybody in the department.
+Tobey: Let’s talk about that a little bit then.
+Kraemer: [00:33:31] Well, David Hamburg was the first chairman. He stayed for a
+number of years until that famous kidnapping in Zaire. Do you know
+that story? That’s interesting.
+Tobey: I don’t know that story.
+Kraemer: [00:33:45] Well, Jane Goodall was doing research on chimps. This is
+while she was still in Gombe, which is the name of her research facility.
+There was a liaison forged between the psychiatry department at Stanford
+and Jane and her group at Gombe. We would train young researchers
+here to observe, record, and analyze research having to do with
+
+32
+
+chimpanzee studies. Then we’d send them over to Gombe and they
+would work there. This went on for a couple of years.
+[00:34:22] David Hamburg was the person who had forged that liaison.
+Then several of our students were kidnapped by guerillas, not gorillas,
+guerillas. Guerillas from across the lake. , David Hamburg left Stanford
+and spent a lot of time negotiating to get the release of those students.
+Tobey: What year was this? I wonder.
+Kraemer: [00:34:47] Oh, dear. I’m so bad on dates.
+Tobey: Oh, I know it’s hard.
+Kraemer: [00:34:51] It was the year before David Hamburg resigned as chairman.
+Tobey: It was that year.
+Kraemer: [00:34:57] When David came back, he said he didn’t think he was doing
+enough on a world basis working at Stanford and decided he would
+leave. He left to become chairman of the Institute of Medicient, and then
+later went to the Carnegie Foundation. He was replaced by Mickey
+Stunkard, who recently died. Mickey only lasted about a year but it was a
+very interesting year.
+As I’ve already mentioned, David had put major emphasis on
+research in the department of psychiatry.
+[00:35:32] Many people perceived ours as being only a research
+department, short on clinical training, which wasn’t really true. When
+Mickey came, he wanted to shift the emphasis to the clinic, which I have
+to say was more in tune with my own feelings. Mickey was a favorite of
+
+33
+
+mine, but he lasted only a year and then he went back to the University
+of Pennsylvania.
+[00:35:59] We went through a long period where we didn’t have a real
+chairman. Then Tom Gonda was appointed. I never got along with Tom
+Gonda. He was a real problem for not only women faculty but for male
+faculty. You depend so much on having the support, not only of your
+colleagues, but of the department chairman, to do very good work. Tom
+was not a researcher -- he had never really done research. In particular,
+he had no concept of what it was I did for a living. As a result, he was
+not very happy about having me in his department and tried to nudge
+[laughter] me away. But by this time, I was pretty set. . I was happy with
+what I was doing and the rest of the department was happy with what I
+was doing, so I wasn’t about to be nudged out. But it was a rough ten
+years.
+Tobey: Oh, that was ten years.
+Kraemer: [00:36:57] Yes, this lasted a long time.
+Tobey: Ten years while you were tenured.
+Kraemer: [00:37:04] Ten years and I was tenured during his…
+Tobey: During his administration.
+Kraemer: [00:37:08] …his administration. I’ve already mentioned Jack Barchas.
+Jack tells a story, which I think is true. Gonda was so eager to get rid of
+me that when my long form ended up on his desk, it stayed there. Instead
+of his signing it and sending on to the dean’s office, it was tabled.
+Tobey: What is the long form?
+
+34
+
+Kraemer: [00:37:29] The long form—ah, the intricacies. The long form is a full
+description of everything a faculty member does and it is the basis of
+consideration for promotion and tenure decisions. It is compiled by
+somebody in the department. It goes to the department chairman for
+signature, and then it goes to the dean’s office, and further. Anyway, my
+long form ended up on Gonda’s desk and it was tabled there. So I waited
+for two and a half years while the long form simply sat there. It finally
+got off of that desk because Jack Barchas was the associate chairman of
+the department. When Tom went on vacation, Jack got to sit at Tom’s
+desk. He signed off on the long form and sent it down to the dean’s
+office, and I was later tenured. Jack has .told this story many times of
+how he “illegally” got me tenured at Stanford. But, yes, I did get tenured
+while Tom Gonda was chair.
+Tobey: I see.
+Kraemer: [00:38:30] After Gonda there was again a long period where we didn’t
+have a permanent chair.
+Tobey: Just an acting chair?
+Kraemer: [00:38:34] An acting chair. I think that what I remember most about this
+is how much the nature of the chairman of the department determines
+the nature of the department. This seemed true to a degree that I had
+never anticipated. I think I didn’t anticipate it because the department of
+statistics, where I came from, alternated the chairmanship, so everybody
+got their turn at being chair.
+
+35
+
+[00:39:02] It’s quite different in the medical school. During the period
+that Gonda was chair; it was like everybody hunkered in their separate
+corners and got into a self-protective mode. I was probably the only
+person who actually went from corner to corner to corner during that
+period of time. It was really not a very good situation at all.
+Tobey: It can be very uncomfortable.
+Kraemer: [00:39:27] Very. The next chairman, quite a bit later, was Alan
+Schatzberg, a breath of fresh air. Unfortunately, by this time I had
+learned that if I saw Gonda coming down the corridor one way, I quickly
+moved in a perpendicular direction. I learned to just stay out of his path
+so I wouldn’t get into trouble. When we got a new chairman, I continued
+that learned behavior. It took three months before Schatzberg could pin
+me down to even say hello. It was such a relief to find out that he knew
+what my role in the department was. Moreover, the department began to
+glow again. It was just great.
+Tobey: Now is he still…?
+Kraemer: [00:40:11] No. He recently stepped down and we’ve got a new chair.
+Tobey: But that was quite recent, wasn’t it--the last couple of years?
+Kraemer: [00:40:23] He stepped down, I think, a year after I retired so it was about
+2008. .
+Tobey: OK. Interesting. Did you feel isolated as a female in those years or did
+everybody, male or female, react to the department head?
+
+36
+
+Kraemer: [00:41:03] It was a combination of both. I know now that the problems
+in the department affected everybody individually. I had never thought to
+talk it over with people at that time.
+Tobey: It was hard to do that, I suppose.
+Kraemer: [00:41:19] It was. You’re being so self-protective in this kind of a
+situation. But after it was over, one of my very dear friends, Anneliese
+Korner, also a professor in psychiatry--a child psychologist--and I got to
+reminiscing about what had happened during that period of time. She
+pointed out something which I didn’t know: that there were only three
+women faculty members in the department of psychiatry at the time and
+all three of us had had major, major difficulties, much more than the
+others did.
+Tobey: Much more than the men.
+Kraemer: [00:41:53] Our perception was that part of the problem was that he was
+uncomfortable with women on the faculty to start with, and he created
+an additional layer of discomfort beyond what the men were
+experiencing. We did have problems.
+Tobey: But you all stayed through his entire….
+Kraemer: [00:42:10] We all stayed. Actually, I think we all survived him. [laughter]
+We were all still there after he left.
+Tobey: It is nice to know that you had the resilience to do so. As you were
+working with the department, you were also obviously working with
+students some of the time. Can you tell me something about your
+
+37
+
+relationships with students, the courses you taught, what you got from
+the teaching experience?
+Kraemer: [00:42:40] I’ll tell you that the most difficult course was the very first one,
+which Lincoln Moses had previously taught -- a required biostatistics
+course for medical students. Unfortunately, it was the first quarter of the
+first year and medical students don’t come in particularly inspired to take
+statistics. [laughter] But Lincoln asked me to teach it and I had always
+really thought I taught well. I always enjoyed teaching. I hadn’t
+anticipated any problems. But the difficulty here was twofold.
+[00:43:16] One of them is the medical students were totally not motivated
+to this. They really felt compelled to take this course—it was a required
+course. It is now not a required course. It is now optional and I think
+that’s probably unfortunate--fortunate for the teachers, but unfortunate
+for the students—but probably a better situation. You have to be
+motivated to learn something. So that was a difficulty. The second
+difficulty was that I had some students in the class whose knowledge in
+mathematics was so rudimentary, I couldn’t believe it. I can remember…
+Tobey: These are medical students.
+Kraemer: [00:43:50] These are medical students. I remember putting up on the
+board x plus two equals four and off-handedly saying therefore you see x
+is two and turning to say something else, when a hand went up. I said,
+“Yes?” The student said, “How did you figure out that it was two?” I
+thought, “Oh, my dear, I’m going to have to teach basic first year high
+
+38
+
+school algebra to first year medical students!” [laughter] So I quickly
+passed that off.
+Then there was the additional problem that I was pregnant again. I
+discovered something this time that I hadn’t realized before. The last
+time I was pregnant, I was doing a post doc, so I could work at my own
+speed and in isolation if need be.
+[00:44:32] I don’t know whether it happens to all pregnant women, but
+boy did my thinking get muddy [laughter] with that pregnancy. The baby
+wasn’t due until well after the end of the quarter, and I was confident
+that I could complete the course. But I can remember standing at the
+board, looking at a chi square test, and trying to figure out what the
+degrees of freedom were (a really basic problem). I couldn’t figure it out!
+So I had to call Lincoln and say, “Please, you’re going to have to take
+over the rest of the course (the last week). I think I have to give it up.” I
+said, “I just can’t think!”
+[00:45:02] That was the most difficult course [laughter] I have ever had to
+teach. Since then most of my teaching has been either one-to-one with
+post docs or what I called a methodology workshop started about 45
+years ago. Three quarters of each academic year, one two-hour session a
+week. This course was not to teach basic statistics but to teach the
+specific types of statistics students would have to know in order to do
+research in this field. But it meant review of the basic statistical
+principles. I taught that workshop right until the time I retired. Now my
+
+39
+
+successor, Booil Jo, is still teaching it, and I’m still coming in to teach a
+class or two.
+[00:45:51] I’ve also taught in psychology. I took over for Merrill
+Carlsmith one year and taught his statistics course. I’ve taught in the
+school of education, teaching some of their basic statistics courses.
+Tobey: Were these graduate level courses?
+Kraemer: [00:46:08] The School of Education by its nature is graduate level and the
+psychology course could be taken by undergraduates, but it was taken
+mostly by graduate students -- pre-doctoral students. I’ve also taught
+medical students. I mean, in addition to that miserable first- year course.
+Tobey: You’ve taught other courses to medical students.
+Kraemer: [00:46:28] Other courses to medical students.
+Tobey: And I hope those went better than the first. [laughter]
+Kraemer: [00:46:33] Oh, yes. I have to say after that first year, I didn’t teach for a
+couple of years. I was so discouraged because I thought it was all me
+[laughter] -- and then I said, “No, it wasn’t all me. It was the
+circumstances.”
+Tobey: Lots of circumstances. I think we’ve talked a little bit about the fact that
+there were very few women in your department, only three. Do you
+know how women were treated in terms of salary as compared to men
+during the time that you worked -- and whether eventually things
+improved?
+[Break in recording]
+
+40
+
+Tobey: We were about to talk about financial salaries for women and if you
+know enough detail about this to compare salaries to men over the years
+that you were there.
+Kraemer: [00:47:49] In detail, I don’t. I can tell you my own experiences and I can
+tell you in general. I think my salary was commensurate with male faculty
+when I first started.. For the work that I was doing, I was getting what I
+perceived as the same salary as everybody else. When Tom Gonda
+became chair, it was one of his strategies not to give me a raise. So there
+was this period of years when I continued at more or less flat salary—
+ending when, in fact, some senior research associates were getting a
+higher salary than I was as an assistant professor. It’s a difficult pill to
+swallow and there was nothing I could do about it except leave.
+Tobey: And you didn’t want to do that.
+Kraemer: [00:48:29] And I didn’t want to do that. If you can’t negotiate with your
+chairman, where do you go? When Schatzberg came in, it took him three
+weeks to pin me down. He summoned me to his office, which I have to
+tell you scared me. I sat down and he said, “Helen,” “Your salary is a
+disgrace to this department and I want you to know that I will get you up
+to parity, but I may not be able to do it all in one year.”
+[00:49:05] I sat there absolutely stunned. [laughter] I thought, “I’m going
+to get paid when I work!” This man recognized that I was being paid so
+very badly.
+Tobey: Well, it is wonderful to know that Schatzberg came through in that way
+and he did get you up to speed over a period of years.
+
+41
+
+Kraemer: [00:49:28] My general impression of the women who came after me in
+the department is that they still weren’t getting as much as they should
+have been getting, but that a lot of it was because they didn’t ask for it.
+They didn’t negotiate for it. One of the changes I saw as time went on is
+that women came in willing to negotiate a salary. They really had a sense
+of what they were worth and they were willing to say, “I want it. Give it
+to me.” I think it’s getting better. I wish I knew whether it was all on
+parity now.
+[00:50:06] I just don’t know.
+I spent a number of years, somewhere around the 1990s, compiling
+statistics on women faculty. I wasn’t focused on salaries, though, but on
+the promotion process. I was still so conscious of the fact that women
+were so underrepresented on the faculty and I wanted to find out where
+exactly the barriers were. I was given the faculty roster each year for a
+number of years and I compiled the statistics from that.
+[00:50:38] Salaries aren’t listed there, so I never looked at them.
+Tobey: And did you reach any conclusions?
+Kraemer: [00:50:52] I did find that there were some departments that were much
+better than others about hiring and promoting women. I did not make
+myself very attractive to some of the departments by pointing out that
+they had never had a woman or that they had never managed to promote
+a female assistant professor to associate professor.
+Tobey: Can you mention the departments that were doing a good job in this
+area?
+
+42
+
+Kraemer: [00:51:21] Actually, the ones that really impressed me were Genetics and
+Health Research and Policy. There were many others who were at the
+other extreme. But things have changed since the 1990s. We now have
+women department chairmen. There were none at that time. My
+perception was that tenure was a major blockage. I don’t think this
+problem has solved itself completely. I think that there is a major
+reservation to, giving women tenure or putting them on the tenure line.
+[00:51:58] In the medical school, many more women come in on the
+clinical lines or the research lines than come in on the tenure lines. If you
+look at the (pardon the expression) death rates--people who don’t make
+it all the way up the faculty ladder for one reason or another--some of
+them actually go on to success at other universities. So this is not a failure
+necessarily. The failure rates are much greater in the non-tenure lines
+than they are in the tenure lines. [00:52:29] Putting women into the
+faculty positions where men and women are unlikely to stay in the long
+run is naturally going to reduce the number of women on the faculty. I
+thought bringing it to people’s consciousness would do a lot of good. I’m
+not sure it did any good at all.
+Tobey: It may have, you know.
+Kraemer: [00:52:48] It may have, who knows?
+Tobey: It’s a long process.
+Kraemer: [00:52:51] Yes, it is.
+
+43
+
+Tobey: Change, doesn’t occur overnight, as we know. On another note, I’m
+curious about how your marriage and family life influenced your career
+and how you managed to do both. Did you feel balanced?
+Kraemer: [00:53:24] Never. Never balanced.
+Tobey: There were periods of imbalance. OK, so let’s talk about that.
+Kraemer: [00:53:29] I think I’ve discovered over the long run that if you’re trying to
+do both, you’re not going to do either as well as you really want to do it.
+There were periods in my life when I felt I was really shortchanging my
+family because I was so focused on things related to my career. There
+were other times in my life when I did it exactly in the opposite direction
+and my career suffered because there were family problems. I just felt
+guilty all the time. I don’t think I actually came to terms with that until
+my children were grown and gone from the nest [00:54:03] I finally
+realized that this is probably the way it’s got to be. If you can’t fully focus
+on one job, whether it’s home or the career, you’re always going to think
+there’s something more you should have done.
+Tobey: So you think that’s a female characteristic? Do men feel that way as
+much, you think?
+Kraemer: [00:54:25] Well, it’s hard for me to say.
+My son-in-law puts a great deal more emphasis on family than my
+husband ever did. It’s a generational thing. In my generation, the men
+were totally focused on their careers. They were supportive and helpful,
+but when time came to change the diaper, the child was mine. It seems
+really quite different nowadays. But I still think you have to make choices
+
+44
+
+and you have to live with the fact that if you choose to try to balance
+multiple areas, each one of those areas is not going to be as perfectly
+done as you might have done if you had focused totally on that area.
+That is life.
+[00:55:12] But I got a great deal of satisfaction out of doing it the way I
+did it, so I’m not going to recommend against it. So it’s fine.
+Tobey: That’s good to hear, too. I know that young women today struggle with
+these questions as much as you did and feel the same kind of guilt. I
+speak from my experience.
+Kraemer: [00:55:29] I think that one thing that’s easier now is that there was
+nobody I could talk to, to ask how to handle the problem like this,
+whereas now there are enough female faculty members, there are enough
+women in all sorts of professional positions, there’s always somebody
+you can talk to. The role model situation is really much better now than it
+was then.
+Tobey: And that does make a difference.
+Kraemer: [00:55:53] Oh, it does.
+Tobey: Even just knowing there are other people going through what you’re
+going through and are encountering some of the same difficulties make
+you feel better.
+Kraemer: [00:56:03] Absolutely.
+Tobey: Was your husband a career oriented person who encouraged you to
+work? What kind of career did he pursue?
+Kraemer: [00:56:15] He’s an engineer.
+
+45
+
+Tobey: He’s an engineer.
+Kraemer: [00:56:17] He started at Lockheed and he ended at Lockheed, working
+with lasers and aerospace and things of that sort, a field very different
+from mine.
+Tobey: And did you meet here?
+Kraemer: [00:56:30] We met at Stanford, yes. We were both in graduate school at
+the time.
+Tobey: Do you want to tell us about that? Your meeting and…?
+Kraemer: [00:56:38] I wish I could give you a great romantic story.
+Tobey: Sometimes they’re not.
+Kraemer: [00:56:43] He was dating the girl who lived in the apartment next door to
+me. [laughter] We went out a couple of times and we hit it off and got
+married.
+Tobey: You were in your early twenties then?
+Kraemer: [00:56:58] I was twenty-one, twenty-two when I came to graduate school.
+Tobey: Twenty-one or twenty-two when you were married and had…
+Kraemer: [00:57:03] No, I’m sorry. I was twenty-five when I was married.
+Tobey: Oh, twenty-five.
+Kraemer: [00:57:06] We met during that period when I was in graduate school.
+Tobey: And then you had your children before you were--well, you must’ve been
+in your early thirties by the time the last one was born.
+Kraemer: [00:57:19] Think I must’ve been thirty-one when Karen was born.
+
+46
+
+Tobey: Let’s talk a little bit about Stanford and how you perceive the university
+today as compared to when you first entered it because I think you’ve
+lived through a period of broad change.
+Kraemer: [00:58:07] Not only that, I’ve lived through several roles. Came here as a
+graduate student, then was on staff, then on faculty, and then my
+youngest daughter was a student at Stanford and a graduate student at
+Stanford.
+Tobey: So you’ve seen it from many perspectives.
+Kraemer: [00:58:22] So I’ve seen it from wonderful perspectives. The one negative
+thing I have to admit is that I encouraged my older daughter not to go to
+Stanford. The reason was that she is one of these people who likes to be
+taught, as opposed to my younger daughter who is one of these people
+who goes to lectures, listens to what people have to say, and then goes
+home and teaches herself. Stanford puts the emphasis on self-motivation
+and self-actualization, and I think that makes it hard for some of the
+students on the undergraduate level.
+[00:58:57] On the graduate level and the medical school and post doc
+level, this doesn’t make any difference at all because by that time, they are
+self-motivated and taking care of themselves. I don’t think that has
+changed over the years. I think we’re still a university that really wants the
+self-motivated kind of people to come here. And my older daughter did
+just wonderfully at the university she did go to, while my younger
+daughter did just wonderfully at Stanford. That worked out fine.
+
+47
+
+Tobey: There are different strokes for different folks and we have to recognize
+that.
+Kraemer: [00:59:27] There are different strokes for different folks. Stanford’s a
+much bigger institution now than when I first came here. There has been
+so much 1growth.
+Tobey: Oh, yes. Growth.
+Kraemer: [00:59:33 I came here in 1959. There hasn’t been a time since then when
+there haven’t been new buildings going up, new initiatives being
+inaugurated -- to the extent that I, to this day, can’t find my way across
+campus.
+Tobey: I know.
+Kraemer: [00:59:53] Because the roads are always changing and new buildings
+going up.
+Tobey: I’ve had the same experience. It’s a very changed place.
+Kraemer: [01:00:02] You can’t be complacent if you’re [laughter] trying to get
+around Stanford.
+Tobey: The graduate schools have grown even more than the undergraduate
+schools, I think, with a much bigger emphasis on sciences and
+technology and engineering over the humanities. While the humanities
+are still important in many people’s eyes, I understand there are many
+fewer majors in the humanities today than some years ago.
+Kraemer: [01:00:34] Interestingly enough, when I was on the medical school
+admissions committee and interviewing, there was a greater preference
+for somebody applying to medical school who had a degree in English
+
+48
+
+literature than somebody who had a degree in chemistry. It had
+something to do with being the well-rounded doctor, and it always
+puzzled me. I mean, obviously they had to have the chemistry, biology,
+and all the background the medical school requires, but they really rather
+preferred people who had a more humanistic background to come into
+the medical school. I don’t know that French literature would work as
+well, but... [laughter]
+Tobey: I wonder if that’s still true today.
+Kraemer: [01:01:20] I think so, actually.
+Tobey: They want to get physicians who have some ability to relate to human
+problems that have to do with psychology, I guess, as well as chemistry.
+Kraemer: [01:01:33] Medicine is both art and science and I think they really would
+like not to be so focused on the sciences to the exclusion of the arts.
+Tobey: Yes, the arts. Back to women, do you know if there have been policies
+put in place at Stanford, in the medicine school or psychiatry department
+or elsewhere that have made it easier for women faculty?
+Kraemer: [01:02:08] I think the one that I am most conscious of was the
+establishment of an office where sexual harassment was actually
+documented and the documentation was kept. The reason for this goes
+back to the time when I was working with David Hamburg at the
+outdoor primate facility. There were several research assistants there who
+were, they reported, molested by one of the psychiatry department
+members--not David, obviously. I won’t mention this person’s name,
+(he’s long gone by now). Anyway, it was a legitimate complaint. What
+
+49
+
+they were reporting was real molestation. This was not simply harassment
+or “he says, she says” kinds of things -- unless they were lying, which it
+turned out they weren’t. Because there were so few women faculty
+members, the reported incidents landed on my desk.
+[01:03:18] I was assistant professor at the time, which meant that this
+shouldn’t have landed on my desk at all. I went to the chairman of the
+department once I ascertained that this was really a true report. These
+three girls were extremely upset and all they wanted to have happen was
+for the molestation to stop. They didn’t want the psychiatry department
+member punished, they didn’t want anything else. They wanted the
+molestation to stop. I reported to the chairman of the department, Tom
+Gonda, who fundamentally said, “Boys will be boys.”
+[01:03:53] Those are actually his words. I then took the matter to Herant
+Katchadourian, then the ombudsman of the university. He took it to the
+dean, Miller at the time. I thought they handled it wonderfully well. They
+asked this faculty member to write an undated letter of resignation and
+sign it and told him that if this ever happened again, even one more
+incident of this type, they would simply accept his resignation at that
+point in time. Things cooled off for the next few years.
+[01:04:31] The problem was that when an incident of this sort happened
+again, some fifteen or twenty years later, there was no record of the
+earlier incident. The woman involved decided to sue Stanford.
+Tobey: Was this the same man?
+
+50
+
+Kraemer: [01:04:46] Same man. She was his research assistant. She decided to sue,
+and her lawyer made it clear that unless there had been some knowledge
+by the university that this was going on, Stanford could not be sued. She
+could sue him, but she couldn’t sue Stanford. The question then was:
+Had Stanford any knowledge of any untoward activities by this man? By
+this time, there was a different president of the university, a different
+provost, a different dean, a different chairman. Everything was different.
+[01:05:20] Nobody officially remembered the previous incidents at all.
+The lawyer went to Frances Conley and said. “Do you know of
+anything?” Frances said, “If anybody knows, it’s going to be Helen.” I
+had all the documentation and gave it to the lawyer. I thought that was
+only fair. But the letter of resignation was gone, so the wonderful
+solution all those years before had just disappeared. The suit was finally
+settled. The faculty member resigned and left the university, and he died
+a few years ago. The matter was settled.
+[01:06:01] Institutional memory is important in situations of this kind.
+They should have kept an eye on him all those years. The kind of
+behaviors that he was reported to have engaged in with these girls were
+not subtle, and in absence of oversight, he was going to repeat. Just
+ignoring such a situation was really bad. This problem landed on poor
+Alan Schatzberg’s desk -- one of the first things that happened after he
+came to be [laughter] the chairman of the department. He was not happy
+about it.
+Tobey: Was it under his leadership that this guy resigned?
+
+51
+
+Kraemer: [01:06:37] Yes.
+Tobey: Good. That’s quite a story.
+Kraemer: [01:06:43] There were actually two women faculty members involved.
+There were only three women faculty during this early period of time,
+and the one who supported and helped me during this time was Alberta
+Segal. The situation was bad for me, because you cannot put a nontenured person in that position when the person who’s doing the
+harassing is a tenured professor. I lost funding. I got punished for doing
+this.
+Tobey: You did the right thing.
+Kraemer: [01:07:13] I have to say one of the wonderful moments that I treasure
+during this time was that, when they finally instituted the suit against
+Stanford, I was contacted by Stanford lawyers, saying they needed to talk
+to me. This unnerved me, as you might imagine. The Stanford lawyers
+came in and said, “You do realize that you may be required to testify
+against Stanford? However, what you did was part of your duty as a
+Stanford faculty member and, therefore, if it does go to court, Stanford
+will pay for the lawyer of your choice.” I thought, “Hey, that’s class!”
+[laughter] It never went to court, fortunately.
+Tobey: It was settled outside of court.
+Kraemer: [01:07:52] Yes. But to go back to your original question, there is now
+somebody who is in charge of maintaining a file about this type of
+complaint, so that if ever the question of institutional memory comes up,
+the complaint is on file.
+
+52
+
+Tobey: That’s great. I mean, I’m happy to hear that this change has occurred.
+Kraemer: [01:08:15] It also gets past one of the really difficult things that women
+have had to deal with because they, in many cases they’re harassed or
+whatever, they’re afraid of reporting it. They’re afraid that they’re the
+only ones who are going to be punished for this. But if they report it and
+there are other similar reports supported by other people coming in, it
+means they are not alone in the world and they will be believed. It’s an
+important step forward.
+Tobey: Yes, it definitely is. I’m really pleased to know that you’ve had a role in
+that. Well, you’ve had quite a career. If you were to do it again, would
+you do it the same way or would you take slightly different paths at any
+point?
+Kraemer: [01:09:00] I think I’d do it the same way, actually.
+Tobey: You’d do it the same way. In looking back, you’re pleased with your
+career.
+Kraemer: [01:09:06] You know, looking back I can say, “If I knew then what I
+know now, I would’ve done something differently.” But knowing what I
+did at each point in my career, you know, I took missteps, but you
+know….
+Tobey: Every human being does. Would you have advice for young women
+today who are entering the field?
+Kraemer: [01:09:28] What I would tell them is, in essence, what I never did, but….
+Tobey: Which would be?
+
+53
+
+Kraemer: [01:09:33] To determine what is it that you want and then to think in
+terms of how to get from here to there in the next five years or so. What
+may happen during these may change the path you want—or it may not.
+What you planned to do may not be as direct a path as you thought it
+would be. But I think there is something really advantageous to having a
+road ahead of you to look down and then, if you decide to take a side
+road, that’s fine. But having a five year plan [laughter] is awfully useful.
+[01:10:05] I don’t think women in my generation ever did that. I mean, it
+was all sort of an accident happens here and an accident happens there
+and aren’t we lucky and that sort of thing -- and that’s not the way to go.
+Tobey: So to have a plan and work toward it, knowing that there are side roads.
+Kraemer: [01:10:24] Also saying, “This is what I want, not what everybody expects
+from me. This is what I want.”
+Tobey: That, I think, a very good place to end our interview.
+Kraemer: [01:10:38] Thank you very much.
+Tobey: Thank you. I appreciate your time and your genuine nature as you
+answered all of these personal and academic questions.

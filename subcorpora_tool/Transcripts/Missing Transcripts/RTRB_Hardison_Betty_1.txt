@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042284" dt="2018-08-15"><version>5.1</version><date value="2010-07-14" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Betty Hardison Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Betty Hardison</interviewee><interviewer>Sarah Selvidge</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>Interview 1: July 14, 2010
+
+Begin Audiofile 1 07-14-2010.mp3
+
+SELVIDGE: This is Sarah Selvidge with Betty Hardison, and it&#039;s July 14, and
+we&#039;re in El Cerrito, California. So for this interview, I wanted to begin way
+back. Just if you could talk a little bit about your childhood and where you
+were born, just to get us started. Maybe a little bit about your family, your
+family life.
+
+HARDISON: Okay. Well, I was born almost ninety years ago. My birthday is in a
+couple of weeks. That&#039;s scary, that term. I&#039;m not willing to quite accept that
+yet. But I was born in Vallejo, California, at which time my father worked for
+the Navy on Mare Island Naval Shipyard. And we lived in the community for about
+a year when my grandmother passed away. And those grandparents lived in
+Calistoga, which is the far end of Napa Valley. My grandfather had just built a
+new home, and so when his wife passed away, it was his wish that my mother be
+the one to help care for him, because she was the only one--out of a family of
+six girls and a boy--who had had a child.
+
+HARDISON: We had moved to Calistoga and moved into the big house to take care of
+my grandfather. I had a brother, who came along in 1925. And so I grew up in
+that community; went to the grammar school, high school. I was really active in
+high school. I think that&#039;s the beauty of a small community, where everybody--
+
+SELVIDGE: Yeah. And Calistoga, at that time, was quite a small town.
+
+HARDISON: It was small. It was about a thousand population.
+
+HARDISON: And everybody knows everybody. But it was a really full experience.
+Lots of sports. So I was a basketball player, but I ended up being more of a
+tennis player. And I&#039;m paying for it now. And then I was a musician. I played
+the piano and ended up having to accompany everything and everybody-- [laughter]
+And they had a very active band. First I played drums, because I had the rhythm
+from the piano. And then I wanted to try an instrument, so I tried a French
+horn. And that didn&#039;t work too well, and so I moved on to a clarinet. And I
+really liked that. So I had great experiences in high school. And I was
+secretary, usually, of the class. And so I usually had a leadership role, which
+I enjoyed. And then even at the end of my high school, I ended up playing in a
+symphony, in nearby Santa Rosa. And then when it was time to go off to school, I
+sold my clarinet and I went to Armstrong Business College in Berkeley.
+
+SELVIDGE: In Berkeley?
+
+HARDISON: Right. It no longer exists, but it was a very prominent business
+school at the time. I took secretarial and all phases of business. But at that
+time, then, the world was beginning to be topsy-turvy. That was around 1939,
+when Hitler was not being very friendly.
+
+SELVIDGE: That was when you came to the Bay Area, from Calistoga.
+
+HARDISON: Yes. Yeah, well, I came. I lived in Berkeley. I worked for my room and
+board, as what we call a nanny now, but I hadn&#039;t even thought of the term then.
+I worked taking care of a child for a family, for my room and board. And so then
+I walked to Armstrong from there. So in a way, I experienced part of Berkeley.
+Journalism was a strong goal. I had been editor of the yearbook and things like
+that, so I thought that I wanted to go to the university and take journalism.
+But then with the world being turned upside-down, I went for my first job. And
+that was at Mare Island. I moved back then to Vallejo, where my folks had moved
+from Calistoga and had built a home.
+
+SELVIDGE: After Calistoga your parents moved again?
+
+HARDISON: After Calistoga. When I went off to school they moved back to Vallejo.
+
+SELVIDGE: I have a couple questions about that moment, actually. I&#039;m curious to
+know in high school, what were the traditions or expectations or habits of the
+other girls that you graduated from high school with? Did a lot of them
+anticipate going to college?
+
+HARDISON: That was always a goal.
+
+SELVIDGE: That was always the goal--
+
+HARDISON: Oh, yes.
+
+SELVIDGE: --for a lot of the girls?
+
+HARDISON: Definitely. Definitely. Yeah. We all took the college prep courses,
+Latin and--Latin really didn&#039;t appeal to me, but I did know that it was a basis,
+and so that&#039;s what I had to take. And that was a requirement then. I can&#039;t
+recall what other foreign languages were taught at that time. Now it&#039;s Spanish.
+
+SELVIDGE: I&#039;m also just curious; this must have been around the time that some
+of the first bath houses were opening in Calistoga. Is that right?
+
+HARDISON: Oh, they were open much earlier.
+
+SELVIDGE: Earlier than that?
+
+HARDISON: Yeah.
+
+SELVIDGE: In the teens and twenties, is that right?
+
+HARDISON: Okay, you&#039;re taking me back.
+
+SELVIDGE: I&#039;m just curious--
+
+HARDISON: That&#039;s fine.
+
+SELVIDGE: --because I grew up in San Francisco, so I grew up going to those places.
+
+HARDISON: Yeah. Okay, well, there were always mud baths. And yes, I did have a
+mud bath, but only once.
+
+SELVIDGE: Only once?
+
+HARDISON: And actually, that was kind of funny. I was very blonde. And so I was
+always a good contrast for pictures. So National Geographic wanted some
+pictures, and I was the one elected to be in the mud bath. I&#039;m not so proud of
+all that, but--I don&#039;t even have a picture of it. But I really hated the thought
+of getting into this hot, sticky mud. But yes, Calistoga was famous for its spas.
+
+And it&#039;s wine country. And I should add then that my maternal grandfather was a
+wine maker from Germany. He came to Napa Valley around 1880 and met my
+grandmother there, and they were married in the Presbyterian church in
+Calistoga. Grandmother was also from Germany He had come from Alsace-Lorraine in
+Germany, from a devout Catholic family. And as I remember being told, he was
+being groomed to be an altar boy and all of this kind of thing, and he ran away.
+He left Germany and came to the US, Cincinnati, when he was about sixteen. And
+so it was interesting that he would pick the Presbyterian church. And it turns
+out that we have been Presbyterians all our lives.
+
+Both my mom and Dad were born in Calistoga. Dad was in World War I, and they
+married in Calistoga. Interesting. And let&#039;s see. My father worked as an
+electrician and wired much of the upper Napa Valley, as well as Lake County.
+
+SELVIDGE: Oh, wow. Can you tell me a little bit about that, when he was doing that?
+
+HARDISON: Well, when we first moved up--
+
+SELVIDGE: When you first moved back.
+
+HARDISON: --when I was one year old. And then he had an electrical office or a
+shop, and sold some electrical appliances. I can remember playing in the shop.
+So he was a busy guy, in addition to being a volunteer fire chief. His little
+electrical shop was next door to the firehouse. So it was very convenient for
+him to be fire chief. That part of my childhood is kind of scary. I can remember
+so many times when the town river would blow, and when he had to leave in the
+middle of the night. They had a lot of forest fires. And he&#039;d be gone for days,
+and I always worried about that.
+
+SELVIDGE: Would you hear news of what was happening while he was gone?
+
+HARDISON: Oh, not a whole lot, no.
+
+SELVIDGE: Not really.
+
+HARDISON: Could you turn that off for a minute?
+
+SELVIDGE: Sure. [audiofile stops, re-starts]
+
+HARDISON: Where were we?
+
+SELVIDGE: You were saying it was a scary time because your father was--
+
+HARDISON: Yeah. It&#039;s heavily wooded, that part of the valley. And they still
+have volunteer fire departments. Very interesting. So he did that for years. And
+then, of course, we lived there during the Depression. So we lived in a very
+large house, maybe six or eight bedrooms. And that house succeeded a ranch
+house, where my grandfather and grandmother raised these six girls and one boy,
+on a hillside, a vineyard hillside. And so then he built this large house. The
+location of the house was where Leland Stanford had a summer home. Because at
+one time, Stanford thought he might like to build his campus in that community.
+So my grandfather bought the property and tore the house down--it was just a
+small little--
+
+SELVIDGE: Oh, the house of Stanford.
+
+HARDISON: -- a little vacation house of Stanford--and then built this larger house.
+
+SELVIDGE: And was it in town?
+
+HARDISON: Yes. It&#039;s right as you enter town. And interestingly enough, it&#039;s now
+a bed and breakfast. But the Depression came along, and my dad kept working as
+an electrician. My grandfather retired as a vintner. But my mother felt that
+they had to bring in some extra money, and so she rented to school teachers, in
+the various bedrooms. And cooked--it was room and board.
+
+SELVIDGE: So she took on boarders.
+
+HARDISON: Boarders, roomers. And then to do extra work, she raised flowers. She
+had a green thumb and could just plant anything. She raised beautiful flowers
+and then made floral arrangements for different funerals. So that was a real
+going thing. And then a third thing she did, she became famous for her lemon
+pies. So she used to make and sell lemon pies. So I think it was very creative
+of her.
+
+SELVIDGE: She sounds like she was very capable and resourceful.
+
+HARDISON: Yes. Yeah.
+
+SELVIDGE: And is this because--I guess your grandfather retired, so there was
+less income there.
+
+HARDISON: He did, right. It was the middle of the Great Depression.
+
+SELVIDGE: And your father had less steady work, I&#039;m guessing.
+
+HARDISON: Oh, he was pretty steady.
+
+SELVIDGE: He was able to keep working.
+
+HARDISON: Yeah.
+
+SELVIDGE: Can you tell me a little bit what you remember? I&#039;m curious about what
+you knew about the work that your father was doing, because I imagine some of
+the appliances and these things were really new, if not to everybody, at least
+to some people.
+
+HARDISON: Right. But he understood what each new piece of equipment was that
+came along. Also, when he worked at Mare Island, he worked for the power plant,
+so he had that electrical background.
+
+SELVIDGE: He had experience in the area.
+
+HARDISON: Right. But then in addition to his electrical store where he sold
+appliances, he would go out and he wired the whole part of the county. I can
+remember him climbing poles in heavily wooded areas.
+
+SELVIDGE: Yeah. To put electrical lines in.HARDISON: Put those electrical lines,
+that probably are still there.
+
+SELVIDGE: Probably so. Do you remember anything about the sort of novelty of
+this sort of thing or these appliances? Was it exciting for people to get a new thing?
+
+HARDISON: My dad had first a Model T Ford, and later a Model A Ford. I remember
+lots of picnics and excursions. And I remember the telephone we had. It was just
+a wall-hung thing. And a party line sort of thing. And then I should tell you
+that I had other grandparents who lived in the community. So my dad&#039;s parents
+came across the plains from Kansas and Missouri. Missouri, mostly. And that
+grandfather was a stagecoach driver. And he drove the stagecoach from Calistoga
+to Lake County. And he was robbed a couple times by Black Bart. Those kind of
+stories that kids love to hear. My grandmother was very resourceful. She was a
+seamstress and taught me how to sew. But she also took in alterations and that
+kind of work, so that she had a lot to do, as well. That family had--let&#039;s see,
+I think they had about five boys and three girls. So both were large families.
+Except my mother was the only one who had children in her family.
+
+SELVIDGE: That seems so strange--
+
+HARDISON: Yeah. Well, there was one other sister who lost a child early on,
+after being hit by a bicycle. But there were never any other children.
+
+SELVIDGE: It&#039;s pretty uncommon for the time.
+
+HARDISON: Very. Very uncommon.SELVIDGE: Yeah. Or even now, to have so many aunts
+and uncles and so few cousins.HARDISON: But I have several cousins on my dad&#039;s
+side. Yeah. And I remember my mother&#039;s stories about--my mother was really kind
+of resentful of having to work so hard as a child. Since there was only one boy,
+the girls had to work, as well, in the vineyard.
+
+SELVIDGE: Oh, doing what?
+
+HARDISON: Picking grapes and hauling grapes--
+
+SELVIDGE: It&#039;s a really hard job, yeah.
+
+HARDISON: --and cleaning out wine vats and-- [chuckles] My mother was never able
+to tolerate any wine. A thimbleful was too much for my mother. She really just
+resented how she had to work. That grandfather, when he first started his wine
+business, walked from Calistoga to St. Helena every day--that&#039;s about seven
+miles--where he was a cooper. And he was a cooper for Beringer Brothers, Krug
+Winery, and the third one, which is now the Napa Valley Culinary School. It
+was--oh, I can&#039;t remember the name. I&#039;ll think of it. But there were three
+wineries that he was the cooper for. And then he had his own little business.
+
+SELVIDGE: And then he started his own business.
+
+HARDISON: Yeah. And one interesting sidelight of that is that-- You may have
+heard of the dread of wineries, of vintners, is phylloxera. I don&#039;t know how you
+spell it and I&#039;m not even sure I&#039;m saying it correctly; but it is a deadly
+disease of the vineyards. Well, that comes along periodically. And that
+happened-- I don&#039;t know whether it was just before Prohibition. But every
+vineyard in France had that the dreaded disease. And so my grandfather exported
+wine from his little endeavor to France. And I don&#039;t think that he ever
+experienced that disease locally, but it has occurred. I remember it happening.
+It almost wipes out the vineyards. And now I think they have ways of combating that.
+
+SELVIDGE: But it must&#039;ve have been devastating for the industry when it happened.
+
+HARDISON: It was, it was. But I thought it was interesting and resourceful of
+him to do that. So you&#039;re really going back in my history. I haven&#039;t thought about--
+
+SELVIDGE: I know, we are going back. Actually, I&#039;m glad you mentioned
+Prohibition because I didn&#039;t even think to ask about that, but of course--
+
+HARDISON: I remember. I remember that. That shut down everything.
+
+SELVIDGE: Yeah, how did things change around Calistoga?
+
+HARDISON: Oh, I can remember a lot of local people that were hit by that. And
+then I can remember a lot of sneaky stuff going on, too. But they overcame that.
+
+SELVIDGE: Did a lot of families close their businesses during that time?
+
+HARDISON: Well, yeah. They were largely vineyards. And they were growing their
+crops for cooperatives, I&#039;m sure. There weren&#039;t very many single wineries then.
+I can remember a few, but mostly the larger ones, like I mentioned Beringer and
+those ones. Greystone was the name of the other one I was mentioning before.
+
+SELVIDGE: Do you remember what people did instead, when they weren&#039;t able to
+sell the grapes anymore?
+
+HARDISON: No. But that was Depression, too.
+
+SELVIDGE: That was the Depression, too, right. Just one thing led to the next.
+
+HARDISON: So everybody was scrounging, doing their best.
+
+SELVIDGE: Yeah. Yeah. I just have one other question about Calistoga during that
+time. I&#039;m interested to know about tourism during that time. Do you remember,
+were there sort of locals and tourists? Or where did tourists come from?
+
+HARDISON: Yes. Yeah. And we dreaded the summer, because so many sloppy-looking
+tourists would come to town. And it&#039;s just like anyplace that has to cater to
+tourism. And they still do.
+
+SELVIDGE: They certainly do.
+
+HARDISON: But I think the nature of the tourist is much higher now than it--I
+don&#039;t know, it seemed to be an invitation to just not act as they would at home.
+
+SELVIDGE: Do you remember where people came from to visit?
+
+HARDISON: Largely San Francisco.
+
+SELVIDGE: And people would drive--?
+
+HARDISON: Yes.
+
+SELVIDGE: Was the train still operating then?
+
+HARDISON: The train ended there. But it was no longer operating when I was
+growing up; it had stopped. People were driving up. So that brings up another
+thing that I did as a teenager or younger. I had an aunt and uncle who had a
+resort there. And they catered mostly to German tourists. It was small cabins.
+And I remember my aunt cooking the meals. And they also had a prune orchard and
+a vineyard. And as a youngster, I had to go help pick prunes. And oh, I hated
+that job. [they laugh] Just to get down on my hands and knees and be dirty. A
+girl [laughs] doesn&#039;t want to be dirty. But so I picked prunes. And then when I
+became a teenager, I was hired by my aunt to be a waitress. And I hated that job.
+
+SELVIDGE: You hated that one, too?
+
+HARDISON: I was teased unmercifully.
+
+SELVIDGE: Really? By?HARDISON: By the customers.
+
+SELVIDGE: What did they tease you about?
+
+HARDISON: Oh, I was a tall lanky blonde, and they just knew I was very
+self-conscious, and they liked to pick on me. So I didn&#039;t like that job. And one
+job that I ended up having that I liked, I worked for the bank as a--I didn&#039;t
+work as a teller, but I worked in the back as a clerk. And that was good
+experience for me. That was prior to going to business college.
+
+SELVIDGE: And was that one of the things that made you interested in business
+college specifically?
+
+HARDISON: No, actually, all through high school I took both college prep and
+business. So I did typing and shorthand and entered a lot of the contests.
+That&#039;s what small schools do.
+
+SELVIDGE: Yeah. Yeah, it sounds like you had a small but very active high school.
+
+HARDISON: Very, very thorough, yeah. And I wish I could&#039;ve raised my own family
+in a small town. At the time, I could hardly wait to get away from there. But I
+can see the merits of it.
+
+SELVIDGE: Looking back, you can see it. So let&#039;s go then to this time when
+you&#039;re graduating from high school and you&#039;re anxious to leave the small town.
+
+HARDISON: Right. So then I went off to--
+
+SELVIDGE: How did you find out about the school in Berkeley?
+
+HARDISON: Armstrong&#039;s. Well, actually, I had a cousin that had also gone there.
+And she worked for the same family that I did.
+
+SELVIDGE: So you followed in your cousin&#039;s footsteps.
+
+HARDISON: Yeah, right. And the school had a sorority, which I belonged to, but I
+didn&#039;t particularly like sorority life. And while I was going to school Treasure
+Island had opened. And a lot was happening there.
+
+SELVIDGE: Did you go to the World&#039;s Fair that year?
+
+HARDISON: Well, I did get to go a couple of times. But the people with whom I
+lived, the husband was great at photography. So they were going to the fair all
+the time. And you know where I was? I was home with the little kid. So I did not
+get to do that very much. And I didn&#039;t get to date very much, either, while I
+was at school.
+
+SELVIDGE: Had you dated boys in high school?
+
+HARDISON: Oh, yeah. Yeah. Ran the gamut.SELVIDGE: Ran the gamut?
+
+HARDISON: Right. And actually, I dated a lot of fellows from St. Helena, which
+was sort of our rival school.
+
+SELVIDGE: Right, one town over.
+
+HARDISON: Yes, it was close, nearby. So mostly I dated fellows from St. Helena.
+I can&#039;t explain why, but--sports, I think. I went with a lot of sports players.
+
+SELVIDGE: What kinds of dates would you go on in high school?
+
+HARDISON: Movies. Movies were big then. And we did a lot of school dates.
+Schools had a lot of activities.
+
+SELVIDGE: Oh, like dances?
+
+HARDISON: Yeah. Yeah.
+
+SELVIDGE: So there were dances. Were there other things too that I&#039;m not
+thinking of, that would be a part of the school?
+
+HARDISON: Mostly dances. Or plays. If we were in a play, then we were involved;
+but if we weren&#039;t, our friends were. So yeah, it was a very closely-knit thing
+between the two communities. So that was fun.
+
+SELVIDGE: So you had less, sort of, of a social time when you were in Berkeley,
+because of your job?
+
+HARDISON: Right.
+
+SELVIDGE: With taking care of a child.
+
+HARDISON: Yeah. But that was only for two years. And it wasn&#039;t all that boring
+or that bad. I did get out some. And then when I graduated from Armstrong--I
+took the two-year course--my best girlfriend from high school also went there.
+And so then the two of us had an apartment on Dwight Way for a while. I had a
+job, a brief job, working in Emeryville as a secretary. But then after just a
+few months of that, Mare Island looked much more appealing. And so that&#039;s when I--
+
+SELVIDGE: And your parents had moved back there.
+
+HARDISON: They had moved. They built a home in Vallejo. And I moved back there.
+So then the job I had on Mare Island was essentially the same, secretarial.
+
+SELVIDGE: And did you move back to your parents&#039; house?
+
+HARDISON: Yes, yes.
+
+SELVIDGE: Was that much of a transition, after you had sort of lived on your own
+with a girlfriend in Berkeley?
+
+HARDISON: Well, it was a time of--it was hard for a lot of people around then. I
+had an aunt who also worked at Mare Island and needed a place to stay, so she
+moved in with my folks as well. Everybody was kind of helping everyone else.
+Things were a little tough then still. And the war had not occurred here yet.
+When I first worked at Mare Island, I was assigned to a personnel kind of
+office. And I guess I worked at that for about a year. Then I was transferred to
+the shop superintendent&#039;s office, which was the department responsible for all
+of the crafts that were used to build the ships. And so I was the secretary to
+the captain that headed that office. And I was at that office for about two or
+three years.
+
+Somewhere along there, I met Don. And that was kind of strange. I had dated a
+lot prior to meeting him. Lots of Navy ensigns and lieutenants were around, and
+so I had an opportunity to really play the field. And then a phone call came at
+my folks&#039; home one night, from this person asking for Elizabeth. And my dad
+said, &quot;There&#039;s nobody here by that name,&quot; and hung up. And so a few days later,
+the call came again, and it was Don, asking for Betty this time. He had seen me
+walking across the street, and he was in a commute car. He had his own car. He
+was living in Berkeley, and he was commuting with a carload of guys. And every
+time I went across the street, they wondered, who is that blonde, I guess. So
+they found out my name and called, and boldly, wanted to come and meet me and
+the family. So that&#039;s how I met Don, the love of my life.
+
+SELVIDGE: So your father agreed to the request.
+
+HARDISON: Yeah. But my father and my mother and my aunt all sat there when Don
+came to call. He worked upstairs, above me, in the drafting department, as a
+naval architect. He had taken architecture at Cal, but there wasn&#039;t much use for
+architects then. And so I&#039;m sure his oral history told about the various paths
+that he took that led him to Mare Island. And then I clearly remember the day of
+Pearl Harbor. We had both gone to church and were on our way home and--
+
+SELVIDGE: Is this after you got married?
+
+HARDISON: No.
+
+SELVIDGE: You&#039;re dating.
+
+HARDISON: We just were dating. And we were on our way home, and Don always turns
+the radio on. And we hear about Pearl Harbor. Well, that really shakes you up.
+You don&#039;t really know what you&#039;re going to be doing from then on. And the office
+I worked in really became a beehive. Ships that had been bombed in Pearl Harbor,
+that weren&#039;t totally destroyed, were able to limp home or be towed to Mare
+Island. And so we were experiencing all of the repairs.
+
+SELVIDGE: So you even saw the damage firsthand.
+
+HARDISON: Oh, well, it was just heartbreaking. Yeah, just half a ship, in some
+cases. But it was the responsibility of our office to repair those ships.
+
+SELVIDGE: Were there sailors who came back, as well? Or was it more just the equipment?
+
+HARDISON: More just the ship. But my job became a confidential one. It was a
+very--it was a trying time. We experienced all of the blackouts that had to
+occur. We couldn&#039;t drive at night; we had to walk. It wasn&#039;t terribly far, and I
+only had to work at night a couple times. Don had to work a lot at night, and he
+had to walk.
+
+SELVIDGE: Well, he couldn&#039;t have walked from Berkeley.
+
+HARDISON: No. [laughs] You&#039;re very sharp. He rented a room in Vallejo then. And
+he had to walk across the causeway. And it was nighttime. No lights, no cars.
+And another interesting element was my folks&#039; house was built on the edge of a
+golf course. And the golf course was acquired then by the Army. And a platoon of
+anti-aircraft things. They were like balloons, but they were more shaped like a zeppelin.
+
+SELVIDGE: Like a dirigible or something?
+
+HARDISON: Yeah. And a whole collection of them that were at different heights.
+And they were anti-aircraft. They were there, designed to intercept anything--
+
+SELVIDGE: So they were sort of stationed on the base?
+
+HARDISON: Yeah. And we looked out at that every day.
+
+SELVIDGE: So did it really have the feeling, then, to the people working there,
+that this is a target?
+
+HARDISON: Oh, yes.
+
+SELVIDGE: Yeah. Every day, I guess.
+
+HARDISON: Every day, yeah. Very definitely. But we felt kind of secure being
+right with the anti-aircraft things. So let&#039;s see, what else about that part?
+
+SELVIDGE: Were there a lot more people coming to work on the base, sort of an
+influx of new people?
+
+HARDISON: Well, I don&#039;t know about people coming. No, I think the community itself.
+
+SELVIDGE: People living in Vallejo.
+
+HARDISON: Right. Were used more.SELVIDGE: So more and more people surrounding
+the base started to work on the base.
+
+HARDISON: Yes, yes. And what was I going to say about--well, let&#039;s see. We
+became engaged. We met in September of &#039;41. And then Pearl Harbor was December.
+And we became engaged in April, and we were married in June. Our wedding was at
+the Vallejo Presbyterian church. And we had lots of guests there that were Army.
+There was an Army contingent stationed in the church, and so they were part of
+it. We couldn&#039;t have our reception there because of them. So the reception was
+at our home.
+
+SELVIDGE: Oh, because there were too many people?
+
+HARDISON: Too many soldiers. [laughs] So we had a reception at home. And we took
+a few days to go to Lake Tahoe. And the family all pitched in with ration stamps
+for gas and tires.
+
+SELVIDGE: To be able to take a little driving trip.
+
+HARDISON: Right. Don&#039;s little Studebaker Champion needed tires. Actually, they
+were stolen off of his car.
+
+SELVIDGE: Oh, no. I guess they were quite valuable.
+
+HARDISON: They were. They were all stolen. So that&#039;s when the family chipped in
+so that we could get away for a few days. When we came back, we came directly to
+Richmond. And Don had been lured away from the Navy by Kaiser, in March, 1942.
+And he was given a supervisor&#039;s position. He headed a drafting room of about
+seventy draftsmen, to lay out ships and that sort of thing. We were fortunate to
+be able to live in a housing project that had been built--it was not built for
+war; it was built for the community. But then the war happened, and so there had
+been a lot of misconceptions about that particular housing project, because--
+
+SELVIDGE: And this is Atchison Village that you&#039;re talking about.
+
+HARDISON: Right.
+
+SELVIDGE: Oh, so you mean people thinking that it&#039;s built as wartime housing,
+where in fact, it was used as wartime housing.
+
+HARDISON: Right. And why were there some certain people, like ourselves, that
+had an apartment? What made up the community? Our immediate neighbor was a local
+fireman. Another neighbor was an acquaintance, a friend that we had known before
+we were married, in Berkeley. Actually, it&#039;s where Don boarded, previously.
+
+SELVIDGE: Oh, no kidding.
+
+HARDISON: While he lived in Berkeley, he met Bob and Bobbie Trouton. And they
+were married a week before we were. And neither of us knew where the other was
+going to be going, and we end up in the same building after we&#039;re married. So we
+got our apartment with the help of our best man&#039;s father, who was part owner of
+the newspaper. And on the Richard-Housing Authority. So he was able to give us a
+little push, and we were one of the first people to move in Atchison Village.
+
+SELVIDGE: So how did that work, then, in general? I understand your connection--
+
+HARDISON: Well, they&#039;re assigned through the housing authority.
+
+SELVIDGE: So to live in Atchison Village people had to apply to the housing authority?
+
+HARDISON: Right. And these were community people. But also a lot of Kaiser ended
+up there. Also it was the early days of Kaiser.
+
+SELVIDGE: When they were just starting.
+
+HARDISON: Right. And so it was the supervisors that they needed to house, so
+they can get going.
+
+SELVIDGE: Right. So the first people to come were the ones living there. So the
+housing authority was part of the city government.
+
+HARDISON: Yes. Yes.
+
+SELVIDGE: So people would apply to the housing authority to get an apartment there.
+
+HARDISON: Right.
+
+SELVIDGE: And then was the city involved in administering or running the
+apartments, directly?
+
+HARDISON: Yes. Yes. They were responsible for their own landscaping and they
+kept the lawn going. We could do our own thing in the backyard. A lot of us
+tried a little Victory garden.
+
+SELVIDGE: I guess you didn&#039;t plant plums, though.
+
+HARDISON: No prunes, no prunes. [laughs]
+
+SELVIDGE: Or no prunes, right, prunes. No prunes.
+
+HARDISON: But Don grew up on a ranch, so he should have been a good gardener.
+But he worked two shifts a day. And my mother was the one that grew flowers. But
+I have two purple thumbs. So I wasn&#039;t a gardener.
+
+HARDISON: But our immediate neighbor on the other side was a ship fitter, and he
+and his family had a terrific garden, and they kept all of us supplied.
+
+SELVIDGE: Oh, that&#039;s great. So it seems like there was a good sense of community then.
+
+HARDISON: Yes, very much so.
+
+SELVIDGE: I&#039;d like to hear more about that, but I have one question going back a
+little bit. Just about the housing authority. You paid rent, I guess, right? For
+this apartment.HARDISON: Yes.
+
+SELVIDGE: You didn&#039;t own it. And did you pay rent to the housing authority? Do
+you remember?
+
+HARDISON: No, I think we paid it to Atchison Village.
+
+SELVIDGE: So there was some kind of sort of village governance--
+
+HARDISON: Right.
+
+SELVIDGE: --that was sort of between the housing authority and the tenants.
+
+HARDISON: That&#039;s right. Yes.
+
+SELVIDGE: Do you remember anything about how that worked? Were people involved
+with that?
+
+HARDISON: Well, there was a recreation center and a little office. And we didn&#039;t
+get together very often with a lot of the people that were there; we were all so busy.
+
+SELVIDGE: So it was mostly your immediate neighbors that were people that you
+really saw on a regular basis and helped each other out and things like that.
+
+HARDISON: Yes, right. Our immediate neighborhood had an occasional potluck. And
+our friends were the first ones to have a child, at the other end of the
+building. And then they were the first ones to move out when the war was over.
+We stayed. The war was over in 1945. Our son was born in 1945. And we stayed
+until about 1949. &#039;48, maybe, maybe 1948. And then we moved to another place in Richmond.
+
+SELVIDGE: I&#039;d like to hear a little more about--
+
+HARDISON: More about Atchison Village?
+
+SELVIDGE: Yeah, what it was like and what the apartment itself was like, too.
+
+HARDISON: Yeah. We had a one-bedroom, small kitchen with a little pantry, and a
+nice little living room. We bought--our first furniture was a sofa bed. And then
+family helped scrounge up bedroom furniture, like a bed and a chest of drawers
+and that sort of thing. I did the wash on a washboard, which was new for me. My
+father being an electrician at home; we had a washing machine. But I did the
+laundry on a washboard. We had a nice little clothesline out back. And after
+several months of that, we started searching in the newspaper and found a
+washing machine. That was a gold medal day. It was an antique that I would give
+anything to have kept. I should have. It was such an oldie that even my dad was
+shocked at what we bought. But it was a copper barrel, and somebody added a
+wringer onto it. And I would pull that out of the pantry, over to the sink, and
+that was my laundry.
+
+SELVIDGE: Wow. And so you were working at this time?
+
+HARDISON: I was working.
+
+SELVIDGE: In a clerical job?
+
+HARDISON: I went to work immediately after we moved. Don started out at Yard 1,
+when he was brought down from Mare Island.
+
+HARDISON: He went to Yard 1 first. And then about the time we were married, he
+was transferred to Yard 3, which had just been completed, building a different
+ship, with more groundwork that needed to be done in their building. And so I
+went to work immediately and was assigned to the design department. And so we
+went to work together.
+
+SELVIDGE: Oh, that&#039;s nice.
+
+HARDISON: For about six months, until somebody decided that husbands and wives
+should not work together. So I was transferred out. I actually did not work for
+Don or with Don; we were in the same mold loft design department, but I worked
+for the engineer. And the engineer was very upset when I was transferred out. Of
+course, I was unhappy, too, but rules are rules. And I was assigned to the
+housing office. And that was a little building just inside the gate of Yard 3.
+And the office shared the building with the first aid department. I had two
+bosses, who were in a glassed-in area, where they could interview people. I took
+their dictation and sometimes took applications afterwards. We had applicants
+then by the thousands.
+
+SELVIDGE: So these were people working at the shipyards, looking for housing?
+
+HARDISON: They were just coming on, from all parts of the country, and needed
+housing. Many of them, when they first got jobs, they brought all their families
+in. That was a big problem. But those who waited were patient. We did not assign
+the units, we took the applications. But we also had to help explain why they
+weren&#039;t getting housing.
+
+SELVIDGE: So you processed the applications and then passed them along?
+
+HARDISON: We&#039;d process them and then send them to the federal office, which was
+uptown Richmond.
+
+SELVIDGE: So just to make sure I understand, your office was part of the Kaiser operation?
+
+HARDISON: Yes.
+
+SELVIDGE: And then you would process applications--
+
+HARDISON: Right.
+
+SELVIDGE: --and send those to the federal office--
+
+HARDISON: Right.
+
+SELVIDGE: --which was part of the military?
+
+HARDISON: No.
+
+SELVIDGE: Or no. Just the federal housing--
+
+HARDISON: No, it was just the federal housing--
+
+SELVIDGE: Wartime housing?
+
+HARDISON: It was Federal Housing Administration.
+
+SELVIDGE: Oh, the Federal Housing Administration.
+
+HARDISON: So they&#039;re the ones that did the assignments. But in the meantime, we
+would have people that were desperate. So we were sometimes able to refer them
+on the side to homes, if people were willing to give up a bedroom to someone
+temporarily or whatever. Like Don lived in a home with a family for a while
+before we were married.
+
+SELVIDGE: Right. And were you aware even of people sharing rooms and sleeping in shifts?
+
+HARDISON: Oh, sharing beds. Absolutely. And sleeping in movie theaters. People
+were desperate. And it was hard for us to explain that, explain the process and
+why they didn&#039;t have a place right now.
+
+SELVIDGE: And so people were frustrated.
+
+HARDISON: Oh, terribly, yeah. So I went from a very interesting job to one of a
+little bit of tension. But we did the best we could.
+
+SELVIDGE: Other than the kind of general frustration, were there specific
+aspects that caused tension between the people looking for housing?
+
+HARDISON: No, people were all really quite understanding. They knew their own
+hardships, but they also knew of others&#039; as well. And generally, everybody was
+trying to be helpful. Then there was one other clerk that worked in the same
+office I did, so there were two women and two bosses.
+
+SELVIDGE: We&#039;re getting towards the end of the first tape here, but maybe I&#039;ll
+just ask one more question about the housing office.
+
+HARDISON: Well, I could even tell you a little more about how I shopped.
+
+SELVIDGE: Oh, that would be great. Well, let me ask one more question and then
+we&#039;ll switch the tapes and we can sort of keep going. I just wonder if there was
+any difference between the male employees and the female employees, women that
+were coming to work at the shipyards.
+
+HARDISON: Well, everybody was the same.
+
+SELVIDGE: If it was just sort of everyone was looking for the same kinds of things.
+
+HARDISON: Everybody was the same. Had to admire those gals. I was a little
+envious, in a way. Because I kind of thought, &quot;Here I am; I&#039;m able to wear my
+regular clothes to work.&quot; I thought that it was pretty gutsy of those ladies to
+get out there and do their welding and stuff. I really never considered myself a
+Rosie. I thought I was more like a Sally the Secretary or something else.
+
+SELVIDGE: Well, it&#039;s so interesting that you were working already at a Navy
+facility, even before the war.
+
+HARDISON: Oh, yes. I was doing exactly the same kind of work.
+
+SELVIDGE: So you had that exposure beforehand.
+
+HARDISON: Right.
+
+SELVIDGE: I imagine some of these women, though, were single women, right,
+coming to work? Or they mostly were from families?
+
+HARDISON: You know, I don&#039;t know. I&#039;ve never thought of that. I think most of
+them might&#039;ve been husband and wives.
+
+SELVIDGE: Where both were working?
+
+HARDISON: Yes.
+
+SELVIDGE: Or perhaps even some women, where the husbands were overseas, is
+possible too.
+
+HARDISON: Yeah, I guess you&#039;re right.
+
+SELVIDGE: But I guess that wasn&#039;t something that was really an issue in the
+housing office necessarily.
+
+HARDISON: No, no.
+
+SELVIDGE: Okay. Well, let me just stop this tape here.
+
+Begin Audiofile 2 07-14-2010.mp3
+
+SELVIDGE: This is our second tape. Sarah Selvidge with Betty Hardison, on July
+14. Okay, now the floor is yours.
+
+HARDISON: Well, back when we were in Atchison Village. I did not drive yet. I
+tried to learn on our honeymoon, and that&#039;s not the time to learn to drive. So I
+wasn&#039;t driving. So I walked from Atchison Village up about eight to ten blocks
+and did my shopping at a little Greek grocery story on Macdonald Avenue. And
+that was fun. I got acquainted with the owner of the grocery, and he was very
+nice. And for recreation, all we had were our neighbors or our church. And the
+First Presbyterian Church had a young couples club, so we became part of that,
+and that was our whole social life. We did crazy things together, skits and
+potlucks, and I have more old-fashioned casserole recipes that we exchanged. Or
+we would go to each other&#039;s houses. Certain couples we became more acquainted
+with. We&#039;d single out and get together separately. But it was always just a &quot;you
+go to my house and I&#039;ll go to yours&quot; kind of thing.
+
+SELVIDGE: So it wasn&#039;t so much like theaters or entertainment venues in Richmond.
+
+HARDISON: We did not do movies much, no. They were too full of people sleeping.
+And Don worked a lot at night, so most of our activity was at church on the
+weekend or whatever. But I was always interested in the arts and crafts of some
+kind, so I found an art center. And I must&#039;ve done it on Saturday. I was
+thinking the other day, I&#039;m sure it wasn&#039;t a weekday that I went, and I don&#039;t
+think I went alone at night, so I must&#039;ve gone on a Saturday. It was upstairs
+above a store, where a group were teaching different crafts. And I took
+ceramics, and met the lady that inspired all of it, Hanjel Salmi. And then it
+became the Richmond Art Center. I don&#039;t know if you&#039;ve heard of the Richmond Art Center--
+
+SELVIDGE: I have.
+
+HARDISON: --but it is now a well known place.
+
+SELVIDGE: Yeah, absolutely. So those were its early days.
+
+HARDISON: I was there in the early days. And the very first ceramics teacher was
+my teacher. And so I learned the different methods of making pots. Most all of
+them are all broken and gone now. But through that relationship, I met this nice
+lady that was so determined to bring an art center to the community. And Don
+being an architectural graduate, she learned, she thought, &quot;Ah-ha.&quot; She had an
+opportunity then to have someone help layout her dream. And so Don, when he
+could, worked a little bit with her and laid out a scheme that she liked. And
+that&#039;s what became the Richmond Art Center.
+
+SELVIDGE: Wow. And was that something that they did during the war, or they
+didn&#039;t start actually building till afterwards?
+
+HARDISON: It became part of the bond issue where they were building a new city
+hall. And so it&#039;s part of the city hall complex. If you&#039;re not familiar with it,
+it is on Barrett Avenue and about 25th Street. But it operated in this
+storefront upstairs for all of the years of inception, while city hall was being
+built and all of that. So I think that complex became complete about 1956 or
+thereabouts. So it was a good ten years, ten years in becoming what it is today.
+But it was fun to be in on the ground floor. So I did that until Steve came along.
+
+SELVIDGE: That&#039;s your son, I guess.
+
+HARDISON: Yeah.
+
+SELVIDGE: I&#039;d like to hear about the changes when your son was born. But I&#039;m
+also curious, even before then, did you find it challenging to have a full-time
+job and also do the laundry and the shopping and all the things around the house?
+
+HARDISON: Oh, it wasn&#039;t a challenge; it was just--it was there. It had to be
+done. No, it was part of life. And I can&#039;t think of any other little things that
+might be of interest, unless you ask.
+
+SELVIDGE: Well, I&#039;d like to hear about, since you were one of the first couples
+to move into Atchison Village, it seems like there&#039;s sort of a long way from
+that to this experience you&#039;re talking about of people sleeping in movie
+theaters and all this sort of craziness. Or was that--?
+
+HARDISON: Oh, that was almost immediate. Yeah. Yeah, people were being recruited
+during all that period. And until housing became available--which it didn&#039;t for
+another year or so; it was more like 1943 before other units began to be
+built--that people had to find homes or had to commute quite a ways to other
+communities. The ferry brought a lot of people. Trains, they had trains that
+brought people from other areas.
+
+SELVIDGE: I&#039;m curious what it was like. You said you&#039;ve met a lot of people
+through church, and also you&#039;ve been talking about your neighbors. And we were
+talking as well about you and your husband both being natives of California. So
+I&#039;m wondering, was it different to meet people from different places? Or what
+was that like?
+
+HARDISON: Oh, absolutely. And some of these couples that we met through the
+church were from other parts of the country. I remember one couple from South
+Carolina that we became very close with. And he worked in the powder plant. That
+was out at a community near us. It was called Giant. I don&#039;t know giant what,
+but Giant was the name of the community. But it was a powder facility. And he
+worked in that. The other neighbor at the other end of our building worked for
+Standard Oil. A lot of people worked for Standard Oil that were in that complex.
+And the fireman next door. Let&#039;s see, there was another couple that worked for
+the city--some kind of job, I don&#039;t recall.
+
+SELVIDGE: Did it seem, though, like people were sort of different from the type
+of people that you had grown up with, or just--?
+
+HARDISON: No, not at all. No. They were all professional people. And they all
+had the same college background and interests.
+
+SELVIDGE: So it was sort of easy to get along.
+
+HARDISON: It was. Yeah.
+
+SELVIDGE: Were there things that were surprising to them about California or
+Richmond, that you remember?
+
+HARDISON: I think a lot of them liked it so much they ended up staying. And we
+decided to stay in the community. Because we had no idea what we&#039;d be doing
+after the war. Don, with an architectural degree, had worked for several
+architects individually, just after school. But then he suddenly stopped naval
+architecture to turn to architecture--actually, so there were some people that
+worked in his department that ended up starting their own design practice with
+Don. So many people ended up staying in our community that we thought there was
+a lot of potential for us. And so that&#039;s where Don opened his practice, shortly
+after the war. Then he got his license. You have to have an architectural
+license to practice; but you have to have a certain amount of experience first,
+which he managed to acquire, working with other architects.
+
+SELVIDGE: Yeah. So since we&#039;re in the right chronology, why don&#039;t we then go to
+what you were going to tell me about when your son was born?
+
+HARDISON: Oh, okay.
+
+SELVIDGE: Which is right around the same time, in 1945, right?
+
+HARDISON: Right. And let&#039;s see. When was Hiroshima?
+
+SELVIDGE: Oh, what month?
+
+HARDISON: The bomb. The Japanese. I remember being pregnant, and that was such a
+turn of events, but also such a scary thing. We still didn&#039;t know what was going
+to happen, whether that would be the end of the war or whether it was just
+creating more. And so it was an uneasy time. And we weren&#039;t ready to move yet.
+
+SELVIDGE: Yeah. What was it like to be pregnant at that time and expecting a
+child in such a scary time?
+
+HARDISON: Yeah, it was right at the end of the war. And we had had some
+miscarriages before that, so we could&#039;ve had more children by then. Which
+everybody was doing. That was life; start your family when you&#039;re first married.
+So it was an uneasy time, but it worked. I was always confident in Don. He
+seemed to know the right things to do. He was a leader. And I think that made it
+a lot easier for me.
+
+SELVIDGE: Yeah. So your son was born in 1945.
+
+HARDISON: Yeah. And then when Don started his practice, then I worked for him.
+
+SELVIDGE: And did you stop your job once you were expecting?
+
+HARDISON: Oh, I did. Once the war was over.SELVIDGE: Once the war was over.
+
+HARDISON: Right. Right.SELVIDGE: Which coincided with--HARDISON: Coincided with
+Steve&#039;s birth. And I guess I would&#039;ve had to quit, if the war hadn&#039;t stopped
+then. But that all worked out very well. And then I went to work for Don. I
+helped establish his office, the office part. And that was interesting.
+
+SELVIDGE: And so you decided to stay in Richmond. You thought, &quot;We like this
+community; we&#039;re happy.&quot;
+
+HARDISON: Very much. Yeah, very much.SELVIDGE: And you stayed in the one-bedroom
+in Atchison.
+
+HARDISON: We did, until about 1948--well, at that time houses, places were not
+available. But we found an unfinished house on 34th St. Apparently, a couple had
+started to build it and their marriage didn&#039;t last. So we picked up on it and
+finished it, and lived there for, oh, maybe six or eight years. And started
+dreaming of this, our current home. So in the meantime, Don had a couple of
+different locations for his office in Richmond. And he started out with two
+partners that had worked for him at the shipyard, as well. And most all of those
+were either architects or landscape architects. They were all in the field. So
+that was kind of a natural for him, to tie in with somebody that he liked that
+he could work with. So the first partnership had three, Don and two partners.
+And we had a little storefront for an office. It was a little grocery store with
+a little winery in the back, I think but we cleaned that up, cleaned that office
+up and made it work.
+
+SELVIDGE: And so you worked in the office.
+
+HARDISON: In 1949 we were blessed with a dear baby girl, Janet. We were so
+fortunate to have a boy and a girl. Yes. And I had a babysitter. Those days, it
+was easy to get a babysitter, people that you could really trust. And so I
+worked at the offices, along with volunteering. We both felt a commitment to the
+community. We felt that we owed the community something. And so we became
+volunteers in many different areas. I went as a volunteer for the YWCA. And I
+ended up being on the board. And then I was in other nonprofits that raised
+money to help different causes in the community. So I ended up being president
+of most all those that I worked in. And all the time, I was also working at the
+Art Center as well.
+
+And so I ended up being secretary of the Richmond Art Center board. And early
+on, right after the move into the Civic Center complex. And I&#039;ve remained on
+that board. I&#039;ve served on the board now, I can&#039;t remember whether it&#039;s three or
+four times. You can serve on the board a three-year term and then a six-year
+term, and you have to get off after six years. So I&#039;ve gotten on and off several
+times. And I&#039;ve been president of the board a couple of times. And it&#039;s been a
+life that we both have enjoyed and felt a commitment to. Both of us have enjoyed
+the art background. And Don has even served on the board, but a different time.
+And both of our children grew up at the Art Center.
+
+SELVIDGE: Oh, that&#039;s great.
+
+HARDISON: And then our grandchildren.
+
+SELVIDGE: Can you tell me a little bit about things changed after the war ended,
+just around town in Richmond and what happened?
+
+HARDISON: Well, yeah. There were musical groups. They were usually membership
+kind of things; you&#039;d pay a membership and then there would be concerts that we
+could attend, series. We enjoyed doing that. And there were dance groups. Those
+were fun. We met a lot more people from the community that way. What else did we
+do? We were not golfers, even though we live on a golf course. We tried, but we
+seem to be more work oriented or volunteer oriented than golf-interested. We
+both enjoy theater, going to theater productions. And we enjoy going to San
+Francisco for those kinds of things, as well as locally. We enjoy the symphony.
+The symphony partly because, I guess, we were both instrumentalists back in our
+youth, and we just happen to like that kind of music.
+
+SELVIDGE: I&#039;m curious, just going back a little bit to the time, I guess sort of
+late forties, early fifties, and the time that you were still in Atchison and
+then in the house in Richmond, before you moved here to El Cerrito. You
+mentioned that a lot of your neighbors liked California and didn&#039;t want to go
+back to where they came from. But I&#039;m just sort of curious about how many people
+stayed in Richmond, or if people kind of left as quickly as they had come in, or
+what that was like.
+
+HARDISON: Among our friends?
+
+SELVIDGE: Sure. Among your friends or within the town, either way.HARDISON:
+Well, our friends mostly stayed. Or were originally from here, and maybe we were
+the newcomer.
+
+SELVIDGE: Right. So there was a good bit of stability for you, socially.
+
+HARDISON: Very much so. Very much so. Like in our church group, was our dentist
+and our doctor and our--
+
+SELVIDGE: And all those stayed the same?
+
+HARDISON: Yes. Yes. And as far as the general public, a lot of them stayed. The
+community grew from 27,000 to--it became 125,000. And I think that&#039;s what it
+still is, about that.
+
+SELVIDGE: But of course the jobs didn&#039;t all stay.
+
+HARDISON: No. And that&#039;s really interesting because the job that I had, where I
+had to find housing for so many people, I really absorbed the names of these
+people. And it&#039;s interesting then how, through the years, in the newspaper or
+wherever, I might be--I&#039;d hear some of these same names--
+
+SELVIDGE: Oh, wow. And you would recognize them.
+
+HARDISON: --that I ended up having had some connection with somewhere along the
+line. It&#039;s kind of funny. But people, I think, really liked the community. The
+community was very accepting. There are differences of opinion there. I&#039;ve heard
+that some are countering that kind of a notion. But I think generally, people
+were very accepting. They had to be. They had to learn to work together, live
+together and play together.
+
+SELVIDGE: Is there anything that sort of sticks out in your mind, examples of
+that kind of openness in the community?
+
+HARDISON: Well, yeah, all the activities that worked around--like the church.
+The church was really dominant. Also the other churches, not just ours. All of
+them were an activity or were a second home for a lot of people. And it was a
+comfort zone. And local people belonged to those churches and it made us feel
+welcome. There are a lot of areas where people feel that diversity was not
+welcome. But the shipyards, in our opinion, did not become very diverse until
+around 1943 and &#039;44, when they began bringing people from the Deep South in. And
+then I think there were areas of unrest. Some people felt that civil rights were
+being abused at that point. But somehow people bring those things with them, in
+some ways. So we didn&#039;t experience that.
+
+SELVIDGE: Throughout that time, then, you did continue in the same job, right?
+And like you said, it&#039;s around the same time that you&#039;re saying, &#039;43, that
+housing started becoming more available, as well.
+
+HARDISON: Right, the housing projects. There were different projects, three or
+four throughout the town, and maybe--I can&#039;t remember the numbers, but maybe a
+hundred here, a hundred there or whatever. So that began to take off the load.
+
+SELVIDGE: So things sort of eased up a little bit after that point?
+
+HARDISON: Right. Right.
+
+SELVIDGE: Like you said, there was sort of an influx of people, a new influx of people.
+
+HARDISON: Well, the influx was when we came ourselves.
+
+SELVIDGE: You came in the first big wave, right. And then there was another sort
+of later moment.
+
+HARDISON: Right. Yeah. And then, of course, we had a local link that made us
+feel comfortable. Our best man&#039;s father was local and helped us get into the
+community. So that I think we had a more privileged introduction, which may not
+be fair in some people&#039;s eyes. But that&#039;s just the way the world works.
+
+SELVIDGE: That just makes me think, did you find that as your friends and
+neighbors who might not have been from the area were having children, that it
+really made a difference for them, not having family around? Did they have
+different relationships with their neighbors because of that?
+
+HARDISON: Oh, I think we all became their family. In fact, Vallejo, you&#039;d think,
+would be close enough so that we would have our family in Vallejo; but it wasn&#039;t
+that easy for us to go home all that often, to them. And Don&#039;s family in
+Southern California, we saw them rarely. And so we were sort of all in the same
+work situation.
+
+SELVIDGE: So you all sort of had that feeling of helping each other out, in the
+ways that families would.
+
+HARDISON: Absolutely. Right. Well, took care of each other&#039;s kids. I took care
+of neighbors&#039; kids before I had any. And then when I had mine, they helped us.
+And that&#039;s a happy growth situation.
+
+SELVIDGE: I guess maybe we can jump forward a little bit. You&#039;ve talked some
+about the new--after the war, Don&#039;s practice, the new--
+
+HARDISON: The new community.
+
+SELVIDGE: The new community.
+
+HARDISON: Yeah. Don was responsible then for--or I guess fortunate enough to be
+assigned a lot of commissions to build new housing for purchase, for people to
+buy. And so we were fortunate that those kind of commissions came his way. And
+schools had to be built--he designed several schools--and community centers, all
+of those kind of things that help strengthen a community. And so that was heavy involvement.
+
+SELVIDGE: I wonder if you could tell me a little, as well, about people you knew
+looking for new places to settle and new houses. As you said, you started
+thinking about this location and I&#039;m sure a lot of other people also must&#039;ve
+moved from places like Atchison to houses, perhaps--
+
+HARDISON: Exactly.
+
+SELVIDGE: --in the suburbs and things like that.
+
+HARDISON: Yeah, it was. In the suburbs, either to find a house that was already
+built, which some did; our neighbors did that. And we started looking at
+property. We were certain we were going to stay in this area, so we started
+looking at different properties. And it was a while before we found this. And
+then it took us a while to build it. But others--a lot of the shipyard workers
+that were working class, the workers--the ship fitters, the pipe fitters, the
+welders--were the people that needed the housing. And those were the kind of
+houses that Don designed. A developer did it, but Don worked for the developer.
+And they were small houses that they could afford. And so that has been really
+the core of Richmond, where the craftsmen have been provided housing, and stayed.
+
+SELVIDGE: So a lot of your friends and neighbors sort of stayed in the general vicinity.
+
+HARDISON: Yes.
+
+SELVIDGE: Did any of them move around here, as well?
+
+HARDISON: Yes, our dentist moved down below us, and our doctor is a ways down.
+We were very close friends. Our children grew up together.
+
+SELVIDGE: So you were able to maintain a lot of the friendships.
+
+HARDISON: Yes, very definitely. And those were all people we met at church.
+First off. That&#039;s where we went in the beginning, and that&#039;s where--a lot of
+those people had just come, as well; some were here already. Some were native of
+Richmond and helped orient us and helped make us welcome. So we became part of
+their community. It wasn&#039;t hard. [chuckles] It was really easy to do.
+
+SELVIDGE: It sounds like you had a really good community life.
+
+HARDISON: Yeah, we had such a very nice relationship. And as I said, we felt we
+needed to give to the community, as well. And so in addition to my volunteering,
+Don headed up several different things for the community. One was a Festival of
+the Arts. And the Chamber of Commerce. And we just became involved.
+
+SELVIDGE: This might seem like a sort of silly detail, but I realized that you
+mentioned this, and I never heard the other side of the story. I always like to
+hear when people learn to drive. You mentioned that you didn&#039;t know how to drive
+and you would walk to the Greek store.
+
+HARDISON: Yeah, and how come I didn&#039;t drive? And what happened?
+
+SELVIDGE: I&#039;d like to know--I&#039;m assuming you later then did learn to drive.
+
+HARDISON: Oh, yes, I did.
+
+SELVIDGE: It&#039;s just fun to hear the stories.
+
+HARDISON: Well, after my kids were born and I got over my little snit, Don tried
+to teach me to drive on our honeymoon and--
+
+SELVIDGE: It didn&#039;t work out?
+
+HARDISON: --that&#039;s not a time to learn to drive. On the road from Tahoe to Reno.
+That&#039;s not the place to learn.
+
+SELVIDGE: It&#039;s a pretty curvy road, too, yeah.
+
+HARDISON: That&#039;s not the place to learn to drive. And so no, I just didn&#039;t after that.
+
+SELVIDGE: So you put it off for a while, but once you had the kids, then it
+seemed more--
+
+HARDISON: Once I had the kids, and--yeah. I had to.
+
+SELVIDGE: So that changed the way that you wanted to be able to have--?
+
+HARDISON: Oh, it changed the way we lived. Yeah, I didn&#039;t have to walk to the
+grocery store anymore. [laughs] No, we lived in our next house when I learned to
+drive. And of course, when you do that, then you need the car. And that
+introduces new problems. You need both cars. That&#039;s life.
+
+SELVIDGE: I guess it was easier to get something like a car, once the war was
+over, as well.
+
+HARDISON: Oh, sure. And we were working and able to afford it.
+
+SELVIDGE: I don&#039;t know if there&#039;s more, other topics you want to touch on.
+
+HARDISON: No, I&#039;ve already touched on the Art Center being a major part of our
+life. That requires a lot of volunteerism. Have you been there?
+
+SELVIDGE: I haven&#039;t been, no. I&#039;ve been to the City Hall area.
+
+HARDISON: Okay. Well, it&#039;s right next door.
+
+SELVIDGE: I&#039;ve seen it next door, but I haven&#039;t been.
+
+HARDISON: Well, there&#039;s a nice exhibition right now. And I enjoyed working at
+the Art Center because I took various classes. I didn&#039;t just take ceramics; I
+took basket weaving and everything except painting. I don&#039;t think I&#039;m a painter;
+I&#039;ve never tried. Maybe I could be Grandma Moses at this point or something,
+but--the crafts interest me. And weaving, tapestries and fabrics, screen
+printing--I&#039;ve done all of those, and it&#039;s fascinating. And it fits in with
+Don&#039;s architecture, too, as well. But I&#039;ve done everything at the Art Center,
+from helping the curator install an exhibition and--
+
+SELVIDGE: That&#039;s great.
+
+HARDISON: We had a rental gallery for a long time, and I was involved with
+artists. So I&#039;ve just enjoyed that aspect of making it work. It&#039;s a city
+building and we receive city sponsorship, to a point. So we&#039;re fortunate to be
+able to keep it going.
+
+SELVIDGE: And the Center offers classes to people in the community.
+
+HARDISON: But mostly, we provide art in the schools. We provide art in the
+communities, in the neighborhoods, for underprivileged kids. And we bring them
+into the Art Center. And so it&#039;s not just adult classes. We do have children&#039;s
+classes and work hard to try and have scholarships so that we can provide that
+kind of incentive, because so many young people don&#039;t experience that. So that&#039;s
+been a goal of ours, is to try and make things work there that help provide that.
+
+SELVIDGE: And it&#039;s become such a vital institution, over so many years.
+
+HARDISON: It&#039;s really--seventy-five years, we&#039;re going to celebrate this year.
+So it&#039;s been fun to be part of that and hang in there.
+
+SELVIDGE: You have to hang in there these days, with anything like that. It&#039;s
+always threatened by--
+
+HARDISON: It is threatened.
+
+SELVIDGE: --lack of priorities.
+
+HARDISON: Membership is an important element. And that&#039;s something that&#039;s hard
+to do and hard to keep going. And yet it&#039;s the core, it&#039;s the backbone of an
+organization that makes something work. So that&#039;s the area that I&#039;ve tried to
+focus on. It&#039;s getting harder. I can&#039;t do this forever. But it&#039;s nice to have an
+interest like that.
+
+SELVIDGE: And to contribute something so important.
+
+HARDISON: Yeah. Most of the other nonprofits that I did so much volunteer work
+for have more or less gone by the wayside. People went back to work. I didn&#039;t
+work full-time, but from time to time, I worked. Always at Don&#039;s office; I
+didn&#039;t work anywhere else. Except as a volunteer, I worked other places. I
+worked as a volunteer at Rosie the Riveter Memorial Park. But basically, I would
+work at Don&#039;s office. And he&#039;s had three or four moves and locations, and that&#039;s
+made it interesting.
+
+SELVIDGE: No more rules against husbands and wives working together.
+
+HARDISON: No, right. We did our own thing. That was kind of funny. And I suppose
+maybe it might still be the case in some situations. So that was okay. I just
+moved from one kind of situation to another. And it worked.
+
+SELVIDGE: Great.
+
+HARDISON: So you were basically interested in the war years.
+
+SELVIDGE: Yeah. That&#039;s sort of the focus of the project, is the changes and the--
+
+HARDISON: Well, it&#039;s interesting how many people are contacting us, or Don,
+especially, now. We&#039;ve become the historians. [laughs]
+
+SELVIDGE: Well, it&#039;s really important.
+
+HARDISON: And it&#039;s interesting to dip back and remember.
+
+SELVIDGE: Absolutely. It&#039;s interesting for me, too. I really enjoy it.
+
+HARDISON: Well, I hope so.
+
+SELVIDGE: Great. Okay, well, I think we&#039;ll stop there.
+
+HARDISON: Okay, unless you have any more questions. And I can&#039;t think of any.
+
+SELVIDGE: I can&#039;t think of any right now, so that should do it.
+
+[End of interview]
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

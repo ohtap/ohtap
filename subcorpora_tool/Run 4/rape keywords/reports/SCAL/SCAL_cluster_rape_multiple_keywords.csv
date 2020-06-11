@@ -1,0 +1,12 @@
+word_1,word_2,count
+harass*,rape,6
+rape,sex* abuse,2
+child abuse,rape,2
+child abuse,sex* abuse,2
+attack,outrage,2
+molest*,sex* abuse,2
+insult,rape,2
+incest*,rape,2
+harass*,insult,2
+incest*,insult,2
+harass*,incest*,2

@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042003" dt="2018-08-15"><version>5.1</version><date value="2011-05-10" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Norma Gray: Rosie the Riveter World War II American Home Front Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Norma Gray</interviewee><interviewer>Sam Redman</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>REDMAN: My name is Sam Redman, and I&#039;m here today with Norma Gray, on May 10,
+2011, in Berkeley, California. This is our first tape together, and today we&#039;ll
+be discussing Norma&#039;s early life and childhood, through the years that followed
+the Second World War. So Norma, I&#039;d like to begin with just a very simple
+question. Would you be willing to tell me your full name?
+
+GRAY: Yes, my name is Norma Jeanne O&#039;Connell Gray.
+
+REDMAN: Would you spell both the Norma and the Gray for me?
+
+GRAY: Norma is N-O-R-M-A; Gray is G-R-A-Y.
+
+REDMAN: So I understand that you were born in Iowa. Is that correct?
+
+GRAY: That&#039;s right.
+
+REDMAN: So where in Iowa were you born?
+
+GRAY: In a place that you will never have heard of, Raymond, Iowa.
+
+REDMAN: Raymond, Iowa. I like to consider myself an Iowa expert in some regard,
+but I&#039;ve never heard of Raymond, Iowa.
+
+GRAY: People in Iowa have never heard of Raymond, so you&#039;re not unusual.
+
+REDMAN: [laughs] Okay.
+
+GRAY: It&#039;s about seven miles from Waterloo, a city which everybody knows.
+
+REDMAN: Sure. So now, you were there between the time of your birth--and then
+situate me in time a little bit--you moved to California when you were how old?
+
+GRAY: Eight years old. 1936.
+
+REDMAN: So we&#039;re talking, at that time, when you were growing up and attending
+grammar school, that would&#039;ve been during the midst of the Depression.
+
+GRAY: Exactly.
+
+REDMAN: So can you tell me about what that might&#039;ve been like, as a small school
+child? Were you aware that there was some sort of catastrophic economic event
+going on?
+
+GRAY: Never aware of it at all, because we lived in a small town, in a little
+farm, and so we always had food to eat. I went to a one-room schoolhouse, where
+there were eight grades and one teacher.
+
+REDMAN: Do you recall about how many students would&#039;ve been in that school?
+
+GRAY: Probably close to fifty, I would think.
+
+REDMAN: Okay, so quite a number of students for a--
+
+GRAY: There was a full row for every grade. The great thing about it was that if
+you could read with second grade when you were only in first, you got to go over
+and read with second grade.
+
+REDMAN: I see.
+
+GRAY: So that when I came to California, I was in fourth grade, although I&#039;d
+only gone to school for two years.
+
+REDMAN: Wow. That&#039;s interesting. So the educational system that you would&#039;ve
+experienced in rural Iowa would&#039;ve been quite different from what was going on
+in California during that time.
+
+GRAY: Well, actually, and I had to do work over in fourth and fifth grades here
+that I had already done. So somehow, the teaching got through. Whether I was a
+good student or whether the teacher, Mrs. Golinveaux--I remember her name--was exceptional--
+
+REDMAN: How would you spell Golinveaux?
+
+GRAY: It&#039;s a French name. G-O-L-I-N-V-E-A-U-X.
+
+REDMAN: So she might&#039;ve been a particularly good teacher then, you think.
+
+GRAY: She must&#039;ve been. In that large and varied a group, yes.REDMAN: Sure. Do
+you have any siblings?
+
+GRAY: I do.
+
+REDMAN: Okay. Were they older or younger?
+
+GRAY: No, I&#039;m the oldest.
+
+REDMAN: You&#039;re the oldest, okay.
+
+GRAY: I&#039;m the oldest of four.
+
+REDMAN: So I was just curious if maybe some of your siblings had been in the
+same one-room school for a period of time. But maybe they were a bit young?
+
+GRAY: I think my sister may have attended for a year, my next sister. The other
+sister was three years old, I believe, when we came to California.
+
+REDMAN: Okay. So in some sense, my sort of impression is that people in certain
+rural communities would&#039;ve been a little shielded from the Depression, in that
+there was always food on the table, clothes could be--
+
+GRAY: They weren&#039;t a problem. My mother sewed and that didn&#039;t seem to be a
+problem. But in 1936, they just kind of summarily announced that we were going
+to California. It was precisely because my dad could not find a job. So he
+borrowed $100 from his brother, put his three little girls and what possessions
+he could put, in a Model T Ford and drove across the country--
+
+REDMAN: Wow.
+
+GRAY: --and stopped in Berkeley, California. Their plan was San Francisco, but
+it cost twenty-five cents to go across the new Bay Bridge.
+
+REDMAN: Is that right? So that&#039;s how far they could afford to come.
+
+GRAY: Well, twenty-five cents would buy, probably, hamburger and bread, so yes.
+
+REDMAN: Okay. So it was a significant amount.
+
+GRAY: Well, it was not significant, but enough that you didn&#039;t want to waste it.
+
+REDMAN: I see. So they stopped in Berkeley. Actually, one of the things I was
+going to ask is precisely about the bridges. My understanding is that both the
+Golden Gate and the Bay Bridge were constructed between &#039;33 and &#039;38.
+
+GRAY: Right.
+
+REDMAN: So the Bay Bridge would&#039;ve been a fairly new--
+
+GRAY: Very new. Probably just opened, yes, in &#039;36. Then I forget the exact year,
+but the Golden Gate Bridge one or two years after.
+
+REDMAN: Sure. They would still have been working on the decks or something like
+that, finishing it in &#039;36.
+
+GRAY: Oh, yes.
+
+REDMAN: Tell me, though, I imagine as an eight-year-old girl, seeing the Golden
+Gate Bridge as it was in its final stages of construction, and the Bay Bridge,
+would&#039;ve been quite some sight. Do you recall seeing--GRAY: I don&#039;t recall any
+of it. The only thing I recall about the Bay Bridge is that the approach to the
+Bay Bridge was along the tidal flats. The tidal flats, of course, we didn&#039;t have
+the sewage disposal system; the tidal flats really stunk. [laughs] That&#039;s one of
+my memories. The Golden Gate Bridge, I don&#039;t even recall much about that.
+
+REDMAN: Until a little later on, sure.
+
+GRAY: Yes, until I was older.
+
+REDMAN: A lot has been written about Iowa between the Great Depression and the
+Second World War. One of the things that some historians sort of go back and
+forth [on] is the degree to which people in the Midwest may have had sentiments
+of isolationism before Pearl Harbor. So during, I know, World War I, a lot of
+Germans living in places like Iowa or Minnesota or Wisconsin had some sympathies
+for wanting to at least stay out of Europe. Then a similar sort of thing was
+happening early on in the buildup to the Second World War, in places like Iowa.
+Were you aware of there being Germans and Scandinavians or anything along that line?
+
+GRAY: Well, my grandmother was second generation German. But it wasn&#039;t a factor.
+My grandfather was second generation Irish. They met in Iowa and married, and we
+never clung to either one of the nationalities, for some reason.
+
+REDMAN: I see. How about religion? Were your parents religious?
+
+GRAY: We were all Catholics. Very Catholic, yeah.REDMAN: I see. Okay. Okay. You
+were sort of identifying with that community in Iowa. Is that something that
+carried over, then, when you arrived in--GRAY: Oh, definitely. That was our
+first place that we picked out, was the church that we would go to. We lived
+across the street from the church and the parish house in Iowa, and our job as
+little girls was to take the fresh milk from the cow over to the parish house
+every morning.
+
+REDMAN: I see. So that&#039;s something that you specifically recall, is that relationship--
+
+GRAY: Oh, definitely. Oh, yes, yes.
+
+REDMAN: --to the church.
+
+GRAY: I made my first communion there, yes. Our pastor was German, and he
+started the prayers in English and always finished them in German. So we knew
+the German ending to all the prayers when we were little kids.
+
+REDMAN: Was that just something that was--
+
+GRAY: He just did it, and everybody just sort of came to attention.
+
+REDMAN: Sort of went along with it.
+
+GRAY: Yeah. [laughs]
+
+REDMAN: That&#039;s so funny. Especially if you&#039;re bilingual and it&#039;s--
+
+GRAY: Well, and one of the interesting things that&#039;s happened since, the
+schoolhouse has become the city hall of my town. So they took over the school.
+The church burned down, so they built a building where they have a Catholic
+school on the lower floor, the church on the upper floor, all the elementary
+school children in the town go to the Catholic school.
+
+REDMAN: Really? Yeah, okay. Okay. So now, the word dustbowl is used quite a bit
+to describe the agricultural or natural disasters that struck the prairie in the
+1930s. But I imagine at eight years old, you may not have real recollections of
+driving across the America West.
+
+GRAY: Oh, I do.
+
+REDMAN: Oh, you do. Okay.
+
+GRAY: Yes, prairie dogs. That was my favorite thing, was seeing the prairie
+dogs. But I don&#039;t have recollection of dustbowl type things. Coming across the
+prairies was interesting, but what I remember, is, the prairie dogs.
+
+REDMAN: Sure. So let&#039;s continue along those [lines]. Those little early memories
+are fascinating. What were some of your early impressions of California? Did
+they differ from what you sort of expected when your parents told you, we&#039;re
+moving to California?
+
+GRAY: Well, when my parents told me we were moving to California, I looked at
+the pictures in my geography book and I saw these great, high mountains. I was
+wondering how we were going to go across those big mountains in our little car.
+But came to find out how you do that: roads.
+
+REDMAN: Right, yeah.
+
+GRAY: I distinctly remember seeing-- Oh, what&#039;s the lake by Lake Tahoe?
+Donner.REDMAN: Sure, yeah.
+
+GRAY: Donner Lake. It was so blue and so beautiful. That&#039;s an image that I will
+always recall. Was California different? Yes. Yeah, because it was an urban
+setting, first of all, and we really weren&#039;t used to that. Some wonderful woman
+took in my family, with no money, nothing, three little girls, and let us have
+an apartment in her apartment house on Channing Way and Shattuck Avenue. So
+actually, we were street children for several years before we moved. So living
+on the street was a whole different thing to us. We had one little store in our
+town, and here we just had the run of all of Shattuck Avenue in Berkeley.
+
+REDMAN: Okay. By street children, you mean you were allowed to run around?
+
+GRAY: Well, I mean we knew all the people. Mr. Roush in the candy shop used to
+let us help him do chocolates. There was a service station on our corner, and
+Frank, who owned the service station, let us measure the gasoline in the tanks.
+So we were known by all the people who ran the stores and things.
+
+REDMAN: Certainly.
+
+GRAY: We had a good time, yeah. It wasn&#039;t too bad. I remember soaping Hink&#039;s
+windows at Halloween time. That was fun, because they had huge windows. [they laugh]
+
+REDMAN: Okay. So having a good time.GRAY: Yes.
+
+REDMAN: Yeah, yeah. So school was a little bit of an adjustment, but then the
+city itself was also, being in an urban environment--
+
+GRAY: Well, just being in an urban environment was totally new to us, yes.
+
+REDMAN: Okay. Were you interacting with different types of people sort of right away?
+
+GRAY: I don&#039;t remember that too much. My parents sent me to the Catholic school,
+which was St. Joseph&#039;s at that time. Because the tuition was fifty cents a
+month, they decided that with two or three girls, they probably couldn&#039;t afford
+that, so I went to the public schools from sixth grade one. I went to Catholic
+school for fifth grade.
+
+REDMAN: Okay. Then how was that transitioning, then, into the public school?
+
+GRAY: It didn&#039;t really seem to--
+
+REDMAN: It didn&#039;t really phase you?
+
+GRAY: --bother [us]. No, because we had some wonderful teachers in the public
+school, that I can still remember their names. Mrs. Johnson, Mrs. Parlier, at
+Washington School.
+
+REDMAN: Okay. Okay. What were some of the subjects that you were learning about,
+that you enjoyed? Do you have any particular subjects in school, maybe the late
+elementary school years? Were you inclined to math or science or history or--
+
+GRAY: Music.
+
+REDMAN: Music.
+
+GRAY: [laughs] My mother was very musical; my sister became an opera singer; so
+yes, music kind of was our thing, yes.
+
+REDMAN: I see. For the entire family.GRAY: Yes.
+
+REDMAN: It was an activity that you shared.
+
+GRAY: Oh, yeah. Except my dad; he was the audience.
+
+REDMAN: [laughs] So he might sit--
+
+GRAY: Lie on the floor.
+
+REDMAN: Oh, really?
+
+GRAY: Half asleep, yes, and listen. [laughs] And go to many, many, yes, recitals
+and that kind of thing.
+
+REDMAN: So both of your parents, then, seemed very dedicated to you as children.
+
+GRAY: Well, I think that&#039;s one of the reasons that we didn&#039;t really feel-- We
+knew we were poor. This was something that we knew. We recognized when we came
+to California, that we were poor. We hadn&#039;t recognized that in Iowa, as children.
+
+REDMAN: Interesting.
+
+GRAY: Now we recognized it, because we were with a whole different group of
+people, so we did know that we were poor.
+
+REDMAN: In some sense, I can imagine being in a larger urban setting, where
+there are suddenly all of these hierarchies that become obvious, in terms of
+clothing and--
+
+GRAY: Oh, yes. That was a big thing. Yes, our shoes didn&#039;t quite match up to our
+peers&#039; shoes. We noticed that. As I say, for the first time, we really noticed
+those things.
+
+REDMAN: One of the things that I&#039;ve found is that a number of people who were in
+California had specific attitudes, in particular about the people from Arkansas
+and Oklahoma that came during the war years. But the migration started much
+earlier, out to California, in instances like yours. I&#039;m curious if there were
+attitudes about Iowa.
+
+GRAY: Not about Iowa, but about Okies. That was the word we heard, was Okies,
+for the people from Oklahoma, where things were much worse than in Iowa. And the
+Iowa people settled in the Long Beach area. My other grandparents, the
+{Simpsons?}, settled in Southern California. We came to Northern California, for
+which I&#039;m eternally grateful. [they laugh] But the great Iowa group was down in
+Long Beach, California.
+
+REDMAN: I see. Okay. Okay. So were you ever called an Okie or an Arkie, may I ask?
+
+GRAY: No. No.
+
+REDMAN: So it&#039;s interesting to me-- Go ahead.
+
+GRAY: Well, I was going to say Berkeley was already, in 1936, a very integrated
+city. It&#039;s one of the great--what--privileges that my kids have had growing up,
+that they grew up with every kind of people. That was just taken for granted
+here. If you use the word diversity in St. Joseph&#039;s Parish, they don&#039;t even
+listen to you because what does that mean? This is how we are.
+
+REDMAN: Sure. It&#039;s harder to identify with.
+
+GRAY: I doubt that I had ever seen a black person in Iowa.
+
+REDMAN: Sure. Sure.
+
+GRAY: It didn&#039;t seem to really mean too much. At least when we were kids.REDMAN:
+One of the reasons why I ask is because my sort of understanding, too of the Ku
+Klux Klan was that in places like Iowa, Wisconsin or Minnesota, it was never
+about African Americans, because there were so very few.
+
+GRAY: There weren&#039;t any, right.
+
+REDMAN: But instead, it might&#039;ve been an anti-Irish or an anti-Catholic sentiment.
+
+GRAY: I never heard of the Ku Klux Klan until much later.
+
+REDMAN: Okay, years later.
+
+GRAY: Yeah, till I was much older.
+
+REDMAN: So let&#039;s see. So I&#039;m curious what the other students in Berkeley may
+have been like and if you made a number of friends early on, then. Let&#039;s say
+when you get to the public school, did you make a number of friends?
+
+GRAY: Oh, yes.
+
+REDMAN: What were they like?
+
+GRAY: In fact, I still have those friends I made in Washington School, yes.
+
+REDMAN: Okay, yeah. That&#039;s fantastic.
+
+GRAY: Yes, and Willard Junior High. Yes.
+
+REDMAN: Okay. It&#039;s probably a large part of the reason why you&#039;re still here, I
+would imagine.
+
+GRAY: Well, no, my husband was a native Berkeleyan and we liked Berkeley. Well,
+this is getting beyond what you want, but when we married and were looking for
+housing after the war, housing was absolutely-- There wasn&#039;t any. When it came
+time to buy a house, we looked for about five years, before we found this house.
+They had built the first tract of housing out in Walnut Creek, and it was
+manageable for our salary, but we had no car and we had three kids. So you
+needed two cars, because my husband&#039;s business was here. So luckily, we did not
+move to Walnut Creek; we stayed in Berkeley .REDMAN: Stayed in Berkeley.
+
+GRAY: It&#039;s our community, our church, our schools, everything.
+
+REDMAN: Fantastic. All right, that&#039;s something we can return to, absolutely.
+Let&#039;s talk about housing, but let&#039;s actually go back to your sort of elementary
+school years. Your parents&#039; house, then, when they came to the Bay Area, can you
+talk a little bit about what your housing arrangement was like? You mentioned
+that someone had taken in this--
+
+GRAY: This wonderful woman, who had moved from Piedmont because of the
+Depression. They had a house in Piedmont, and I don&#039;t know whether they lost
+that house, but they owned the apartment house on Channing Way and Shattuck Ave
+and they were living there at the time. She invited our family in, and I think
+within a month, my mom was managing the apartment house; my dad had found a job.
+We lived there, I think, until I was probably in eighth or ninth grade, and then
+moved to a house. It was an apartment. There were, I believe, six apartments,
+maybe, in there. We made lots of friends in the apartments.
+
+REDMAN: Within the apartment.
+
+GRAY: Yeah, friends that we still know.
+
+REDMAN: Were those families, many of them, from California? Or were others, like
+you, that had come from elsewhere?
+
+GRAY: Some were from California, some had come from elsewhere. We had a
+wonderful arrangement that whoever had money at the end of the month made a big
+pot of soup or a big pot of beans, and everybody shared. Yes, there was a lot of
+cooperation during those early years. One of the men in there, in the apartment
+house, worked for a grocery down in Oakland, which was-- It was called Swan&#039;s
+Market, and it was a bunch of little kiosks. Everybody had their own little
+stall. So he worked in one of those, so he always was supplying food.
+
+REDMAN: Okay, different kinds of things.
+
+GRAY: Oh, yeah. As I say, there was much cooperation between people at that
+stage, in the thirties.
+
+REDMAN: Sure. It sounds like it&#039;s due, in large part, because it was challenging
+economic times for everyone.
+
+GRAY: Oh, yes. Definitely.REDMAN: There was a need and a desire to cooperate.
+
+GRAY: Definitely. Yes.
+
+REDMAN: Okay. Okay.
+
+GRAY: I should mention, too that my mother was a very talented musician. That
+gave her entrée to a lot of people she probably would not have met otherwise.
+
+REDMAN: Interesting. How so? So through performances?GRAY: Well, through the
+church, she met many. The woman who took us in at the apartment house had been a
+professional singer, and she recognized my mother&#039;s talent. Also my sister&#039;s,
+later, and subsidized her lessons for many years. So just by a talent. My dad,
+he was an accountant. He had been an accountant; that&#039;s where he met my mother
+in Iowa, when they were working for-- What&#039;s the umbrella insurance company?
+
+REDMAN: Oh, gosh, I can picture it in my--
+
+GRAY: Yeah. Well, whatever that was.
+
+REDMAN: The red umbrella, yeah.
+
+GRAY: Yeah, the red umbrella. That&#039;s where they met. She was a secretary and he
+was an accountant. I believe he was nine or ten years older than she. But he
+found a job right away. He also became a machinist, and he was a very fine
+machinist, and worked at the Hall-Scott company for the rest of his life, till
+he retired.
+
+REDMAN: I see. Can we talk a little bit about music at the church in Berkeley?
+It sounds like your siblings and your mother were very active in the church and
+musically. Can you talk about how maybe you might&#039;ve been involved in music at
+the Catholic church in Berkeley?
+
+GRAY: How I was?
+
+REDMAN: Yeah.
+
+GRAY: Well, my mother joined the choir. We had an adult choir. She also was a
+pianist, and so accompanying. But through that, she met many very, very fine
+people who stayed-- One of the people she met became our adopted aunt, through
+two generations. Took care of us. Two people that she met, in fact, became two
+adopted aunts who helped us when we were little girls, helped our children when
+they arrived, yeah.
+
+REDMAN: So there was a real sense of community that--
+
+GRAY: Oh, oh, very much.
+
+REDMAN: Can you help me figure out, was there a relationship, do you think, a
+special relationship to music and those sorts of friendships?
+
+GRAY: Oh, yes.
+
+REDMAN: How so?
+
+GRAY: My friendship with my husband. [laughs]
+
+REDMAN: Oh, really? Okay.
+
+GRAY: Well, that&#039;s a story for the war years. But no. I didn&#039;t join the choir
+until I was about sixteen, and my sister didn&#039;t join the choir. My mother was
+the choir person. So we were busy at school and we sang at school and appeared
+in shows and things like that.
+
+REDMAN: Okay. What sorts of instruments would&#039;ve been common in your household
+to play?
+
+GRAY: Well, I played the violin. My littlest sister played the cello, and my
+other sister was a singer. She did the piano, too, but she was primarily a singer.
+
+REDMAN: Primarily a singer. So an extremely musical family.GRAY: My brother, who
+came along after we came to California, he played the trumpet a little, but he&#039;s
+not a real musician. [Redman laughs] He played hockey.
+
+REDMAN: Okay. Yeah, so he had a few different interests.
+
+GRAY: [laughs] Right.
+
+REDMAN: It must&#039;ve become clear for you at some point, that you would attend
+college, and then eventually, this decision to attend the University of
+California, Berkeley. Did your parents always encourage their daughter to go to
+college? Or was this a decision that you came to on your own? You&#039;re shaking
+your head no.
+
+GRAY: No, college was not even thought about in our situation. Although my
+father had a good job. My mother didn&#039;t work for many, many years. But when you
+got out of high school, you were expected to get a job. Many of my classmates
+when to work for the City of Berkeley and other things. I had a girlfriend
+living around the corner from us, who was going to Cal. I hadn&#039;t even thought
+about going to Cal. I hadn&#039;t thought about what I was going to do. I was
+sixteen. I graduated very early. So it got to be August and I thought, well,
+that might be fun; I could do that. Because my girlfriend was going to go. So
+you go and get your transcript from high school, walk up to the university on a
+day they appoint, go to the table that has your initial on it, pay your $27.50,
+get your class schedule and go to school.
+
+REDMAN: Is that right?
+
+GRAY: That&#039;s how you went to school at Cal, yes. A little different, yes.REDMAN:
+A little bit of a different process.
+
+GRAY: Yeah, a little bit different. $27.50 were your student fees for the
+semester. Living in Berkeley, in Northern California, you didn&#039;t pay any tuition
+at all. Tuition was free. This&#039;ll kill people. [they laugh] You got to go to all
+the football games except the big game; you had to pay ten dollars to go to that.
+
+REDMAN: [laughs] So that just came with the fees.
+
+GRAY: Yeah. So I didn&#039;t make any big decision; I just decided to go to school. I
+worked during school. I worked for the forestry library, I worked in San
+Francisco, in Transamerica. That was where I came to working on campus for the
+Manhattan Project, in my last year there.
+
+REDMAN: Okay. Let me just jot a note. What year, do you recall, when you first
+registered for classes?
+
+GRAY: Well, it had to be in August, and I got out in {??}, so it would be August &#039;44.
+
+REDMAN: August of &#039;44.
+
+GRAY: August of &#039;44.
+
+REDMAN: Okay. So let&#039;s step back then a moment and talk about the day that Pearl
+Harbor was attacked. What do you recall about that?
+
+GRAY: I remember the announcement on the radio. I was in Berkeley High at the
+time, probably tenth grade. Yeah, it was the first year in Berkeley High. What
+they did was gather the whole student body. Now, people don&#039;t believe this and
+say, well, that can&#039;t be true now, because I don&#039;t think they would ever do it
+now. But the whole student body gathered on a grass area in front of the main
+building, and they actually played over the loud speaker, the congress voting on
+the war.
+
+REDMAN: Is that right?
+
+GRAY: Mrs. Rankin [Congresswoman Jeannette Rankin] voted no, at the end. I just
+remember that so clearly, because we were all assembled.
+
+REDMAN: Everyone listening to those--
+
+GRAY: Yeah, everyone.
+
+REDMAN: --votes coming in. Interesting. Okay.
+
+GRAY: Well, I guess the school thought it was important that we would hear that, yes.
+
+REDMAN: Sure. So this would&#039;ve been on December 8, then, the next day.
+
+GRAY: Well, whatever day was the--
+
+REDMAN: Yeah, the vote. December 8. Yeah, yeah. So that must&#039;ve been a pretty
+significant moment, seeing all of these other students standing around and
+listening together.GRAY: Right. Well, I don&#039;t think we really got the impact of
+what was going on. Okay, we&#039;re going to go to war. What does that mean? It
+didn&#039;t too much to us. If you had people in Hawaii, it probably did; but here,
+we felt very safe. Then there was the whole thing about the Japanese being taken away--
+
+REDMAN: Let&#039;s talk about that.
+
+GRAY: --which was painful.
+
+REDMAN: Did you have any Japanese acquaintances by this point?
+
+GRAY: Oh, at school, schoolmates.
+
+REDMAN: Okay, schoolmates. Sure.
+
+GRAY: I didn&#039;t notice too much that they were leaving, but my husband&#039;s family
+lived next to a very prominent Japanese dentist, and he and his family were
+taken away. I know that that made a very deep impact on many, many people, that
+that happened.
+
+REDMAN: Now, at the time, there was some awareness of this taking place, that
+the Japanese were being taken away; but did you have complicated feelings about
+that at all at the time? Or did you think it was--
+
+GRAY: Not at the time, no. I can see now in my later years, how silly that was.
+It was panic. Like countries always do, they panic and take steps that they
+probably never should do. Yeah.
+
+REDMAN: So there was some fear there that--
+
+GRAY: I&#039;m sure that that&#039;s what it was done; it was done out of fear that there
+were agents here.
+
+REDMAN: A lot of people--you, for instance--had more or less-- Only in your life
+where you had been aware or conscious, FDR had been your president.
+
+GRAY: That&#039;s right. Exactly.REDMAN: So his making this decision-- A lot of
+people, I know, would&#039;ve supported the president, and especially at a time of war--
+
+GRAY: Probably, yes.
+
+REDMAN: --may not have thought very critically about that decision.
+
+GRAY: I don&#039;t think we thought critically about it at all; I think we just did
+it, yes.
+
+REDMAN: Sure, sure. Okay. So some of the seniors at Berkeley High would&#039;ve been
+eligible, certainly, to enlist or be drafted. I presume that many of them
+enlisted right after graduation. Is that correct?
+
+GRAY: Well, as freshmen, we weren&#039;t too aware of that because the boys in our
+class weren&#039;t. But as we got older, yes.
+
+REDMAN: It became clear that many {inaudible}.
+
+GRAY: One of our classmates was killed in the war.
+
+REDMAN: So now tell me a little bit about your graduation, then. Did you sort of
+think that you were going to do-- It seems like there was maybe this periodic
+moment where you weren&#039;t certain what you were going to do next, and then your
+girlfriend said that she was registering at Cal, and so you sort of went. What
+did you sign up for? Do you remember what type of classes you would&#039;ve
+registered for?
+
+GRAY: Yeah. I took Spanish, history, public speaking, English, and finally ended
+up in the drama department.
+
+REDMAN: I see. Okay.
+
+GRAY: That&#039;s where I ended up. But just took the normal courses. I wasn&#039;t
+planning any special career or anything, [laughs] when I went to college. I was
+only there two and a half years before I left, so-- No. I knew I had to get a
+job, and I did work all the time that I was going to college. But it was just
+expected that you would get a job and start working. As I say, many of my
+college mates went to work immediately for one of the stores downtown or the
+Berkeley City Hall. Tthey tell about that.
+
+REDMAN: Okay. I&#039;m actually going to jump to a question that I&#039;d initially put
+closer to the end. I&#039;d like to ask, in 1944--so about when you were in
+college--there was a major explosion that took place at a place called Port
+Chicago. Apparently, it was loud and strong enough that it shook houses and
+shattered some windows in Berkeley.
+
+GRAY: We lived on McGee and Channing Way. We were sitting at the dinner table
+and the house shook, yeah. You could hear the explosion from here, and feel it
+from here.
+
+REDMAN: Okay. I know some earthquakes, it suddenly feels like you&#039;re on a
+surfboard accidentally, or a skateboard, and others are more like a violent
+shaking. Do you recall?
+
+GRAY: This was a boom. Just a boom. I remember the windows shaking, but not breaking.
+
+REDMAN: What did that make you think at the time?
+
+GRAY: Well, we wondered what had happened. I don&#039;t think we ran out and were
+scared that somebody was bombing us, because we hadn&#039;t heard sirens or anything.
+We had sirens here all the time and they would go off, and we had a block warden
+for our blackouts. He was a tiger. {inaudible} one point of light, he was
+knocking on your door.
+
+REDMAN: On your door, telling you to--
+
+GRAY: Oh, yes. We took those things very seriously. And we had rationing of
+certain items.
+
+REDMAN: The explosion on that day, then, sort of one of the interesting things
+to me is that you can&#039;t just run and turn on CNN or MSNBC.
+
+GRAY: Oh, yes. Well, you went to turn on the radio. Oh, yes, you did go--
+
+REDMAN: Then were there radio reports on that event right away, do you recall?
+
+GRAY: I don&#039;t remember that. But I remember then hearing that it was an
+explosion of an ammunition dump, I believe, yeah, afterward. I remember hearing
+what it was afterward, but I don&#039;t remember exactly getting panicky or anything
+when theater explosion happened. I remember it.
+
+REDMAN: Okay, interesting. Great, yeah. I wanted to make sure to ask about that
+event. So the next question that I&#039;d like to ask, I&#039;d like to ask a number of
+questions about what other students were like at Cal. I&#039;m curious how the
+faculty reacted, in some sense, to the war. Did it seem to you like they were
+just sort of carrying on with their classes in a routine way? Or would they
+address any events that had happened in the war? I&#039;m thinking of for instance,
+there was a big battle at Midway, and the next day the newspapers headlines
+would&#039;ve been about that. Would your professors have spoken about that at all,
+or was it, let&#039;s focus on drama and music?
+
+GRAY: No, I don&#039;t remember any talk about the war in the classrooms. I really
+don&#039;t. I think that&#039;s come much later. I think Vietnam probably started that
+whole process. But in our-- no. We knew what was happening, but it wasn&#039;t so
+immediate and so vital right then. It was happening far away.
+
+REDMAN: Okay. It was a pretty distant thing.
+
+GRAY: It was, yes.
+
+REDMAN: Sure. Hawaii, there&#039;s a lot of ocean.
+
+GRAY: Yeah. Oh, yes!
+
+REDMAN: But on the other hand, I know there were fears periodically about
+submarines off of the West Coast.
+
+GRAY: Oh, periodically, yeah, but--
+
+REDMAN: Periodically, but you weren&#039;t too effected by that.
+
+GRAY: No. No, I can&#039;t remember that we really took that very seriously.
+
+REDMAN: Okay. Now, I&#039;ve heard a lot in these interviews about rationing; but one
+of the things that I haven&#039;t heard much about is what rationing would&#039;ve been
+like for a student at Cal during the war, how it may have been. Was it any
+different, or was it more or less the same?
+
+GRAY: No, I was living at home, so it didn&#039;t bother me at all.
+
+REDMAN: I see. Okay.
+
+GRAY: No. No, I lived at home, so it wasn&#039;t-- Yeah.
+
+REDMAN: Okay. So was it your mother in the household, that would take care of
+the rationing?
+
+GRAY: Yes.
+
+REDMAN: Do you recall any of the details of how that would work? She would get
+the rationing books?
+
+GRAY: You got ration books, and then when you went to buy certain items, you had
+to give a ration stamp. When you ran out of stamps, then you didn&#039;t get the item
+anymore. I believe they sent out ration books on a frequent basis--maybe
+monthly, maybe six weekly, maybe more than that. I don&#039;t remember exactly when,
+but I know they were renewed. Yes. Yeah.
+
+REDMAN: Okay. Now, my understanding, when you look in these ration books, at
+least the ones I&#039;ve seen, there are these blue little coupons--
+
+GRAY: That&#039;s right, blue little stamps.
+
+REDMAN: --inside, on these stamps, are things like-- I sort of, in my mind&#039;s
+eye, had imagined them as there would be some eggs and milk or a steak or things
+like that.
+
+GRAY: [laughs] Oh, you would want a picture?
+
+REDMAN: Yeah.
+
+GRAY: Interesting.
+
+REDMAN: But instead, there are pictures of a tank or an American flag or
+something like that.
+
+GRAY: No, we were very patriotic.
+
+REDMAN: Right, yeah. So my sort of question then, that I haven&#039;t yet figured
+this out, is how you could look at a ration book that has pictures of stamps or
+tanks or American flags and say, okay, these are how many meat rations we have
+left or these are how many-- The closest thing I&#039;ve gotten to an answer is that
+people would just sort of hand over their booklet to a butcher and they would
+tell you maybe how much you could get.
+
+GRAY: It didn&#039;t say what it was for on there?
+
+REDMAN: I haven&#039;t figured out what those corresponded to. Do you know?
+
+GRAY: I don&#039;t, because I don&#039;t remember-- I remember the blue stamps, but I
+don&#039;t remember whether they-- They must have identified some things because
+there were tires, there were gasoline, there were big items. There were shoes.
+So you had to have your stamps identified somehow, because some things, of
+course, you would get more of than others.
+
+REDMAN: Sure.
+
+GRAY: So I don&#039;t remember that, because I didn&#039;t take care of that.
+
+REDMAN: Now, do you remember rationing as it related to nylon stockings or
+pantyhose or things like that?
+
+GRAY: Well, nylon stockings, you couldn&#039;t even find.
+
+REDMAN: You couldn&#039;t find nylon stockings.
+
+GRAY: You couldn&#039;t even find nylon stockings, yeah.
+
+REDMAN: Okay. So instead, you&#039;d have to replace them with--?
+
+GRAY: I don&#039;t know what we did. That wasn&#039;t a worry to me. [laughs] I was
+sixteen or seventeen; maybe it should&#039;ve been a worry, but it doesn&#039;t seem to
+have been a worry to me at the time. But I know there were no nylon stockings;
+you just couldn&#039;t get them.
+
+REDMAN: Okay. I know everybody&#039;s experience with rationing seems to be
+different. Did you have trouble getting by, as far as anything? Or did it always
+seem like you had enough?
+
+GRAY: It always seemed like we had enough, yeah. I think butter was one of the
+things that was rationed. So they were putting out oleo, margarine. But you had
+a little coloring-- [laughs]
+
+REDMAN: Packet.
+
+GRAY: --packet, and you had to color your own butter, and then you could put it
+in these little things, like kids would make cubes out of it. [laughs] {It was
+like butter?}.
+
+REDMAN: So now, I&#039;ve asked people what it tasted like, and the only answer that
+I&#039;ve gotten so far is that it didn&#039;t taste like butter.
+
+GRAY: It didn&#039;t take like much. It tasted like probably what it tastes like today.
+
+REDMAN: Okay, like margarine, okay.
+
+GRAY: Yeah. It had flavor, but not like butter. No, no. In fact, now they make
+one that&#039;s better than butter, actually.
+
+REDMAN: Okay. So now I would like to ask another question related to students.
+Not everyone can really comment on this, but I&#039;d like to know about how the male
+and female students at UC Berkeley would&#039;ve interacted at the time. Was there
+any outright sexism in the classroom? Or were women on a fairly equal footing to
+their male counterparts at that time?
+
+GRAY: Well, being a person who has never, never felt that, I really can&#039;t answer
+too well.
+
+REDMAN: Okay.
+
+GRAY: Yeah, I just have never felt any of that anywhere.
+
+REDMAN: I see. Okay. How about in terms of courtship and dating on campus? What
+would have been some of the ways in which young men and women on the campus in
+the forties would&#039;ve dated? Would you say dating culture was different then than
+maybe it is now?
+
+GRAY: I don&#039;t know because I didn&#039;t date very much. But most of it was the
+fraternities and sororities, I know. They were the big factor in any dating that
+went on, and parties and that kind of thing.
+
+REDMAN: Okay. So fraternities and sororities would host different parties.
+
+GRAY: Yeah, yeah. They were very good. I remember our Spanish teacher wanted to
+have a special party for our Spanish classes, and one of the girls offered her
+sorority house and that&#039;s where we had it. They were very open to doing things
+like that. Some of my friends were sorority girls. I was not a sorority girl;
+didn&#039;t want to join one. They were very open, very good.
+
+REDMAN: Excellent. Okay, interesting.
+
+GRAY: Yeah. They were probably the primary place for dating on campus. Unless
+you met somebody in your class. Yeah, yeah.REDMAN: Okay. The next sort of things
+might&#039;ve been removed from what a lot of students would&#039;ve participated in, but
+certainly your family may have talked about either of these things, or community
+members. I&#039;m curious about both victory gardens and war bonds.
+
+GRAY: War bonds, not so much. I remember buying; people did buy war bonds, and
+just kept them, because they would be good someday. But victory gardens, my dad
+always had a garden.
+
+REDMAN: Is that right?
+
+GRAY: Victory gardens, people did make victory gardens. I think it&#039;s a thing to
+keep you happy, more than being very successful at keeping you in food. Or
+keeping {inaudible} groups in food.REDMAN: So that was more, you think, a
+technique of--
+
+GRAY: Oh, I&#039;m sure. It was some kind of a ploy or a technique to keep you happy.
+
+REDMAN: Interesting.
+
+GRAY: Or keep you involved. Keep you involved.
+
+REDMAN: And feel like you&#039;re contributing.
+
+GRAY: Yes, and feel like you&#039;re doing something, right.
+
+REDMAN: Interesting. Do you think that&#039;s a pretty unique thing, or were there
+other sorts of activities? I know people were encouraged to do things like
+donate blood and there were other sorts of drives. Do you think many of these
+were sort of orchestrated to make people feel as though they were--GRAY: Oh, I
+think. The war bond thing was, of course, to get money. My dad worked for
+Hall-Scott, who made engines for ships. So he was very involved. This is one of
+the things they did. Companies that produced a very good product got an E for
+excellence; kind of an award and a flag or a pennant that went along. I remember
+he was so proud that his company got one.
+
+REDMAN: Okay. I see.
+
+GRAY: So there were things that, yes, people were doing.
+
+REDMAN: Sure. So now, Berkeley, Oakland, Richmond and San Francisco changed a
+lot during the war years.
+
+GRAY: Oh, yes.
+
+REDMAN: During an influx of a massive number of migrants coming into the city or
+the area. Can you speak about what that may have been like, to live through that
+transition? All of these new people coming in from all over.
+
+GRAY: No. [laughs]
+
+REDMAN: No. Okay.
+
+GRAY: Well, I really didn&#039;t notice that a lot, no. That didn&#039;t impact my life in
+any way that I can remember. No.
+
+REDMAN: Were you aware that the shipyards at Kaiser--
+
+GRAY: Oh, definitely. Because we heard about that all the time. That workshop
+our big war effort, actually, workshop the shipyards.REDMAN: So that was sort of
+the main thing that people were thinking about, as far as an industry that was
+going on in the area.
+
+GRAY: And we had the army base and we had the navy base right close by. So those
+were the big places that we thought about as part of the war effort.
+
+REDMAN: Were there a lot of men in uniform in that area, do you recall?
+
+GRAY: Oh, yes, yes. Yes. I was a little too young to be involved with much of
+that, but St. Joseph&#039;s participated greatly in a USO that was up on Grove
+Street, a few blocks from the church, and the girls were always going there. The
+older girls would go there, yes.
+
+REDMAN: Okay. So the older girls, I understand, often from the sororities from
+Berkeley, would come and dance with the soldiers.
+
+GRAY: Oh, yes. Oh, yeah. We would have dances. We had dances at St. Joseph&#039;s,
+yes, were the sailors, the soldiers would come. It was just part of the thing
+that you did.
+
+REDMAN: Sure. Sure. Now, periodically, you would sing with your sisters at some
+of these events, is that correct?
+
+GRAY: Oh, my sister and I had sung together all our lives, actually, so we found
+a little-- Well, I don&#039;t know how we were contacted, in fact, but we joined a
+little USO group that did-- Oh, the guy was a fire eater and did all kinds of
+things, and we had other acts. Then my sister and I sang, and we did USO shows
+all around this area. We were like sixteen or fourteen or something, but we were
+cute, so--
+
+REDMAN: Right. [laughs]
+
+GRAY: And we could actually sing, so-- Yeah. We had a good time doing that, but
+we didn&#039;t think too much about that; that was just fun for us.
+
+REDMAN: I see. Okay. So it wasn&#039;t necessarily thought of as a contribution, so
+much as it was a fun activity.
+
+GRAY: No, just it was a fun activity for us. One of my granddaughters
+interviewed me once about how it was to be a teenager during the war. I said,
+&quot;We had a lot of fun.&quot; Her teacher at school wouldn&#039;t believe that.
+
+REDMAN: Really? That&#039;s something I do actually believe.
+
+GRAY: Yes!
+
+REDMAN: That&#039;s something that a lot of people have said to me, this idea that
+there was a war going on, and I think people were aware of that.
+
+GRAY: Oh, very much aware it. Oh, yes.
+
+REDMAN: But at the same time, people were moving to new places, experiencing new things.
+
+GRAY: That&#039;s right, doing things. And there were a lot of new things to do.
+
+REDMAN: How about in terms of music? I&#039;m curious because in San Francisco and
+Oakland, there would&#039;ve been quite a music scene, in terms of jazz or things
+like that.
+
+GRAY: Swing was the big thing at that time, and we had many, many, many groups,
+big orchestras who had singers, and that was the whole genre of the time, yeah.
+
+REDMAN: Many of them would perform all over the Bay Area.
+
+GRAY: Oh, yes.
+
+REDMAN: Ranging from Richmond, they would perform for the shipyard workers; to
+Oakland and Berkeley and San Francisco.
+
+GRAY: Oh! Well, as I say, we had the naval base and the army base, we had Oak
+Knoll Hospital, where the veterans who were wounded would come. We had a lot of
+places around here where they needed entertainment, yes. I know our church choir
+when to Oak Knoll to sing.
+
+REDMAN: Is that right? Okay.
+
+GRAY: Oh, yeah.
+
+REDMAN: And those sorts of experiences were fun for you.
+
+GRAY: Well, yes. It was an experience and it was fun.
+
+REDMAN: Was it due in part to the fact that it was different and out of the
+norm, in some sense, or just being young?
+
+GRAY: It was part of the thing that we did all the time. If we weren&#039;t singing
+for the soldiers, we would&#039;ve been singing for somebody else. No, no kidding. It
+was just part of our whole makeup and our whole nature, and we just did it and enjoyed.
+
+REDMAN: Okay. I like that. I have another question that&#039;s a community-related
+question that might be a bit far afield. I&#039;m curious about how students in
+particular, but other people in the Berkeley area, may have gotten around
+campus, as far as transportation. This is a very simple question. Were bicycles
+a common sight in that era, do you recall?
+
+GRAY: I don&#039;t recall as many bikes in that era as I recall bikes today.
+
+REDMAN: Interesting.
+
+GRAY: Well, yeah, it&#039;s become a big thing today. People walked. There was a good
+public transportation system; you&#039;re using it yourself.
+
+REDMAN: Sure.
+
+GRAY: We had streetcars and we did a lot of our traveling on streetcars; we had
+buses; we had trains that ran to San Francisco; we had Red trains that went up
+and down from Oakland to Berkeley. So there was a lot of that kind of thing, and
+walking. One of the very vivid memories that I have is walking to the University
+of California for an eight o&#039;clock class, during daylight savings time, with the
+moon and the stars coming out. Yes.
+
+REDMAN: Sure. Okay. Okay. So a lot of walking.GRAY: A lot of walking, yes.
+Berkeley is a walking city. You can walk in Berkeley.
+
+REDMAN: Right. You&#039;ll get strong calves if you--
+
+GRAY: Oh, yeah. [laughs]
+
+REDMAN: --walk up some of the hills, but it&#039;s definitely a walkable city.
+
+GRAY: Yes. But it was not a bicycle culture, like it is now.
+
+REDMAN: I see, okay. How about ferries?
+
+GRAY: The ferries didn&#039;t last very long after the bridges came in. I remember
+definitely going to San Francisco on a ferry. We had a ferry {mole?}, they
+called it--or whatever they called it, a ferry dock--in Berkeley at the time,
+and you could go from Berkeley over to Treasure Island. Treasure Island got a
+lot of ferry traffic in 1939, when the World&#039;s Fair was there.
+
+REDMAN: Sure. Can you talk about the World&#039;s Fair a little bit? Did you happen
+to go to the fairgrounds in &#039;39?
+
+GRAY: Oh, loved it! That was real fun. They had a food pavilion, where they gave
+out free-- What do this stuff now? Frozen custard ice cream cones. So [laughs]
+that was always our first place. But no, I loved it. We had wonderful shows.
+They had a big cavalcade of the West and Billy Rose brought the aqua show here
+and oh, it was really-- It was very exciting for a young person.
+
+REDMAN: Do you remember seeing anything along the lines of anthropology at the
+fair or art? I imagine a young person may not have been particularly interested
+in this, but things like touring exhibits from the Smithsonian or anything along
+those lines?
+
+GRAY: No, I don&#039;t remember seeing any of those. I just remember the big things.
+I have a son who&#039;s a newspaper editor, who was very involved in historical work
+about the fair. The fair was just like going to Disneyland is today, only a
+little different. But it was great.
+
+REDMAN: I can imagine all the lights and sounds and the people.
+
+GRAY: Oh, it was wonderful. [As] I say, it was just like going to Disneyland and
+having a really good time. Yes. And beautiful, beautiful shows they did. My dad
+liked Sally Rand. [they laugh] They even had Sally Rand.
+
+REDMAN: Okay. Yeah. So a big deal. A big deal.GRAY: Well, it was. I belonged to
+a little orchestra and we actually went there and played.
+
+REDMAN: I see, okay. So there was an involvement there.
+
+GRAY: Yeah, very much, yes.
+
+REDMAN: So you would&#039;ve been to the fairgrounds on multiple--
+
+GRAY: Oh, yes. Oh, yes. Whenever we had enough money to go, we did.
+
+REDMAN: I can imagine. Okay, so let&#039;s see. We&#039;ve gotten to a number of the UC
+questions. You took a couple of years of classes at UC, and then eventually, did
+you leave school to work for the forestry library?
+
+GRAY: I left school to marry a man called John Gray is why--
+
+REDMAN: Is that right? Okay.
+
+GRAY: --I left school.
+
+REDMAN: So can you tell me how you met him?
+
+GRAY: Yeah.
+
+REDMAN: What&#039;s that story?
+
+GRAY: Well, the story was that he came back from the South Pacific. He was in
+the South Pacific; they were getting ready to invade Japan. Luckily, they
+dropped the atom bomb--which I was working on at the time, but I didn&#039;t even
+know--so they all got to come home. Well, he came to Washington, the state of
+Washington, up the Columbia River. I forget what ship he came home on; the
+Enterprise, I think. Then they sent them on the one that&#039;s in Oakland now.
+
+REDMAN: The Red Oak Victory?
+
+GRAY: No, no, the other ship that&#039;s there.
+
+REDMAN: Oh, sorry, that&#039;s in Richmond. I know what you&#039;re talking about.
+
+GRAY: The aircraft carrier that&#039;s sitting there now that you can visit, because
+we went to visit it last Father&#039;s Day. He came through the Golden Gate on that thing.
+
+REDMAN: Is that right?
+
+GRAY: I took some pictures he had taken of coming through, which the people were
+very happy to get. On Christmas Day of 1945? Yes, it would&#039;ve been Christmas
+Day, 1945. He came to St. Joseph&#039;s Church. I was directing the girls choir at
+the time, and all the men started coming back. So I met him on Christmas Day and
+that&#039;s the end of the story. [laughs]
+
+REDMAN: There we go. Okay. All right.GRAY: Yeah. Then the young men started
+coming back. Of course, I think there were seven weddings out of-- We didn&#039;t
+have eHarmony or anything like that, we had the church choir. [Redman laughs] As
+the young men came back, then they re-formed the choir that they had had, and
+the girls were kind of displaced, but that was alright.
+
+REDMAN: Sure. Okay.
+
+GRAY: But that was how I met him, yes.
+
+REDMAN: I&#039;ll have some questions about the end of the war and then the life that
+the two of you established together. But then in the final two years of your
+time at Cal-- [phone rings]
+
+GRAY: Just leave that.
+
+REDMAN: Oh, okay. The last two years of your time at Cal, you were working for
+the Manhattan Project.
+
+GRAY: No, I worked there for only one year.
+
+REDMAN: You worked there for one year.
+
+GRAY: I had only worked for them one year, maybe less than one year, yeah.
+
+REDMAN: So &#039;44, &#039;45, about?
+
+GRAY: It would&#039;ve been, yeah.
+
+REDMAN: Okay. So can you tell me how you ended up finding this job?
+
+GRAY: Because on campus, they have jobs for you. So I went and applied and that
+was the job I got.
+
+REDMAN: Okay.
+
+GRAY: Yeah. That was it.
+
+REDMAN: Now, you had to go through some security checks.
+
+GRAY: Well, I know the FBI came to our home and to the neighbors, and I was
+fingerprinted, and I got a Social Security number.
+
+REDMAN: Oh, is that right?
+
+GRAY: Yep. My Social Security is lower than my husband&#039;s.
+
+REDMAN: Is that right? Okay.
+
+GRAY: Because that didn&#039;t happen until you were working, and he had not been
+really doing work before he went in the service.
+
+REDMAN: Okay. I see. So was that sort of a scary experience? Or was that an
+exciting experience?
+
+GRAY: We had no idea what was going on. We just knew something was going on. The
+cyclotron had been built in Berkeley, the cyclotron building.
+
+REDMAN: So you were aware of the cyclotron.
+
+GRAY: We were aware of the cyclotron, very definitely. We knew that they were
+trying to smash atoms there. That was the whole thing, they were smashing atoms.
+
+REDMAN: Okay. Say, I&#039;m going to have to pause.
+
+Begin Audiofile 2 05-10-2011.mp3
+
+REDMAN: All right. My name is Sam Redman and I&#039;m back. This is our second tape
+of two tapes today with Norma Gray, on May 10, 2011, in Berkeley, California.
+When we left off, we were talking about how Norma found work on the University
+of California campus that eventually turned out to be part of the Manhattan
+Project. In the interim, between tapes, we were actually talking a little bit
+more and we were reflecting a little bit more on, I would say, American culture
+during the war versus sort of today, being in two wars. In sort of a similar
+sense, we were in wars on two fronts; today we&#039;re in two different wars. Sort of
+the awareness or lack of awareness of certain things happening and the
+instantaneous nature of our media today. The Port Chicago disaster, for
+instance, it&#039;d be twenty-four news today.
+
+GRAY: Oh, yes. Twenty-four hours for a week, probably.REDMAN: Yeah, certainly.
+So how do you think that changes ideas and feelings and sentiments towards
+events like the war? In some sense, do you think people were shielded a little
+bit from the gore or the violence of war?
+
+GRAY: We probably were; but today, we&#039;re so overwhelmed with gore and violence
+that it becomes a problem for us. It&#039;s just something that you begin to accept,
+which is maybe good, maybe not good.
+
+REDMAN: Right. So to a certain degree, the violence still doesn&#039;t register to
+us, but it&#039;s because we&#039;re over-exposed rather than being maybe under-exposed.
+
+GRAY: Right. Under-exposed. Oh, yes.
+
+REDMAN: Okay. I&#039;d like to ask you another question related to museums, which is
+something I&#039;m personally interested in. My understanding is that in about 1943
+or 1944, people started to have a little more money in their pocket, they were
+maybe working in defense industries, and some people started spending their
+money on going to museums. Certainly not everyone, but my attendance increased
+during that time. So I&#039;m just curious, in terms of awareness of the world, as
+far as the natural world or the globe, you&#039;re reading suddenly about the
+Philippines and Japan and you&#039;re reading about Australia or you&#039;re reading about
+the countries in Europe. Did the war sort of stimulate, do you think, an
+interest in the world as a place, politically and environmentally and geographically?
+
+GRAY: Well, I notice something very similar today. You practically know the
+names of all those Arab countries you never knew anything about in your whole
+life. I suppose that the same thing happened during the war. Young men had been
+to all these places, so when they came back, they had an idea of what these
+were. I suppose yes, that you would. But I see it as if you&#039;re bombarded with
+this news every day about other countries, of course, you&#039;re going to get to
+know where they are, who they are, just like today.
+
+REDMAN: Sure.
+
+GRAY: [As] I say, a few years ago, I bet nobody could&#039;ve named the Arab countries.
+
+REDMAN: Right.
+
+GRAY: Now everybody can name them. That&#039;s just what happens. Of course, you have
+more awareness, and maybe those who are adventurous want to go and see what
+that&#039;s all about, yes.
+
+REDMAN: And other people just want to learn about Burma, perhaps.
+
+GRAY: Right. Right.REDMAN: Okay. Interesting. So let&#039;s talk about, then, what
+your job became on campus.
+
+GRAY: Well, my job was great. I had what was called an A pass, which meant I
+could go into any of those buildings any time. I was a messenger girl. What they
+did was send me, with blueprints and plans locked in a huge, red, locked tube--
+
+REDMAN: Quite large.
+
+GRAY: Oh, very large, yeah. It was quite large.
+
+REDMAN: Several feet.
+
+GRAY: Yes. So that was my job, to take those either to the cyclotron or over to
+where I think I met Mr. Phillips. Who&#039;s the man for the science library? Edward--
+
+REDMAN: Teller? No.
+
+GRAY: No, not Teller, Oppenheimer.
+
+REDMAN: Oppenheimer.
+
+GRAY: But the one that the-- Lawrence.
+
+REDMAN: Lawrence.
+
+GRAY: Lawrence Hall of Science is named after-- There was one other fellow, and
+I&#039;ve forgotten his name. But they were four other men who were very vitally
+involved in what was going on, and I met them. I think three or four of them
+died of radiation poisoning, because--
+
+REDMAN: Oh, is that right?
+
+GRAY: --they really didn&#039;t know what was happening. So my job was to transport
+plans, in locked cases, to the cyclotron, to wherever they told me.
+
+REDMAN: Okay. Now, did you wear any sort of uniform doing this work?
+
+GRAY: No. No.
+
+REDMAN: Okay. So it would&#039;ve been plain clothes.
+
+GRAY: Yeah, it was certainly plain clothes. I remember I walked down from the
+cyclotron one day and I was called into the office and berated. Didn&#039;t I know
+that there might be Russian spies hiding behind the trees? That didn&#039;t register
+with me in the beginning, but Russian--they used the word Russian--
+
+REDMAN: Interesting.
+
+GRAY: Come to know that probably they were trying to get all the information, as
+well as other people.
+
+REDMAN: Sure. Did that surprise you at the time, thinking, well, the Russians
+are--GRAY: Yes. Yeah, the Russians were are allies; what are you talk-- Yes, it
+did surprise me. I didn&#039;t even think about it until later.
+
+REDMAN: Fascinating.
+
+GRAY: At the moment, I was shocked because I was being disciplined for daring to
+walk instead of take the transportation that I should have.
+
+REDMAN: Okay. So they wanted you to take the bus or to--
+
+GRAY: Oh, yes.
+
+REDMAN: I see. As opposed to walk.GRAY: Well, there were buses that shuttled.
+There were shuttles that went between places.
+
+REDMAN: Oh, I see. So it wasn&#039;t like a public--
+
+GRAY: Oh, it wasn&#039;t a public bus. Oh, no, no.
+
+REDMAN: Okay. But you had chosen to walk to get the exercise?
+
+GRAY: [laughs] Yeah. Well, it was fun to walk.
+
+REDMAN: Yeah. Okay. Well, it is.
+
+GRAY: Then one of the other things that I really remember is at the same time
+they were building the bomb, there were people experimenting with nuclear
+medicine, in one of the brown-shingled buildings. It&#039;s still there on the
+campus. Often, I had to take messages there. At the time, they were
+experimenting with children who had fatal cancer. My contention to anybody who
+gets upset about the atom bomb is that nuclear medicine has probably saved a
+hundred-thousand times more lives than the atom bomb ever killed.
+
+REDMAN: Interesting.
+
+GRAY: So it shows you that in war, there are many things going on.
+
+REDMAN: Can you tell me, was that sort of the extent to which you were familiar
+with medical projects on campus?
+
+GRAY: Yeah, that was it.
+
+REDMAN: Okay. Now, as far as meeting some of these famous scientists, can you
+recall how sort of those interactions may have happened, either accidentally or intentionally?
+
+GRAY: Oh, no, I was just taking messages to their offices. Yes. But there
+wouldn&#039;t have been much interaction, but I did get to go and meet them because I
+had to deliver something.
+
+REDMAN: Sure. Now, I know especially following the dropping of the atomic bomb,
+but maybe even a little at the time, these scientists were quite famous figures
+and they were something that you would&#039;ve read about in the newspapers.
+
+GRAY: Right, exactly.
+
+REDMAN: Absolutely, then afterwards, they became--
+
+GRAY: Yeah, afterward.
+
+REDMAN: --real celebrities.
+
+GRAY: More afterward than during, yes.
+
+REDMAN: Their work was extremely top secret.
+
+GRAY: Well, the project was very secret. We didn&#039;t know what we were working on.
+
+REDMAN: Did you have any sort of inkling about what it was?
+
+GRAY: No.
+
+REDMAN: Nothing whatsoever.
+
+GRAY: Had no idea, no.
+
+REDMAN: Okay. Did you contemplate ever, or did you sort of fantasize about what--
+
+GRAY: No.
+
+REDMAN: Okay.
+
+GRAY: No, and I can remember later on, I was typing these reports and the
+reports would be more blacked out stuff than stuff you had to type. They were so
+censored. I can still remember that.
+
+REDMAN: So okay, tell me about that. So this was another part of your
+responsibilities, was to type out reports.
+
+GRAY: Well, later on, when I was no longer a messenger girl, I was doing typing
+of these reports. I&#039;m the world&#039;s worst typist, by the way.
+
+REDMAN: Okay, but you had the security clearance.
+
+GRAY: Oh, yes. But you didn&#039;t get to read it. I don&#039;t know why they had us doing
+it. We were making facsimiles of things. They called them faxes at the time?
+
+REDMAN: Facsimiles, yeah, or copies.
+
+GRAY: Exactly. That was what we had for copying.
+
+REDMAN: Would you type them, then, on multiple sheets of paper or onion leaf,
+the really thin paper that could then be duplicated?
+
+GRAY: Whatever they were using. Whatever they were using for the facsimile
+machines or the fax machines at the time.
+
+REDMAN: Sure.
+
+GRAY: Yeah. Oh, that was very avant-garde, of course.
+
+REDMAN: Okay, yeah. Yeah. [they laugh]
+
+GRAY: I pulled-- Yes, old stuff.
+
+REDMAN: Yeah, I printed this this morning, yeah.
+
+GRAY: This is a little aside, but one of my nephews is an opera singer, and he
+came here to sing a role in Doctor Atomic. [laughs] I asked him if they would
+have a role for a messenger girl. But they didn&#039;t.
+
+REDMAN: They didn&#039;t. Okay.
+
+GRAY: No.
+
+REDMAN: So tell me then, when the bombs were actually dropped, did you have any
+sort of awareness? Okay.
+
+GRAY: No, none.
+
+REDMAN: When did you come to be aware that you were working for the Manhattan Project?
+
+GRAY: Whoo! When? It was years later, I&#039;m sure. Just as this information began
+to develop and come out, and then you realize, oh, yeah, that was the name of
+the thing I was working on. Yeah. But I&#039;m sure it was several years after the
+war before I realized what it was that I had been working on.
+
+REDMAN: Interesting. So it wasn&#039;t something that when you learned of the
+dropping of the bombs, that there was some sort of light bulb that went off
+that, hey, I&#039;ve been connected with this project in some way.
+
+GRAY: No. No, It was later, much later.
+
+REDMAN: Interesting. Okay.
+
+GRAY: Yeah, much later. They were very secretive. [laughs]
+
+REDMAN: Okay. Can you tell me a little bit more, then, about the security
+procedures, beyond fingerprinting and-- If you were to walk into the building at
+the cyclotron, do you recall what sorts of--
+
+GRAY: I had my pass that I wore. It was like a thing around your neck, with an A
+on it.
+
+REDMAN: I see.
+
+GRAY: No, there was no stopping.
+
+REDMAN: That was that.
+
+GRAY: No, stopping, yeah. There was no stopping you or wanding you or anything
+else like that.
+
+REDMAN: Right, yeah, exactly . Okay, so it&#039;s not even like going through airport
+security nowadays.
+
+GRAY: Oh, no! No. No, you had a badge. You had to have your badge, yes.
+
+REDMAN: Okay. Did the badge have a picture on it, do you recall?
+
+GRAY: I don&#039;t recall.
+
+REDMAN: Okay. Just out of curiosity.
+
+GRAY: No, I don&#039;t recall if it did or not. Just had a big A on it.REDMAN: Okay.
+Now, you would always carry things in those tubes, in the locked tubes? Or were
+there other times that--
+
+GRAY: Now, did I? I can&#039;t even remember if I took stuff other-- Maybe if you
+were going to the medical group, you might have been just carrying something, yeah.
+
+REDMAN: Okay. Okay.
+
+GRAY: But the tube is very-- that&#039;s something that you would remember carrying.
+
+REDMAN: Remember, sure. And it was red, it was a giant red [laughter].
+
+GRAY: Red, yes. [they laugh] So it would be identified.
+
+REDMAN: Right, exactly. This is not intended to go to the Soviets. Okay. So you
+felt at the time like the dropping of the atomic weapons were necessary. Then
+certainly, when your husband came back, realizing how close he had come to being
+in line for the invasion of Japan.
+
+GRAY: Well, another thing that happened--and this was years and years later--we
+went to Japan.
+
+REDMAN: Do you recall about when this was or what decade?
+
+GRAY: It was in 1987, something-- about twenty years ago. We went down to
+Hiroshima, of course. We wanted to see it. There, we saw a monument that was
+made for the children of Hiroshima. Now, you&#039;re thinking it&#039;s because all these
+children were killed. No. There were children killed, but this was a monument
+because virtually, there were no men left in Japan to work, and they had brought
+in twelve-year-olds to work in Hiroshima. Of course, they were all killed. So
+they have a special monument to these children. So that, I think again,
+convinced me that probably, the atom bomb was the best thing that could happen
+because if there had been an invasion in Japan and they had no men-- They were exhausted.
+
+REDMAN: It would have been devastating, you think.
+
+GRAY: Oh, it would&#039;ve been devastating to them and also devastating to us, yeah,
+to have made the invasion. And they were preparing for the invasion.
+
+REDMAN: So that&#039;s something that you certainly have reflected on--
+
+GRAY: Oh, yes.
+
+REDMAN: --but it&#039;s a feeling that you&#039;ve maintained, you think.
+
+GRAY: Well, I think it just gave me more reason to think that it was more
+reasonable to do it. And the other was that this was thirty-five years after
+they dropped the bomb. Hiroshima was a totally rebuilt, lived-in, going city;
+whereas there had been all these dire predictions of nothing could be done. It
+was like Tokyo.
+
+REDMAN: Okay, yeah. It&#039;s a busy place.
+
+GRAY: And it was thirty-five years later, yes. Yeah. So those things have made
+me think that maybe it wasn&#039;t the worst idea, the worst thing that could&#039;ve happened.
+
+REDMAN: Sure. Sure. So I&#039;d like to ask, at the end of the war, in particular VE
+Day and VJ Day, do you remember what you felt at those times? Was it a mix of
+emotions at all? Were you happy the war was over?
+
+GRAY: VE Day, we were happy. Well, because I think we had seen those horrible
+pictures of the camps, and I think that probably, that was most in our mind.
+Because the war was still going on for us. We still had a war that wasn&#039;t finished.
+
+REDMAN: So you were thinking, in some sense, about the concentration camps of
+the Holocaust and--
+
+GRAY: Yes. Oh, yes.
+
+REDMAN: --what an atrocity that had been.
+
+GRAY: Yeah. One of my uncles went into one of those and he would never talk
+about it. Later on, we did visit Dachau. I can recall there, thinking, if people
+were doing this at random, you just had a random bunch of people and you put
+them in the gas chamber-- There was a page in a book for every single person
+that went through. I was horrified by that more than anything else.
+
+REDMAN: So the organization, really.
+
+GRAY: Oh! Oh! I couldn&#039;t believe that people would do that kind of thing.
+
+REDMAN: Interesting. Okay.
+
+GRAY: But anyway, the feeling was more how wonderful it was that that was not
+going on anymore. Then VE Day, I was actually working in San Francisco--
+
+REDMAN: Okay, or VJ Day.
+
+GRAY: VJ Day.
+
+REDMAN: Oh, okay. Wow.
+
+GRAY: VJ Day, we were working in San Francisco. Of course, we were young girls.
+So our boss came in and said, [laughs] &quot;I think all you girls better get out of
+here and go home.&quot; So we did. I remember being sent home, probably about noontime--
+
+REDMAN: I see. Okay.
+
+GRAY: --on VJ Day. He was right, because the whole city just erupted.
+
+REDMAN: Yeah, yeah. It was a little chaotic, yeah.
+
+GRAY: Yes, very much so.
+
+REDMAN: I can imagine it would be a little rowdy in the city of San Francisco.
+
+GRAY: Well, but he was very nice, because we were seventeen- and
+eighteen-year-old girls.
+
+REDMAN: Yeah. Yeah. It was a positive happy day, but you better go home.
+
+GRAY: But get out of the city. [they laugh]
+
+REDMAN: Yeah. Okay. Okay. So I&#039;d like to ask something before I forget, that is
+an event that takes place in 1946, and a lot, a lot of people have forgotten
+about it. There was a three-day-long strike called the Oakland general strike
+that shut down the city for about three days. Do you recall that event? There
+was a group of unions that had a big strike in Oakland in &#039;46. Okay.
+
+GRAY: In Oakland?
+
+REDMAN: Yeah. It seems like a lot of people have forgotten.
+
+GRAY: No, I don&#039;t remember. I don&#039;t even remember it. Probably, closing down
+Oakland seemed like a good idea. [they laugh]
+
+REDMAN: Okay. So similarly, I&#039;d like to ask about a city that my guess is that a
+nice young girl like yourself, during the war, would&#039;ve had no familiarity with.
+But my understanding was that El Cerrito was a bit more like Las Vegas--
+
+GRAY: Really?
+
+REDMAN: --than it is now.
+
+GRAY: El Cerrito?
+
+REDMAN: El Cerrito, of all places. Okay, but that comes as a surprise.
+
+GRAY: That comes as a total surprise, yeah.
+
+REDMAN: Interesting. Okay. All right. So yeah, sort of the last question I&#039;d
+really like to ask about the war is sort of, if you could reflect on the war,
+and in Berkeley in particular, how do you think the war may have shaped Berkeley
+in any particular way? It seems, in some sense, kind of like it was isolated
+from a lot of the war; but in another sense, it might&#039;ve been influenced by the war.
+
+GRAY: Well, I don&#039;t know. You asked about the immigrant thing, and people feel
+like a bunch of black people came into Berkeley at that time. But in 1936, when
+we arrived here. St. Joseph&#039;s already had a black community. So it wasn&#039;t--
+
+REDMAN: It wasn&#039;t quite a shock.
+
+GRAY: The fact that there were different people coming in was really no shock to
+Berkeley at all. Berkeley didn&#039;t really change all that much.
+
+REDMAN: Okay. So now, Richmond changed a lot, it seems like.
+
+GRAY: Richmond changed a lot, because it was a very small place that all of a
+sudden became a big place.
+
+REDMAN: Okay.
+
+GRAY: Maybe they weren&#039;t quite as settled a community, so that more bad things
+could happen there than would happen here.
+
+REDMAN: Okay. Okay.
+
+GRAY: Yeah. Of course, at that time, we had the premier police force of the
+whole United States in Berkeley.
+
+REDMAN: Is that right?
+
+GRAY: Oh, yeah. Yeah. So we&#039;ve always been a kind of, I don&#039;t know, a contained community.
+
+REDMAN: So one of the things, then, I&#039;d like to ask about is immediately after
+the war, a lot of people came back to California, of course. But then may
+students who had been at Berkeley resumed their studies, people who had gone off
+to war.
+
+GRAY: Sure.
+
+REDMAN: I&#039;m curious. It seems like that would&#039;ve been a time where a lot of new
+students would&#039;ve come to campus, in &#039;46, &#039;47, &#039;48; but it also seems, in some
+sense, like a quite idyllic time, in that people were relieved to be done with
+the war and moving on with their life. Was that your case?
+
+GRAY: Probably no. I didn&#039;t go back to school ever. That was one of my fears in
+life, was ever having to go back to school.
+
+REDMAN: Okay, so you were ready to be done.
+
+GRAY: [laughs] So I was done. And my husband never went back. He and his
+brothers started a business, rather than go back to school. So we weren&#039;t
+involved in what was going on--
+
+REDMAN: On campus.
+
+GRAY: --on the campus. But I feel that it was probably a more mature group and
+probably a more settled group. Now, after the war, housing was a pre-mi-um. We
+didn&#039;t marry until May of &#039;47, and two weeks before we got married, we didn&#039;t
+have a place to live.
+
+REDMAN: Okay. A little bit of a panic there at the end?
+
+GRAY: There was nothing, to begin with.
+
+REDMAN: Nothing to be had. Okay.
+
+GRAY: Talking about the people coming back from[sic] campus, they would come
+back and then they would marry, and they would move into housing. We had made
+some friends and tried, through then, when they had found some, to find some.
+But it was a real problem after the war.
+
+REDMAN: It seems likely to me that most soldiers coming back from the war
+wouldn&#039;t want to move into a fraternity house, that they--
+
+GRAY: Exactly. They&#039;re a little bit more mature, they&#039;ve done things. Yes, yes.
+
+REDMAN: Yeah. Yeah. Okay. Interesting. So with that, I&#039;d like to sort of ask
+you, to then conclude, if you can reflect on-- We&#039;ve talked about a lot of
+subjects today. We&#039;ve talked about a lot. Everything from farm life in Iowa to
+bicycles in Berkeley--gosh, I&#039;m looking at this list--Port Chicago, a lot in
+there. But you mentioned that the war was actually a fun and exciting time, in
+some sense, for you and a lot of other young people at that time. Can you sort
+of reflect on the place of the war in your life?
+
+GRAY: The place of the war in my life. Well, my father didn&#039;t have to go to war;
+he was too old and had too many children, so he didn&#039;t have to go. So the war
+didn&#039;t really impact our lives that much. It just, I think, opened up new venues
+that we wouldn&#039;t have thought of even trying to be in before. Especially my
+sister and I singing. We would sing for school, we would sing for nice wedding
+groups and things like that; but here was a whole new venue that opened up.
+Probably, stayed that way after the war, that it opened up our thinking a little
+bit maybe, yeah. But I think fun is probably the bad word to use for it.
+
+REDMAN: Sure.
+
+GRAY: But it was new adventures. It was doing new things and doing the things we
+liked for new people. More of that than anything.REDMAN: I like that. That&#039;s
+very interesting. All right, well, I&#039;d like to say thank you for sitting down
+with me.
+
+GRAY: Oh, you&#039;re very, very welcome.
+
+REDMAN: I appreciate it. Excellent.GRAY: Good.
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

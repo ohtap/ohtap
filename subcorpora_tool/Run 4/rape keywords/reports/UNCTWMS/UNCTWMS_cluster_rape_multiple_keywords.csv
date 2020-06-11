@@ -1,0 +1,118 @@
+word_1,word_2,count
+rape,raped,22
+rape,sex* violence,16
+rape,sex* abuse,16
+incest*,rape,14
+harass*,rape,12
+rape,sex* assault,12
+harass*,sex* assault,12
+sex* assault,sex* violence,12
+attack,rape,10
+child abuse,rape,8
+raped,sex* abuse,8
+child abuse,sex* abuse,8
+attack,raped,8
+raped,sex* violence,8
+rape,rapes,6
+molest*,raped,6
+anti-rape,rape,6
+raped,sex* assault,6
+harass*,raped,6
+sex* abuse,sex* violence,6
+incest*,sex* violence,6
+molest*,sex* abuse,6
+raped,raping,6
+harass*,sex* violence,4
+attack,sex* abuse,4
+harass*,sex* abuse,4
+child abuse,raped,4
+attack,molest*,4
+anti-rape,attack,4
+incest*,raped,4
+incest*,sex* abuse,4
+sex* abuse,sex* assault,4
+anti-rape,incest*,4
+molest*,rape,4
+rape,raping,4
+attack,pedophile,4
+pedophilia,sex* abuse,4
+pedophile,sex* abuse,4
+pedophile,pedophilia,4
+molest*,pedophilia,4
+child abuse,pedophilia,4
+molest*,pedophile,4
+child abuse,pedophile,4
+child abuse,molest*,4
+attack,incest*,4
+pedophile,rape,4
+pedophile,raped,4
+harass*,incest*,2
+rapes,sex* assault,2
+harass*,rapes,2
+attack,harass*,2
+outrage,raped,2
+clarence thomas,raped,2
+clarence thomas,outrage,2
+attack,insult,2
+harass*,outrage,2
+molest*,outrage,2
+harass*,molest*,2
+outrage,rape,2
+attack,outrage,2
+anti-rape,outrage,2
+incest*,sex* assault,2
+anti-rape,sex* assault,2
+anti-rape,sex* abuse,2
+anti-rape,sex* violence,2
+molest*,sex* assault,2
+attack,raping,2
+attack,pedophilia,2
+attack,child abuse,2
+molest*,sex* violence,2
+attack,sex* violence,2
+rape,seduce,2
+child abuse,sex* violence,2
+insult,raped,2
+pedophilia,rape,2
+rape,sodomy,2
+playboy,rape,2
+raped,rapes,2
+pedophilia,raped,2
+raped,sodomy,2
+playboy,raped,2
+rapes,raping,2
+raping,sex* abuse,2
+pedophilia,raping,2
+pedophile,raping,2
+molest*,raping,2
+raping,sodomy,2
+playboy,raping,2
+child abuse,raping,2
+rapes,sex* abuse,2
+pedophilia,rapes,2
+pedophile,rapes,2
+molest*,rapes,2
+rapes,sodomy,2
+playboy,rapes,2
+child abuse,rapes,2
+sex* abuse,sodomy,2
+playboy,sex* abuse,2
+pedophilia,sodomy,2
+pedophilia,playboy,2
+pedophile,sodomy,2
+pedophile,playboy,2
+molest*,sodomy,2
+molest*,playboy,2
+playboy,sodomy,2
+child abuse,sodomy,2
+child abuse,playboy,2
+harass*,insult,2
+anita hill,rape,2
+attack,rapes,2
+incest*,rapes,2
+anti-rape,rapes,2
+anita hill,rapes,2
+anita hill,attack,2
+anita hill,incest*,2
+anita hill,anti-rape,2
+raping,sex* violence,2

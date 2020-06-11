@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042031" dt="2018-08-15"><version>5.1</version><date value="2002-12-16" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Harriette Stewart Interview #1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Harriette Stewart</interviewee><interviewer>Kathryn Stine</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>STINE: I&#039;m here today with Harriet Stewart, and it&#039;s the 16th of December 2002.
+We are going be talking a little bit about her time in Richmond, her time
+working at the shipyard, and what she does now. Just to get started, I&#039;d like to
+talk about your background a little bit. Can we first get your full name and
+where you were born?
+
+STEWART: Yes! Harriette Dendinger Stewart was my maiden name. And I was born in
+Harington, Nebraska, 7, 23,1919. The third of five children of Will and Martha
+Dendinger. We grew up on the farm, 8 grades, then my folks sent my three sisters
+and me to live at Mount Marty Academy in Yankton, South Dakota, a Benedictine
+convent. We spent all our high school days there. We walked across the Missouri
+River on Monday morning and up through town, past Lawrence Welk&#039;s house and up
+to the school and spent the week there. Then on Friday night, we walk back home
+across the river and a hired man was there with the car to take us home for the
+weekend. We had a wonderful life. Our folks didn&#039;t give us a lot of money, but
+they gave us rich things like trips. In 1926, two families of us drove to Long
+Beach, California and spent the winter. There were five children in our family
+and four in theirs. Every weekend in Long Beach, we went sight seeing.
+
+STINE: How old were you then?
+
+STEWART: I was in the first grade.
+
+STINE: Oh, Wow!
+
+STEWART: Scared to death, because our country school was altogether different
+than 35 children in one room, in a city school. But it was quite an experience
+and we talk about today even how wonderful that trip was. But our folks also
+took us on trips to Yellowstone, the Black Hills, and Lake of [Calbogie], and
+all over South Dakota and Nebraska. So we had a wonderful background for growing
+up wholesome. We had wonderful parents. Oh, my goodness! Just such wonderful
+parents and that meant a lot to us.
+
+STINE: What did they do?
+
+STEWART: We lived on the farm, but my Dad didn&#039;t like to farm so we always had a
+hired man. But he dealt in cattle--buying and selling cattle, and he made his
+living in cattle. My mother was a teacher before she was married and then became
+a mother right away. So that took her time for five children. They retired in
+1946, I think it was, and came to San Francisco, and lived for 30 years, and
+enjoyed the wonders of the city. Of course, age caught up with them, and they
+are both dead now. But we were a close family and that was good. We always
+enjoyed going to see Mom and Dad, and the kids did too--their grandchild, so
+that was great.
+
+STINE: That first trip that you had to California, do you remember your first
+impressions of going to California? What kind of things your family would talk
+about, remembering what was like?
+
+STEWART: We camped. The two weeks or so that it took us to drive that far, and
+there were hardly any maps, no paved roads, mostly gravel or dirt roads. Once in
+a while, the two cars would stop and wonder if we were on the wrong
+road--somebody said &quot;You turned the wrong road&quot; and &quot;No, I didn&#039;t.&quot; [laughter]
+They had to decide who was right, but we camped all the way. We took everything
+with us, our tents, our sleeping things--course you didn&#039;t have sleeping bags
+then. We put something tarp on the ground and our blankets were the pillow and
+that was it. [laughter] So, you had a hard bed.
+
+When we landed in Long Beach, both families landed in a motel right on the beach
+until they can find a house to live in. That only took a week and we found a
+house, two houses in the same block. So we lived there and the kids all went to
+the same school, and that was great. But we went to all kinds of places, the
+Busch Gardens down there, and out on the bay on the boat to see what boat life
+was--they were displaying, everything! There was a big fun village in Long Beach
+at that time, something like Disneyland only not that great, but that was an eye
+opener too, you know. We grew up as kids thinking we were grownup, you know
+[laughter], seeing all that from the farm, it&#039;s quite a change. One thing we
+were blessed with, we were never sick, never sick. We never went to the doctor
+not unless there was a broken bone. Home remedies took care of everything. That
+was it. The two families of us when we came back, we always had parties and
+dinners together. We would pop a dishpan of popcorn for nine kids and two
+batches of fudge and play cards. [clearing throat] Of course, the folks went to
+the living room, [laughter], and listened. That was great growing up with that
+other family. It was a nice treat.
+
+STINE: Did they ever make their way out to California also?
+
+STEWART: Oh yes, they came up to see us. I just finished a Christmas letter to
+the one that lives in Illinois and one more to write in Nebraska. So they are
+two of them left and two of us left. We compare.
+
+STINE: That&#039;s great that you are still in touch.
+
+STEWART: Yeah, oh yes! That&#039;s marvelous. I think family friends of that
+duration, say 70 years, it&#039;s a good token to enjoy. So then I came out here. I
+went to Creighton in Omaha, and took nurses training there and graduated in1941.
+
+STINE: Before that, could you just talk a little bit about your decision to go
+into nursing and how you mentioned that in your family none of children never
+were sick and your parents weren&#039;t sick.
+
+STEWART: No, they never were. Well, my grandmother had cancer and was in bed at
+home dying. They had a nurse come take care of her. It was Fern [Renner] who was
+Mrs. Lawrence Welk eventually. She made such an impression on the family, what a
+lady she was--impressed us kids, we just looked at her and stared at her,
+because she was such a wonderful person all around. I thought well, that would
+be pretty good, because that would be different than being a teacher. My mother
+was a teacher and I thought, &quot;Well, let&#039;s try this.&quot;
+
+So I went into nurses training and was scared to death. I was on limited
+income--I didn&#039;t have any money, and another thing I had grown to be 5 foot 10
+tall, so I was a freak. I didn&#039;t have a lot of clothes and I couldn&#039;t borrow
+anything, so I didn&#039;t date anybody because I didn&#039;t have the money to go out nor
+the clothes. When you are that tall, you can&#039;t borrow nor can I go across the
+street to have a hamburger. But I was so used to growing up that way that it was okay.
+
+STINE: So you&#039;ve always been tall?
+
+STEWART: Oh yeah! I was used to people, &quot;What happened to you?&quot; or something.
+But that happened quite often and you just got so you shrug your shoulders, you
+know. Fortunately, you grow up and you don&#039;t let things like that bother you too
+much. It&#039;s pity if you do. I came out here with four other nurses that we all
+graduated together. Two of us went to L.A, and two up here because their
+husbands were in the navy, doctors and they were going to be shipped out, so
+they came up to San Francisco. While they were waiting for the husbands to call
+them to go overseas to live with them, they started to work at the shipyard.
+They called us right a way and said, &quot;If you want a good job, come up here for
+pay.&quot; So I worked at Good Samaritan in L.A for three months and quit there and
+came up on the train. When I left Omaha, I had a hundred dollars in my purse. My
+Dad asked me, &quot;Do you have enough money,&quot; and I said &quot;I have hundred dollars and
+my ticket. That was all right, I didn&#039;t get anymore, but that was all right. Of
+course you are on the train, you seat up for two days, two nights, [laughter],
+and that&#039;s way life was. But I came up here and I went down to Pill Hill and
+applied with Millie Cutting.
+
+STINE: In Pill Hill, Oakland?
+
+STEWART: In Oakland, and that&#039;s where the office was for the Kaiser people.
+Millie Cutting read my application, and said, &quot;Can you go to work this afternoon
+at Yard One?&quot; I said, &quot;Well, yes.&quot; I was pleased, I think, oh my goodness! My
+friend had taken me, my nurse friend, so she took me to Yard One. As we went
+down Cutting Blvd., it was two lanes wide and on 14th and Cutting, they were
+just pouring the cement for the foundation of the first Kaiser Hospital.
+
+So I went to work in yard one and let me tell you, that was an eye opener,
+because I never seen so many people. Had to get my picture taken first and given
+a badge so I have that, and was taken down to the first aid little clinic area
+that we had. We had a doctor, three RNs and two first aid men and a van for the
+medical care. We worked six days a week quite often. All of the shipyard men
+worked six days a week. I lived in San Francisco for a month when I first came
+up here. Then those girls got called to go with their husbands so they left
+their apartment in Berkeley on Spruce and Hearst, so I slept over there right
+away for shortening the commute thing and lived there for over four years. So,
+that worked out great.
+
+STINE: Had you considered moving to Richmond?
+
+STEWART: No, no. It was so nice living in Berkeley, because it was very safe
+then--you can walk anywhere and not worry. Even though it was late at night,
+people walked. I was lucky there were a man across the street that drove out to
+the shipyard eventually, so I rode with him quite a bit to work. Of course, it
+was ride to and from, so that worked out great. Then they saw the nurse that was
+with me and got her call to go into the navy nurse corp.
+
+At that time, I have met my husband-to-be and we were married January, 16th,
+1944. He lived on Woolsey and Berkeley and he moved over to my place, because we
+had a better apartment. We lived there until I got pregnant with twins and then
+we had had a place to live with two children. I had taken care of a lady whose
+husband was head of the Richmond Housing authority. She said, &quot;You go out and
+see him, he&#039;ll get you an apartment.&quot; Because finding a place to live was
+impossible.STINE: This is in 1940--?
+
+STEWART: &#039;46. It was really just--. If anybody moved, there were somebody in
+there the next day, they knew. We had a deposit on a place in Walnut Creek in
+case nothing turned up, just in case we had a place to go. But we went out to
+see this man and he gave us an apartment on South 13th . I thought that&#039;s only
+three blocks from the hospital, that&#039;s good. So we lived there for four years
+and saved every nickel and bought a lot on 14th and Virginia and built a duplex,
+and I helped. Then, we bought a lot across the street and built another duplex,
+and we kept buying lots on the south side and building houses on them and
+renting them. We did that for twenty-seven years. My husband was ten years older
+than I was and it was getting risky to go down at night to collect rent, if we
+had to go back, so we sold them. We said that&#039;s time enough. So we sold them. We
+had bought this place, because another daughter was coming here so we had three
+children needed a bigger house. I&#039;ve been here since 1956, so this is the last
+move I&#039;ll make, I hope. My husband died thirteen years ago and I lived fine. I
+took care of being four and half years giving daily care for his health, and
+couldn&#039;t go anywhere but that&#039;s okay, I&#039;d did what a wife would do. We worked
+together all the time we were married--forty-six years, and we pulled together
+and that was good. Whatever we did, we did it together, and that&#039;s the way it
+worked. Didn&#039;t know any different, really. We also built a house up in
+Placerville for the summer home. We went up there every week or two weeks and
+enjoyed that. That was a great deal.
+
+STINE: I want to jump back now we kinda got a sense of where you&#039;ve been living
+and what you did from the war on. I&#039;m gonna jump back and kind of figure out
+what life was like for you being a young nurse in the shipyards and kind of
+start there going in.
+
+STEWART: You know, in the shipyard, we were the only women allowed in the
+shipyard at first before Rosie the Riveter came. We wore uniforms and we&#039;re so
+well respected. The men treated us with courtesy beyond. We were very busy, we
+didn&#039;t sit at all, we were busy the eight hours at every shift.
+
+STINE: So the pace was really--
+
+STEWART: Yes, we had a clerk that would register the men and they sit out in the
+front room until we could take them in the treatment room. There was really all
+kinds of little injuries, bruises and broken bones and cuts and flash burns for
+the welders and foreign bodies in their eyes. Believe or not, I learned to take
+X-rays from the first aid man, and took all X-rays for the arms and legs of
+people had been hurt.
+
+STINE: And that wasn&#039;t something that your nursing school you ever expected--
+
+STEWART: [laughter] No, no. We developed our own film and everything.
+
+STINE: Oh, wow! All right there?
+
+STEWART: Yeah, all right there! Had an X-ray table and a little dark room that
+was just a closet and we had plenty of films. It&#039;s just learn it once, you know
+what to do, you know--how to expose the machine to get the right picture. When I
+think of those foreign bodies in eyes, us nurses took care of all that--dug
+those foreign bodies out. Didn&#039;t even think about calling an optical man, we
+just did it all by ourselves.
+
+We didn&#039;t have a sterilizer for instruments, but we washed our instrument very
+good and put them in trays of antiseptic and that was it. We never had any
+infection. Never! If a nurse will wash her hands and follow a lot of good
+old-fashioned rules, you&#039;re all right. Gee, we had a lot of burns--people got
+burned from the machines that they had.
+
+STINE: So not just from the welding but also--
+
+STEWART: Any other things that was hot. A lot of sprained ankles and shoulders,
+and sprained fingers and hands, and ankles. The people were treated and sent
+back to work--they didn&#039;t go home for a week, no days off.
+
+STINE: Wow, just immediately in most cases--
+
+STEWART: Unless you are on a crutch then that was different. The first aid man
+would put you in the van and take you to the gate. Of course, we call his family
+and have them at the gate. The first aid man would take him to the gate and then
+he has to see and go to Richmond Hospital for any further-up care until he can
+come back.
+
+STINE: How did people get to and from Kaiser Hospital from the van that you had
+there or was there an ambulance?
+
+STEWART: No. If the family wasn&#039;t there, then the little van would takes them to
+the hospital. But we&#039;d always call and get the family to be there at the
+gate--be there and take them. Of course they were their husbands or their sons
+or something, you know, so they wouldn&#039;t fail to come. If they had a broken leg
+and it was a hospital case, it would go to Richmond Hospital on 23rd Street.
+Then Kaiser brought that old Fabiola in Oakland and expanded right out way. So
+if anything had to go to or be hospitalized, then they would take them to Kaiser
+Oakland. They take them to that back door--used to be a back door on Broadway,
+so that was the medic and surgery care that they had. Kaiser could be proud of
+the care they gave them too without this so-called city ambulance coming that
+they have today for people. Kaiser gave good care all along.
+
+The medical doctors were very good. We had in Yard One several old retired
+doctors that had come back, because of the war effort. So the one that we had
+Robert Jones in Yard One for a long time was a pediatrician in Ventura. When the
+wartime came, the doctors had to go in the service--navy or army or Coast Guard.
+So the old people came back, and that was the same picture with the nurses, the
+RNs. I was the youngest one in Yard One, because all of the rest were older
+because their husband or children or cousins or something had gone into the
+service and women then wanted to help with the war effort and they did.
+
+STINE: So all the other nurses had come out of retirement or--?
+
+STEWART: Yes. They had kids in high school some of them, so that&#039;s what
+happened. The staff was older and reliable--good old nurses. That was good.
+
+STINE: Had they all had experience with kind of the first aid?
+
+STEWART: No. No. They all been in hospital work, and that was about it. No, they
+didn&#039;t have any experience of outside work then. It wasn&#039;t available, only work
+that nurse could get would be in a hospital then, or doctor&#039;s office, and that
+be if you were really old and walking crippled or something, you know, something
+where you couldn&#039;t run on the floors like in the boards.
+
+I would say we gave good respectable care. If a man got a bandage on his hand,
+he could come back the next day and get a clean bandage until it was fixed, so
+it was a lot of follow up care. But we expected that. The people who had a lot
+of flash burns were people who didn&#039;t know how to cover their eyes for welding
+and they get exposed to that burn, that flash burn and then they&#039;d be in
+trouble. Then the welding people got a hold and clamped down on that happening a
+lot. But you can&#039;t avoid too much foreign bodies in the eyes from that flying stuff.
+
+STINE: How much back and forth was there between people working in the first aid
+and people managing workers out in the shipyard? How did they try to prevent
+future hazards or future--?
+
+STEWART: Well, that was the safety office where my husband was. The safety
+office had men around the clock who were out in the yard and if there was an
+accident, they were right there to see what happened, who was hurt, how they can
+prevent it, and don&#039;t let it happen again in any way. The safety office was very
+productive and sought to it for the safety of the men. That was good, because oh
+my land, a lot of those people didn&#039;t have any experience about a boat--all they
+knew was climbing up fifty stairs and getting a job up there. No, the people
+didn&#039;t know anything about the job when they first came. They had, I don&#039;t know
+how many men they had hired, but from this picture here, you&#039;ll see how many
+thousands of men came. Some of them came because they had sons in the service
+and they were seventy years old. It was all ages of men.
+
+STINE: Did you have people that were 4F that had not been able to--?
+
+STEWART: Yes! Yes! That was a lot of 4F.
+
+STINE: I&#039;m curious. Did you ever treat people that have pre-existing conditions?
+
+STEWART: No. That we didn&#039;t do. People were very good about that, and didn&#039;t
+take advantage of the care there.
+
+STINE: I know that Kaiser didn&#039;t have any limitations at that time. So did
+people where they&#039;ve been kind sent to Fabiola or to--?
+
+STEWART: Referred to their own private doctor whoever they want to go to in the
+downtown Richmond.
+
+STINE: Okay. Were there many doctors still around at that point?
+
+STEWART: Not too many. We had a fair amount of bottles of aspirin and I forget
+what else but very little narcotics--maybe one dose. And I think all we had in
+that narcotic cupboard was morphine and some codeine tablets, nothing else. It
+was in a cabinet on the wall back of the doctor&#039;s desk and I don&#039;t think the key
+was in the door. That was the care we had then. Of course, you wouldn&#039;t last if
+you pull anything shady, because everybody would know it right there,[laughter]
+you&#039;re called on the carpet and out! Until some of the doctors went into the
+service, they were young, and they were filling in maybe a month or two of time
+before they had to leave. We had a fair amount of young doctors. In fact,
+several of them stayed because they did become 4F and went to Kaiser Oakland and
+worked. So, that was way life was, but it wasn&#039;t fancy--no trim, but basic good
+and no corners were cut for the care of the people. But the whole staff was
+happy too. It was good. We were kind of like a family. Doctor Jones lived in
+Albany and he had us to his home two or three times, you know, a year. So, it
+was like a little social thing on the outside that we knew everyone very well,
+and you got along that way. Even Doctor Jones&#039; wife worked as a clerk there in a
+little, to register patients.
+
+STINE: So everybody&#039;s working there?
+
+STEWART: Yes, everybody did. Everybody did.
+
+STINE: I wonder if you could maybe kinda reconstruct a typical day for you in
+those first couple of years at the shipyard? How you got to work? What the pace
+of your day was like when you got to work? Where you ate lunch?
+
+STEWART: Well, we did wear uniforms. I had a nurse&#039;s cape from graduating from
+school, but I didn&#039;t wear it to and from work but I had to wear a coat or
+sweater for warmth when you needed it. It was nothing to walk down University
+Avenue to San Pablo in Berkeley and get on a bus so it take you to the shipyard.
+
+STINE: So you walked from Hearst and Spruce all way down to San Pablo?
+
+STEWART: Yes. Get on a bus and it would take you to right to the shipyard--to
+Yard One. There would be another bus along to take people to Yard Two or Yard
+Three. When we came out the shipyard at three-thirty, right in front of the--on
+Cutting Boulevard were the gates that you came out and there was a bus to take
+you back to San Pablo and University.
+
+We had nurse that worked in with us from Canada, Lily Vickerson was her name and
+she got her foot caught in the railroad tracks right where the buses picked us
+up outside of 10th and Cutting. She couldn&#039;t get her foot out of the rut and the
+train came and ran over her. We got the van to pick her up and take her Kaiser
+Oakland right away. Doctor Cutting had been on duty all day, and when he found
+out it was one of the nurses, he stayed until midnight taking care that
+nurse--fixing her leg. We, from the shipyard, her co-workers, we all went down
+in different shifts and specialized her for two or three days so she would have
+a familiar face. When she get better, Doctor Cutting released her in due time,
+and they provided her a leg--they had to amputate below the knee. She got a
+false leg, and Doctor Cutting told her, &quot;As long as you live, you can have a job
+at Kaiser.&quot; So, she managed the blood bank instead of doing floor work so it was
+less walking for her. She did that for years, and she did it very well. Of
+course, she retired and went back to Canada. When I was married, she gave me a
+cookbook, Joy of Cooking, with her note in it and I treasure it. [laughter] They
+hired wonderful people--the nurses were very good. We weren&#039;t society&#039;s highest
+level, but we were good people and we worked well and we did our work well. That
+was what Kaiser wanted.
+
+STINE: So do you think there is something about--especially those early years in
+the shipyards to coming down from Kaiser, the kinds of how they managed the
+plant, how they trained people that were going out to the work force, how do
+that have a role in creating this kind [inaudible]?
+
+STEWART: We never saw the work that the people were trained to do, because that
+was out in the field. Usually up on a boat where they were going to be working,
+like the welding or the outfitting, the carpenter work, our little place--our
+little clinic was maybe just across the street from the ways where they did the
+launching. We were right down on the ways.
+
+STINE: Right in the middle.
+
+STEWART: Oh, yes! If the men did get hurt, they didn&#039;t have far to go to the
+little clinic there. The clinic was open twenty-four hours. There was a doctor
+around the clock. Henry Kaiser would come quite often and he&#039;d be on the flat
+bed of a truck sing his heart out and he&#039;d bring in the Andrew Sisters or anybody--
+
+STINE: That he himself would be singing?
+
+STEWART: Oh! He&#039;d sing [singing] &quot;I&#039;m a looking over a four-leaf clover.&quot; He
+just belt out and wave his arms and he got the whole crowd join in, you know.
+The war bonds were a hundred dollars apiece, he sold a quite bit of that. That&#039;s
+what he was trying to drum up too. Course, he was a guest and they treated him
+and the Andrews Sisters or anybody like a guest. They couldn&#039;t roam the shipyard
+or roam all over the place, but they came in and did what they were supposed to
+do. The same way with the launching, the people who launch the boats were
+guests. They had them brought in cars and they walked up on the pad for the
+launching to swing the champagne, and a little speech and that was it. Then the
+boat would swish down in the water right under our noses. Very interesting life.
+
+STINE: There must been so much excitement going around, just amongst everybody
+working there.
+
+STEWART: Yes! And of course the war news wasn&#039;t all roses all the time either.
+Yard Three and little Yard Four and Yard Two and Yard One, we got along very
+well. That was good. If you worked in Yard One, you didn&#039;t have to go to Yard
+Three and work, because they had their own staff there so you didn&#039;t into a new
+territory, or have to look for where the bandages were and all of those things.
+That was well managed--they had full staffs in each yard. The people came in and
+got their treatment and did their work. At four o&#039;clock or when the shift was
+over, everybody headed for the gates to go home. But everybody had to bring
+their own lunch and when the sun was out and it was hot, they&#039;d sit on the
+ground just below our windows in that little clinic and to be in the shade. And
+at first, that was before Rosie the Riveter or anybody feminine were allowed in
+the shipyards. So, at first, they were complaining about the government taking
+their income tax out their check.
+
+STINE: When did that start?
+
+STEWART: I can&#039;t remember for sure, must been &#039;45 maybe or part of &#039;44. But they
+didn&#039;t want anybody meddling with their check before they got it--they were very
+upset about that. But it was a law made and that was it. But then when they
+brought in the women, oh my land, the men laughed at them terribly at first.
+&quot;Look at her! Look at her walk! Look at her! She doesn&#039;t even know how to hold a
+hammer. I wonder what she&#039;d do with that saw?&quot; They were very verbal about it.
+Their eyes got opened about how the women could do the work, and did the work
+and learned the craft, carpenter or welder. So, then the talk died down, you
+didn&#039;t hear any more after they got, settle a bit.[laughter] But it was interesting.
+
+STINE: About how long do you think it took for--, in your opinion?
+
+STEWART: Six weeks, two months.
+
+STINE: Time really prove themselves?
+
+STEWART: Yes. I would have to say the nurses were treated royally. I mean people
+backed out their way for us walking down the way to the clinic from the gates,
+and that was quite a long walk, more than a block--a long block down to we were.
+There were men coming and going, you know.
+
+STINE: This is consistent all the way through the war? People treated you with
+the same--?
+
+STEWART: Oh, yes they did! That was a godsend, because I guess you&#039;d say we
+weren&#039;t holy but we were good people that acted right. So, that was the way to
+if you want to get, you want to give. So, that was the way it was.
+
+STINE: Oh, such a tremendous job! I can&#039;t even imagine that there are just a
+handful of you and so many workers.
+
+STEWART: Oh, yes! That was it, but we were busy. We didn&#039;t sit down, we took our
+own lunches and we in this little clinic. There was a big eye room, an X-ray
+room, and the big treatment room, and a room for them to register. That wasn&#039;t
+half of the building. The back half had a bathroom and room with a bed in it, in
+case somebody had to lay down &#039;til their wife could come or we could reach
+someone. Then we had a room with a table with chairs around the corner. Course,
+that was before microwave, so there was no heat, no fire cooking. You had cold
+lunches, but that&#039;s all right. You know, you didn&#039;t know any different then. So,
+that was the extended the little building--
+
+STINE: How big would you say the building was?
+
+STEWART: There was a place for the ambulance to back to our door. I would say it
+was forty or fifty feet wide and seventy feet long, one story, and it was right
+down on the way, in with the buildings of mechanics and the machine shop and
+all. So, it was quite an experience, an eye opener too. See where you ready go
+everyday. [laughter] Yard Two people were open before we were, so it was
+automatic, that&#039;s the way it was, you know. We chipped in and caught on out, and
+the Yard Three got medical staff. They did fine too.
+
+STINE: I know you didn&#039;t work at the other yards, but did you have communication
+with the other yards, the other teams, to kind of compare notes and see how--?
+
+STEWART: We didn&#039;t communicate too much, no. The women that were older at the
+end of the shift had to get home for some reason, you know. They did cook and
+wash and clean the house besides coming to work. There were two or three of us
+that were married, I think, and we all lived in Berkeley. We didn&#039;t ride
+together, but if we--. Remember that Brennan&#039;s Café down on, near Spenger?
+
+STINE: Oh, that&#039;s still there, yeah!
+
+STEWART: Once a while, we meet in there and have hot something to eat and walk
+home. Very little of that, but that was what we enjoyed. And of course, Doctor
+Jones had us to his house. We all took potluck, so that was a nice way to see
+each other too, off the job. That worked out well. The man that I rode with
+across the street was a perfect gentlemen--I forgot what craft he was doing, to
+weld or something, I don&#039;t know, but anyway, he have drove his car, pick me up
+at the door when I started riding with him. Left me off at the gate on 10th and
+Cutting, and I was there when he came out to come home, and that was it. So,
+that worked out good. But it was quite an experience riding the bus from
+Berkeley out to the shipyard, because it was all new territory for me. I hoped I
+was going to land at the right place, you know, because I didn&#039;t know where we
+were going for sure. [laughter] But it was all very good.
+
+STINE: Can you remember what the ride through Richmond was like--the kind of
+impressions that you had? When you were riding on the bus, did you go pass new
+housing that has just gone up?
+
+STEWART: Yes. There are some houses over here on Carlson that are there yet that
+you recognize where you were, you know, you knew you were on the right road.
+This man across the street also picked up another person and so he detoured a
+little bit over into Albany to a corner where they were waiting. Sometimes,
+there&#039;d be two people there want a ride. That was what everybody did--everybody
+shared rides then, because if you had a car, you couldn&#039;t buy another one, you
+couldn&#039;t buy tires, gas was limited. If you were a shipyard worker, you got a
+coupon for some gas that get you out to work all the time. That was a little
+more than just a family car. I don&#039;t know how much it was, but they needed it.
+That was the way it was. Everybody was kinder in those days. If you needed a
+ride or a hand, it was no problem, people would do that. Not only that, I think
+of when if we would left Brennan&#039;s to walk home, we thought nothing of in the dark.
+
+STINE: Again, that&#039;s a really long way. And I think about it now to walk in the dark.
+
+STEWART: Of course, University wasn&#039;t that busy then. It was an eye opener and
+my folks wanted to be sure I was safe and everything from Nebraska. That was
+about two years later that they retired and came out, so that was good.
+
+STINE: I&#039;m curious about what some of the big differences coming from
+Nebraska--coming out here? What some of the big changes were for you? Of course,
+you&#039;d come to California, when you were young, you had this idea of what it was like.
+
+STEWART: Well, living in Omaha, like I said, I had little allowance but I had
+all my books and my white hose and anything out of that. And five of us could go
+downtown in Omaha and ride in a cab for a nickel apiece--twenty-five cents, see?
+[laughter] I was used to spending money at all and I thought a hundred
+dollars--that was good, did private duty for a while there. I knew how it was to
+save before I ever got here. It was a totally new world, because everything was
+moving faster. I wasn&#039;t used to streetcars and all of that or going to work.
+When I got out of nurses training, I did private duty there and you rode the bus
+to the house where you are gonna work and that was it. There was somebody else
+in the class that came to California, because her husband-to-be was going to be
+shipped out of San Francisco. And wrote back and told us the rate of pay in
+Omaha was thirty-five or sixty-five a month, I forget, and one hot meal and out
+here, it was probably seventy five, so that looked like more money. So, you came
+out here--
+
+STINE: Did that play into your decision to come out here?
+
+STEWART: Yes. I knew I could do better than in Omaha, because if I stayed there,
+I&#039;ll be that position the rest of my life, and why not try something else. So I
+did and it was the best thing I did, you know. But when I went to work for
+Kaiser then, I got a hundred and thirty-five a month and one-fifty after three
+months or so. That was a godsend. Since I knew how to save money, I did really
+very well. I think our rent was, two of us in an apartment, was forty-five a
+month, so that was the way life was then. Of course, there was food rationing
+and I didn&#039;t have a car, and it was public transportation, so that was all
+right. I don&#039;t remember the streetcars were in Berkeley then, but they weren&#039;t
+very much, so that was good.
+
+STINE: Do you remember maybe with your first paycheck ever splurging on
+something big for yourself now that you--?
+
+STEWART: I remember looking at that paycheck and rubbing it, and rubbing it, and
+folding it, and putting it away, and taking it out and looking at it again.
+[laughter] And what was I gonna do with it? Didn&#039;t want to lose it and to think
+&quot;oh my&quot; that was so wonderful. I was blessed with good health, so I never missed
+a day&#039;s work. I got that check every two weeks from Kaiser and that was so much
+better than what I ever had in Omaha. So, that was a godsend. I&#039;ve just written
+and mailed a letter to that George Helverson, the new CE for Kaiser, and explain
+to him that when I see what this tenant group is doing, it scares me. I hope
+that Kaiser is well aware of it, and us retired people are-- what they promise
+us is safe. It was a threatening letter, but it was a nice letter said that I
+know what Kaiser is enjoying today was started by us in 1940, 50 and 60 and 70,
+and let&#039;s keep it that way. So, we&#039;ll see. Those days with the respect that we
+were shown, all the time, women were more respected. Of course, in the shipyard,
+it was wonderful how the people backed out of their way for us. They were very
+courteous, that was great. I&#039;ve always try to live up to that too, you know, I
+would command respect. I met my husband--
+
+Begin Audiofile 2
+
+STINE: You were talking about how you&#039;ve met your husband.
+
+STEWART: I met him at the shipyard, he was in the safety office. I think he
+about was thirty-two or -four years old, and I was twenty-four or so--ten years
+younger. Anyway, he got a skin on his leg and spot and came in for
+treatment--get a patch on it and that was how I met him--the first time I met
+him. Since he was from the safety office, we intermingled--the safety office and
+the nursing office occasionally, because they came to see if someone was
+hurt--the extent of the injuries and things so they were in and out.
+
+STINE: So they would do some follow up after the initial going to the accident&#039;s sight?
+
+STEWART: So then, luckily he had a &#039;39 Ford. [laughter] So, that worked out
+good, because, oh having a car then was quite a treat. He worked swing shift
+though, I didn&#039;t ride to work with him, but anything after, you know,
+social--going anywhere, that car was such a godsend. I was a Catholic, he was
+not a Catholic. He says, &quot;I can become one.&quot; So we went over to Saint
+Augustine&#039;s Church in Berkeley, that was his parish, and introduced ourselves to
+the priest and my husband took instructions and became a Catholic. Before he was
+baptized as a Catholic, the priest liked him and said, &quot;Why don&#039;t you forget the
+girl and join the priesthood?&quot; [laughter] But he didn&#039;t.
+
+STINE: Good for you.
+
+STEWART: Yes. So we were married January, 16th, 1946 and he was a blessing for
+me, and I hope I was a blessing for him, because we were very happy and very
+well suited. My parents liked him, so that was good. The day we were married at
+St. Augustine&#039;s in Berkeley, everyone that worked at the shipyard came that
+could. So that was good. It was nice. We went to Santa Cruz for one night or
+two, I forget which, for our honeymoon and came back, because that&#039;s all the gas
+you could get, you know. That was it, but that was all right.
+
+STINE: Did you saved up? Had you saved up knowing that need your coupons?
+
+STEWART: [laughter] We did, yes. That was the way you did then--you manage
+whatever it was, whether it&#039;s coupons for meat, gas or what. You know that was
+part of life. We lived on Spruce Street until I got pregnant with the twins and
+we had had a home for the children, so that was how we happened to land in
+Richmond. I had only rode down Cutting Boulevard. to work before; I didn&#039;t know
+anything about Richmond or the town or anything. I knew some of the staff at
+Kaiser Richmond, in case I needed something, you always had the children
+checked, you know. I was only three blocks from the hospital and I had a baby
+buggy, so I could go myself. You know, when you went the grocery store there,
+you could park your buggy in the front by the windows and go get your grocery
+and come back and put them in with the kids and go home. You never thought about
+the danger of leaving a child alone in a -- and here I was with two in a buggy,
+one here and one there. [laughter] But that&#039;s the way everybody did then. There
+were lot of women there when buggies or wagons in the front and they get their groceries--
+
+STINE: There just be a row of children waiting?
+
+STEWART: Yeah, and that was common. The children were never sick, and that was
+when we started to save and get a place to live in that duplex. So, we did that
+and then Martha arrived in 1952, so we lived there until Martha was about ready
+for school and then we moved up, bought this house. That&#039;s why I&#039;ve been in
+Richmond, but yes, I&#039;ve seen many changes. Cutting Boulevard, got widened to
+four lanes that way, downtown Richmond was, oh my, it was something else--it was
+so flooded with people, you couldn&#039;t walk two abreast down to Macdonald--it was
+that crowded on the street.
+
+STINE: Just in the middle of the day or--?
+
+STEWART: In the middle of the day.
+
+STINE: This is during the war also?
+
+STEWART: Oh, yes! The government had gone to Oklahoma, and told people that can
+come out here and get a job war effort, you know. A lot of them got
+transportation from the government, they came and they came to Richmond because
+that&#039;s where the shipyards were. But they didn&#039;t have a place to stay and a lot
+of them slept in the theater or where they could. The war housing was erected
+right away, it really went up, just oh, on any vacant lot, that south side was
+just covered with housing. You know where that marina bay is now, that was all
+housing. So, it was housing, housing, housing, people galore.
+
+STINE: Was that one of the reasons why you chose or you had decide to move to
+Berkeley from the city is that there just wasn&#039;t housing?
+
+STEWART: There wasn&#039;t any housing in Berkeley and I was lucky to know that
+manager of the housing authority that would let us move into an apartment--a
+housing apartment. It was impossible. Now we had that deposit in a place in
+Walnut Creek, but I wasn&#039;t near hospital at all in case of children got sick or anything.
+
+STINE: Kaiser didn&#039;t have one there?
+
+STEWART: No, Oakland was the nearest one. And when you are out there alone and
+no car and a sick child, you could be in trouble. So, this is why Richmond
+looked like a better place all around. Everybody in the building, they were
+doctors and all kinds of medical people that were in the same boat, there were
+navy people or navy doctors or whatever, the building was full of those people then.
+
+STINE: This is your building in Berkeley?
+
+STEWART: No, down here in Richmond. I think there were twelve apartments in most
+of the buildings, some of them has sixteen, so you know that was a lot of people
+and a lot of kids. It was good, safe place while we were there, but it was time
+to move out. So, that&#039;s why we saved and bought that lot on 14th and Virginia
+and got a contractor to build the house and we took over a lot of it ourselves.
+That&#039;s where I learned pound a nail, use the paint brush and the saw and the
+building is still there and occupied, both buildings, all the houses are still
+occupied. So, that&#039;s good.
+
+STINE: I just want to jump back real quick to talk a little bit about all the
+people they were in Richmond even in &#039;46 when you moved in. And something
+related to that that I forgot to ask you about earlier is I&#039;d heard about people
+coming in on trains from around the country with pneumonia and how that was a
+big problem early on. There was a lot pneumonia coming in and people that were
+malnourished and malnutrition.
+
+STEWART: Malnourished was everything. If a husband had his wife and she was a
+heart patient, but he could have a job, they came. So, there were a lot of
+health problems with the people that came. No place to live right off the bat,
+right at first, and of course Kaiser didn&#039;t take care of their health problems
+and it was an old personal thing that they had tend to. Some of them got medical
+care, of course the county didn&#039;t have medical care like they do now for those
+people. But they ran up bills at the hospital on 23rd Richmond Hospital, it was
+called, and they had surgery and everything there. It was full all the time. But
+eventually the housing was developed and it took in thousands of people to give
+them a home.
+
+Really, a lot of the hospital staff lived in the housing too after they arrived
+here. A lot of the nurses lived in housing until they got their feet on the
+ground a bit and maybe bought a house up in the hills or in Richmond some place.
+There was just every type of person and we had one bedroom with the two children
+and there was one washroom down stairs with the laundry tray and clotheslines in
+the back. The day the twins were born, he went to Sears &amp; Roebuck to the washing
+machine department and said, &quot;If you think our world&#039;s in a chaos, I&#039;m in a
+chaos, I had twins born this morning and I need a washer machine.&quot; [laughter]
+The next day, Sears sent out a washer machine, so I was the only one with a wash
+machine in that building with all those people. So, it was a godsend for me,
+because people respected that was your property, they didn&#039;t use it or unbeknown
+to me. I covered it and put it in the corner when I, you know, couldn&#039;t take it
+upstairs, it was in the washroom--a public room unlocked. My gosh, I took a day
+off when the twins were three months old, next day, I had seventy-two diapers on
+the clothesline for two days and two nights.
+
+You had to make your own formula. There was no refrigerator in the unit--it was
+an icebox and iceman came with twenty-five pounds of ice with a pan underneath
+to catch the water [laughter] as the ice melted. But everybody had the idea that
+they were so lucky to have a roof over their head, nobody complained. There was
+no complaint about a tenant being too noisy or the kids non-manageable or
+bothered anyone, everybody got along and that was marvelous.
+
+STINE: Did it happen that the kids were just running around because both their
+parents both had to be working?
+
+STEWART: Both parents didn&#039;t work, there was always a parent with the kid. See,
+I didn&#039;t work for twelve years. No, there wasn&#039;t any women at four-thirty when
+the kids got home at two, people didn&#039;t do that then really at first in the
+shipyard days. They stayed home, but they take in neighbors&#039; kids, no kids were
+left alone at any time. That was one remarkable thing about the days then.
+
+STINE: I know Kaiser had childcare centers that they were running.
+
+STEWART: Yes. Little Kaiser Hospital was a godsend then for the people--very
+busy, had to have a full staff of medical doctors, and RNs, and first aid men,
+X-ray men on duty, office help, and housekeeping help. Kaiser Hospital developed
+appropriately to the crowd and they were given good care.
+
+STINE: I&#039;m gonna jump backward really quick if that&#039;s okay?
+
+STEWART: Sure.
+
+STINE: I&#039;m curious when you first met your husband in the shipyard and before
+you got married, I know it must&#039;ve been hard since you know food and money was
+kind of tight and coupons and rationing, but what did you ever end up doing for
+dating? Did you get to catch a movie?
+
+STEWART: Well, no. A movie, uh huh. Out to dinner on his day off then and a
+movie. Yeah, there was a movie right downtown in Berkeley, not the one been
+there for the last few year, but it was on Shattuck way down a bit. Could go
+there, and it was kind of nice for me to eat in a restaurant because I didn&#039;t do
+that very, you know. So was a treat for me. Or then we could go down to the Pier
+in Richmond down where that University goes clear down to the water down to
+Skates, the restaurant--that wasn&#039;t there then. Down there on the waterfront
+towards Emeryville, you could get down on the beach, so that was great. We could
+go to Tilden Park. Before the boys were born, we had to build a crib for them so
+we took some of the lumber out there in Tilden Park--many times we took with us,
+and put that crib together. My husband chiseled his initials in the trunk of s
+big tree out there; I&#039;d like to find that tree. [laughter] But that&#039;s the way
+you did it a lot of things back then. Picnics or going to a park or something.
+
+STINE: And you brought the building material out there just because it was just
+a big open space?
+
+STEWART: Oh yeah! Hardly anybody around in those days not crowded like it&#039;s now.
+People picnicked a lot then too, that was a source of entertainment that didn&#039;t
+cost anything--just take your food and go. It was good. Then my folks were in
+the city, so we went over to see them a lot before we were married. My husband
+liked them and they liked him, so that worked out good. And of course, there was
+a lot to see in San Francisco then. Oh yes! Shopping was so much fun and delight
+then. Go down to Aquatic Park, my folks lived just a block or so from there so
+that was like home to go out Aquatic Park for all of us. Then, it was just a
+little short trip, a block from Fort Mason, and that was a nice place to go.
+
+STINE: What was happening there?
+
+STEWART: We always went there for midnight mass. Anything at Fort Mason was all
+classified, you didn&#039;t mix in, but the scenery was nice there, and you could sit
+anywhere and have lunch--eat it on the grounds or anywhere then, and nothing was
+open to the public then. No. You just couldn&#039;t drive too far because of the gas
+rationing. You were limited to developing what you did close to home. I didn&#039;t
+have to have a lot of entertainment to keep me happy, always found a job to
+do--housekeeping or something, you know. I felt that was part of a woman&#039;s work
+then and did it. When the kids were born out here, we would drive up University,
+up to the campus there and take a lunch and sit down on that big entrance that
+curves around, sit that mound and take their picture. People were always amazed,
+&quot;Two of them?&quot; [laughter] So they always attracted attention, but they were
+good--they didn&#039;t act like they were special, they were just normal.
+
+STINE: Are they identical?
+
+STEWART: No. One was like the husband, one like me. And then out of the blue,
+one that was him would turn more like me and other--they switch at night. They
+got along great, so that was good. When we moved here, it was a godsend, because
+they could walk to school.
+
+STINE: Did they go to public school?
+
+STEWART: No. They went to Saint Cornelius Catholic School, and Martha did too,
+all eight years. Then they went to Salesian. When Martha was ready for high
+school, we wanted her to go to a nice high school, so we had her enrolled in San
+Domenico over in San Anselmo--it&#039;s the high school that open for the Dominican
+College. It was the first year they opened, and all the students had to board so
+she came home once a month then for three years. Then they kinda got loosened,
+they could come home on the weekend. But that was quite an experience because
+she was exposed to the hoi polloi, the senators daughters, and all that. She got
+along fine with the whole picture, you know, so she stayed there four years and
+she got a wonderful education just like the Dominican College would give to the
+college of the student--high school students got it there too great. To this
+day, she said she&#039;s grateful for that high school education she got because the
+basic was so good. But the boys finished Salesian. In a year or so, they got out
+on their own trying a job, if it didn&#039;t suit, they got another job, that was it.
+They grew up kinda like they&#039;d like to. They weren&#039;t here, they were in Los
+Angeles on jobs and so that was the way life was, you know. When they left home,
+that was the way to do it, I guess and that was good. Of course, we lost Patrick
+in that accident but Michael and Martha have grown up to be honorable people in
+their position. They&#039;re worth a lot of money, but they&#039;ve handled themselves and
+that&#039;s the way they were taught and we&#039;re proud of them. Martha was here last
+week on her way back from Alaska to where she lives in Washington D.C.
+
+STINE: She went to Kaiser Nursing School, is that right?
+
+STEWART: She did. She went to Kaiser Nursing and worked there a year in the ICU
+then she went up to Alaska to see her classmates that wanted to get as far away
+from home as possible. In that visit, it was to a town above the Arctic Circle
+that had a hospital that took care of the needy people and it was job there. So,
+she quit her job in Oakland and went up to Alaska and worked as a nurse for
+fourteen years. She had the health care of fourteen villages and the end of her
+career there. Then she wanted to do something else, so she started a newspaper
+on her own and did it all according to all the state rules and everything.
+Arctic Sounder, she called it, and that was every two weeks it was published,
+it&#039;s still published today. Two men bought it after she had it for two
+years--they bought it, they want to live up there. I don&#039;t know they&#039;re still
+owners, but that newspaper is still going. She&#039;s done very well, she works for
+the senator for that area for a while--six years I think. Then the governor
+wanted her work for him and she did that for few years and the Department of
+Education wanted her to go work for him, so that&#039;s what she&#039;s doing now. And she
+likes this, because she could spend more time in Alaska, and that&#039;s what she
+likes. So she was here on the way home from Alaska and she&#039;ll go back up in
+February for another week on business. So, that makes her happy.
+
+STINE: Is any of her work in Washington does she deal with health care at all?
+
+STEWART: Not any health cares, no, she&#039;s what you call kind of a lobbyist for
+the state education department in Alaska. Whenever the state needs federal help
+with anything, then it has to be presented to the Congress or the White House,
+they give to Martha to go and present it and petition for what they want. So,
+that&#039;s why she&#039;s in Washington. She has her condo there, she bought a duplex up
+above the Arctic Circle, so she&#039;s got that going for her too. [laughter]
+
+STINE: Way up there.
+
+STEWART: Imagine.
+
+STINE: When you started your family, you and your husband--had you wanted to
+have a large family or small family or something that you talked about?
+
+STEWART: Didn&#039;t know what was going to happen. The twins were three years old
+when I lost one, and three years later Martha came along, and I was much older
+then and I decided--so that was it. But I didn&#039;t get pregnant again and I was
+grateful for that, because when Martha was ready for school, I went to back to
+work. When she was in school, I went back to Kaiser down in here, and went to
+work one day a week for a while.
+
+STINE: What year was that?
+
+STEWART: Probably sixty something, very-- right in there. I worked one day a
+week and then gradually school took more the kids&#039; time, I worked two days a
+week or some three. When Martha was in high school, I went full time, and then I
+worked the ward until they had vacancy in emergency and I went over there worked
+in emergency for twenty years.
+
+STINE: In Richmond or--?
+
+STEWART: Kaiser Richmond.
+
+STINE: Before emergency, what had you been doing?
+
+STEWART: Well, just on the ward work. That was when emergency did not even have
+a doctor in the department. So, whatever came in, I had to call and get a doctor
+that was on call for that department that day--medical or--. We had an awful a
+lot of children that ingested pills then, awful a lot, at least two a week.
+Mothers bringing in kids that had gotten into bottle of pills or insecticides or
+whatever--we got an awful lot that. It was very interesting, because every case
+was different--you never got the same thing twice or two in a row. I got along
+so well with the doctors, I&#039;m still friends with them. So, it worked out very well.
+
+STINE: Working in emergency, do you feel like your experiences working in the
+shipyard were good preparation?
+
+STEWART: Good preparation, because I knew what it was to have foreign body in an
+eye and you know what do for it, and sprained ankle what do for until the doctor
+got there. Yeah, I was prepared very well.
+
+STINE: Is that part of why you decided to work in emergency or just--?
+
+STEWART: No. The nurse that was there retired and so I applied for it and was
+accepted and I was grateful for it. So, that was the way it was, I was the only
+nurse. I worked alone all those twenty years, I never had anyone work with me,
+we got busier, busier and busier. I know I went to work at 7:15 or 8:15 and I
+didn&#039;t get to eat &#039;til 2:00 or 2:30, because when you are all alone, you can&#039;t
+leave. So that was the way the crowd came in you--took care the patients first.
+But we had such a nice relationship with everybody, it was a family. We all knew
+the doctors&#039; wives and we went to their houses occasionally. They knew our
+husbands and our kids and we knew their kids. So, it was always a family thing
+and if anybody was sick and couldn&#039;t come, that was understood--they were sick
+they didn&#039;t take advantage of anything. It was good place to work. I&#039;m very
+grateful; I was lucky to be there. Those were the days when you retired, they
+had a big to do for you, big party--retirement party. For me, they had it down
+at where that Strings is over to the left another restaurant over there, I think
+it&#039;s still there, but I can&#039;t remember the name of it. Oh my gosh, there were
+hundred people there, all the doctors came and had a big dinner. Lot of the
+doctor got up and talked in there, and they gave the most wonderful string of
+pearls--beautiful string of pearls. Memories like that were held for everybody.
+So, that was a good, warm feeling about everybody. That was the way it was. I
+don&#039;t think they have the dinners anymore; I think they just have a coffee
+klatch when somebody retires now down at the hospital, but those were the days
+and that&#039;s what they did.
+
+STINE: When you decided to go back to work once your children were in school,
+was there ever a question that you wouldn&#039;t go back to work for Kaiser had you
+had such good experience already?
+
+STEWART: No. I wouldn&#039;t go any place but there. There was a new hospital in San
+Pablo, Doctor&#039;s Hospital, and they were hiring nurses. No, Kaiser had the appeal
+for me, because I knew so many of them, that was a place for me to go. It was right.
+
+STINE: In terms of being an employer, how do you feel that they took care of you
+as a worker?
+
+STEWART: Very good. We had a young man was came in as a nurse. I caught the fact
+that we were short of narcotic and I went to nursing office right away with it
+and told them what I had seen, would they come up check the chart? He had taken
+that and he had charted it out of the book where you sign for and he gave it to
+the patient he said and sign for on the chart, but he also told me we didn&#039;t
+have to do anything for him, didn&#039;t give him anything, send him home. So and
+then I asked the doctor, &quot;Did he get a shot? No.&quot;
+
+So that&#039;s why I went down to the nursing office and the nursing office stood
+behind me and believing--they didn&#039;t doubt my word at all, and that was his last
+day. That was the way Kaiser--they stood behind you. Because that could&#039;ve been
+a shady thing, you know, him denying it or something, but he couldn&#039;t deny, he
+couldn&#039;t say he gave a narcotic under a doctor&#039;s order when it wasn&#039;t order, you
+know. But that happens occasionally a nurse will become shady with the narcotic,
+I caught another one doing that too and they terminated him right away. But
+that&#039;s your vow about promising, about the way you do things--you don&#039;t mess
+with narcotics. Amen! And so that was it.
+
+Kaiser was very good. The people like Kaiser, because in those days, Kaiser had
+twenty bottles of cough syrup and twenty bottles of this stomach settler, all
+kinds of things. When people came in with those complaints, they were given a
+bottle besides, you know, their treatment to take home free. That&#039;s the way they
+did then.
+
+STINE: Kind of above and beyond what you would expect.
+
+STEWART: Yes. That made a good bond, you know, they did.
+
+STINE: I&#039;ve also just been reading about Kaiser and learning about Kaiser and
+having been a Kaiser member know that they are very big on preventative care and
+was that something that started early even back in the shipyards or--?
+
+STEWART: We didn&#039;t see that then. No, to be truthful, you didn&#039;t see
+preventative care then not until the fifties when it became apparent that was
+good medicine. Before that, it was the care given for the case that came in that
+needed it and give the good care and the follow up care. But no, doctors didn&#039;t
+do that at first.
+
+STINE: But then later on the twenty years you were--
+
+STEWART: Yeah, they did. They bloomed.
+
+STINE: Another big thing about Kaiser is having integrated care, I wonder what
+your experience with that was especially being in Richmond with so many
+different people coming in?
+
+STEWART: Racism and things. We never had any trouble. We laugh together, we work
+together. We pulled joke on one another; we didn&#039;t ever have any hard feelings.
+There really was not apparent.
+
+STINE: You mean among the integrated staff?
+
+STEWART: Even if they were black or if they were Indian or what. No, there was
+none of that. It wouldn&#039;t have been allowed, but it wasn&#039;t ever a case brought
+up--an incident that happened.
+
+STINE: So you worked with doctors and nurses from a wide variety, is that right?
+
+STEWART: Yes. Indian doctors from India, the black ones. You respected them for
+their knowledge and their classification--they were doctor, medical doctor and
+that was it. The doctors never pulled anything shady on another race. If that
+ever took place would be reported.
+
+STINE: Yeah, I imagine that wouldn&#039;t have been tolerated at all. And then in the
+shipyard, were there nurses and doctors--?
+
+STEWART: We didn&#039;t have any other race other than white then, because the
+foreign doctors hadn&#039;t come to the states yet. Everybody was white, the first
+aid people, the doctors and all the nurses. Now there were all kinds of people
+out in the shipyard population--men worked there. If it was a black man that
+needed something, he got it.
+
+STINE: Amongst your patients or amongst the workers, did you ever feel any kind
+of tension?
+
+STEWART: No. That was a blessing. We never had any back talking, backbiting or
+any tension. No, we just didn&#039;t do that; nobody did it. Nobody around where I
+was, we never had that at that little hospital down here on Cutting; I never saw
+it in Oakland. That was just the way you accepted things, you know. Some of it
+was all in fun and some of it was--the fun we had was really fun wasn&#039;t anything
+put down at all.
+
+This would entertain you. We had a nurse in emergency that had an acid tongue
+and she was old so that she knew better than anybody, but that&#039;s all
+right--you&#039;d laugh with her. When she died and she was ninety-two, she died two
+weeks ago. At her funeral, [laughter], in her casket, she like to play golf so
+she had a shirt on that she wear playing golf and a golf hat and a tennis racket
+and six balls in her casket, and across her cap she had on her head, &quot;Welcome to
+the zoo&#039;. [laughter] So, we got another laugh and said, &quot;Well, Molly went out
+with a laugh.&quot; That was just typical. All the doctors laughed when we told them
+about what we saw at the funeral, you know, we all had a such a good laugh about
+Molly&#039;s leaving this earth with us laughing about it. So that was the way--
+
+STINE: That&#039;s great.
+
+STEWART: That&#039;s what happened.
+
+STINE: Was joking around pretty common in--?
+
+STEWART: Quite common, yes. It wasn&#039;t carried to the point where it was done in
+front patients, you know, it was in the backroom when we were eating or
+something, but we had priorities where that took place. There were no snide
+remarks, nothing like that, no put-downs. &quot;What you do that for? Let&#039;s see what
+you did?&quot; that would be the way you&#039;d be handle, but that was very admirable and
+comfortable no matter who it was. We had a couple black porters that were as
+dear to us as anything, you know. They eat our fried chicken and we&#039;d eat
+theirs, it was that way. So, it was very good.
+
+STINE: Having been at Kaiser in the very, very beginning, and then taking a
+little time off in going back, what were some things that you felt held over
+from the beginning?
+
+STEWART: The care that we gave, I sent that letter to him, was what we started
+in the forties, and fifties, and sixties, good care. That was what we expected
+to do, what we did and what we expect to see happening now and it is. I had a
+total knee replacement last January, and had very good care. I have very good
+care for my glasses, my eyes and I didn&#039;t go to a doctor for twenty years so my
+chart didn&#039;t maybe like, now it has maybe that much. [laughter] But I don&#039;t go
+back, because if I needed something, I&#039;d go down, but I&#039;m healthy, I&#039;m doing my
+work and going to school, I couldn&#039;t ask for anything--I don&#039;t take any pain
+pills or sleeping pills. But if I did, I would expect to be treated with the
+best care, and I think and hope I would get, but I think I would, I don&#039;t have
+any qualms. I just hope I don&#039;t have to end up in a nursing home, that would be
+the last straw, [laughter] but who knows.
+
+STINE: What are some big differences that you sense working early on and then
+going back after twelve years?
+
+STEWART: See, I didn&#039;t work for twelve years. You lose your talents, your
+ability, but going through nurses training the way we did then, it was
+[inaudible]. When we took the state board, there was no problem, we passed
+beautifully. When I came out here, I just take a California state board pass
+beautifully, didn&#039;t have any trouble, because of the way we were trained. So,
+that sticks with you and it makes an all around better person of you in many
+ways what&#039;s gonna be here because that&#039;s right, then you developed those right
+ways in other things that you do. You can&#039;t drive through down the road, and
+take the middle and get out of my way, you know. So, you become that kind of a
+person where you want do right by everything, everybody. Really, the Kaiser care
+I think I can&#039;t complain at all about it. I haven&#039;t used it much, but if I
+needed, I would feel like I got excellent care.
+
+STINE: But then from the working side of it, is there anything that you had
+piece together or kind of deal with on the spot and the shipyard just never
+would be done in the hospital or in emergency.
+
+STEWART: No, I didn&#039;t. I guessed you&#039;d say well rounded. A nurse is a nurse, and
+what they are taught from the very beginning, the school part of it last all
+your life. So, that was the way it was. I didn&#039;t have any trouble with anything
+when I went back just one day a week, because I work on Sunday--every other
+Sunday at first, and I didn&#039;t have a lot of exposure with the doctors and it was
+what was ordered through the week. Then I worked on Saturday and Sunday, I
+worked Friday, Saturday, and Sunday, so I guess I&#039;d say I got back into the
+swing slowly, but I didn&#039;t have any trouble or did worry about not knowing what
+was going on. So, that was good.
+
+STINE: Just in terms of kind of routine procedures of how to deal with--?
+
+STEWART: Routines that you learned years ago are still done today. When you
+cauterize someone it was what you were taught years ago, and that&#039;s what it be
+today. So, that&#039;s what a lot of it is, your basic nurses training.
+
+STINE: It&#039;s probably the only big differences is sterilization, which you didn&#039;t
+have, you didn&#039;t even have access to, so--
+
+STEWART: Yeah. We didn&#039;t sterilize then. I think the only time the doctor wore
+rubber gloves when he puts some stitches in someone and that was it. We had one
+sink in that big treatment room, imagine, for patients and us. [laughter] One
+hot plate. It was a sink about this long, so that two could be at the sink at
+once. But you know you didn&#039;t think anything about it. We didn&#039;t have any
+trouble with infections or nothing, so we must&#039;ve been doing something right.
+Now, oh my gosh, everything has to be in a sterilizer and the sterilizer
+checked, and checked and checked working, sterilizing right degree and
+everything. No. We had to blow our needles and our hypodermic syringes. We had
+morphine that came in tablets, half grained and that was never ordered for
+anybody, quarter-grain was for a great big man, you know. So you had to draw it,
+boil your needle and syringe, draw up a cc and half of water and dissolve the
+morphine in it, and then shoot out half of it, so you&#039;d only have a quarter or
+whatever was ordered, you know. But that was the way did, and everybody did that
+then, it wasn&#039;t only in the shipyard. What we learned in nurses training was
+practice, and after we got out and things did finally developed into
+sterilization and those kind of things, but that was life.
+
+STINE: I just can&#039;t imagine having some kind of injury and then patching it up
+and going right back out to work.
+
+STEWART: Yeah, that was it. Come in tomorrow if you want a clean bandage, come
+back tomorrow, but that was it. No. People just didn&#039;t go home or didn&#039;t come in
+for maybe a half days work that wasn&#039;t allowed. If they did that, you had to go
+out a gate and check out, the gate would question it and call the boss, you know
+and he&#039;d be sent back.
+
+STINE: So, everyone would know.
+
+STEWART: Yeah. So, people didn&#039;t slip out. [laughter] At the gated Yard One,
+there were about dozen stalls that you walk through, and there were somebody in
+each stall so that could handle the crowd of men coming in. You had to show that
+badge and they look at you, you know, and see your badge and then you were
+allowed in. It took that many gates across the front there right on 10th and Cutting.
+
+STINE: Like with a turnstile?
+
+STEWART: No. They didn&#039;t have that, they had the like a little gate that you
+walk through and the people that check you in were like in a cover, a little
+closet--they were inside out of the rain, but you were checked in. If you didn&#039;t
+borrow badges, you&#039;d be in trouble.
+
+Interview with Harriette Stewart.
+
+Interviewed by: Kathryn Stine.
+
+Transcriber: Audrey Yu
+
+[Interview #2: January 21, 2003]
+
+[Begin Audio File Stewart2 1-21-03]
+
+STINE: Today&#039;s January, 21st and I&#039;m here with Harriette Stewart. This is our
+second interview and I&#039;m gonna just back in and talk a little bit more ask about
+your job at the first aid station. One of the things that I was curious about
+that we hadn&#039;t talked about is were there any disabled people working in the
+shipyard that you remember.
+
+STEWART: I don&#039;t remember anybody really disabled, there might had been some
+maybe one arm or something from a previous accident, that they had all their
+life or something, because anybody that applied was given work at the shipyard.
+The men were a little older then; they weren&#039;t twenty-one, because those boys
+were in the service. Most of them are grown men or in their forties or were 4F
+for some reason. But the mob of men that were there when I started, July of
+1942, you see that&#039;s six months after Pearl Harbor, and the shipyard was going
+full blast. In Richmond, there was Yard Two, One, Three, and Four, so there were
+all full of people. That takes in a lot of people, workers. I imagine everybody
+in Richmond, every man was working there. Then they started taking in the women.
+The women at first were in the office, but offices were outside the shipyard;
+they were not allowed in the shipyard, just men and us nurses. That was it. Then
+things changed as the war progressed, but they kept wanting to get those ships
+built and outta there into use, and they did. My goodness, those droves of men
+that came. Everyone was dropped off at the shipyard entrance. You didn&#039;t drive
+in the shipyard, at Yard One where I worked, you were dropped off at 10th and
+Cutting and that&#039;s where the gates were for everybody to go through, to get in
+to their work. But no cars allowed in there unless you were top notch and you
+didn&#039;t see that very often.
+
+STINE: When you first got to the shipyards, the work force was like you said
+already kinda in full force. Were there people that had started to work there
+before the women got there that were either disabled or elderly or--?
+
+STEWART: They were more the fifty-sixty age brackets--forty, fifty, sixty, a
+tremendous share was fifty and sixty years old. I don&#039;t think anybody worked
+part-time, it was either full time or no. There was no physical for the job, it
+was you went down there and signed in and wanted a job, and they gave you a
+badge and that was it, you were in. If you look good, I suppose if you look like
+a cripple or something, they might have questioned that. That was in an office
+apart where they interviewed the people about signing up for work. We saw the
+people after they were on the job, but the people wanted to work. The fever that
+they had was win this war and this was their way of helping. They were too old
+for the draft, for the service part. It was a whole new phase of life;
+everything was so different. Of course, it wasn&#039;t long. The town&#039;s changed too
+because the crowds of people that came.
+
+STINE: Do you remember any people working there just people in Richmond that had
+come from the Midwest or come from the South?
+
+STEWART: I didn&#039;t know anybody that came from the Midwest, no. But a lot of
+people came from Oklahoma, they went down there recruited people right and left.
+You told them you can have a job, there&#039;s housing for you, and a job. Before
+that, a lot of people were relief rolls in the Midwest, county aid of some sort.
+This was an opportunity to make some money, so they jumped at that and out they
+came. If the wife didn&#039;t come with him, she was there before long. Because when
+they got out here, they could see that the whole family could live here, and
+that&#039;d be the way to live. I think Richmond went from 15,000 to 70,000. The
+first bang was 70,000 or so, and on up to 120 I think. San Francisco swelled,
+Berkeley swelled, Oakland, every place swelled, the schools, everything. Housing
+wasn&#039;t really that ready for them--the first impact, and they stayed with
+relatives, or slept on the street or in the movie theaters until the housing was
+put up. Richmond housing authority put up houses on every vacant lot, around the
+shipyard, the whole south side was housing. If you owned an empty lot, it wasn&#039;t
+yours anymore. A unit was put up on it, depending on the size of the lot whether
+it was a six apartment or twelve or what. There were two stories, and there were
+one bedroom, maybe two bedrooms for two or three units in a big, big building,
+but the rest were mostly one unit. But people lived in whether they had two or
+three kids, they lived in one bedroom place. There were clothesline in the back,
+and one washroom where there were laundry trays, and that was it, where people
+could go down on scrub board and wash their clothes and take them--
+
+STINE: In the public housing, you mean?
+
+STEWART: Yes. But people were so used to it that was fine.
+
+STINE: I&#039;m wondering with all these people coming in if you ever saw the effects
+of people coming in, say maybe from the South or from the Midwest that had the
+effects of malnutrition or maybe came with health problems or was that anything
+that you saw?
+
+STEWART: Oh, they came with everything that just to get here, they came. Of
+course, people were ready to criticize anybody or laugh at anybody with a
+different pronunciation of words. Anyway, that&#039;s the way it was. They&#039;re an
+Okie, but the Okies proved that they were good people, and they worked, and they
+wanted to work. It wasn&#039;t that they came out and you feed me, they wanted to
+work. Everybody came with the idea of working then, helping out somehow. With
+all the restrictions that were on people--like you had to have blue chip stamp
+book for food, had to go to the board to get an extra tire, gasoline for your
+car, all those things that people cope with and nobody complained even shoes you
+had--. I know I had go for another pair of shoes, and then you didn&#039;t hear
+anything about that--that was just a short time or so. But that&#039;s the way it was.
+
+STINE: Can you explain the process of going for shoes?
+
+STEWART: In Berkeley, it was down near the post office building that they opened
+for more people to apply for blue chip stamp books and that, and it was all
+government stuff. I need a slip for a pair of shoes that was all it was. You had
+to give an address if you wanted a blue chip stamp book, I think, a name and an
+address. You had to prove that you had a car if you wanted a tire and for gas
+and you were limited to so many gallons a week of gas. That it was like the blue
+chip stamp book, the gas thing.
+
+STINE: If you work for Kaiser, were you able to get more gasoline or were you
+able to--?
+
+STEWART: No. If you lived in Berkeley and you drove your car to the shipyard and
+you had riders, you were entitled to extra gas to go and pick the people up and
+take them there. But that was it, you had to prove that --. Nobody complained
+even at the meat counters and in the food places; people just accepted the
+government&#039;s rule, and they were so glad that there wasn&#039;t shooting right here
+under our noses like a lot of places had in foreign countries. The war stories
+were scary then. Oh, terrible! So many people killed, so many husbands that were
+overseas in the war, and the families got worried they were shot, it affected
+everybody here. It was kind of serious living, and you abided by the rules; that
+was it. I don&#039;t think that would go over so good now because people want more
+than they are entitled to or complain easy. That was the way it was. There were
+no new cars.
+
+STINE: I was gonna ask you had mentioned earlier that your husband had a car, do
+you remember what kind of car it was?
+
+STEWART: He had a car. &#039;39 Ford, four-door Ford. He did have a car. He was
+pronounced 4F right away, so they said you could go get a job in a war industry,
+so that was how he came from Union Pacific job, the train company, to the area
+here for getting a job. At first, he was single and they gave him board and room
+in some place, I can&#039;t remember where it was. A slip for that to come out to
+Yard One and get a job, which worked out, that&#039;s the way it was done then. Then
+he got his own place in Berkeley on Woolsey, so that was where he lived. No, it
+was a godsend. If you didn&#039;t have a car, you were grounded or public service.
+The train service even to the San Francisco was beautiful then, it was good,
+much easier than it is today. There was a train that stop down at the top of
+Solano came down to University and picked up everybody there and Shattuck and
+you rode on that, and you rode over the Golden Gate Bridge or the Bay Bridge on
+that train and got off on 3rd Street over there and you could walk up to Market
+in two blocks, but you couldn&#039;t believe it how good it was. People use it and
+that was it. That&#039;s the way it was. When you went to the city though, you didn&#039;t
+go for an hour, you went for the whole rest of the day. But you were safe at
+night coming home, a single person was safe. We didn&#039;t even think about getting
+robbed or any trouble. There was just wasn&#039;t any either.
+
+STINE: Did you feel that safety in Richmond?
+
+STEWART: At first, yes. Down in the shipyard waiting for the bus to come to pick
+you or any, yeah. It was just automatic; it was that way. No matter who you
+were, if you were alone or if you were eighty years old or what. When people
+then, if they need grocery, keep on finish your shift, you got your groceries
+and you went home. The theaters played all night.
+
+STINE: You get your groceries in Richmond at the end of your shift and you take
+them home?
+
+STEWART: Yes. When I lived in Berkeley then on Spruce Street right down near the
+campus, I got off on University and there was a Safeway store ahead Macdonald
+years ago on the left hand side the last block that was it--two blocks from home.
+
+STINE: Were there any stores that were in proximity to the shipyard that were
+frequented a lot?
+
+STEWART: No. No. Nothing around the shipyard. It was all bare land or the
+housing went up. As I said before, in &#039;42 in July, Cutting Boulevard was only
+two lanes wide. They didn&#039;t have the need for all that traffic at first, but
+things did change.
+
+STINE: I was curious so I just want to back up a little bit, because both you
+and your husband lived in Berkeley and commuted to Richmond, and I was wondering
+I know that you kind of fortuitously got this apartment in Berkeley--you had
+friends that had been living there, they left and you got the apartment, but I
+was wondering if you ever thought to move to Richmond or if your husband had
+ever thought to move to Richmond?
+
+STEWART: No. No. We were very happy there in Berkeley.
+
+STINE: Initially when you first came, did you think that might be better to be
+closer to work?
+
+STEWART: No. You were so lucky to have an unit to live in that you didn&#039;t even
+think about moving; you stayed right where you were until the surroundings in
+your life change then you would change. But no, you didn&#039;t change. We came to
+Richmond because the twins were born, and we had to find a place right away.
+Housing was so rare, oh, my word. You couldn&#039;t find a place.
+
+STINE: This was 1946?
+
+STEWART: &#039;46. I had taken care of a lady in Kaiser Oakland in the delivery who
+had a baby and her husband worked for the housing authority. She told me, &quot;You
+go see my husband, he&#039;s head of the housing authority and he&#039;ll get you a place
+to live in Richmond.&quot; So, we did and ended up on South 13th right where the 580
+goes now, [inaudible] in that area. But I thought was perfect, because I was so
+close to Kaiser Hospital with the twin for medical care. We could see that we
+were lucky to have a roof over our head and we were savers and managers; we
+didn&#039;t throw our money around at all. No way. We saved money and we bought a lot
+on 14th and Virginia and cleared it and put a duplex on it, and that was 1950
+that we were in housing four years.
+
+STINE: Do you remember what that housing look like in the first, had been public housing?
+
+STEWART: Yes.
+
+STINE: Can just describe what it was like?
+
+STEWART: Let me bring a book in here. I saw the other day, and show you
+something about housing. I wondered if my son wanted the pictures. The housing
+was very plain, there were sixteen apartments in one building, there would be a
+little porch here and a little porch there, and a little porch there. In each
+porch, there&#039;s a stairway to going up to the upstairs apartments and the two
+front doors to the two bottom ones, and that was it. There was no doorbell,
+there was no porch light. It was just a porch, probably two or four feet wide
+and that was it and steps down to the next. The lawn was just what was there, it
+wasn&#039;t improved on, it was what was there.
+
+We paid thirty-five a month, and that included everything, I mean electricity,
+no water bill, you paid your own phone bill. There were no refrigerators; it was
+icebox, so there was an iceman that came around with ice. There was a little
+stove, a little four-burner stove, and an oven below. One bath that had a built
+in tile tub; it wasn&#039;t a bath tub, it was a tile built-in tub with little tiles
+this big all sides and the bottom and that was it. I suppose they couldn&#039;t get
+the plumping pieces that they want. In the little kitchen, it was a counter with
+a sink in the middle with just two faucets and the place for your food things
+there were no doors on it--it was just shelves. In the living room was a wall
+table that pull down out of the wall with a leg on it, and there were shelves
+back of that table. There was one davenport that opened up to sleep for two
+people so that was it. There was one bedroom, one window in it, one little
+closet probably two feet wide and that was it. I tell you, everybody was so glad
+to get the shelter, that was accepted. I don&#039;t remember being feeling bad about
+living there.
+
+We were able to save up enough money to buy that lot and put up a duplex on it
+and right away we bought that lot across the street and put a duplex on it. I
+was staying home then because of the kids&#039; age. I tell you, I pounded the
+dickens out of nails and painted everything right along with my husband. We got
+a contractor to start it, but we had the agreement that we could build
+everything, so many things ourselves. I know I it was a flattop and I had
+beautiful pine board ceilings in it, and I got up on top of that thing and
+pounded nails that long into the beam. The people across the street saw told my
+husband, &quot;Just let her alone, she can build.&quot; I never done that
+before--carpenter work, so it was fascinating to me. Had a nice garden and we
+even had few chickens. We&#039;re very well taken care of and we lived there four years.
+
+STINE: You said that had been an empty lot, had there been war housing on it
+that had been razed?
+
+STEWART: No. It was a garage on it. We had to take down the garage and clear the
+ground for the duplex. And it was a two bedroom duplex on either side, so it was
+a big building in a way with two garages in the middle. It took up fair amount
+material, yard work. But then we kept saving and saving, that was our way of
+life--managing very well. Then we bought another lot up on South 3rd and 14th
+and put a three-bedroom house on it. We bought another lot down near the
+hospital on South 14th in the same block ours was in and put a house on that.
+
+STINE: Did you continue to do the work yourselves?
+
+STEWART: Oh, yes. Then we bought two lots on South 7th Street and put a house on
+each of those--three bedroom homes. We also bought a house, 22nd and Ohio, a lot
+and cleared it and put another house on that, and we rented them for
+twenty-seven years.
+
+STINE: So had any of these lots had pre-existing--?
+
+STEWART: No, they couldn&#039;t build on a twenty-five foot lot. See? They couldn&#039;t
+put housing on--they were too narrow.
+
+STINE: And it wasn&#039;t until after the war that you were given clearance?
+
+STEWART: Yes. That was what we look for--a twenty-five foot lot and put a longer
+house on it with a garage. There are still standing there living in them today.
+
+STINE: That must be neat for you.
+
+STEWART: Yes, once a while I drive by, you know just to look at it. There&#039;s a
+Mexican family in the house we built and lived in first, and he has a big family
+so he has his whole family in both units. I think he&#039;s got a garage door between
+the garage walls so there&#039;s good communication between them all, you know. His
+mother-in-law, then everybody, the other families living in there. Now he&#039;s
+walled up the yard, I don&#039;t know how he got by with that--big high fencing
+around the lot. I don&#039;t think you are suppose to have lot on the street more
+than four foot. Maybe nobody&#039;s complained down there. But he was a nice man,
+I&#039;ve stopped and talked to him and told him my husband and I had built that, was
+he happy with it. Yeah, so that was good.
+
+STINE: I&#039;m kinda curious when you first move to Richmond had that first house
+and you saw that other lot if that was a plan that you had had with your husband
+all along or did it just kind of came up. How did that come up?
+
+STEWART: No. It was his idea of something to get ahead that he could learn
+anything; he wasn&#039;t a one-character person that just could do only one thing.
+But he was very good at plumbing, electricity, so when there are maintenance of
+those places, he could take care of anything. We had people stayed us fifteen,
+seventeen years, you know, because we were good to them and that worked out
+good. But he could do any plumbing problems or carpenter work.
+
+STINE: So this was all stuff that he picked up and--?
+
+STEWART: It was a very good investment, but that was his ingenuity. He was
+looking for a way to make some money on his own or on our own and do well with
+it, and we did. So that was it.
+
+STINE: Right after the war, what had he been doing for employment up until--?
+
+STEWART: Oh. He worked Albert&#039;s Mill a long time down in Oakland. It was on 7th
+Street where at one time you could down the foot of 7th Street and take the
+ferry from Oakland over to the city, so it was on a main thoroughfare that went
+through there down Albert&#039;s Mill. It was an old establishment there, corn mill,
+you know, and he worked there a long time. Then when we got going with houses
+and things, he would just take maybe a year&#039;s job or something, because we had
+enough to do with keeping the places. But he was a sharp individual about
+handling everything whatever it was--money, property, never threw away a thing,
+so he always had everything. [laughter] That was good, because I admired him for
+his ingenuity. He also had an eye for everything. Coming home from 7th Street
+from work, you came through the old Oakland Army Base where the people lived,
+the housing was on both sides, when he noticed they had a lot of stone work all
+piled up and it was beautiful granite, chunks. So he stopped and asked, &quot;What
+you gonna do with that?&quot; They were gonna re-style the yards in the front--they
+wanted to get rid of that stone stuff, so they said, &quot;Take them home if you want
+to, take it.&quot; So every night, he stopped and he had a station wagon, he put
+fifteen of those chunks granite in and bring it home. And that&#039;s the granite
+around our front and the back yards. Yeah, and it all came from Maine as a
+ballast on a boat, and they used that for trim and the housing there and they
+were gonna throw it away. They had no idea what they had--hand-hewn granite.
+
+STINE: It sounds like he had a real eye for--
+
+STEWART: Yes, he did. We could live on a lot less than a lot of people, because
+the way we both lived. When you don&#039;t throw anything away and you can use what
+you make what you need. I sewed like everything, even when the boys when to
+school, I made ten shirts right off the bat for them. They had to have white
+shirts, ten shirts for them right away.
+
+STINE: Button up shirts?
+
+STEWART: Collars, sleeves to here and a pocket, more buttons down the front.
+Everybody did that; a lot of people did especially my family that was the way we
+grew up.
+
+STINE: During the war, did you ever sew your own clothes or sew--?
+
+STEWART: Yes, I did make dresses and quilts. I&#039;ve got a quilt on the bed now
+that I made and another in the dresser drawer. That was good home
+entertainment--quilting and crocheting, and you name it, women did it. You
+didn&#039;t go out to play cards or bridge club like they do now. You made your time
+pay for something and that was good because as it is now, I don&#039;t have to have
+entertainment or be running here or running there, it was the way of life that
+I&#039;ve continued and continue now. My family and my generation really--that was
+our style. You need something, okay, You can make it, do that, but if not, you
+buy it. Never charge a thing, everything was cash on the line. I still don&#039;t
+have a credit card; I wouldn&#039;t have one for anything. You can go without, it
+doesn&#039;t hurt you. People don&#039;t do that today, but I do. [laughter]
+
+STINE: I&#039;m curious about the transition then, just to jump back a little bit,
+the transition at the end of the war. Maybe we&#039;ll start kind of specifically
+when you heard, you know that Japan had surrendered and what you remember about
+that day? Maybe talk a little bit about the transition working.
+
+STEWART: Course, it was mostly, I don&#039;t think there&#039;s TV then, no, there wasn&#039;t
+when Japan surrendered, everybody listened to the radio and the newspapers had
+picture of the people signing, surrendering on the boat. Oh, my, it was a change
+of atmosphere and attitudes--what am I gonna do now? But a lot of the people
+that came for the war effort, they had established themselves as citizens here,
+a lot of them did, they didn&#039;t return to Oklahoma or the Midwest and their
+families&#039; are still here. But that was a big, &quot;oh my, what was going happen to
+us,&quot; a lot of suspension, a lot of, &quot;Was everything gonna be alright or what
+were we gonna be faced with?&quot; Roosevelt, he was on his third or fourth term
+there, and it was wobbly and who ever heard of a president, four terms you know,
+and then he dies. But Truman came in, and Truman was a godsend, because he was a
+no nonsense person and he stuck by his ways. He gave people confidence, because
+he wasn&#039;t a silly thing would try this or that. It worked because he had it all
+thought out. At the end, when the shipyards were closing, people showed a lot of
+tension and apprehension and &quot;What&#039;s gonna happen to us?&quot; That was a lot of the
+conversation if you met them on the street or where, it was that same
+feeling--&quot;What&#039;s gonna happen now? What&#039;s around the corner for us?&quot;
+
+STINE: How about the health plan?
+
+STEWART: They were just started the health plan then and you could enroll--50
+cents a week I think. That was a godsend to the medical care for people. You
+didn&#039;t have to work in the shipyards; you could enroll and be covered medically.
+That hospital on, Kaiser had it on South 14th and Cutting, it grew and swelled,
+and business right and left. It was a busy, busy place and they added more to
+the building by quite a bit. I remember seeing an iron lung in the hallway, they
+never used it, but they had it in case patient came in and needed it. They had
+deliveries there, delivery rooms for babies to be born there. And a little bit
+of surgery, not much, but little surgery. But the medical department grew big.
+
+STINE: But was there maybe a little bit of a dip in between the end of the war and--?
+
+STEWART: Oh yes! Kaiser had a good theme about --gung-ho and we&#039;re gonna be able
+to swing a good deal here. Because the population was here for membership and
+the doctors weren&#039;t going to war now, so they could hire reliable staff. Now, in
+the wartime, a lot of those doctors especially in the shipyards--retired doctors
+that came back. The one we had in Yard One was seventy-five or so then, but came
+back for the war effort. So Kaiser hired about a dozen young doctors that had
+come back and were just finishing school and had have a place to put them to
+work. So, they spent their first week in the shipyards until they got Kaiser
+Oakland going. You see they bought Kaiser Oakland, that old Fabiola, but it was
+just an end building and right a way they expanded and gave those doctors
+offices. I remember the ear, nose and throat doctor was a young Jewish doctor,
+very good, maybe thirty-five, but right a way, he got his department in Oakland
+and he stayed with that for years and expanded. So, that was the way the general
+population of medical help went.
+
+STINE: Where did they put these doctors in the shipyards for the interim?
+
+STEWART: There was just one medical unit in each yard.
+
+STINE: Right, but the dozen of young doctors.
+
+STEWART: They just stay in there; they were there two weeks or three weeks until
+they could get stationed in Oakland. They didn&#039;t stay long. Most of them were
+out of medical school, young, and they were eager to get going--make a living.
+That&#039;s what they trained for, let&#039;s go get a job, go. They weren&#039;t old enough to
+start medical practice on their own and they didn&#039;t have the money then so they
+would get hired on something or in a group like Kaiser. A lot of them, I think
+at Providence, that was a school of nursing starting and it&#039;s Summit now but it
+used to be something else. It used to be; it had another name.
+
+STINE: It sounds interesting though, because it sounds like there&#039;s a dynamic of
+these much older kind of veteran doctors and then these batch of very, very
+young, is that the same with the nurses. So then you have this mentoring
+relationship going assuming--
+
+STEWART: Well, the old doctors quit right away when the young ones came. They
+sure did.
+
+STINE: So there wasn&#039;t really a chance to overlap and kind of show them--
+
+STEWART: As long as Kaiser Oakland started growing, oh, big departments. They
+had to get a school of nursing, director of nurses. When I was there, there
+wasn&#039;t any director of nurses; we kept our own time card and all that. So it
+just like that, it was amazing all the things that --. Had to get an ambulance,
+for patients. It was amazing what you saw grow all right. It all worked. Doctor
+Cutting was a marvelous planner, and his wife Millie Cutting worked right with
+him and she was a sensible--. Any place needed anything you call Millie and she
+would get it for you, material wise, you know that you needed, maybe microscopes
+or something, slides or get a better delivery of bandages or anything that you
+needed. There was no problem; you get call Millie and it was there.
+
+STINE: She was also in charge of hiring, is that correct?
+
+STEWART: Well, she looked over my resume and said, &quot;Can you go to work this
+afternoon.&quot; There was somebody there, but if she was there, and you walked in
+and this was it, she would talk to you and tell you and that was it. But it grew
+very fast even the office part before Kaiser Oakland really got to function. It
+was up at the top of that hill, no; Alta Bates was in Berkeley. But anyway,
+Millie Cutting and Doctor Cutting, he&#039;s still alive, he looks just like he did
+when you came in the shipyard, very knowledgeable man--he was smart as a whip.
+He and Doctor Garfield put the place in good order and there was no shady talk
+about anything. They were always recommended and got praised for their work.
+
+STINE: Did they ever come to the first aid stations or didn&#039;t?
+
+STEWART: Oh, yes. They came to see how things were going and what did we find
+was a problem or need or something. If it was logical, it was taken care of.
+
+STINE: How often do you think they came?
+
+STEWART: Maybe once a month or then unexpected or maybe in two weeks they&#039;d be
+there, then you wouldn&#039;t see them for a month. Garfield, we didn&#039;t see quite as
+much as we did Mrs. Cutting and Dr. Cutting. Garfield was a little over Cutting
+in the stature of rank and it wasn&#039;t long there were more hospitals started
+Kaiser and he was very much in charge to see that was started right, and did
+very well with that. No, those two men were very, very good planners and deserve
+a lot of credit for what Kaiser is today.
+
+STINE: I just want to make sure that we have this record exactly how the kind of
+chain of referral happened, because I know you had mention when somebody had an
+injury at the first aid station if it was something that was much larger a
+problem than you could deal with there, you would then refer them at first to
+the is it the Richmond Field Hospital?
+
+STEWART: No, before Richmond Hospital was functioning, we sent them to Richmond
+Hospital on 23rd Street, that was a hospital that was functioning surgery and
+medical. And I think there was pediatrics ward there.
+
+STINE: But would you say it was kind of, not bare bones but just the essentials?
+
+STEWART: Yes, it was nice little hospital, but it didn&#039;t have to be great, I
+mean we didn&#039;t have to be big, because the population didn&#039;t ask for big
+hospital then. And it didn&#039;t grow, the building is still the same size that it
+was when it started; they did a lot of work there. Then when Kaiser Oakland got
+so they could take care of the patients, the ambulance took them when they were
+broken legs and things like that, crushed in any way, the extremities, they were
+taken to Kaiser Oakland. They were taken to that entrances on Broadway, that&#039;s
+kind of a discharge place now, that was a big entrance in there.
+
+STINE: [laughter] Opposite now. This just make me think real quick of a
+question--I was wondering if any of the injuries, did you ever see any maybe
+stress related job injuries or maybe people were so tired from double shifts or
+do you think that was--?
+
+STEWART: People didn&#039;t complain then. They came to work, Amen! You didn&#039;t see
+anybody shirking on the job. Man or woman, when the women came, you just didn&#039;t
+see that. Now, we had a room for just eye work, I think four or five gurneys in
+a row for the people who got flash burns, the welders who got foreign bodies in
+their eyes. If they were sent home because of a very bad flash burn to bandage
+both eyes, we had to call a wife to come to the front of the ambulance, the van
+would take them to the gate. Then we want to see them the next day, they could
+come back and get checked and that&#039;s was about as much follow up work as we did.
+When people had to stay home for a reason, a broken arm or something, then they
+were to see either Kaiser Oakland follow up or that was it.
+
+STINE: I guess I didn&#039;t mean so much necessarily complaining about stress, but
+in your opinion did you ever seen people maybe talked about had injuries because
+they weren&#039;t as familiar with the job they were doing. But did you think people
+were ever maybe over worked or over--?
+
+STEWART: No. You never heard a complaint about had to come to work today or
+something like that. That was never uttered. People felt so grateful for a job
+and they could help the war effort especially if they had maybe two sons in the
+service and then for the dad to complain? No, that wouldn&#039;t go over. So they
+felt like they were pretty lucky that they weren&#039;t called. No, you didn&#039;t hear
+that or see that among men or women. People initially had more pride and
+everything. If they got a job, they were happy, they wanted to keep it. Lots of
+it, the reason was because they could afford a home if they had a job. Living
+conditions before the war were pretty tough, a lot of people didn&#039;t have any
+money and they moved in with families and you know. They didn&#039;t have fancy
+stores or fancy food, you were lucky to have a roof over your head, Amen and
+don&#039;t complain or you get--. [laughter] It&#039;s different today; people want
+everything on a platter handed to them. It&#039;s maybe an extreme from years ago,
+but that&#039;s human nature. There&#039;s always gonna be a digger and there&#039;s always
+gonna be a lazy person I don&#039;t care where you are now--an ambitious person or a
+lazy. You see it in schools now, you see it in families, you see it in the kids.
+It&#039;s not a healthy thing, there are a lot of things aren&#039;t as healthy as we grew
+up with. Everybody expected to earn their way in this life, and that was typical
+of 1942.
+
+STINE: At the same time that people were saving all these money and earning more
+money than they had hoped before the war, did people have an opportunity to go
+out maybe get something special?
+
+STEWART: The theme then was save for a house.
+
+STINE: Is that something that you would overhear like at lunch or over here--
+
+STEWART: No, you didn&#039;t go out for lunch or to a movie in the afternoon. [laughter]
+
+STINE: Right, right, right. I just meant, you know, at the shipyards when people
+are just out and about. [laughter]
+
+STEWART: There was more of a regulated life in a way, yeah. If you did that,
+like a drunk always shows up somewhere you know. But people had no time for
+that. If they were drunk, get out of my way. Obnoxious. Me coming from Berkeley
+to the shipyard, I was so grateful I had a ride with the man across from the
+street eventually. If you think I complained about anything, no way. Even I had
+to wait for ten minutes or half an hour for him to get off the job but I was
+there waiting for him, that was the way the day went. No, people didn&#039;t complain
+as readily as they do now.
+
+STINE: Maybe if I could just ask a couple more questions about what your husband
+did and the shipyards, he was a safety inspector.
+
+STEWART: Safety inspector in Yard One. It was round the clock, twenty-four hours
+they had a day shift, a swing shift and a graveyard. At first, he was on swing
+shift, then he edged up to the three star, he was a boss on ship.
+
+STINE: He was a boss?
+
+STEWART: Yeah, on the swing shift. He was a dependable person that&#039;s why he got
+ahead. Because he was not a big mouth, or I&#039;ll show you or anything like that.
+When he learn something, he learned to improve himself too or grow with whatever
+was around him. The accidents in the shipyard happened right and left, injury
+accidents. The safety office was like an insurance firm that analyzed every
+accident, how could they have prevented it and what will we do to prevent it
+again from happening, safety features of all sorts. It&#039;s like the welders, they
+had to have helmets and outfits to wear, and those glasses or goggle things for
+welding and that was absolute. People didn&#039;t take a chance and try to do
+something foolishly; they didn&#039;t. But every accident had to be analyzed on paper
+and handed in. That was a way for the office function was the head boss, there
+was a man on day shift, and a man below him. My husband on the swing shift, the
+man below him and a man on graveyard. They went right to the scene of the
+accident to see how it happened themselves, and what happened, and if any help
+needed to be called in any shape or form, that was their job to see that it was
+taking care of. Anything broken out of the business, I mean the machines or
+anything see that it wasn&#039;t used until it was okay, all that kind of stuff.
+First time, he never done anything like that. But after all, he was 4F and he
+had to get a job in the shipyard, so that was why he was there. But he was also
+a person that had his eyes open to everything and learned as he went along and
+applied to his benefit, you know, to grow. He wanted his family to have the best
+of everything, have trips and all of that. So that was good. He was a very good
+provider and lived to be seventy-eight, I think, so that was good. Yeah.
+
+STINE: I&#039;m just gonna switch the tapes really quick. [interview interruption]
+
+Begin Audiofile2
+
+STEWART: You learned to do it and you did it without complaining.
+
+STINE: Are there any places you remember in Richmond where you used to shop or
+were you used to go out.
+
+STEWART: No. Downtown Richmond on 10th Street, that was the center of town.
+There was a Macy&#039;s store, I think 8th Street was a [J.C.] Penny store--a nice
+one. There was a Mechanics Bank that functioned there. Oh, it&#039;s beautiful inside
+if you ever--marble floors and marble desks or tables in there, gorgeous marble
+things, beautiful inside. That was good. There was a hardware store, there was a
+few dress clothing for women, very few beauty shops then, there were some saving
+and loan places.
+
+STINE: Wonder why that the beauty shops--?
+
+STEWART: People didn&#039;t go to the shops then so much as they do now. No, people
+didn&#039;t patronize, you got a permanent that-- a lot of was done on your own, your
+own permanent. Of course, there weren&#039;t any women barbers then, and if you went
+to a barber, you&#039;d be a man in a men store, a men shop. It wasn&#039;t anything that
+would attract women, but everything was a business and that was it. They
+function and it was a big [Travelini] furniture store up a few blocks and it
+just function like a small town should.
+
+STINE: Do you have any idea if any of those stores are still here today?
+
+STEWART: Macy&#039;s gone, Penny&#039;s is gone, the bank&#039;s closed, the [Travelini] is
+closed. No, everything&#039;s closed that was there then--closed or something else in
+it. You weren&#039;t afraid to go downtown by yourself even--. Of course, I didn&#039;t go
+down alone, because I had kids with me. When they outgrew the buggy, it was this
+long. I got a coaster wagon and put one in one end. But that was when you said,
+&quot;No&quot;, that was &quot;No&quot; and they behaved. You can pull the wagon behind you; they
+behaved in there. They didn&#039;t fall out and get hurt or anything; they expected.
+Cars did not have seat belts and if you were the driver, you sat a child in the
+other seat in the front, you didn&#039;t worry about him falling out, because he knew
+he had to sit there. The same in church, kids didn&#039;t carrying on or run in
+church, no. Behavior was all together different. Then I got acquainted with the
+nuns, and the nuns were cloistered and they could not go out for anything other
+than a medical appointment. So, I did the grocery shopping for many years for
+them. Call up Thursday night and get their grocery list and go and get it and
+take it to them. That was fine. Then I got to know the priest and so I did the
+church laundry for long--twenty years I did that. Then they started to program
+at the church for people who wanted to learn about the faith and become a
+Catholic, so I did that for ten years every Wednesday night. When I got crippled
+in my left knee, I had to give it all up. Of course the nuns disappeared; they
+had lay teachers so there wasn&#039;t the grocery need for them.
+
+STINE: I&#039;m sure the church miss you.
+
+STEWART: [laughter] The priest and I-- [tape cuts out] Christmas time now, the
+neighbors up there, we all keep track of one another. So, that&#039;s nice. But I
+have been very fortunate in my life that I was able to help others in a way that
+I could. And be a good person and appreciate life. I don&#039;t know when my time is
+coming to be leaving this earth, but I can say I&#039;ve been very lucky.
+
+STINE: Lucky and you&#039;ve done so much and touch so many people.
+
+STEWART: Yeah. I never ask for anything if I could do it myself, and I still
+don&#039;t. So that&#039;s just the way--. I&#039;m going have to have some help now before
+long with housekeeping or something like that and I never had that so it&#039;s gotta
+to find someone that&#039;s reliable and honest. It&#039;s a job; but I&#039;ll have to do that
+eventually. I can&#039;t get down to my knees anymore, walk out of the road or
+anything. [laughter]
+
+STINE: No one expects me to.
+
+STEWART: I can mow the backyard.
+
+STINE: Harriet, this has been delightful interview.
+
+STEWART: Has it been?
+
+STINE: Yeah, it really has.
+
+STEWART: Well, that&#039;s good.
+
+STINE: I think that you&#039;ve really given so much of the whole process, I just
+wonder if there&#039;s anything you feel like I&#039;ve neglected or there&#039;s anything that
+you would want to add about anything throughout the spectrum of your life that
+specifically more about your war time experience or about your time in Richmond.
+
+STEWART: I had no idea that my life would turn out like it has and the turn of
+events that happened, you know like the war, I would never have come to
+California if it hadn&#039;t been the war--December, 7th. I was doing private duty
+nursing there, and that paid twice as much as a hospital nurse, but I never
+would have been even to save your money there at that time, you couldn&#039;t make
+and save a lot like you could out here. So, I&#039;ve been very grateful that I was
+able to come and do that in a good way and keep my health and able to do it,
+then I was fortunate to have such a wonderful husband and my children. Three
+children--they were just marvelous. The kids were very good kids and to this
+day, I&#039;m proud of them so I have lots of rewards. And I don&#039;t think everybody
+can say that. I&#039;m very, very well taken care of by their concern and everything
+and that&#039;s good. Even though, they are miles away. Thank you for coming
+here--even being interested in this sort of life.
+
+STINE: We are all interested.
+
+STEWART: If you see or talk to that Steve, tell him to call me if there&#039;s
+--[tape cuts out] Too bad they don&#039;t have that today.
+
+STINE: At the end of the war, I asked you a little bit about, you know, how
+things change and transition. How did things change for you personally when you
+knew the shipyards were closing? Did Kaiser offer you a job outside the shipyard?
+
+STEWART: I was married then, and it was gonna be the end of the days I&#039;m going
+to work in the shipyard. For my husband too, because the yard closing. He worked
+few months longer than I did, because the first aid unit was closed in Yard One.
+
+STINE: Was it the first one to close or--?
+
+STEWART: No. They all closed about the same time except one, Yard Three, because
+that shipyard was gonna function longer. But Yard Two and us and Yard Four and
+the Prefab area, that all closed down all together. So, you knew ahead of time
+that was gonna be your last days on the job, because the men weren&#039;t coming
+either, in mobs to go to work. It was just close the shipyard. They kept the
+safety people on for a while though kinda watch things about preventing any
+accidents or anything like that. We knew there be the end of it. Kaiser didn&#039;t
+offer any of us nurses any jobs in Oakland, but if I wanted to work, I could
+have. But gee, I&#039;m married now, I was just gonna enjoy a little bit. I lived
+right there on the campus and I went up to work at that UC hospital on the
+campus that they had the students in, and I was up there three months and Ms.
+Waylon called me and asked me to come to work. So, I took that job.
+
+STINE: So, clearly she had heard of your job?
+
+STEWART: Yeah, they took some names of people. That happened to maybe a handful
+of nurses that I knew or was acquainted with. But there were more than that,
+because they could get nurses for--we didn&#039;t know the nurses in Yard Two or Yard
+Three, because you just went to work in your yard, amen. So when she called me,
+I said, &quot;Well, yeah. It might be interesting,&quot; so I went to work in the delivery
+room. That was on the top floor of that big unit on the corner of Broadway and
+MacArthur. We had six women and six babies [laughter]. We had one LVN--she
+wasn&#039;t even a LVN, just an aide took care of the babies and took them down to
+the mothers and that--. There was only like the boss and me, because you didn&#039;t
+have-- the patients weren&#039;t there at first, but that grew like that because of
+the enrollment in the Kaiser plan. It was closed in the shipyard, but people
+wanted that medical coverage so they paid their Kaiser dues if the company
+didn&#039;t pay for it. That means going to work at Macy&#039;s. Macy didn&#039;t pay Kaiser
+health care, so you had to pay your own. But the coverage--the number of people
+grew. Oh, it just grew. That&#039;s why Kaiser Oakland expanded. Oh, just no end to
+what was gonna be next. Yeah, I enjoyed the time when we first went there, we
+didn&#039;t even have a doctor in charge of OB. But they hired one, Robert King, and
+he was a dandy person. I mean knowledgeable but such a nice person, and he was
+there with Kaiser for twenty or twenty-five years, but we were up there and we
+call an intern if we had a delivery come in. An intern that was on call. [Tape
+cuts out] What should I do about my heart? It was only because of an injury on
+the job just then, no matter what the injury was if they can walk and they came
+in there, fine. If they had an injury that you&#039;d have to send an ambulance for,
+we had that van and a first aid man that drive out to it and pick them up. The
+care was really very good, the medical care for what happened there, the
+injuries. In each yard, we had a x-ray machine, and I learned to take x-rays and
+develop the film and all, didn&#039;t know beans about it but I learned from the
+first aid man. Imagine taking foreign bodies out of eyes, now it&#039;s a doctor&#039;s job.
+
+STINE: Straight out of nurses training. [laughter]
+
+STEWART: That what you did. The one doctor had a busy job, but he wasn&#039;t over
+worked to the point where he was over worked. It was a working job all right. We
+had very little slack time; we always did sit down for lunch. Because the whole
+shipyard sat down; all men quit work for half an hour.
+
+STINE: All the same time? Was there some kind of a bell or some kind of--?
+
+STEWART: Oh, a big whistle. Whistle for the shipyard to tell them it was twelve
+o&#039;clock and then another whistle half past if that was the time that get on the
+job again. That was big whistle that sounded, couldn&#039;t miss it that big. That
+was when if there was any entertainment brought to the shipyard, like Henry
+Kaiser did. That was always during the noon hour. Amen! They didn&#039;t come at ten
+o&#039;clock or two thirty and distract anybody.
+
+STINE: It was an act of business.
+
+STEWART: Yeah. It was when you were eating your lunch. There were no lunchrooms.
+If you were out on a job, and you had time to eat, you sat down on the floor.
+
+STINE: Just where you were?
+
+STEWART: Wherever you were, yeah. Ate your lunch, waited for the whistle to
+blown get back. That was the way with everything. It was a no nonsense day. You
+didn&#039;t last if you were a fooler or a --, you get fired. Very few people ask to
+be fired or carry gun like that, because either they had a relative in the
+service or son or daughter or husband so they couldn&#039;t pull that stuff. It was
+what I expected, I never do anything except you give all of yourself and your
+job, you don&#039;t go there and sit down or sit in the back room. That just didn&#039;t
+work. I think somebody came in and swept the place at night, but that was it as
+far as cleaning the place. You cleaned up after yourself, everything. When the
+tables were used for the eye work, you changed the paper on whole thing, and
+that was it. You did it yourself, you didn&#039;t ask for a maid to come. Even if you
+spill blood or something on the floor, you cleaned it up yourself. There was no
+maid service or janitor. Course, outside in the shipyard, there was no nonsense.
+I mean if you did something, drop the board and left it there that was a no-no
+for sure. Because if anybody got hurt or car hit the board or something, that&#039;d
+be the end of you. No, you cleaned up after yourself and in every way. [Tape
+cuts out] Gosh, we had an oxygen tank on wheels. I gave oxygen to the mothers
+until we got an anesthesiologist up there if that&#039;s what we needed. We didn&#039;t
+have anything like that. [laughter] The amount of deliveries just grew, really
+fantastic. It was thirty a month, in nothing flat. Then it just kept
+growing--the number deliveries a month.
+
+STINE: How long had you been working there when it really started to pick up?
+
+STEWART: Oh, the next week or so. It started expanding. I think when I left
+there in nine months, it was about thirty--that&#039;ll be one a day. So, we were
+busy delivering babies and putting everything together for the next delivery to
+begin sterilize so we have it all handy for the any mother that came in any
+time. It was nice, because we grew in a nice easy way. We are not demanding or
+we deserve this or anything like that. It was we wanted to do the best we could,
+and we did. No matter who you were, whether it was the boss or another nurse or
+what, you just didn&#039;t get by with shady work then. Everybody was well equipped
+to do the job and it was amazing. Because I know that when the boys were born,
+that was in &#039;46. Every mother stayed a week in the hospital after delivery
+automatic. They had to expand the department so pediatric was right below up,
+but they moved pediatric down to the second floor and gave us the third floor
+for the mothers. It was big job, I mean a full time job. You didn&#039;t go up there
+and sit neither did you sit anywhere though, because the pediatrics was busy,
+and medical was busy, and everything was very efficient. Ms. Waylon did a
+wonderful job; she was very good. She had good help; she worked days but the
+evening shift was in graveyard was run just as well as day shift. The doctors
+were good. The young doctors that they hired had maybe graduated from graduate
+school, didn&#039;t know anything about OB or so. They got trained and I guess you
+call it. [laughter] If they were interested in OB, that was great for them.
+Because if you can learn right with your nose right in the business, it&#039;s better
+than reading it out of a book what to do. Kaiser really functioned very well in
+so many ways no wonder it went over so great.
+
+STINE: How about your husband--how did he make that transition you said he got
+to work a couple of months longer?
+
+STEWART: He&#039;s fine. He got a job at Albert&#039;s Mill in Oakland.
+
+STINE: Was that right away or --?
+
+STEWART: Yeah. It was a day shift, full time job. He was bossing up and flat. He
+was there eight years, I think, and he decided we wanted to do that building.
+So, we did that. He would take a job just anywhere in Oakland, anywhere that
+needed a man for six or eight months or something. So, he did that and he worked
+in many little places in Berkeley and that for a year or so. That was just with
+the knowledge that he&#039;d be there as long as the job would last. Because
+building, as much as we did in the structure of each place, took a lot of time.
+Not only getting the roof down and the electric place done right. It took time
+and a lot of work to get--[tape cuts out] Have been such friends, I mean such
+good friends and clean and nothing shady. Nothing. I&#039;m like with them even
+today, &quot;When I see a red onion, I think of you,&quot; that&#039;s kind of an atmosphere we
+have with one another. Just nicest feeling that I have such good friends as
+priest. I have one priest that came and was so kind to my husband when he
+couldn&#039;t go to church, and he come and play cards with him, and playing with us
+and have dinner here, and he comes to dinner here every Monday night to this day
+for seventeen years I&#039;ve known him. He has a young friend that brings him and
+the two of them sit here we play cards and poke fun of one another. What you got
+for dessert? Then they leave about eight o&#039;clock and go take him back. He&#039;s
+retired, so he lives in Oakland at a retired priest home. But he calls me
+everyday to see if I&#039;m all right. That&#039;s just nice. But the priests I&#039;ve known
+have been nothing like you read about in some of men getting into trouble today.
+No. I&#039;ve been very grateful for that because I never hear a dirty story or a
+dirty word or a hint about something shady that isn&#039;t the way they--. So, I&#039;ve
+been very fortunate with the priests and the nuns their familiarity. I was in
+high school in the convent, so I knew about nuns and about their social life is
+not outside. So, I was well acquainted. I&#039;m happy to do their grocery shopping
+for them. And that was good. They paid me; I wasn&#039;t providing them. It was case
+of they needed outside help and if I could do it, I did. And I didn&#039;t expect
+anything in return and that was it. So that worked out fine.
+
+STINE: It sounds like you are really very active. It seems according to this.
+
+STEWART: Yeah. When I don&#039;t go to school, I go to mass every morning up there at
+eight o&#039;clock. There&#039;s a few of us old timers that show up every morning, so we
+greet one another. I&#039;m glad to see one another still able to do it. So that&#039;s
+nice. Christian religion has been a great help to me; it&#039;s taught me many things
+about being honorable and respect other people that I see a lot of people don&#039;t
+have. I have faults too, I&#039;m human, but I know when you grow up you don&#039;t steal
+and those kind of things, you know, makes a better person of you. But I have
+very good parents, excellent parents, kind of like pioneers in a way, but they
+were good parents. They didn&#039;t give us money, my parents had money, but you
+didn&#039;t get handout every week. If you needed something, you got it that was no
+problem. But they took us on trips rather than --
+
+STINE: That sounds like what you and your husband provided for your children, too.
+
+STEWART: We did. We went on a lot of trips. In 1968, my husband and Martha, our
+daughter and I, we went around the world and that was a marvelous trip.
+
+STINE: That sounds amazing.
+
+STEWART: Yeah. Then we came back, and the next year we bought four acres up
+there and put a house on it. So, that was a nice thing to do and I enjoyed for
+thirty-two years, it was. I just sold it two or three years ago and I miss it terribly.
+
+STINE: Oh, I&#039;m sure.
+
+STEWART: But it comes to time when you have to do things like that. It was too
+much work for me and I&#039;m not able to do all that work anymore.
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

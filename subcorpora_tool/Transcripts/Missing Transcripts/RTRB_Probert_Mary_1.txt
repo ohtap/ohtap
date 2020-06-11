@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042457" dt="2018-08-15"><version>5.1</version><date value="2004-02-24" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Mary Ann Probert Interview 1: Rosie the Riveter WWII Home Front Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Mary Ann Probert</interviewee><interviewer>David Washburn</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>WASHBURN: Mary Ann, I&#039;m just going to ask you a few questions, and we&#039;ll start now.
+
+PROBERT: Okay.
+
+WASHBURN: You told me about your life, and so we&#039;re just going to start with
+just some basic questions. What is your full name?
+
+PROBERT: Mary Ann Probert.
+
+WASHBURN: And Mary Ann, I know you told me the story about Italy, and we&#039;re
+going to ask that. Can you tell me where you were born?
+
+PROBERT: Milan, in Northern Italy.
+
+WASHBURN: Oh, one second--I forgot one thing here. Can you press the red button
+on that? Go back on the camera--does it say record there? Okay, so you were born
+in Milan, Italy. In what year?
+
+PROBERT: 1921.
+
+WASHBURN: So can you tell me the story of how your father and mother met?
+
+PROBERT: Well my father came here, must have came to United States when he was
+young, and he went into the Army. He was in World War I, and after the World War
+I he went home to see his mother. At that time, my mother was like a peasant
+working for his mother, and when he came home, he noticed that my mother was
+carrying this wood on her back. My mother thought that he was from America, and
+my father asked her if she wanted to come to United States, and she said yes
+right away, that she wanted to come to United States because of--well, it would
+better than working for his mother. His mother didn&#039;t like the idea of her
+marrying her son. My father said right away, he said, &quot;Who&#039;s marrying her--you
+or me?&quot; So they got married in a big cathedral in Milan.
+
+My father came back to United States and told her that he would send for her. In
+the meantime, my mother got pregnant, and I was born in Italy in 1921. And he
+sent for her, and she brought me over here when I was five months old--my mother
+and I. She brought me over to America, and my mother really thought that
+America, it had gold--pick up gold off the streets or whatever. She was very
+disappointed when she came here to the coal mines in Illinois. My father was
+working in the coal mines, and the women helped my mother with setting up. They
+didn&#039;t have a house, but she got pregnant again right away after she got here.
+And then my father got a home. I have three, two other brothers. She got
+pregnant right away with my brother Jim, and then she had another child the next
+year, she had Nick. So then my father decided he could afford a house. He got a home.
+
+WASHBURN: Well let me ask you, briefly, what were their full names?
+
+PROBERT: My brother? Jim.
+
+WASHBURN: No, your parents.
+
+PROBERT: Oh, Fassino, Fassino--F-a-s-s-i-n-o. It&#039;s an Italian name.
+
+WASHBURN: So what was your father&#039;s full name?
+
+PROBERT: James. James Fassino.
+
+WASHBURN: And your mother?
+
+PROBERT: And my mother, Katherine. And she named me Mary, Mary Ann.
+
+WASHBURN: And so, what was your father&#039;s occupation before he entered World War I?
+
+PROBERT: I don&#039;t know. I really don&#039;t. He traveled all over United States, and I
+know he worked in Montana sometime, in some kind of mines over there. And then
+he had a brother that was living with him too, but the brother, he didn&#039;t make
+it overseas because he got sick while he was traveling on the train. My father
+said they just stopped the train, buried him someplace in the out west. But my
+father, they took him in the service.
+
+WASHBURN: Can you recall, thinking back, what your folks looked like? Can you
+describe what your dad looked like?
+
+PROBERT: Oh, my father was strong, a big, husky man. Most Italians are; we&#039;re
+rugged looking. He was very rugged looking and big nose and, you know, real
+tough looking. And he was strong; he was so strong. That&#039;s why they had him as a
+driller in the coal mine. That&#039;s where he went to work, in the coal mine.
+
+WASHBURN: And what about your mother--what did she do?
+
+PROBERT: Oh my mother, she just stayed at home. She didn&#039;t--
+
+WASHBURN: What did she look like?
+
+PROBERT: Oh, she was real sweet, short, and she was kind. She never shouted or
+anything. She was really a sweet person; everybody liked her. She never
+complained, actually. Thank God we had her that was good to us, and she made
+friends with Italian ladies, and they all helped each other. She was very
+helpful. She never worked. She didn&#039;t know how to work. She just cooked and cleaned.
+
+WASHBURN: Do you remember any food she made which were really her specialties?
+
+PROBERT: Well, mostly soup and maybe some spaghetti and she was very religious.
+We just had simple food. The miners--because from working in the mine, they all
+wanted soup at night and a piece of meat and a vegetable. We had a garden. My
+mother just did that kind of work, cook. She had gone to the school in Italy, in
+the nun&#039;s school, and she learned cutwork. She taught me how to crochet and
+embroidery. She made sure that I learned that, and in order to--I remember her,
+if I wanted some different clothes she&#039;d make a pair of pillowcases and sell
+them to some ladies that had money. That&#039;s how she got some extra money, by
+doing that fancy handwork, and they learned that in Italy. They teach them how
+to do embroidery.
+
+WASHBURN: What do you remember she would think about women doing industrial
+work? What would her opinion have been? How were you brought up to think about
+women and work?
+
+ 1-00:06:51
+
+PROBERT: I&#039;ve always had to work. I worked since I was able to. Even as a young
+girl, I&#039;d go next door and help them. They had like housecleaning. I always
+worked. We always had to work. And it&#039;s important to keep your house clean, and
+work was something that we knew we had to do. Even around the house at night you
+have to bring in the wood or the coals for the next day, and I always had to
+work. So I just grew up knowing that that was part of life, this work.
+
+WASHBURN: How old were you when you came to the United States?
+
+PROBERT: I was only five months old, so I grew up as an American because--and in
+the coal mines, in the camp, amongst other families--Russian, Polak,
+Lithuanian-- and they all had big families. Seven kids, ten kids, and we grew up
+different than what the kids do nowadays.
+
+WASHBURN: So, what did your mom, in these stories, tell you about coming to the
+United States?
+
+PROBERT: Oh, she didn&#039;t tell too many stories about the United States. She&#039;d
+just make up some stories, like to treat animals real good. She&#039;d always mention
+about &quot;don&#039;t be mean to like a cat or a dog or anybody.&quot; She was very loving,
+and she never wanted to have no fighting, and all the kids liked her when they
+came to our house. My mother loved children very much, and she was
+satisfied--she never complained that I know of. And she made do with what we
+had. But my father made wine, and he used to drink once in a while, like on New
+Year&#039;s they have a celebration, and he&#039;d drink too much wine or get drunk. She&#039;d
+get real upset with him over drinking too much. She was really satisfied with
+life; she never complained. She missed her people in Italy, though. I know she
+did. I know she missed them very much, her mother and her brothers.
+
+WASHBURN: So what can you tell me about life in--well your parents settled in--
+
+PROBERT: Benld. It&#039;s B-e-n-l-d, Illinois.
+
+WASHBURN: And why did they settle there?
+
+PROBERT: Oh, because of the coal mines. And a lot of Italians, all the Italians.
+Coal mines.
+
+WASHBURN: So what can you tell me about the life there in Benld? Was it a big
+town, a small town?
+
+PROBERT: No, about three thousand, not even three thousand. That&#039;s everybody. It
+was made of mostly miners and different nationalities like Russians, Croatians,
+Slovak, Italians, just coal miners. It&#039;s a small town, very small, and everybody
+more or less knew each other. Then they had like one part of the town was the
+newer section. They&#039;d say, &quot;That&#039;s a newer section of town.&quot; It depends, as the
+city grew, different sections of town. And most people were about the same.
+There wasn&#039;t anybody with lots of--we didn&#039;t have a car. Most people didn&#039;t have
+cars. They just had children and cattle, cow, yard, garden. We had a garden. It
+was a small city.
+
+WASHBURN: Hold on. One second here, Marianne. The light keeps changing here
+[Discussion about technology of the taping.]. So did you grow up in a
+mining--was it a company town?
+
+PROBERT: Yes it was. It was owned by Superior Coal Company. There was four
+mines; there was one, two, three, and four. And each mine had their own town
+built around them.
+
+WASHBURN: So what were some of these towns? What were their names?
+
+PROBERT: I lived in Benld. Then there was Sawyerville. Well Eagerville is number
+one, Sawyerville, number two. Montclaire is number three, and Wilsonville was
+number four for mines. And some of them had more people in them. It all depends
+on--well, it was really cornfields. There was nothing but just--you&#039;d have to
+work in a mine there. There&#039;s no factories or anything. That&#039;s why I had to go
+to St. Louis to work, or Springfield. There was a hospital I worked in there.
+
+WASHBURN: So, what were the living conditions like there in Benld? Did you live
+in a company house, or did your parents buy?
+
+PROBERT: No, my father bought it, but there&#039;s a lot of people that did live in a
+company house. They were little places that were around the coal mines, and they
+were all right. Nobody had toilets inside. Or we had pump water until the city
+put in the pipes and stuff like that. It was really--country! And, even like if
+they a cow, they had to bring the cow to the pasture, and then they&#039;d bring it
+home at night, then they&#039;d bring it back in through the pasture. They didn&#039;t
+have--and the roads were still unpaved, no water system. They slowly got all
+that in later on, but not when I was growing up.
+
+WASHBURN: What about electricity?
+
+PROBERT: Well, we had electricity. But we wouldn&#039;t have the inside toilets or
+bathrooms or anything like that. You had to go outside.
+
+WASHBURN: Was your neighborhood-- were your neighbors all Italian?
+
+PROBERT: Mostly. But my neighbor on this side wasn&#039;t. They were from
+Czechoslovakia. And the one--they had the alleys, behind the alley they were
+Russian. And on this side, they were Italian. And then across the street, there
+was Italian. Then there was a Croatian; then there was a Russian. They were kind
+of mixed up. They really didn&#039;t--people got along more or less because we all
+worked in the mines. And there wasn&#039;t this racial--the only thing I think
+sometimes there was--like they were mostly Catholics. But the Russians had their
+own church, their own graveyard, and so they didn&#039;t have problems like they have now.
+
+WASHBURN: Do you remember hearing Italian and Russian, and all these different languages?
+
+PROBERT: Oh yeah. I could speak some Croatian, and the neighbor next door, we
+called him Pulaks. He could understand some of the Italian. You pick it up real
+easy. Most of the people understood each other even if they didn&#039;t speak
+American. In the stores--they&#039;d have one store that dealt mostly with the
+Italians. They had another store that dealt mostly with the Slovaks. And it was
+all like on credit, bills, and they&#039;d come to the house, and ask them what they
+want, and then they would deliver them. That&#039;s how we got the groceries, the
+horse and buggy. Then later on they had a car, but they still came to the house.
+And my mother used have to tell what she wanted. And then they&#039;d bring it.
+
+WASHBURN: And so, what was the religious for you at that time--did you go to church?
+
+PROBERT: My father, mother--no, no, no. I went to church later. We were all
+baptized. I was baptized in Italy, but my brothers, they got baptized in
+Illinois. And the Catholic church was so far; it was over a mile or more. So I
+didn&#039;t go. My mother didn&#039;t go. My father didn&#039;t either. My father was a server
+boy in Italy, and my mother--they grew up with that religion, so when they
+didn&#039;t have to go, they didn&#039;t go. And I went with my friends because they were
+going to church. There was no forcing. It was up to us to want to go.
+
+WASHBURN: And correct me, was work there six days a week? Only Sunday off? Or
+did they have Saturday?
+
+PROBERT: Saturday and Sunday off.
+
+WASHBURN: What about other religious holidays, like Easter? Did you celebrate?
+
+PROBERT: Oh yes. My mother did. Well she became Americanized, with the eggs.
+They go to school--when we started going to school, we&#039;d bring home ideas, and
+you have to go along with the--they never argued with us, &quot;You can&#039;t do this,&quot;
+or &quot;You can&#039;t do that.&quot; We were just lucky to have what we had. And like those
+Easter eggs, the coloring eggs, they had a different idea of Easter, the idea of
+the Christ being born, and like Christmas. We celebrated Jesus.
+
+WASHBURN: Did you guys say grace at dinner?
+
+PROBERT: No, we didn&#039;t pray.
+
+WASHBURN: And did your folks speak Italian to each other around the house and to
+you also?
+
+PROBERT: Yes, yes they did. Oh yeah. But not all the time. My mother would like
+to talk in English better, and my father tried, but he wasn&#039;t too crazy about
+talking a lot in English. But they would talk between each other more in
+Italian. And we all talked English. My brothers and I, we never talked together
+in Italian.
+
+WASHBURN: So you and your brothers all spoke English to each other?
+
+PROBERT: Oh yeah, from school. That&#039;s what you go to school for, is to learn English.
+
+WASHBURN: What do you remember hearing about the unions in Benld? Did your
+father belong to the union?
+
+PROBERT: Yeah, they believed in the union. They did, they were--well they didn&#039;t
+make too much money, and I think John L. Lewis want to get them so more money.
+But yeah, they were union. They had regular wars like--it was terrible. Bombings.
+
+WASHBURN: Do you remember growing up--what was your impression of unions when
+you were growing up? Were they a good thing?
+
+PROBERT: I believe in a union. After they join the union, I believe in union.
+That&#039;s the only way you can get decent wages.
+
+WASHBURN: Why is that?
+
+PROBERT: Because they have benefits, and John L. Lewis must have had the
+contacts. If you&#039;re owned by the company, they can do whatever they want to you.
+This way, with the union, you have the hours, the benefits. They never had no
+health plans or anything, nothing! Even when my father left, even with the
+unions sometime, they don&#039;t--they could fight for their rights. Whereas, if you
+didn&#039;t have a union no one is going to talk up for you. But I don&#039;t know, my
+father never complained. He wasn&#039;t a strong person against the unions.
+Especially I think if you&#039;re a family man, they think about their family.
+
+WASHBURN: Let&#039;s talk about meeting your husband. Where did you meet your husband?
+
+PROBERT: At a dance. At a dance. That&#039;s one thing. They had a big dance hall. It
+was between St. Louis and Chicago. Big bands came there. I can&#039;t remember right
+now. It was a real big dance hall. And every Saturday, big bands come there. My
+girlfriend and I, we walked to that big place to dance, and we walked home. We
+didn&#039;t worry about nobody mugging you or anything. And the boys would come in a
+car. They come there, and we come there, and then we stand around like this, and
+then they come around, they say, &quot;You want to dance?&quot; and we said, &quot;Yes.&quot; That&#039;s
+how I met him. He asked me to dance, and I danced with him. That&#039;s how I met
+him. Then he start coming to the house. He had to walk to my house or take a
+streetcar. He came from the other town, and that&#039;s how I met him, at the dance.
+
+WASHBURN: Where did he live?
+
+PROBERT: He lived in Gillespie. I lived in Benld. He came from the Scotch,
+English, all different nationalities. But my father worked in the same that his
+father worked, and he had three brothers and a sister. They all had big families too.
+
+WASHBURN: Do you think your father knew his father?
+
+PROBERT: Yeah, he probably just said hello, working in the mine. But, I got
+married out here, in Richmond.
+
+WASHBURN: So what did both families think about an Italian gal dating a Scottish boy?
+
+PROBERT: I don&#039;t know. My father didn&#039;t know what to say. When he first came
+into the house, my father brings him under the light and looks him over, and
+then he checks him out, and my husband--he wasn&#039;t my husband then--offers him a
+cigarette. My father always smoked one of these long pipes that comes from
+Italy. He tried to smoke that cigarette, to show off to my Richard, to my
+boyfriend then. I don&#039;t think he knew how to smoke it! [laughs] But he accepted
+him because he&#039;s a coal miner&#039;s son. He didn&#039;t make my father feel funny that he
+was Italian, that he couldn&#039;t speak as well. He accepted him really quickly. I
+mean, he was never against him.
+
+WASHBURN: Didn&#039;t say anything bad about him in Italian?
+
+PROBERT: No, no.
+
+WASHBURN: What was your husband&#039;s name again?
+
+PROBERT: Richard. Richard Probert.
+
+WASHBURN: And so what about Richard&#039;s family? What was their reaction when you
+guys were dating?
+
+PROBERT: Well, they had me over for dinner once, and his father was sitting
+there in the rocking chair, and he had a Bible that he was reading. He just
+accepted me. They didn&#039;t check you over. It was okay. I had dinner, and we
+didn&#039;t have these big, fancy dinners. We just had like french fries and maybe
+some steak or something. It was okay. I fit in all right. They didn&#039;t say anything.
+
+WASHBURN: But I thought I remember you saying something about that because you
+were Italian, they--what did they think about you being Italian?
+
+PROBERT: Oh, I don&#039;t know. I think they accepted me, that I was Italian and a
+Catholic. They didn&#039;t express that, &quot;No, you can&#039;t go with her,&quot; or, &quot;She can&#039;t
+come over,&quot; or, &quot;You have to pick somebody else.&quot; No, we didn&#039;t have no problems
+there. But my father--he didn&#039;t speak to Richard that much--he liked him because
+his father worked in the same mine.
+
+WASHBURN: Do you think your parents, in all honesty, wanted you to marry another
+Italian boy?
+
+PROBERT: Oh, no--in a way, maybe yes. They never made a big issue of it because
+my brother married somebody else, and she wasn&#039;t an Italian. My other brother
+married somebody else--we didn&#039;t stick to the Italians. But I used to hear they
+liked that because that way you get along better than, and it wasn&#039;t that
+because you&#039;re Italian. They could communicate better. Otherwise, there wasn&#039;t
+any of this &quot;because he&#039;s not Italian, I don&#039;t want you going with him.&quot; My
+father never did hold that against, but I&#039;ll tell you the ones that my brother,
+the one in Long Beach, he changed his name. They got married secretly, and the
+parents there, they disowned the daughter for her marrying my brother that&#039;s
+Italian. And they were the highly educated degreed people that have all the
+degrees you know. And he still has that name. Not long ago my brother said, &quot;Oh,
+sometimes I&#039;m kind of sorry I changed my name.&quot; They changed their whole name because--
+
+WASHBURN: What did he change his name from?
+
+PROBERT: From a Fessino to Danny. They&#039;re the ones that--and they never had
+anything to with our family at all! They all had these big degrees. They were
+university people, and they were all educated. To think that their daughter
+married a--my brother was a chorusman; he was in the Navy. Then they got over it
+because my brother went to college; my brother went to college here in
+California, and he made something of himself. School teacher. They finally
+accepted him.
+
+WASHBURN: So let&#039;s talk about your father&#039;s illness. I know your father got
+sick. Can you tell me about what happened to your father?
+
+PROBERT: Well, we didn&#039;t have no money, so being that he was coughing, spitting
+up, and they said, &quot;Well, you&#039;ll have to go to a hospital,&quot; we didn&#039;t have no
+money. So since he was World War I they decided to send him to a veterans
+hospital. And I didn&#039;t know anything. My mother didn&#039;t know nothing. They said,
+&quot;Where does he have to go?&quot; We&#039;re in Illinois. They sent him to Kentucky. To
+Outwood, Kentucky. I haven&#039;t been there, but I&#039;ve seen pictures of it. And so my
+father just had to get on a train and go over there, and he stayed there six
+years, in that hospital. They taught him to how to make crafts and all kinds of
+things for on account of his lung. Actually, he had black lung. They didn&#039;t say
+that when he first went in there. He stayed there because that way they took
+care of him. And my mother--that&#039;s how come I had to go on WPA and support the family.
+
+WASHBURN: Did the Superior Coal Company help you out?
+
+PROBERT: Nothing. Not a cent. Nothing, nothing, nothing. And listen, when they
+had those cave-ins like you see in the paper, they don&#039;t--maybe they get
+something now, but they didn&#039;t then. They didn&#039;t get anything. They didn&#039;t have
+no union. They didn&#039;t have anything.
+
+WASHBURN: Was your guys&#039; house paid off at that time?
+
+PROBERT: Well, yes it was. When they buy a house up there, they don&#039;t buy it on
+payments. They just buy it. It&#039;s cheaper that way. We were lucky. It&#039;s only
+three rooms, two bedrooms and a kitchen.
+
+WASHBURN: So once your father went off to Kentucky, what did--how old were you?
+
+PROBERT: Well, I was in high school, high school already because fifteen,
+sixteen. And I was always working. I was always cleaning houses, housecleaning,
+and doing other kind of work, working for other people.
+
+WASHBURN: So it was the Depression during this time.
+
+PROBERT: Oh yeah, yeah.
+
+WASHBURN: What was the Depression&#039;s effects on Benld?
+
+PROBERT: Oh, it was terrible. Nearly everybody was on relief. They called it
+relief, the Depression. Nobody had any money. They all got the--like here--a
+little bit of--we called it relief. They&#039;d give you some flour. You had to
+go--my brother and I had a little wagon. We&#039;d go and get some--for cereal.
+
+WASHBURN: Oatmeal or something.
+
+PROBERT: And that lard. Even the margarine wasn&#039;t even colored. They give you
+this greasy stuff, and then you&#039;d color it. [laughs] Yeah. And so much they give
+you relief--they called it relief, whatever. It&#039;s surplus. It was a surplus deal.
+
+WASHBURN: When you graduated high school is that when you started working for
+the WPA?
+
+PROBERT: Yeah, yeah.
+
+WASHBURN: So tell me how you got a job working for the WPA. And what did you do?
+
+PROBERT: Because my mother needed help. She didn&#039;t work, and I had two brothers.
+And so, they said, &quot;Well, if you can work or do something,&quot; they&#039;d put you in
+WPA. And in my hometown, we had a lot of Italians, and we had adult education.
+And adult education--we taught them citizenship. That&#039;s teaching them how to get
+their papers. I got into that because I had just finished high school, and I
+could relate to them, being that I&#039;m Italian, and I could talk to them. And you
+should see these little ladies. They have the little grocery bag. They have the
+little book in it, and they come every night. They walk to the school, and we
+taught them. In the morning, we put in the hours. You have to put in the hours
+in WPA too, you know. It&#039;s a job. And we&#039;d make the lessons, like, &quot;I live in
+the United States of America,&quot; and this and that. They had to learn the federal
+government, state government, city government, and they came. Then when it was
+time to go get the papers, we would go to the county, see the teachers, and go
+with them, and they got their citizenship papers.
+
+It was really a good job, and I was lucky, being that I had to support my
+mother. I was lucky to get under a teacher that had the degree. I mean, she was
+a regular school teacher, but her husband had stolen something, and she had two
+children, so she had to take care of her kids. So she was in charge of the adult
+education at night. We went every night, and I was helping her, and we&#039;d write
+on the board. You should see those people. They really studied and everything.
+Then we went to the courthouse with them. At that time you sat in a chair, and
+the judge was up here and the examiner down here, and he questioned these little
+old ladies that raise a big family, and he said to them--I always remember
+this--&quot;Do you own any property?&quot; And the lady said, &quot;Property? Property?
+Property?&quot; They scared them. They acted as if they were criminals! Finally the
+judge said something to her, to that examiner, and then she said, &quot;Yes.&quot; It was
+the idea of how they got their papers. So then she got her papers. Nowadays,
+they don&#039;t even do that to become American citizen. They had to know all of
+that. And those people were so happy when they got their papers. We&#039;d say,
+&quot;Don&#039;t tell them you&#039;re going to get your papers just to get on relief or
+something. Tell them how you really feel.&quot; That they want to become American
+citizens. I stayed on WPA.
+
+WASHBURN: How long were you on WPA for?
+
+PROBERT: Well, until I came to California, until I got my vacation.
+
+WASHBURN: Well, how many years would that be?
+
+PROBERT: Well, I was in it about two years, maybe two years, maybe more.
+
+WASHBURN: When you think about the WPA and Roosevelt, what do you think?
+
+PROBERT: Great! He couldn&#039;t have done anything better. Even today, I
+tell--anybody open their mouth about Roosevelt, he had the camps for the boys,
+he helped build--he put them to work. And they were all working and happy with
+it. I would vote for Roosevelt anytime--or a Democrat--at least anybody that was
+on WPA. They were not lazy. Maybe there were some lazy ones, but they had the
+WPA people just laying there. They&#039;re not doing anything. But the adult
+education, they had--they built dams. They worked. And they even had those CCC
+camps. I think there was something else. See, I think that was a good thing that
+Roosevelt did.
+
+WASHBURN: So after that, you&#039;ve been voting Democrat ever since.
+
+PROBERT: Oh yes, and I won&#039;t change. It&#039;s what&#039;s in the man, but at least
+Roosevelt did help the working class.
+
+WASHBURN: So let&#039;s talk about coming to California. Why did you come to California?
+
+PROBERT: Because I was on WPA, and I had a chance for a vacation, and I was
+going with my husband--met him at the dance--and he didn&#039;t have a job, he
+couldn&#039;t find a job. So he volunteered. And all the guys in that town, they got
+together. They were going to go in the service for one year because they didn&#039;t
+have no jobs, so they volunteered. And they sent them out to Presidio. All those
+guys from Illinois out to Presidio. Well, I didn&#039;t even pay no attention to
+that, but the other--one of my friends went to see her boyfriend. He was
+stationed there; he was one of them.
+
+WASHBURN: The Presidio in San Francisco.
+
+PROBERT: Yeah, Presidio. And then I was entitled--I got a vacation on WPA. It
+was my time. And she said to me, &quot;Mary, you ought to go and visit him at the
+Presidio.&quot; Well, she went, and she talked to him and everything. I didn&#039;t
+realize that I had relatives here. In Richmond. Cavoretto. That lady--they were
+coal miners, and they left it to come here. They had relatives here in Richmond,
+California. We had lost contact with them. I know I hated to see them go, but we
+thought--even I, I thought, California, when you think California you think
+movie stars. They&#039;re all down in Los Angeles or somewhere. We didn&#039;t know
+exactly where she was. And when she--her husband died after he came out here. He
+was a coal miner, didn&#039;t get a job or whatever, and she was at the Presidio. So
+she heard about all these young men from my hometown, and she said, &quot;Oh I bet
+they need somebody to come and visit.&quot; So she invited them--my husband
+included--to her house for a spaghetti dinner. &quot;Come to Richmond. Come over and
+have dinner.&quot; And, oh! They all came over to her house when they had time off.
+
+WASHBURN: What was her name again?
+
+PROBERT: Cavoretto.
+
+WASHBURN: How do you spell that?
+
+PROBERT: C-a-v-o-r-e-t-t-o, Cavoretto. That&#039;s a family, they&#039;re still here. She
+died of course. So they&#039;re talking--and she met my husband there--and they said,
+&quot;This is a guy from the other town Gillespie.&quot; And he said, &quot;Oh, I&#039;m engaged to
+a girl named Mary Fassino.&quot; &quot;Oh!&quot; she said. &quot;I know them. I&#039;ll get in contact
+about when she can come out here and visit.&quot;
+
+WASHBURN: And stay with your relatives.
+
+PROBERT: Yeah, yeah. So I came out.
+
+WASHBURN: So tell me about coming out.
+
+PROBERT: Oh gosh. I didn&#039;t know anything about traveling. I bought the ticket,
+and my father had come to see me be at home or something, and I went with him up
+to St. Louis. When he was in St. Louis he went to Outwood, and I came out, was
+coming to California. I didn&#039;t bring any clothes. Not even a sweater. I thought
+California was hot! I didn&#039;t have any idea of the traveling and that it takes
+two days and two nights to come over here on the train--I had to take it. So I
+came, and my husband met me. He wasn&#039;t my husband then. My mother wrote to her
+and said she could come and stay with me. Otherwise, I couldn&#039;t come.
+
+WASHBURN: So it&#039;s important that your relative was in Richmond?
+
+PROBERT: Oh yeah, oh yeah, yeah. And she said, &quot;Tell her to come and stay,
+visit.&quot; So, I can never forget that. Come to San Francisco at night, off the
+train. I was freezing! It was so cold! And it was so dark! Ah man. And here&#039;s my
+husband with all those army clothes on; it didn&#039;t bother him. So he brought me
+over to the house. Right away I had to send for a buy a sweater.
+
+WASHBURN: He took you to the house where?
+
+PROBERT: To where I was supposed to stay, in Richmond.
+
+WASHBURN: So tell me about that. You arrived--this was in what year?
+
+PROBERT: 1941.
+
+WASHBURN: Was this after Pearl Harbor?
+
+PROBERT: No, no.
+
+WASHBURN: Right before Pearl--so what were your impressions of Richmond when you
+were there?
+
+PROBERT: Oh, it was okay. She had three boys. And I grew up with them. I lived
+with them in Illinois. So I couldn&#039;t get over all the food that they had, all
+the fruit! And the boys. One was working Standard Oil, and the other was working
+another place, and she had all kind of food to make their lunches. I was eating
+all this stuff because I was not used to having grapes, bananas, everything.
+Start putting on weight! But I got a job. Three days I was here, I got a job.
+
+WASHBURN: Where did you get the job?
+
+PROBERT: Chemurgic. There&#039;s a--well, it was a friend. Another Italian said, &quot;You
+just go over there and tell him you&#039;re related, and you&#039;ll get on. I&#039;m their cousin.&quot;
+
+WASHBURN: How do you spell Chemurgic?
+
+PROBERT: C-h-e-m-u-r-g-i-c.
+
+WASHBURN: What was Chemurgic?
+
+PROBERT: They made flares. You know the ones that you light on a road? I didn&#039;t
+want to stay doing nothing for a while. She said if you want to work--and I
+wanted to get off the WPA; I didn&#039;t care about that--she said, &quot;You just go tell
+them you&#039;re my cousin.&quot; And I got on. And I worked there until I was blown out
+of the place. That place blew up.
+
+WASHBURN: Well, I want to ask you about that.
+
+PROBERT: I got the whole thing to show you, the blast.
+
+WASHBURN: I want to ask you about that. Was Chemurgic in Richmond?
+
+PROBERT: Yeah, it was out there by the bay.
+
+WASHBURN: Where was the plant?
+
+PROBERT: Out there by the bay, Richmond. It was out by the bay.
+
+WASHBURN: Was it near the Ford plant?
+
+PROBERT: Yeah, no. Ford plant was over here.
+
+WASHBURN: Was it near Stauffer Chemicals? Near Stege Marsh over that way?
+
+PROBERT: No, no, no. It was out here. There was a--they made the bathtubs.
+
+WASHBURN: Oh, American Standard?
+
+PROBERT: Yeah, out that way.
+
+WASHBURN: So that was in North Richmond?
+
+PROBERT: Yeah, and they made anti-sep--to kill the bugs. There was a place out there.
+
+WASHBURN: What was that called? It was Ortho? No, it was something else, but I
+know what you&#039;re talking about, yeah. Were there mostly Italians who were
+working there?
+
+PROBERT: No. Well she&#039;s Italian, my cousin was. She just said, &quot;Tell them I&#039;m
+your cousin.&quot; They were just hiring anybody. It was a chemical--the flares, I
+made the railway torpedoes is what I made. And standing up. When I say
+torpedoes, everybody thinks those torpedoes that you have in the bay or
+whatever. This is torpedoes--you know what they are; they&#039;re signals for the
+train? No, no, it goes on the track. It was like a biscuit. I learned to make
+those. There was a hot place here, Rozen. You know how a vanilla wafer looks?
+Well they made that. That was the powder. And then the girls--there was her and
+I--we were in cement buildings. And only two people worked in that one building.
+What we&#039;d do -- we&#039;d dip your paintbrush like, and we had--it&#039;s a red paper--I
+wish I saved one--it&#039;s a cross like this. There&#039;s a lid strapped to it. And then
+we go like this. Take the hot stuff and swish it. Take that biscuit tool in
+there, fold it real quick, and then put a little lid and turn it around.
+Railroad torpedoes. It&#039;s a signal for the train. They wrap that little lead
+strap, wraps around the rail. And when the train comes over, it goes off, and
+that&#039;s their signals.
+
+WASHBURN: What, signal for what?
+
+PROBERT: For whatever.
+
+WASHBURN: Oh, so maybe change the track or something like that.
+
+PROBERT: Yes. And I made those, and we had to make a hundred forty-four in a
+gross, and we made about fourteen grosses a day, so I stood there like that and
+worked all day.
+
+WASHBURN: Was this the first kind of factory work you ever did?
+
+PROBERT: Yes, first time.
+
+WASHBURN: What was that like for you? Did you think it was tough? Or did you
+think it was easy compared to other work? What did you think?
+
+PROBERT: I was used to work, but it was kind of hard because we had to stand.
+But the other girl--there were just the two of us in this one place. Then it
+goes into another section, all cement. And they clean it off, and then they put
+it in a big box at night to ship out. And we just worked. And we didn&#039;t make
+that much money. I&#039;d get real tired.
+
+WASHBURN: Yeah Mary Ann, if you could just keep your hands away from the
+microphone because it rustles a bit when you hit the microphone.
+
+PROBERT: Well when I talk you know, I&#039;m describing the--well, anyway.
+
+WASHBURN: Let me ask you, when you were coming out to California did you think
+you were going to stay, or were you just coming to visit?
+
+PROBERT: No. To visit.
+
+WASHBURN: So when did you make the decision, &quot;I&#039;m going to get a job here, and
+I&#039;m going to stay&quot;?
+
+PROBERT: I&#039;m going to stay. I didn&#039;t want to go back. There was nothing for WPA
+back here. My mother said--well, I got married too. I didn&#039;t want to stay here
+not married. I got married by the Justice of Peace in Richmond. As long as he
+was here, I didn&#039;t--oh, I had a job. My mother said, and I was living with, and
+my mother knew her in Italy, and I had a house, and I was working at Chemurgic.
+And the girl that said I was her cousin; she was Italian too. And I liked it,
+but it was hard work, standing all time.
+
+Then, you know what happened? Well, when these things--you know the ones we were
+making. The guy that goes in another department, they clean him and put him in a
+box. And then at night, there&#039;s a--they have boxes like that, and they have to
+put the tops on, nail the tops. And there&#039;s one man--we had a man that came and
+did that at night, and he missed the top. When he hit the nail it didn&#039;t go
+through where it was supposed to. It went into the explosives and blew the whole
+place up. I&#039;m going to get that stuff, and you can see it later on. He blew that
+whole place up. He just went to pieces. All the women that were in that room
+were dead, and by the time the blast come through the building, it blew me out.
+I didn&#039;t have any burns, but I had to go to the hospital. What bothered me most
+was the noise, the explosion.
+
+WASHBURN: The hearing. Did you know any of the women who were killed?
+
+PROBERT: Oh sure!
+
+WASHBURN: Well that must have been very sad.
+
+PROBERT: Yeah it was. And one of them had just gotten married too. And you know
+what? We didn&#039;t get a penny. Nothing. Not a cent.
+
+WASHBURN: Why not?
+
+PROBERT: Because we didn&#039;t sue or do anything about that. And I had my coat in
+there, and my keys from the house were bent even. I got them out, and I stayed
+over at my friend&#039;s house, and then they offered me a job up in an office
+someplace. It&#039;s a big place. They made the flare for the road, the ones that you
+light up. I said no, I didn&#039;t want to go. I wish I had because I would have
+learned something. I would have had a skill. Instead I said, &quot;No, I could get a
+job in the shipyards.&quot; That&#039;s why I&#039;m a Rosie. I went over to the shipyards.
+
+WASHBURN: So you were here before the war and before the big expansion Richmond.
+
+PROBERT: Oh, sure.
+
+WASHBURN: Did you spend a lot of time with a lot of Italians in this time in
+Richmond? What did you do with your free time outside of work? Who did you
+socialize with?
+
+PROBERT: No. Well, my husband would get some time off, and I&#039;d go to San
+Francisco. He was stationed right across the street from the zoo, Fort Funston
+and Fleischhacker Zoo, and then he couldn&#039;t get out. I&#039;d go just to the
+guesthouse and say hello to them. We didn&#039;t do anything, and then the lady I was
+living with, she&#039;d invite the boys over and stuff like that. We didn&#039;t--
+
+WASHBURN: So you don&#039;t remember-- you didn&#039;t socialize with too many Italians in Richmond?
+
+PROBERT: No, no, no. Well the relatives, yes. Just the relatives. Nobody else I know.
+
+WASHBURN: And so, you know you told me that in Benld you didn&#039;t go to church.
+Did you go to church in Richmond?
+
+PROBERT: Oh yeah, Catholic. Yeah, yes I did.
+
+WASHBURN: Tell me about your religious life in Richmond.
+
+PROBERT: Oh, I didn&#039;t go too much because my aunt--I called her aunt--she didn&#039;t
+go, and I didn&#039;t go. I didn&#039;t get involved. I went to a Lutheran church there
+where Wilson and Kratzer is. She didn&#039;t go, and if I had any time I would go to
+visit with my husband at the fort.
+
+WASHBURN: Were you sending home money to your mother?
+
+PROBERT: Oh no--sometimes I would, yes, definitely. I always had to send her
+something. She&#039;d say, &quot;No, I don&#039;t need it. I don&#039;t need it.&quot; Sometime I wish
+she would have said, &quot;Come home and stay home!&quot;
+
+WASHBURN: You wish she had said that?
+
+PROBERT: Sometimes, yeah.
+
+WASHBURN: Because you were homesick?
+
+PROBERT: I worry about her, but she never said nothing. She never said--she said
+as long as he was there, I&#039;m married to him, &quot;you stay with your husband.&quot;
+That&#039;s the rule. And thank God that my husband was there, and then Pearl Harbor
+came on, and they was under alert. And then she said, &quot;If you&#039;re married, you
+stay with your husband.&quot; So I did. And I went to work in a shipyard.
+
+WASHBURN: Why not return to Illinois?
+
+PROBERT: There&#039;s nothing there. There was no jobs in my town. I worked in St.
+Louis during the summer to get money for the books to go to school. There was
+nothing, no work, nothing.
+
+WASHBURN: Can you describe the difference between what life was like in Illinois
+and what life was like in California for you?
+
+PROBERT: Oh yeah, yeah. I liked California, and a lot of opportunities here in
+jobs and people, and I even would have liked to go to school to become like a
+beauty operator or something. If I had the money, I would have did that. I
+didn&#039;t even learn to drive until I got married and went to night school. I
+didn&#039;t have no car, didn&#039;t have that much money. As long as my husband was
+stationed here at Fort Funston he was lucky because they went on alert during
+the war. The war broke out December the seventh. My husband would have been
+discharged then. So, as long as he was here, I stayed here.
+
+WASHBURN: And it sounds like from what you&#039;ve said, there are more foods and
+fruits to eat. What did you notice about that?
+
+PROBERT: Oh yeah! Oh, lots of fruit. My gosh! I was eating all the time. I put
+on so much weight! Oh, avocados, and my aunt, the one I was living with, she had
+those three boys, and they had all that grapes and bananas, and all kinds of
+food! I put on a lot of weight. Because I&#039;d go too and make me a lunch, and when
+I was working at Chemurgic, I ate so much lunch I could hardly work! Because I
+had to stand and make those things, and you know if you eat too much you can&#039;t
+do no job. Gosh, it was so hard, so I kind of had to cut down. When I went to
+work at a shipyard, it was different. It was different. I walked in the
+steelyard; I was as an expediter. First, I was in the office; then I got out and
+carried the orders to the cranemen to pick up the plates.
+
+WASHBURN: Well, let&#039;s take a break and have a soda, and then we&#039;ll talk about
+the shipyards. Let&#039;s take off the tape there -- you&#039;re stuck there. Great.
+
+WASHBURN: We&#039;re on tape two, recording with Mary Ann Probert. We&#039;re going to
+talk about working at the Kaiser shipyards. As best as you can remember, how did
+you find a job working there?
+
+PROBERT: Oh, everybody knew that they were hiring at the shipyards. You didn&#039;t
+have no problem getting on at the shipyards. They brought people in from all the
+different states by train because they needed so many people. It was no problem.
+You just go in and say you need a job, and they just hired you right there and then.
+
+WASHBURN: What year did you start on at Kaiser?
+
+PROBERT: I don&#039;t really--I&#039;d have to figure it out.
+
+WASHBURN: Do you remember if it was after Pearl Harbor?
+
+PROBERT: Yeah, after Pearl Harbor. No. Yeah, after Pearl Harbor.
+
+WASHBURN: Was it shortly after Pearl Harbor or?
+
+PROBERT: It was after, right after.
+
+WASHBURN: So you think in like 1942?
+
+PROBERT: Yeah, yeah, &#039;42.
+
+WASHBURN: And so what was your job there?
+
+PROBERT: Expediter. They called them expediters. Oh, first I worked in a steel
+order department. I was going to get in an office, so that steel order
+department. That&#039;s where they made the ships, in Yard One. And so the order
+department, they order all the steel for the yard, and the men come in and want
+the order, so you write it up. We&#039;d have big charts showing how far the steel is
+and how many, how much there was. So that&#039;s all I had to do was just take care
+of the people--they called them leadmen, the men that were in the plate shop.
+They come in and say they need so many pieces, plates of steel. It&#039;s just like
+making a dress. They had the templates would be pattern. They had a big template
+shop. The pattern for the ship. And then the plate shop, they&#039;d have tables all
+down, big tables, and the men worked on each side of the table. They&#039;d bring in
+the steel, and lay it on the table and stencil it, like marking it. From there,
+it&#039;d go in the burners, another section that&#039;s in that shop. And they&#039;re the
+ones that had those--they were skilled; they cut it out. Then from there, they
+take it too the welders, and the welders weld it together to form the shell of
+the ship. But I just worked in the--then I transferred out of the office. I
+wanted to follow the orders. see that crane man got them, and then see that he
+delivers the right--I got to walk around. They call it expediting.
+
+WASHBURN: Well, let&#039;s talk briefly about working in the steel order department.
+How long did you work there, for a few months or few years?
+
+PROBERT: Several months. The reason I wanted to get out of the steel order
+department, we&#039;d make more money. Because the office girls never make that much
+money. I had to transfer to another union.
+
+WASHBURN: So you were part of a union in the steel order department? Were you
+part of a union?
+
+PROBERT: Yeah, it was union, and then we--I wanted to go outside, so I went out.
+[phone rings]
+
+WASHBURN: So Mary Ann, we just took a break there. You were saying you were a
+part of a union when you were working the steel order department.
+
+PROBERT: Yeah, an office union. I wanted to get outside, so you have to transfer
+unions to another.
+
+WASHBURN: Explain again why did you want to work outside instead of inside?
+
+PROBERT: Oh, I don&#039;t&#039; like to be in an office.
+
+WASHBURN: Why not? Why didn&#039;t you like working in an office?
+
+PROBERT: It was small, and I like to move around more. I don&#039;t like to just fill
+in how far--just to fill out the orders. I mean, the guys from the plate shop
+come in and just tell them how much steel we have or whatever. I wanted to get
+out. I&#039;m not an office girl. So, and it&#039;s more money too. And that was when I
+got in trouble, when I wanted to change unions.
+
+WASHBURN: We&#039;ll talk about that. Just one second. What were the kind of
+relations between men and women in the office?
+
+PROBERT: Well, there was only one man in the office, and the rest was just
+women. It was too small. It was real confining. I didn&#039;t like--those charts were
+up high on the wall, and all you have to do is fill in. It wasn&#039;t enough
+movement. I like to be busier. And more money too.
+
+WASHBURN: How much money did you earn per hour there in the steel order department?
+
+PROBERT: I don&#039;t know. They didn&#039;t pay that much. Ninety cents an hour,
+probably. The wages weren&#039;t that high at that time like they are now.
+
+WASHBURN: Let&#039;s take a minute and talk about when you transferred jobs. Tell me
+the story about when you transferred jobs from the steel order department to
+being an expediter.
+
+PROBERT: Well, they told me I had to change unions. So, in Richmond, they had
+this big place where they hired people, and you had to go there. So I went there
+and I told them I want to transfer union. He says, &quot;Where were you born?&quot; I
+said, &quot;Italy.&quot; That was it; we were at war with Italy. So, he said, &quot;You&#039;ll have
+to go over there. You have to get your finger printed, and you can&#039;t go to work
+tomorrow until you prove your citizenship.&quot; I told him that I was born in Italy,
+and at that time, I thought, &quot;Well, I&#039;ll have to do what he says.&quot; I had to go
+to the immigration office. I told them later what year I was born; I was born in
+1921. My father, mother were American citizens, and I was a citizen through my
+parents. Then they straightened me out, and I missed one day&#039;s work, and
+everyone in the shipyard found out that I was Italian. Really made me very angry.
+
+WASHBURN: Express that. Why&#039;d it make you angry?
+
+PROBERT: Because there&#039;s no need for it. I was, I am an American citizen. And he
+didn&#039;t give me no chance to explain how I became a citizen. He figured I was an
+alien, and I couldn&#039;t go to work. So I have to prove my citizenship. What I
+should have said later on--he said, &quot;Well, if you had said I&#039;m an American
+citizen but born in Italy, there wouldn&#039;t have been no problem,&quot; but since I
+said I was born in Italy he didn&#039;t ask me anything. He just said, &quot;You&#039;re not
+going to work tomorrow. You got to bring in the papers. You got to do this and
+that,&quot; and that&#039;s what I did.
+
+WASHBURN: Why do you think in his mind, what was wrong with you being Italian?
+
+PROBERT: Because we were at war! And I&#039;m working in the shipyards. That&#039;s
+defense, and I don&#039;t think he had any right to, but you have to do what they
+say, so then I had to go and get my--I finally did get, I got them right here. I
+could show them to you that I&#039;m an American citizen through my parents. My
+father, mother married in 1921. I was born in 1921. They married before then.
+And my mother became a citizen then. But they changed the law in 1922, that I
+would be a citizen if I was born in another year, so I had to prove that I
+derived my citizenship through my parents, through that marriage.
+
+WASHBURN: But what&#039;s wrong with someone who&#039;s born in Italy working in a defense plant?
+
+PROBERT: Well, we were still at war. I think that you&#039;re an alien then if you&#039;re
+working at a defense plant, and you&#039;re not a citizen. They probably didn&#039;t hire them.
+
+WASHBURN: Why do you think they didn&#039;t hire them or thought that was something
+which couldn&#039;t happen?
+
+PROBERT: Oh, I guess they do a lot of checking. Why did they--you know what? Why
+did they make all the Japanese go? They were American citizens. They owned land
+right here in Richmond, and they made them go into those camps! That wasn&#039;t
+right at all! That was terrible, and they did that to the Italians too, and I
+was one of them. But I had my papers. They didn&#039;t even give me a chance to say
+how I became a citizen. I had to go to the immigration office, and I got my own
+papers now, and it cost me money to have that paper. I&#039;m glad I got it, but I
+don&#039;t see where they had any reason to question. And that man said, later on he
+said, &quot;Well if you would have said you were an American citizen but born in
+Italy, this wouldn&#039;t have happened.&quot; Because I called the immigration office in
+Oakland. It still makes me mad. I mean, they don&#039;t even give you a chance to--I
+think that was terrible. I mean, I lost a day&#039;s work. Of course now that I want
+to go on a cruise, I have to get a passport, and I have to show--at least I have
+the papers. I&#039;ll show them to you afterwards. Makes me mad.
+
+WASHBURN: When you missed a day&#039;s work, what did folks say to you when you came back?
+
+PROBERT: Oh, well, they looked me over, that&#039;s all. They didn&#039;t open their
+mouth. I don&#039;t like the idea of arguing. I knew that the immigration office
+said, &quot;If you were born in China, I was an American citizen, and they had no
+reason--you&#039;re an American citizen no matter where you&#039;re at. Through my
+parents. You could have been born in China.&quot; It was just the idea of the people
+that I worked with found out that I was Italian.
+
+WASHBURN: Do you think they thought poorly of you? Or what do you think they
+thought about that?
+
+PROBERT: No. Because we were at war with Italy. I&#039;m not connected with no
+Mussolini. You know, it&#039;s funny how--I guess it&#039;s because I&#039;m from a foreign
+born, overseas, or have parents that are Italian, and they&#039;re at war. They&#039;re
+probably figure they&#039;re checking, want to check up on spies. Maybe they did have
+a lot of spies in the shipyard or whatever.
+
+WASHBURN: Let&#039;s talk briefly about the Italian relocation in Richmond. What did
+you know about the Italians being relocated in Richmond?
+
+PROBERT: They made them move up out of the house. I was living with my
+relatives, and he--
+
+WASHBURN: Hold on. Let&#039;s wait for this truck to go by here. So tell me that
+story again.
+
+PROBERT: I was living with him, and I didn&#039;t know that--she didn&#039;t have no
+papers. And so when this came out, they made her move. Her husband got to live
+in that house in Richmond, and the wife had to go move, find a place up there
+past the [San Pablo] Dam Road, out that way in Richmond.
+
+WASHBURN: What was her name?
+
+PROBERT: Perelli. Perelli. The husband and wife, they separated them.
+
+WASHBURN: Tell me that story again. I didn&#039;t quite follow. How did that work again?
+
+PROBERT: Because she wasn&#039;t an American citizen, she had to go and leave her
+husband in the house--they lived in there; they called it the Stege then--and
+move out to the section that they had out here. It was out by the Dam Road out
+there. She had to move, find another house. I mean, live with somebody else.
+Yeah, they did. And the Italians and the Japanese.
+
+WASHBURN: Why did she just have to just move from Richmond just five miles away?
+
+PROBERT: The boundary lines. They had a boundary line. They had a boundary line
+for the Italians.
+
+WASHBURN: Well, explain. What was that boundary line about?
+
+PROBERT: Well, she&#039;s considered an alien. Maybe I would have had to go if I
+didn&#039;t have my papers. You had to move out away from her house.
+
+WASHBURN: But why was that boundary line important?
+
+PROBERT: Because we&#039;re on the coast here. This is a declared area, imagine area
+that has to be--that&#039;s why they moved the Japanese. Why did they move the Japanese?
+
+WASHBURN: Well also I heard that people talked about Richmond being a central
+defense area. There are all the defense plants that people might--
+
+PROBERT: Oh yeah, that&#039;s true, that&#039;s true. That could be true. Because the
+shipyards were here. And I had never seen or heard any sabotage in the
+shipyards. The only thing I heard about the shipyards probably is people
+stealing stuff out of it. They walk out with half the tools or walk out
+with--stealing stuff.
+
+WASHBURN: So do you, can you talk about--do you talk about it? Do you think it
+was paranoia on people&#039;s parts?
+
+PROBERT: Yes, yes, definitely, and I think--
+
+WASHBURN: Why do you think it was paranoia?
+
+PROBERT: Because of the war. I mean people get--I don&#039;t know. They don&#039;t trust
+anybody. They thought more of--well, maybe they had a reason to, but I myself
+couldn&#039;t see any reason. It almost broke their hearts, the wife had to move over
+there. He had to stay over here.
+
+WASHBURN: So what else did you know about the Italian relocation? How else did
+it affect people you know in Richmond?
+
+PROBERT: That&#039;s the only one. That&#039;s the only one because I didn&#039;t. They didn&#039;t
+never question me after that because I could always show them my papers, and I
+made a point tell them I&#039;m an American citizen first, then that I was born in Italy.
+
+WASHBURN: Did you, at that point, start carrying around your papers?
+
+PROBERT: Yeah, I got them.
+
+WASHBURN: So but let&#039;s compare the difference though. Before the war, were you
+carrying around any papers?
+
+PROBERT: No, no, no, no, no.
+
+WASHBURN: So now why did you carry your papers around during the war?
+
+PROBERT: Well, in case I needed them. I didn&#039;t need them after--I didn&#039;t always
+carry my citizenship papers to the shipyard when I was working there. I knew I
+had them here. They didn&#039;t bother me. I mean, nobody questioned anybody in the
+shipyards like that. I don&#039;t know. I don&#039;t think it was right, but a lot of
+things they didn&#039;t do that was right either. And I have a friend now that I work
+with, and she spent the time in the Japanese camps, and there was no reason for
+them to go either because they were right here, and they were American citizens,
+and they don&#039;t listen. They just make you do it. Just like with me. I could
+argue all I wanted. I had to produce the papers.
+
+WASHBURN: So did you ever sense a little fear that maybe you were going to be
+taken away?
+
+PROBERT: No, no. No, well I didn&#039;t think so. I didn&#039;t have the fear. I don&#039;t
+know why. And I would have had to go like my friend did. The husband and
+wife--they can cry all they want. They had to separate.
+
+WASHBURN: Can you explain for people who don&#039;t know, how did they decide who
+they were going to relocate, which Italians they were going to relocate and
+which they weren&#039;t going to.
+
+PROBERT: I don&#039;t know.
+
+WASHBURN: Which Italians had to leave and which didn&#039;t?
+
+PROBERT: Oh, I only know of the Italians that lived in Richmond, my relatives
+that I was living with at the time. I was renting a place from them because I
+was living there. But I know there must have been a lot more Italians that had
+to move like that maybe. Like the husband had the papers, and she didn&#039;t get
+any, so then she had to move.
+
+WASHBURN: So was it just about papers? I&#039;ve heard it was about folks who their
+residency was in--can you clarify that at all?
+
+PROBERT: Not these people. They just had to move. There might have been
+sabotage. They had a lot of Italians in San Francisco that they had problems
+with. But the Italian people aren&#039;t people that fight all the time. I mean
+they&#039;re not a--even the guys that were stationed here from Italy. I mean, didn&#039;t
+they capture some Italians, and they brought them over here to San Francisco?
+They&#039;re not fighters. They don&#039;t care.
+
+WASHBURN: The people that you knew at least in Richmond, what did they think
+about Mussolini?
+
+PROBERT: None of us had any use for him. We&#039;re not fighting people. Italy is
+like the United States. There&#039;s certain parts probably--the Northern Italians
+are all different from the Southern Italians. So maybe the section, like the
+gangsters, Al Capone and all those, they&#039;re a different type of people. The
+Northern Italians, you don&#039;t hear about them always having--stealing and robbing
+and all that. They&#039;re just different sections. They grow up different. They&#039;re
+not peace loving. My niece is in Germany. She went over to Germany to study. She
+married a German over there. She&#039;s in there now. She a doctor in Germany. And
+Hans--they&#039;re still there. I could say, &quot;Well I don&#039;t like the Germans.&quot;
+
+WASHBURN: So you didn&#039;t know much about Mussolini yourself.
+
+PROBERT: No, no, no.
+
+WASHBURN: But you knew of him?
+
+PROBERT: Oh, yeah.
+
+WASHBURN: Because he was at war with the US.
+
+PROBERT: Yeah, you know. I don&#039;t have any--
+
+WASHBURN: Who gave you this problem when you went go change unions. Which union
+was that?
+
+PROBERT: The clerk. I was in the office, office man, office union man. I wanted
+to go into shipfitting.
+
+WASHBURN: Which union was that?
+
+PROBERT: Shipfitters they call it. From the clerks to the--I was in the office.
+I wanted to get out of the office union.
+
+WASHBURN: So you applied with the shipfitters.
+
+PROBERT: Yeah, yeah.
+
+WASHBURN: And they gave you this hassle.
+
+PROBERT: Well, I told them that I was born in Italy is all, and when I told them
+I was born in Italy, at this big center they had in Richmond where they process
+all the aliens and all those, and even when I called Oakland, they were
+surprised that I had that problem with them. They thought that was terrible that
+I had been--I got my citizenship through my parents and that I had to miss work.
+
+WASHBURN: How did that change your idea about the union?
+
+PROBERT: I was angry at them. They didn&#039;t even--then he tells me, &quot;Well, if you
+would have said you were an American citizen through your parents, you wouldn&#039;t
+have did anything. They didn&#039;t give you a chance to say anything. Right away,
+you&#039;re--because I said, &quot;Italian, I was born in Italy.&quot; That was it. I&#039;m still
+mad at them.
+
+WASHBURN: I can tell. Let&#039;s talk really quickly, as long as we&#039;re on that
+subject, about the Japanese relocation. What did you know at the time about the
+Japanese relocation?
+
+PROBERT: I didn&#039;t pay no attention. It didn&#039;t even bother me. I didn&#039;t have no
+feelings about none of that. I didn&#039;t know that that was really going on because
+now that I&#039;m working with a--the lady that spent all that time in the desert
+they sent them someplace of Colorado--I don&#039;t know what, a desert-- she tells it
+was terrible, just terrible. And they were born here, and they planted the
+flowers here. This is was their land. I don&#039;t see where they had any right to
+put them in the camps.
+
+WASHBURN: So why don&#039;t you think you knew what was going on? Why don&#039;t you think
+you knew?
+
+PROBERT: I didn&#039;t pay no attention. I had my own problems of being an Italian.
+After, you know it didn&#039;t bother me that much. I never had any--even today,
+Japanese to me, I can&#039;t, I don&#039;t like what they did, but I don&#039;t hold it against
+them. I mean, I figure they&#039;re human people like you and me, and how do you know
+what--I was an American citizen through my parents.
+
+WASHBURN: What&#039;s her name -- the woman you know?
+
+PROBERT: That&#039;s Chinese?
+
+WASHBURN: She&#039;s Japanese right?
+
+PROBERT: Clara Yashuda. I got her name.
+
+WASHBURN: I&#039;d like to meet her. That&#039;d be neat. And she goes to your church.
+
+PROBERT: No. No, no, no. She has her own church.
+
+WASHBURN: How do you think your attitude would have changed had you known what
+was going on in the Japanese?
+
+PROBERT: I don&#039;t know. You know what you have to do? You have to feel--I didn&#039;t
+get involved with worrying about the Japanese, you know? I didn&#039;t like what they
+did--dropping the bombs on Pearl Harbor. But war. There&#039;s a lot to war
+without--I don&#039;t like to say it, &quot;Being that I&#039;m Italian, I&#039;m responsible for
+the Italians are all doing.&quot;
+
+WASHBURN: And so vice versa, you wouldn&#039;t like to say that about the Japanese.
+
+PROBERT: Yeah, no, no ,no. They didn&#039;t even bother me as far as that goes. I
+didn&#039;t even know they were doing that as far as that goes either, and I don&#039;t
+think a lot of people--. But whoever ordered that if they were an American
+citizen--. I taught citizenship and literacy. You&#039;re an American citizen, you
+own this, you work land. How did they have the power to take that land away from them?
+
+WASHBURN: Well, you know FDR signed the act which put them in the camps.
+
+PROBERT: What?
+
+WASHBURN: FDR signed the act.
+
+PROBERT: Yeah! That was bad on his part. That&#039;s plain old politics. It isn&#039;t the
+truth. I mean I really think that that was horrible, and those people couldn&#039;t
+do nothing about it. Nothing!
+
+WASHBURN: Does that change your impression of FDR, that he signed the--
+
+PROBERT: Well, yes in a way. And if you come to think about this whole thing of
+now with the Iraq, with him doing what--he took powers that I think--we preach
+that the Congress declares war and not the president. Our president has taken so
+much power that he doesn&#039;t--about Iraq. I don&#039;t think that was right either,
+right now even. Of today. You ask half the people about this war in Iraq, that
+there&#039;s 540 people dead already, American boys over there. Dead! For what? This
+war here is so different. You notice all this type of war that we&#039;re having
+here, they dropped these explosions--I don&#039;t know what you would call it--they
+blow stuff up all the time with the bombing. It&#039;s not a war like other wars. You
+know, they fly over and drop bombs. Now they&#039;re having the--I can&#039;t say it--
+
+WASHBURN: Well how&#039;s the Iraq war different from World War II? Well what&#039;s the
+difference in attitude and everything?
+
+PROBERT: To me, I think that it&#039;s a big mistake that--he didn&#039;t have no business
+going over there with our boys and killing, guarding those people when they
+don&#039;t want him over there, and our boys are not protected. What do they do?
+They&#039;re standing there. They&#039;re living ducks! I mean, how are our boys being
+protected over there?
+
+WASHBURN: It&#039;s dangerous.
+
+PROBERT: It&#039;s terrible!
+
+WASHBURN: But how do you sense the differences among the American people during
+World War II and the war in Iraq now?
+
+PROBERT: Well we believed that World War II was different because it was Hitler
+and Mussolini, and there was a lot more at stake, the countries. Hitler did a
+lot to the German people, and he started the war. We have, with this Iraq, that
+9/11, the terrorism. It&#039;s always terrorism, and it&#039;s always--it&#039;s a different
+kind of war because the way they did it. I don&#039;t say that that wasn&#039;t right what
+they did, come over and kill all those people. Yeah, I think so, but now, I
+think we should get out of there, and now they&#039;re still blowing up and killing
+these innocent boys that are over there. For what?! They&#039;re not going to change.
+
+WASHBURN: Do you think we had reason to go to war in Iraq?
+
+PROBERT: No. I&#039;m against the war in Iraq. They&#039;re not going to change those
+people. Myself, you know.
+
+WASHBURN: Well, we don&#039;t want to talk too much about that, but it&#039;s neat to get
+your opinion.
+
+PROBERT: Well, I don&#039;t know about yours. I don&#039;t know about yours.
+
+WASHBURN: Similar to yours. So let&#039;s talk about the shipyard. Let&#039;s go back to that.
+
+PROBERT: Well, that was something, though, the shipyards. There was all the
+countries were at--I mean there was Italy, France, Germany. I mean, it was a
+bigger thing than it is now. You know? What&#039;s cooking?
+
+WASHBURN: Hold on one sec. Let&#039;s pause this. Describe your job as an expediter?
+What does an expediter do?
+
+PROBERT: See, follow the orders, see that they go to the right place and keep
+them moving and make sure that whatever they order gets in the right place. Like
+I bring the order to the crane man. He has to pick up the steel, make sure that
+it gets where it&#039;s at, follow the order. Expediters see that it keeps moving in
+the right direction of where it was supposed to be. That&#039;s all.
+
+WASHBURN: What gets moved in the right--the steel?
+
+PROBERT: Yeah, the steel. Whatever they made. Make sure that--or if somebody
+can&#039;t find something then I have to go find it where it&#039;s at, in that certain section.
+
+WASHBURN: So it sounds like the job had a lot of responsibility.
+
+PROBERT: Oh well, in a way, yeah. And I could move around. I could walk through
+the shop. You know all the lead men. And it was interesting. I like expediting.
+Yeah it is.
+
+WASHBURN: That does sound interesting. Because I&#039;ve met a lot of women who were
+welders or burners, and they worked in a crew. It sounds like you had a lot of
+freedom to move around.
+
+PROBERT: Oh, I walked around all the time. I was out in the yard out here and
+there. Then I report back to the steel order department. If they come in and
+say, &quot;Well we didn&#039;t get this stuff,&quot; then I have to go find out where it&#039;s at
+and how we&#039;re doing. And I used to see this bums. During the war, they&#039;d be
+sleeping out in the kitchen or sleeping in the yard. We don&#039;t like that, but
+there&#039;s nothing you can do about that.
+
+WASHBURN: Were there other women who were expediters?
+
+PROBERT: Oh yeah! Lots of expediters. Me and two, Amanda, because they have to
+know where it--make sure that the steel is going where it&#039;s supposed to be.
+That&#039;s all. I thought that was really good.
+
+WASHBURN: So did you have to start wearing heavy clothing?
+
+PROBERT: Oh yeah. I had the boots on and heavy cap. Nowadays everybody&#039;s wearing
+jeans. At that time, we just started wearing the heavy jeans at the shipyard
+because you&#039;re cold. [whispers] It&#039;s all different. Now you don&#039;t see now
+dresses. Of course in a shipyard you&#039;re cold.
+
+WASHBURN: So tell me the story about wearing jeans. Why did you wear jeans?
+
+PROBERT: Because it&#039;s cold! You&#039;re right by the water, and the type of work, all
+the metal, heavy steel, you have to wear heavy clothes. A woman has to wear
+heavy clothes and the cap, whereas now it depends on what kind of job you have.
+It&#039;s cold. I even had to wear woolen underwear. You&#039;re right there on the water.
+If you were in an office in a shipyard, you wouldn&#039;t wear that. You would dress up.
+
+WASHBURN: Did you feel more comfortable working in the office or working as an
+expediter? It was a little different--
+
+PROBERT: I like, I like it outside, working with the lead men, different, seeing
+that things are moving. And they were all nice people. They kind of gave the
+woman a bad name sometime that worked in the shipyard. They thought they were
+always laying down having sex with the guys in the double bottoms out in the
+yard, but that&#039;s not true.
+
+WASHBURN: Well tell me about that. Why did they think that? What were men&#039;s
+impressions of women at the shipyards?
+
+PROBERT: Well some of the men made it look bad for the women because they start
+having sex with them where they&#039;re not supposed to. In the double bottoms.
+There&#039;s a picture here of one of them laying in a double bottom. You could see.
+But they didn&#039;t do that. I mean, I didn&#039;t see any of it. They had high respect
+for most of the women that worked there. We weren&#039;t--it depends on the--you can
+find that anywhere.
+
+WASHBURN: Well so now tell me the story about the Italian guy and what he said
+to you once. Did men ever make any remarks to some of the women?
+
+PROBERT: Yeah! Yeah! He hollered, &quot;gosoculo.&quot; That means big ass. And I turned
+him in. He knew I was Italian. And the boss really went and told him off, and he
+shut up. But he was the only one. I think it was just a showoff. You know how
+some guys want to just make themselves shout out. But most of the men, they
+respected a woman. He did make me mad; I turned him in.
+
+WASHBURN: So you turned him in, so what--?
+
+PROBERT: I turned him in to the big boss, the one that was over his section,
+that &quot;he&#039;s hollering, making remarks to me.&quot; He knew I was Italian. And
+nowadays, they all got big rear ends with the jeans!
+
+WASHBURN: Why did you turn him in? It was kind of like sexual harassment?
+
+PROBERT: Yeah, I think so, yeah.
+
+WASHBURN: Why did you turn him in?
+
+PROBERT: Because that is sexual harassment. And he was the only one. Otherwise,
+he had no business hollering. He thought that I didn&#039;t know what he was saying.
+
+WASHBURN: Well what happened to him because he said that?
+
+PROBERT: Oh nothing. They just told him not to do it. They don&#039;t have to fire
+him. It&#039;s not like now. And sometimes men, like whistle. They just want to
+attention, I think. Some of them just want attention. Or want to see what I
+would do. They made fun out of the lead man too. They went and hooked something
+on one of the men with a hook back here. And he walked through all the plant.
+You know, how they played jokes. I&#039;ve seen that too.
+
+WASHBURN: So were sexual relations different in the office versus out on the yard.
+
+PROBERT: Oh, it would be worse out in the yard than it was in the office.
+
+WASHBURN: Why was that?
+
+PROBERT: Because there are so many men. I mean, it&#039;s so big and open. And a boss
+can&#039;t stand over you and see what you&#039;re doing all the time. It&#039;s just too big
+that they could get away with nearly anything they wanted if they want to do it.
+
+WASHBURN: And do you think some women were having sex?
+
+PROBERT: Oh yeah, oh yeah, oh yeah. They did, sure. Because women are women. And
+their husbands were probably overseas fighting. You always have those kind. You
+can&#039;t say you&#039;re going to be an angel. I&#039;m not an angel myself. [laughs].
+
+WASHBURN: Were they, so did they have sex in the shipyard?
+
+PROBERT: Oh yeah. They said they used to have it in the double bottoms
+underneath the ship where you can&#039;t see in it. There&#039;s a picture in here. You&#039;ll
+see. They could have it. If they wanted to, but most of them, most of the men
+weren&#039;t that bad. And you know who was in the shipyard was the older men that
+couldn&#039;t go into service, so I can&#039;t see where they were that sexy when if they
+had to be a burner or do their job. They must be laying down and not doing any work.
+
+WASHBURN: Now let me ask you frankly, I&#039;ve heard from one other person that I&#039;ve
+talked to about lesbians at the shipyards.
+
+PROBERT: Oh no never, I never--
+
+WASHBURN: Do you remember anything about that?
+
+PROBERT: No, no. I guess I&#039;m just--
+
+WASHBURN: Or women being suspicious because the women start dressing a little
+bit more like men. Anything like this?
+
+PROBERT: Oh, I&#039;m trying to think. I myself had never noticed anything. Just like
+now, &quot;everything is gay, they&#039;re gays.&quot; Somebody just talked to me on the phone
+today from Illinois. She said, &quot;Oh my, these gay marriages. You&#039;re living over
+there.&quot; They think we&#039;re living in sin and everything. I mean, they&#039;re making
+such a big to-do about this marriage now. They print it in the papers. You see
+these two women. You know, they&#039;re broadcasting all of this. Then they think
+that everybody in California are that way. Really! They don&#039;t think that much of
+a person from California because of that. They don&#039;t have no morals. They&#039;re sick.
+
+WASHBURN: What about race relations at the shipyard? You told me before that you
+didn&#039;t know many, any black people before you came to Richmond. What was it like
+for you to be working with black people there?
+
+PROBERT: I didn&#039;t work--no black people in my yard. Not a single one. There
+wasn&#039;t anybody that I sighted. They probably were outside, but in the office,
+no. There wasn&#039;t hardly anybody that--I mean me personally. Even my town, in the
+coal mining town in Illinois, no blacks. I think they were after the blacks if
+they did come in. I think they must have run them out of town, because they
+weren&#039;t there. They were in St. Louis. They were in Springfield. But they
+weren&#039;t in the coalmines. None of them.
+
+WASHBURN: And so in Kaiser, you didn&#039;t work with any black people?
+
+PROBERT: No. No, no, no. I don&#039;t know. They must have been there, but not even
+in the shipyard too many blacks. Now the Mexicans and the blacks, there&#039;s more
+blacks or Mexican people.
+
+WASHBURN: In Richmond. I want to talk to you a second about being in the
+shipfitters union. Did they provide you any help or any support? How did the
+union affect your life?
+
+PROBERT: Not a thing. I didn&#039;t get anything from them. Because you know the war
+ended, and I quit the shipyard. I was pregnant. They didn&#039;t make me quit when I
+was pregnant or anything, no. I didn&#039;t have no trouble.
+
+WASHBURN: Let&#039;s talk about the union though. You paid dues?
+
+PROBERT: Oh yeah, yeah. We paid the dues. And I never went to the union meetings
+because nobody else went. Hardly anybody went to the meetings. They&#039;re tired
+from work.
+
+WASHBURN: Well what about union picnics or things like those?
+
+PROBERT: No. Some people stayed on the shipyards after most of us were laid off.
+I quit because I was pregnant.
+
+WASHBURN: Well, let&#039;s talk about that. What year did you become pregnant?
+
+PROBERT: Nineteen forty-four, I guess, because my son was born in 1945.
+
+WASHBURN: And how long did you work in the shipyards while you were pregnant?
+
+PROBERT: Oh about, just a few months. Because it&#039;s hard to work when you&#039;re
+pregnant. You&#039;re too fat. Walking, you know, pants.
+
+WASHBURN: Did people know you were pregnant there in the shipyards?
+
+PROBERT: Yeah, yeah, my friends. My friends, the ones that had been in the
+office. They bought me a crib. Yeah. They pitched in and bought me a crib. That
+was nice. We didn&#039;t have no shower. Well they gave me the money for a crib. And
+I had my son in Berkeley General.
+
+WASHBURN: Now were you excited to be pregnant? Let&#039;s talk about that.
+
+PROBERT: Well, in a way, I was. Yeah, it was okay. I was happy, but it&#039;s
+different when you don&#039;t have your family. Everybody was nice to me as far as
+that goes, the doctors. And we didn&#039;t have to pay too much to be in a hospital.
+
+WASHBURN: Did you want to continue working?
+
+PROBERT: Yeah, I would have liked to work, but then you can&#039;t work when you have
+a child. My husband came home from the service. Then it was hard for him to find
+a job. It wasn&#039;t that easy for the servicemen that came out. We&#039;re from
+Illinois, didn&#039;t have no skill, didn&#039;t go to high school, so he had a hard time
+finding a job. He applied at Mother&#039;s Cake and Cookies--you know where they make
+them--and I already had the baby. He want to sleep, and it&#039;s night work, and he
+finally got a job at Oakland Naval Supply Depot. Oakland Naval Supply Depot, and
+then we moved to Richmond because I was in an apartment on the third floor in
+Oakland. I had to find a place for the baby to get out. I used to go to Lake
+Merritt, take him there.
+
+WASHBURN: What do you think you would have done had you not gotten pregnant, in
+terms of a career?
+
+PROBERT: We would have stayed here. My husband--
+
+WASHBURN: Yourself in terms of a career.
+
+PROBERT: Oh I would have, I think I would have went to school. I wanted to
+become a beauty operator. I mean, I wanted a skill. Or work in a hospital. I
+definitely would have made something else of myself. And I always worked in the
+stores, part time.
+
+WASHBURN: What about continuing working on in the shipyards and doing industrial stuff?
+
+PROBERT: No, there was no work. There was no work after that. There was nothing
+in Richmond, just the cannery and Ford Plant. Oh, I&#039;ll tell you what I did: I
+went to work for Beckman Instruments. I put twelve years in there. Because my
+husband didn&#039;t have any money; I didn&#039;t have any money. So if you--even buying a
+house I took care of the child, and then I got a job at Western Electric, the
+telephone, in Oakland, and they moved to San Leandro. First it was Beckman, then
+Western Electric, and then E&amp;H research. I always did factory work. I soldered
+the boards you know that you have, and I worked in the wire department, knew all
+about the wires, made cables for the wires that&#039;s behind there. And I wanted to
+learn more about electricity, go to college. I did go to Contra Costa for a
+little while after my husband was out, but I didn&#039;t take any special skills. But
+I did want to go to school. I do have some credits from Contra Costa, like
+English, the ones you have to take for an AA degree I think it is. Those basic ones.
+
+WASHBURN: If you don&#039;t mind me asking because you seem comfortable talking about
+it, and it&#039;s difficult to kind of get women to talk about these kind of things,
+but were you and your husband using birth control at all?
+
+PROBERT: Yes. Yeah, we did.
+
+WASHBURN: What kind of birth control?
+
+PROBERT: He got fixed. My husband. Oh, before that?
+
+WASHBURN: During the war.
+
+PROBERT: Oh, during the war.
+
+WASHBURN: I&#039;m trying to figure out that you said--
+
+PROBERT: The diaphragm, the diaphragm. Oh yeah, you have to do that. Otherwise
+you have more kids. It wasn&#039;t that I don&#039;t like kids, it&#039;s just that--and we
+weren&#039;t together that much because it wasn&#039;t that hard. He was in the service,
+and he wasn&#039;t home all the time. When he was home, we used the diaphragm.
+
+WASHBURN: Were most of the other women you know using diaphragms too?
+
+PROBERT: I don&#039;t know. I think so. Sometimes, the women, they don&#039;t like to say
+what they&#039;re using. Then my husband got that surgery where you don&#039;t have any
+more children, so that was it. Then I didn&#039;t have to use anything.
+
+WASHBURN: I guess I&#039;m trying to understand, though, at the time you got pregnant
+were you using, were you trying to get pregnant, or were you using birth control?
+
+PROBERT: No, no, no. You know why I got pregnant is because my husband was going
+to go overseas. All the time he was here, I didn&#039;t get pregnant. I went to
+Oklahoma--he was on his way to overseas--and we just got careless, I guess.
+Because the minute I came back, I was pregnant. That&#039;s why I had him here. He
+went overseas, and good thing he came back. But that&#039;s why, you just didn&#039;t use
+anything or didn&#039;t think about it, or something happened. But otherwise, we
+always had the diaphragm. Then he got fixed later on with the surgery that
+wouldn&#039;t have any more children. Because I like children.
+
+WASHBURN: I just want you to know too, because should your son watch this, what
+would he want to know about that?
+
+WASHBURN: Was it your son was your first child?
+
+PROBERT: Yeah.
+
+WASHBURN: Because I don&#039;t want him to think that he wasn&#039;t wanted or anything
+like that.
+
+PROBERT: Oh no, no, no. We both liked children. I mean it wasn&#039;t, and it
+was--well he did go overseas; he went from Fort Sill. I kind of wanted to have a
+memory of him. I wasn&#039;t never against children, but it was the idea that he was
+still in the service, and if it happened then it happened. I can see how you
+feel, and I wouldn&#039;t want him to feel that way because there&#039;s five years
+difference between my son and my daughter. Sometimes he always felt that, my
+husband, that I favor my daughter more than him. But actually, my husband, he
+loves his son dearly, but he acted like a Gestapo. You know what I mean? He was
+real strict with him. Too strict. I&#039;m just the opposite, and sometime even now,
+between the two they&#039;re not too close because of the waiting five years between
+the two of them. And one&#039;s a girl, one&#039;s a boy, and it makes a difference.
+
+WASHBURN: But clearly the circumstances of your life were difficult, were
+strained when you had your son.
+
+PROBERT: Oh yeah. Oh sure. Definitely. Yeah. And you know, when he came home,
+here&#039;s a baby. It makes a difference. He&#039;s real proud of him, and he thinks the
+world of him, but in the military he wants everything just so, just so, and he
+made him just jump. I mean, he was really strict on him. I think that&#039;s why--and
+I&#039;m just the opposite with my daughter and felt differently. So that caused a
+lot of arguments, and so, to this day, you could say he doesn&#039;t come here that
+much, and I think this house or whatever, he told my brother that there was too
+much fighting. I felt like my husband was more of a Gestapo with my son, and we
+used to make remarks behind his back. I would say, &quot;Gestapo--heil Hitler.&quot; I use
+to go like this, like that sometimes. I&#039;m pretty mean too. So we would say--he
+was so tough, you know. My son grew up that way. I mean, everything was just
+so--he just listened to his father. Everything was on time, and when he went
+into the service--no, he went into National Guards--he didn&#039;t have no trouble
+taking orders because he was so used to my husband being so tough on him. He
+want him to be--well, in a way, he was right. In another way, he--you grow up
+when you can&#039;t even laugh. We&#039;d say--I called him Gestapo, and I&#039;d say if he
+laughed his face would crack. [laughs] Hear that? That&#039;s mean.
+
+Interview 2: February 24, 2004
+
+Audio File 3
+
+WASHBURN: Now we&#039;re on tape three.
+
+PROBERT: I hope this isn&#039;t going to go on a tape, is it?
+
+WASHBURN: Well, it could, but we can erase it.
+
+PROBERT: Some of it. I don&#039;t care, but I don&#039;t think anybody wants to listen to
+it anyway.
+
+WASHBURN: You seem very frank and people want to know women&#039;s opinions at the
+time. So, you went back to work after your son was old enough. What did you do?
+Did you put your son into daycare?
+
+PROBERT: No, no, no. I had a lady come to the house, Italian lady down the
+street. She came to the house, took care of him. Otherwise, I couldn&#039;t work. I
+took care of a child in my home for about a year, and then I thought, well,
+Western Electric, I had a friend, she said, &quot;Mary Ann, you want to work? You can
+get on right away.&quot; I said, &quot;Sure, if I can find somebody to take care of my
+child.&quot; The lady used to come and take my son, bring him to her house. I always
+had a lady taking care of mine.
+
+WASHBURN: Did she take care of other kids at the time?
+
+PROBERT: No, just him. I took care of a little girl.
+
+WASHBURN: How did you know her?
+
+PROBERT: Oh, through a friend, an Italian lady. My son only has one child, a
+girl, and he married a girl next door. That&#039;s okay, but he didn&#039;t want his wife
+to work at all because I think they miss not having me home.
+
+WASHBURN: Why did you go back to work? What were you thinking?
+
+PROBERT: Oh, I&#039;m always a worker, and my husband&#039;s not a high-salary man. He
+worked at Oakland Naval Supply Depot, and if you wanted a home, even at that
+time, you buy a house, you have to have two salaries coming in. It&#039;s not that
+easy. I always worked, and I liked to work, and once you start working, you get
+two salaries. We were on a real strict budget. We had the budget books, and you
+put so much money in each envelope, you start saving. We paid cash most of the
+time--none of this other stuff--and it just goes on and on and on. That&#039;s why I
+always worked. Well, his wife works now, has worked, they don&#039;t say nothing
+about it. He only had one child, and it&#039;s different. My son, it&#039;s a lot
+different than it was. I worked because I wanted to send my daughter to college
+and my son to college, and they disappointed me because they didn&#039;t go. They
+didn&#039;t go to college, see?
+
+WASHBURN: I&#039;m sure they know that. So, at that time, you could not afford not to work?
+
+PROBERT: That&#039;s right. Once you&#039;re working, during the war and everything, I
+took care of a little girl across the street while her mother and father worked.
+They pay you about $5 a week or $10 a week, just babysitting. My son, he was a
+little older, and you&#039;re responsible for the child from morning till night. It&#039;s
+a job all right, but you don&#039;t get paid that much for babysitting.
+
+WASHBURN: What&#039;s this about all the Rosies, they were housewives, and then they
+put on their heavy clothes and went to weld, and then they went back to being
+housewives after the war? What&#039;s with all that? That doesn&#039;t seem like that&#039;s you.
+
+PROBERT: No, no. Before I went in to be a Rosie and after I come out a Rosie,
+I&#039;ve worked all the time. I think it&#039;s because if you want to look back, it
+starts way back when my mother didn&#039;t work. Back in Illinois, I was working in
+Illinois already. Some people and some husbands, they don&#039;t want their wives to
+work. They don&#039;t have to work. But to me, I just grew up that I had to work,
+that&#039;s all. I liked to work. I get tired just being in here. I go next door and
+help her--she doesn&#039;t feel good--I&#039;m still going to work. I have to keep busy.
+
+WASHBURN: Who are these Rosies that after they worked, just went back to being a
+housewife? Who are these people?
+
+PROBERT: I know some of them, but they&#039;re working. Even this Japanese gal, she
+has three boys. One of them&#039;s a schoolteacher, another one&#039;s something else, and
+she&#039;s working. She worked for Emporium Capwell. Most of them have continued to
+work, and that&#039;s a lot of baloney that they didn&#039;t work. If you want anything,
+you have to work for it or save it, unless you inherit money from somewhere or
+you have a skill of some kind where you&#039;re rolling in money. If you were
+educated, if I had to have a degree--and my husband, he worked in a bakery at
+night, and if he could have learned to be a baker or had a skill of some kind
+that he could demand higher wages, then you don&#039;t have to work. Who is it that
+got all the money now? It&#039;s all these rich people that have money; they make
+more money and more money. They don&#039;t even work for it. They invest it, they
+know people that know how to buy stock or bonds or whatever, and they&#039;re making
+the money. They don&#039;t have to work, but people like us that don&#039;t have the
+education or the money to start with, how are you going to make it unless you work?
+
+WASHBURN: Say that again: so, most of the women you knew who were working in the
+shipyard, afterwards, what do they do? Where do they get jobs?
+
+PROBERT: They&#039;re working. They got jobs; most of them had to go to work like AC
+Capital&#039;s. I have a lot of friends, they&#039;re all in sales. This one here,
+furniture, that type of work, when they can afford a babysitter and work. Or
+they went to school, or they had a school. That&#039;s this lady here, too; she
+worked at AC Capital. And the hospital, I liked the hospital. To me, what is
+there? You have a family, you want to raise your family, you want to give your
+kids some education. What I don&#039;t understand is these two ladies that are
+getting married, they&#039;re both working, they&#039;re not going to sit at home.
+
+WASHBURN: At Beckman&#039;s, that was a factory job, also.
+
+PROBERT: I was in the wire department.
+
+WASHBURN: Were you part of a union? Can you describe your work there?
+
+PROBERT: No, no, no, we didn&#039;t have no union. It&#039;s very easy to do: you learn to
+solder with the iron, and you learn all the codes of the wire. The wire has a
+code, the color. If you want to make a cable, this one wire goes here; it&#039;s a
+board and it has nails on it, and you write the wires go certain places. You
+just have to lay them in, then you have a lacing cord, then you tie it up like
+that. Then, you just pull it off, and it goes in behind a machine, all those
+machines. Then, they have a printed circuit board that you can solder. Well, I
+didn&#039;t do that--I could solder, but I liked wire department. We made switches
+and all that kind of stuff. Right now, I can&#039;t get a job. Say I worked in the
+wire department--I have no idea if I went in electronics, but they move it to
+cheap labor. They moved the plant, and most of it is done, I don&#039;t know who, the
+Japanese do it.
+
+WASHBURN: Probably in Mexico or China or something.
+
+PROBERT: Mexico. We lost our jobs.
+
+WASHBURN: What were you doing for benefits during the war and after the war,
+health benefits? Can you describe that?
+
+PROBERT: I belonged to Kaiser. I had an own doctor, and I think it was Blue
+Cross. We belonged to Kaiser. My husband and I belonged to Kaiser.
+
+WASHBURN: You belonged to Kaiser during the war because you worked in the shipyards?
+
+PROBERT: Yeah, and after the war, I still belonged to Kaiser.
+
+WASHBURN: You still belong to Kaiser?
+
+PROBERT: I sure do. My husband had Oakland Naval Supply, where he worked.
+
+WASHBURN: So, when you were at Beckman, did Beckman pay for your benefits to Kaiser?
+
+PROBERT: No, no, no. They didn&#039;t have Kaiser, then. No, we didn&#039;t have no health
+plan there at Beckman. They didn&#039;t have a health plan.
+
+WASHBURN: So, what did you do for health insurance?
+
+PROBERT: I just paid my bills at the ordinary doctor.
+
+WASHBURN: You paid each time you went. So when did you first sign up with Kaiser
+HMO? Do you remember what years?
+
+PROBERT: No, but we&#039;ve been members for a long, long time. Since, well, after we
+dropped Blue Cross we went to Kaiser. You have to have a plan.
+
+WASHBURN: Isn&#039;t that amazing, what Kaiser did? He started there. The first
+Kaiser hospital was there in Richmond.
+
+PROBERT: I got all the articles here.
+
+WASHBURN: What do you remember about that hospital? Did you ever go there? What
+do you remember about that hospital?
+
+PROBERT: Oh, yeah. They&#039;re very good. They were always good, even with the kids,
+when I had to take them to the one on Cutting. Even after the war, they were
+very good. I think he&#039;s a wonderful man. He was for the working people that even
+today, I never find Kaiser down. They&#039;re not the best, but they&#039;re a lot better.
+I&#039;m a volunteer in Doctors Hospital right here in Pinole, and I could see a lot
+of things. It&#039;s up to your doctor who you have that counts.
+
+WASHBURN: What can you describe about the building there at Kaiser? Now, it&#039;s
+not owned by Kaiser anymore; it&#039;s owned by some other group. Can you describe
+what the building looks like, the one on Cutting?
+
+PROBERT: Oh, they&#039;re going to make something else out of it.
+
+WASHBURN: Then, what was the building like?
+
+PROBERT: Oh, it was the same as it is now. They haven&#039;t did too much to it, and
+I didn&#039;t have no trouble with them, never. I never had any trouble with them.
+Even today a lot of it is the individual themselves. And some of them, they give
+them a bad name, and it&#039;s not even true. That&#039;s how I feel. What you see, &quot;Oh,
+the Kaiser, they&#039;re all dying over there,&quot; I didn&#039;t see whether the hospital was
+dirty or anything like that. I&#039;ve worked in a hospital. I worked where the nuns
+are in St. Louis, all nuns there. It&#039;s St. Anthony. They train them, and when I
+went to work there, you had to stay there, in the place. They give you room and
+board, and I can&#039;t see where they were that different.
+
+WASHBURN: Let me ask you, briefly, during the war, were you going to church at
+St. Mark&#039;s?
+
+PROBERT: Yeah, I did go to church.
+
+WASHBURN: Did you go regularly?
+
+PROBERT: No. Well, sometimes I did. On Sundays, I went, and then I went to the
+Lutheran church in Richmond. My husband didn&#039;t go, and my son didn&#039;t want to sit
+still. I went to St. Mark&#039;s, and he didn&#039;t like the nuns with all the garbs that
+they wear. They didn&#039;t have a nursery school. I&#039;d take him up and down and
+moving around, and one time--things have changed now, the mass, everything, they
+face the people--when I went to the Catholic church, they had their backs to the
+people, and the server boys. It was a whole different type of sermon.
+
+WASHBURN: Mass was in Latin.
+
+PROBERT: Yes. My son, Rick, said, &quot;When is Jesus coming out?&quot; [laughter] He
+hollered this out at St. Mark&#039;s, and he says, &quot;When is Jesus coming out?&quot; You
+can&#039;t go to church with kids; they&#039;re jumping up and down and trying to kneel
+and all that, no. My husband wouldn&#039;t go.
+
+WASHBURN: Did the religious community support you at all during the war?
+
+PROBERT: I wasn&#039;t involved in it. I went because I felt like going. I didn&#039;t
+even go to church during shipyard days. After I&#039;m out, I had Ricky. This was
+another thing; I lived in Oakland and at St. Francis de Sales, he said I had to
+be remarried before he would baptize him, baptize Rick, so my husband did agree.
+We got married in the priest&#039;s home.
+
+WASHBURN: Well, explain that, because your husband is not Catholic.
+
+PROBERT: No, that&#039;s right, he wasn&#039;t Catholic. We had to get remarried in his
+house, and then I could baptize my son. I did believe in the baptism. There&#039;s a
+lot of things in the Catholic religion since I&#039;ve been brought up that&#039;s still
+with me. I still say the rosary. I still like to pray to God. There&#039;s only one
+God for me. He&#039;s up there, and to me God&#039;s over everybody, and he&#039;s the one that
+whatever your life is like--I don&#039;t want to sound like a preacher--you have to
+have some type of a religion or believe in something. To me, I think God is the
+only one that will answer these questions and prayers. Whatever&#039;s going to
+happen, I don&#039;t think we have control over him.
+
+WASHBURN: Mary Ann, it sounds like you weren&#039;t so religious, then. Now, you&#039;re
+more religious.
+
+PROBERT: Yeah, that&#039;s true. I didn&#039;t have the time that I have now, either. My
+husband&#039;s been dead for eight years now, and I find, to me, religion, the
+Methodist religion, they kind of build your own self up. It&#039;s not you have to
+have to go to confession, you have to have all kinds of other things. To me,
+that&#039;s why I have more time to devote to going. I only go once a week. I go for
+Bible study, I&#039;m more into the Bible. Before, I never even looked at the Bible
+through the Catholic school. They have catechism. They have a different way of
+praying. To me, I feel he&#039;s the one that&#039;s going to judge me when I die. I don&#039;t
+know where we&#039;re going to go or what, and that&#039;s how I live. Now, everybody
+doesn&#039;t have to live that way. I&#039;m not an angel, and I make mistakes. I&#039;m just
+like anybody else; you&#039;re human. We all make mistakes, and all I think you have
+to do is ask for forgiveness.
+
+WASHBURN: Why don&#039;t you think you were more religious during the war years,
+early on in your life? When you had your first kid, during the Depression, why
+don&#039;t you think you were more religious during that time?
+
+PROBERT: I didn&#039;t bother me. My mother prayed all the time. She sat in her
+corner and prayed all the time. I went to the church in Illinois, the Catholic
+church, and I went to Catholic church. I had first communion and solemn
+communion and confirmation. Then, you marry a man that&#039;s not Catholic, you can&#039;t
+be a Catholic if you&#039;re going to go to confession all the time and say, &quot;Well, I
+did this and I did that. I used the name of the Lord in vain.&quot; You can make a
+whole bunch of stuff up and lie about it. You can lie right in the confessional.
+You hear that priest listening to you. To me, I told the truth, how I feel. As
+long as I&#039;m not stealing, lying, or hurting another person, or doing harm to
+them, to me, I don&#039;t see where you have to be confessing all the time. My folks
+never went to church after they left Italy. Sometimes, they have too much
+church. I think church is the type of people that are in it. That&#039;s what makes
+the church. I&#039;m a Catholic, I&#039;m a Protestant, I&#039;m Jehovah Witness, I&#039;m this and
+that--it&#039;s how you feel, what you believe in. I don&#039;t want to sound like a preacher.
+
+WASHBURN: I think that&#039;s a good way to end. Do you have any questions at all,
+which she hasn&#039;t answered?
+
+PROBERT: I just rattled on and rattled on. She&#039;s a little sweet girl, and you
+have your own ideas about how you want to be and what you want to do, and what
+you do. I think within your own mind, you know that it&#039;s right. [break in audio]
+They thought the women were laying down like that all the time. That&#039;s a lot of baloney.
+
+WASHBURN: Let&#039;s see that picture. What&#039;s this picture describe, there?
+
+PROBERT: &quot;Once they tasted the economic independence after the war, a lot of
+people didn&#039;t go home. They went back to the--.&quot; No, that&#039;s on there.
+
+WASHBURN: Say that again, what&#039;s this describing?
+
+PROBERT: Well, I thought that they have this showing how the women had to work
+in here, and they said that that&#039;s all they did, was lay down in a
+double-bottoms, have sex, but that&#039;s not true. This says, &quot;Once they tasted
+independence, after the war, a lot of the people didn&#039;t go home. They went back
+to what was called &#039;women&#039;s work.&#039;&quot; See, they went back to women&#039;s work--this is
+a man&#039;s job, here. This is a good picture of the ship right here, a shipyard,
+one of the ships.
+
+WASHBURN: Do you have any personal photos we can take a look at?
+
+PROBERT: Of me? Yeah, I have that. This is me, and these two ladies, they took
+care of the restrooms. When the women went in there, they looked after the
+women, and then, this girl lost her husband during the war, was working in a
+shipyard, and was very sad. These are like the burners, or welders, and each one
+of these had a different job. I worked in the steel order department, and I
+think maybe one of these worked in there. These are women from, this is yard
+one, and this is the crew for our yard one shipyard. I wish I looked like that
+now. [laughter]
+
+WASHBURN: Her name is Mary Ann Probert, on the left, there. So, we can conclude
+this, if we want. Yeah, so why don&#039;t you turn to the wall and describe a little
+bit of what&#039;s on the wall, there?
+
+PROBERT: At the dedication, they passed these out and they gave me that honoree.
+You want me to put this one, here? This is my picture, here. They had a
+wonderful celebration. They had the planes flying over the place we were in and
+had a band. We had three planes flew over and George Miller from Washington, DC
+was there. We had a band and marched down to the place where they launched the
+ships, and we had a wonderful time.
+
+WASHBURN: Fantastic. That&#039;s such a great wall, you have there. Look it
+up--that&#039;s very, very patriotic.
+
+PROBERT: Thank you. You mean that flag up there?
+
+WASHBURN: Yeah, the whole thing.
+
+PROBERT: I like the heart. I just made it up myself, the Rosie. This is the
+towel, and there&#039;s the tags that we drew for. Thank you.
+
+WASHBURN: Thank you so much.
+
+[End of Interview]
+
+  
+
+  
+
+  
+
+  
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

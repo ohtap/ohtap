@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042123" dt="2018-08-15"><version>5.1</version><date value="2005-02-09" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Judy Hart Interview 1: Rosie the Riveter WWII Home Front Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Judy Hart</interviewee><interviewer>Richard Cándida Smith</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>CANDIDA SMITH: Well, we shouldn&#039;t feel like we have to rush. We&#039;ll do what we
+do, and then we&#039;ll pick it up in New Mexico.
+
+HART: I&#039;m, first of all, delighted you are doing this. I was really glad you
+made the extra effort to do this interview, because the last couple of weeks
+were so full of emotion. The first four years felt pretty flat on the whole,
+with spikes at events and then this rush the last couple of weeks. I don&#039;t want
+to get into what I want to say later, but I thought it would be really nice to
+do this while there was still this explosion of emotion.
+
+CANDIDA SMITH: I do want to start at the beginning, but maybe before we start at
+the beginning, maybe you should say a little bit about how you feel about
+leaving the Rosie the Riveter National Historical Park after spending four years
+getting it going.
+
+You&#039;ve been here in Richmond for four years, and you are about to leave. Maybe
+you could say something about how you&#039;ve been feeling since you made the
+decision to leave and your assessment of what you&#039;ve achieved.
+
+HART: I&#039;ll start with talking about what happened in the last month. When I was
+thinking about leaving and then decided to leave, I had in mind two objectives
+that I wanted to finish before I left. One was to come up with a plan for the
+development for the Park, which we call the General Management Plan. But in the
+case of this Park, where the properties are owned by other people and their
+futures are directed by other people, what was important was what they decided
+they wanted for the future of their property. I really hoped that would come
+together before I left, and it did, in a huge way that just was astounding to
+me. The progress, I would have to say, seemed very slow for the first four
+years. It felt like what happened in the last three weeks was about the
+equivalent of the first four years, in terms of things coming together and
+actual movement to get the Park happening. We had meetings with the Park Service
+planning team from Denver individually with the property owners two weeks ago.
+Then Friday they all came together in the same room for the first time ever.
+Every one of them showed up, two or three people from each of the properties.
+They shared their visions for their property so that everybody else got to hear
+their vision. There were some huge breakthroughs, especially with the city and
+Shipyard Three. Everybody got to hear the Port Director with the assembled city
+managers sitting there, saying that he would dedicate a part of the Port
+immediately for Park uses and would help work with us to find a way to get the
+public in there. The SS Red Oak Victory is moving into historic Shipyard Number
+Three. A group of people are working together to move the Whirley Crane into the Shipyard.
+
+So all of a sudden there&#039;s this new road that goes all around the Port. It goes
+down to the historic properties, and will be signed and interpreted. The Red Oak
+Victory will be down there; the Whirley Crane will be down there. It feels to me
+like instant Park, after four years of working on it. It was so exciting to
+everyone in the room to hear this, because they all understood that this was
+potentially the hugest piece of this Park. That&#039;s what would take it to one and
+a half million visitors, which they were very excited to hear. The excitement in
+the room and the conviviality and the warmth and the eagerness was almost--it&#039;s
+going to make me cry a little bit--almost overwhelming, because it was so
+different from what the first four years had felt like.
+
+When I got there, every single building was slated for demolition or threatened
+by demolition, so to see the change in perspective, but most of all to see the
+joint change in perspective and the coming together--it was almost like
+everybody held hands and said, &quot;Yeah, we&#039;re going to do it,&quot; even though it was,
+I think, all guys. Not that they never do that, but that was really what it felt
+like. Or like when the quarterback does his thing and they all clap hands, and
+the team goes to play. That&#039;s what it felt like. It was just incredible. The
+other thing that I really wanted to do was get the plans for the visitor center
+in the Ford Building on the funding list. So, we put on a major crunch to get
+cost estimates and Rick Smith did a PowerPoint. We pulled together a lot of
+drawings and a lot of impressive information and presented them three different
+times in the regional office. I believe that this week the group that&#039;s sitting
+to meet and set priorities, I believe they will put it on their priority list
+for funding. Or the Regional Director will place it on, one or the other. I
+hopefully will know by the end of the week.
+
+Those were the two things that I decided last September. I could feel good about
+leaving this Park if those were true, and they happened in a much bigger way
+than I could imagine. Then the warmth and the gratitude. It&#039;s making me cry. The
+depth of emotion that was coming out of the last two weeks. I didn&#039;t understand
+when I started the Park why the City of Richmond wasn&#039;t more excited about it as
+a community, as a government, as a communal body. I didn&#039;t understand why they
+didn&#039;t celebrate their past, because it was so glorious. I didn&#039;t understand why
+they weren&#039;t more excited about the Park. I realized, of course, that they were
+distinctly unexcited about the fact that the federal government was not going to
+bring in the money to make it happen. I got that part. But, still it was a long
+time of just not feeling like I was making any traction. I kept the buildings
+from being demolished, and I was very proud of that in the first two years, but
+there didn&#039;t seem to be much excitement about it.
+
+Then I began to understand from the Rosies that this was not a particularly
+happy story for African Americans. They got good jobs. They, in many cases,
+moved to California and had a life better than they had before, but their actual
+experience of the war was of prejudice and was an ugly time for them. They got
+the worst jobs, the worst pay. They didn&#039;t get the housing; they didn&#039;t get the
+child care. They did get the healthcare as far as we can tell. So it was not a
+time that they were necessarily instantly wanting to celebrate.
+
+So the feeling in the last couple of months of the excitement about the Park,
+celebration of the story, interest, dedication and commitment to making things
+happen, the most meaningful part of it to me was that part of it was a kind of a
+farewell gift to me, but much deeper than that was embracing their story and
+saying that this is amazing what they did in this community; we need to tell it.
+We&#039;re the only place in the country that&#039;s worthy of telling this story. We have
+these amazing sites that are still here. We can work with them, and they will
+become attractions. I think saying that there was a potential of a million and a
+half visitors broke through a lot of hesitation, skepticism and doubt about the
+Park. That is, of course, dependent on the ferry coming to the Ford Assembly
+Building from San Francisco. It will probably be necessary to bring a million
+and a half visitors. That seemed to break through the nagging &quot;Why would anybody
+come here?&quot; that has so dogged the efforts to get this Park off the ground. Even
+if they were excited, there was always a concern of why would anybody come here
+and why should this money be spent.
+
+In the early years I would talk about a busload of visitors in a sixty-seat bus.
+I would get this &quot;Wow! Sixty people on a bus in Richmond?&quot; &quot;Yeah, more than one
+bus actually. You need turn-arounds; you need parking.&quot; The new startle is not a
+busload of visitors, but a million and a half visitors. That&#039;s based on a very
+extensive study that our planners did of existing sites in the Bay Area. It&#039;s
+perfectly plausible, as long as the attractions are there, and the ferry service
+comes over from San Francisco.
+
+So, the outpouring brought all of these people working together, the county, the
+city, the private owners, this whole range of people coming together, and the
+depth of it. Not just that we&#039;re going to do it, but that the history of
+Richmond is huge and important, and we really need to tell it. A couple of
+people saying to me, &quot;This is the most fun part of my job. The rest of it is
+work; this is fun.&quot; So, it seems clearly a good time to leave. I think my
+announcing I was leaving did cause a shock to people. Some people actually said,
+&quot;You know, I never had to worry about the Park as long as you were here, and now
+I&#039;ve got to worry about it.&quot; Yes, that was the message. That was my intention
+that that would be the reaction. It is, &quot;Community, this is your turn to pick
+this up and make it happen. You now have a plan. Each one of you has a plan. You
+have a joint plan. You can make it happen now.&quot; So, the last four weeks have
+been beyond what I could have hoped for, really wonderful.
+
+CANDIDA SMITH: We&#039;re going to go into great detail how those four years led to
+that kind of conclusion, but right now we should probably go back, some of the
+personal story, who you are, where you came from. So, why don&#039;t we start with
+where and when you were born?
+
+HART: Oh my goodness. I was born seven days after Pearl Harbor. December 14,
+1941. I&#039;ve always wondered about the impact that had on me and my poor mother.
+She made it clear that it wasn&#039;t a happy time for her. My father was exempt from
+the war because he and his brothers owned a grain company. But he did volunteer,
+and I think she probably in her heart knew that that was going to happen. I was
+born in Kansas City. I think they stayed there about a week, and then we went
+back to Randall, Kansas, which is where my parents lived. It was a little town
+in the middle of Kansas. The Hart Grain Company had a series of what&#039;s called
+country elevators, including one in Randall. They bought grain from the farmers
+and shipped it to the big markets in Kansas City.
+
+When father volunteered we went back east. He spent a year at Harvard, learning
+Navy communications. We rented a house. I have the dimmest memories, but I was
+told it was quite grand. It was a typical story of the war. Somebody moved out
+to make room for two or three military families. My first memories are really
+going back to Kansas City. A couple of memories from when I was maybe four years
+old. I grew up in Kansas City. A few years ago I went back to the Park that I
+remember so fondly, and was struck by the fact that it was not a huge city park.
+But when I went down into the ravine and then couldn&#039;t see the houses and the
+traffic and so forth, there was this beautiful stone bridge. There was a picnic
+shelter, and there were some out buildings. I thought, &quot;This looks like CCC
+buildings at a national park.&quot; It looked like a vision of my future.
+
+I went to grade school and to high school in Kansas City. I went to a very fine
+high school, Shawnee Mission High School, where they greeted us every morning by
+announcing that we were attending one of the three best high schools in the
+United States. I went to Cornell with a major in English, without really any
+intention of ever working. Or if I did, I would do the Kansas City thing; I
+would work until my husband got through law school or medical school, and then I
+would be in a nice house and manage it and the children. I did graduate. I went
+to the Publishing Procedures Institute at Radcliffe for three months after I
+graduated. I think that began to change me. I did really well. I liked it. I
+loved being in Boston, Cambridge actually. I loved being there. I got my first
+job at Little, Brown Publishing Company and learned a lot. [laughs] I quit my
+first job after six weeks. When I went in to quit, somebody else was walking
+out; they had quit. So, I took her job. It was kind of a finishing school for
+young ladies in Boston. You&#039;d come and work at Little Brown for a year, and then
+you&#039;d get married. So, I was on the same track, but just a slightly different
+version of it.
+
+Then my second job really, really changed me. I worked for the Boston Safe
+Deposit and Trust Company as Editor of the two employee newspapers. I got to
+interview the Chairman of the Board and the President and all the senior
+officers. I was the roving reporter. This was 1964. Mr. Mainer, in personnel,
+was in charge of all the men in the bank. Mrs. Somebody was in charge of all the
+women in the bank. I was one of maybe a dozen professional women in the bank.
+But, they had me report to Mr. Mainer as my advisor. I had a boss, but Mr.
+Mainer was my advisor. I don&#039;t remember anything in particular that he said to
+me, but I took myself seriously after two years there. He opened my eyes to see
+that I could have a career, that I could do things.
+
+When I talk about Mr. Mainer and the change that he helped me make while I was
+at that bank, it reminds me that back at Little Brown many things that I had
+read about publishing were true. All the editors were men, and they really would
+go to Lock Obers for lunch. It was very eye-opening to me. I realized, for one
+thing, I was very naïve still after four years at Cornell. They would come back
+but in the afternoon they would kind of chat and sit on the phone. The part I
+hated--they&#039;d bring the secretary in, and they&#039;d ramble on and on and on and
+talk at their secretary for an hour. That was the job. I quit after six weeks,
+because it wasn&#039;t entertaining or amusing or interesting. The second man I
+worked for at Little, Brown was a designer who managed production for children&#039;s
+books. I learned a great deal about design, what things looked like, and how to
+present things. It was very educational, how you present things to a six-year old.
+
+In those twelve months that I was there it seemed to me that 80 percent of the
+work was done by this fleet of young women like me who&#039;d just gotten out of one
+of the seven sisters or the Ivy League. So, we got paid $5,000 a year, and they
+got paid hefty salaries. They did things like stand at the front door and write
+down what time we walked in, in case we were a minute late. It almost felt like
+they locked the door. There wasn&#039;t any possibility of leaving early. I did know
+that. The working conditions were okay. I remember they didn&#039;t have air
+conditioning, and the mosquitoes would just overwhelm us in the summer.
+It--really, for the first time--opened my eyes to this notion of who gets paid
+to do what, and who really does the work. Education and background and
+opportunity all were just sitting there in my face on a daily basis.
+
+Then I started this job at the bank, and I got to talk to these amazing Brahmins
+from New England. I still have the greatest admiration for their very grand
+spirit. Ralph Lowell was still with the bank, and I admired that man so much. I
+just took in that spirit of how much one person could do. The bank was doing two
+things then. They were quietly meeting, I was told later, to plan the future
+Boston. There were five banks that were behind the urban renewal that happened,
+and the dramatic new architectural spine created in Boston. They were massive
+changes that I still think are admirable and good. They, also in 1964, hired the
+first woman trust officer. They hired me. They had young African American girls
+as clerks when you walked in, at the counter when you walked in. They were
+actively promoting professional women and equal opportunity, years before anyone
+else in Boston was publicly doing it.
+
+One piece of my job was to train these new young clerks how to balance a
+checking account, because everybody in the bank got a free checking account. So,
+I worked with them, and I created a training course to teach them how to run a
+checking account. It was a very interesting experience for me, in terms of
+learning how to communicate with people--the essence of this course I took at
+Boston University was called &quot;Programmed Instruction.&quot; You just rewrite it and
+rewrite it and rewrite it, until everybody who takes this test in the training
+manual gets the right answer. It was fabulous discipline in how to communicate
+with people. Plus working with these young women.
+
+By the time I left the bank after two years, I really didn&#039;t know where I was
+going, but I was very different. I had decided that I wanted to work for the
+Boston Redevelopment Authority, because they were what was happening in Boston
+at that point. I really admired what they were taking on. I remember thinking,
+that if I was going to work at all, I wanted to do something that mattered. I
+would sit there at my desk in the bank thinking, &quot;I have this wonderful job in
+this fabulous bank. I&#039;m the envy of many people in the world, but I don&#039;t think
+it really matters all that much to me. It&#039;s not making much of a difference in
+the larger world.&quot; So, I took the summer off and then went to Europe for four months.
+
+I remember Twiggy was the thing then. I went to England. I went to London
+mostly. It&#039;s funny; I had my conservative clothes and my conservative way of
+thinking about things and didn&#039;t become a part of that Twiggy culture. I really
+didn&#039;t get to see much of it, but still a girl from Kansas living in London for
+a while was eye-opening. I had done, literally, one of those thirty-two
+countries in ninety days, or whatever it was when I was in college. But this was
+very different, being on my own. I spent a week in Paris on my own, which was
+even more different, because I don&#039;t speak French. So, that was another eye-opener.
+
+When I got back, I did all sorts of things to make a living, to get by. I used
+to go to Filene&#039;s and charge clothes on my Filene&#039;s account and then take them
+back the next day, because I could get cash. [laughs]. That was a thin
+existence. I painted friends&#039; apartments. I did sewing. I did some temporary
+jobs, which were actually quite interesting. I worked for Bolt, Beranek and
+Newman [now called BBN Technologies] for a while and worked for these people on
+a grant that were researching the French system of total control of industry,
+where the government tells you that you get this many trainloads of lumber and
+this many trucks full of this liquid, and you will make this much stuff. It was
+a similar to what we did in this country during World War II, which was actually
+quite interesting. So I went about eight months, I guess, just patching together
+a living and being on the other side. I was living in a lovely apartment, but it
+was also eye-opening for five dollars to mean so much at that point.
+
+I finally got a job with the Boston Redevelopment Authority doing relocation
+program development. They were relocating thousands of families from the
+hardcore African-American community in Boston. My particular piece of it--I came
+in after the huge, massive work had been done. Lyndon Johnson, before he got
+elected, his campaign promise was 1200 units of new housing in Roxbury in six
+weeks, Roxbury being just one inch away from the very toughest part of the
+African-American neighborhood. I was the Assistant to the Director, and we hired
+four welfare mothers to do the administrative work, two young college graduates
+to be the supervisors and four additional recent college graduates as field
+staff. We had, I think, thirty-five volunteers from a prep school way out in the
+suburbs and six welfare mothers that were field staff and about twenty
+volunteers from a church out in the suburbs.
+
+The incredible collection of women volunteers from a suburban church, the young
+men from a very prestigious prep school way out in the suburbs, and a group of
+welfare mothers and four college graduates were the field staff that went out
+and interviewed these 1200 families. Usually they went in pairs, but it was an
+incredible project. We were blessed that no one got hurt. In hindsight, it&#039;s
+kind of amazing that we did it, but we did. We interviewed every family, and
+eventually 67 percent of them got to move back into the newly rehabbed housing;
+all were relocated to housing appropriate for them. It took four years, not six
+weeks. Six weeks would have required that they all be kicked out on the street
+on day one. It was eye-opening, to say the least. The developers and the Federal
+Housing Authority and my boss would meet once a week in these screaming matches,
+because the developers thought they were on a six-week track, and we had
+actually gone--I had actually written all the papers to get the money from HUD.
+HUD funded the relocation, and FHA funded the rehabilitation. So, FHA and HUD
+were at each other&#039;s throats. The developers were at everybody&#039;s throats. We
+kept saying, &quot;You can&#039;t throw these people out on the street.&quot; I learned a very
+different view of the world by working on that project and was totally committed
+to helping those families get back in decent housing.
+
+That was the year that Martin Luther King was shot. That was the year that Bobby
+Kennedy was shot. We didn&#039;t work for a few days because our boss was afraid to
+have white girls driving back and forth even to the office. That added a lot of
+extra intensity to it. It was a real gift to me to be able to do that project.
+It is still a highlight of my career, what I did on that project.
+
+I went from there to working for the state; by then I was hooked. I loved public
+service. I loved working for the government, and the change that was able to
+happen by having that kind of position. I went from there to being in the
+Relocation Bureau of the Community Affairs Department of the State of
+Massachusetts. It was the same kind of job, but on a statewide scale. There was
+a state relocation law that required that if public funds were used to acquire
+property, people could not just be thrown out on the street. There had to be a
+study of their needs, documenting that adequate housing was available for them,
+and they had to be given services. So, we went all over the state. As it turned
+out we went all over the state, stopping projects or slowing down projects and
+saying, &quot;There&#039;s no place for these people to go. You can&#039;t throw them out.&quot;
+We&#039;d work with them and figure out solutions to things, which invariably meant
+greatly slowing down the projects, and once in a while stopping them. I did that
+for two years, and then my boss left.
+
+When my boss left, my big boss told me they were going to do a nationwide search
+for my Bureau Director and that they were really looking forward to me training
+him. [laughs] I remember my big boss, who was the Deputy Director for the
+Department, taking me to lunch and telling me about this and how important it
+was and how much he was looking forward to me working with the new person to
+train, who hadn&#039;t been picked yet. He was just telling me about the nationwide
+search. I don&#039;t know where it came from. I had no intention of saying this. I
+had no idea what we were going to be talking about at lunch. I said, &quot;Well,
+that&#039;s very nice, but I need to tell you that I&#039;m leaving.&quot; [laughs] I don&#039;t
+think he finished his lunch. I meant it. I wasn&#039;t going to walk out that minute.
+I said that I would stay a couple of weeks after the new person came, but I was
+leaving. I don&#039;t remember how long it took, and I don&#039;t remember if I competed
+for it. It&#039;s funny that I don&#039;t remember much about it, but they decided that I
+should be the Bureau Director. I said, &quot;Okay, that&#039;s fine.&quot; I did that for two
+years. It was immensely satisfying.
+
+To put this in context, our state office building had buses in the building
+garage almost every morning, full of police waiting to deal with the protests
+that were happening in front of the building. This was 1968, &#039;69, &#039;70. I don&#039;t
+remember what in particular they were demonstrating against. It was just a time
+when there were always hundreds of demonstrators in front of the state building
+and the federal building across the street.
+
+I got sent to Cape Cod to try and develop subsidized housing, one of my favorite
+projects of my career. The National Welfare Rights Organization [NWRO] came to
+Cape Cod for their national project, and they had a few hundred college students
+who went to Cape Cod to picket and protest and demand better housing for the
+largely African Americans who got evicted from their homes every summer, because
+they could get more rent from the summer visitors. So I was sent down with a few
+hardy people on the staff to deal with it. Again it was an amazing experience. I
+had great admiration for the NWRO people. I thought they were honest and
+committed and dedicated and intelligent people who were trying to make a
+difference in their own way. We had lots of really good conversations and lots
+of happenings, like they would picket the Holiday Inn where we stayed. We
+stopped staying overnight. It did get to be a little bit unpleasant. We did get
+a few dozen families in subsidized housing, but more importantly we got an
+understanding of the issues and the needs that these people deserve better
+treatment. They would camp in the woods the whole summer, sleep in cars and so
+forth. I think the biggest impact we had was saying to the town people, &quot;These
+are perfectly reasonable demands. You may not like the style of the NWRO people,
+but the demands they are making are perfectly reasonable.&quot; I loved that
+assignment. I really had a good time with it and learned a lot.
+
+I also did most of the research and writing, most of the documentation when a
+huge privately-funded urban renewal project was proposed for downtown Boston.
+Mortimer Zuckerman was on his rise. It was before he was as famous as he is now.
+He proposed taking over I think about twenty blocks on the not-so-nice side of
+the Public Garden and the Public Common and was going to build, I think, ten
+fifty-story high-rises, just a humongous development. Boston Public Garden with
+all of its flowers would have been in shade almost all day if his project had
+gone through. It was not well funded. The developer wasn&#039;t really putting that
+much money in. The city was really going to be bankrolling it. I did the
+research on the relocation and said, &quot;There&#039;s no way you can say all of these
+businesses and very low income people would have a place to move to if you
+demolished this whole neighborhood that&#039;s housing them.&quot; The Governor took our
+side and supported us. That was Governor Frank [Francis William] Sargent, for
+whom I had great admiration, a classic Brahmin, just out to do good, as far as I
+could tell. He took our side.
+
+We had one very dramatic meeting with the developer where he seemed to think we
+were going to have a chummy &quot;this is wonderful,&quot; and instead the Commissioner
+said that we rejected it. It was a very tense time after that. About 20,000
+union laborers demonstrated at the Statehouse one day. The Governor came out and
+met them. But, the rejection stuck. It didn&#039;t happen. It never went through.
+
+After that job, I went to work for the Federal Highway Administration. I was the
+first professional woman in relocation and land acquisition. So far, I had been
+the first woman ever in two jobs.
+
+CANDIDA SMITH: I&#039;d like to ask you whether you were developing a feminist
+consciousness during this time. Were you part of a consciousness raising group?
+Did you join NOW? Were you reading [Simone] de Beauvoir or [Betty] Friedan?
+
+HART: No, none of those things. At that point, as far as I remember, it was
+completely personal. It was like peeling off the layers of myself and saying,
+&quot;Well, I can do this.&quot; [interview interruption] It was like peeling down the
+layers of myself and going deeper into me. I certainly wasn&#039;t doing anything
+organized, and I wasn&#039;t reading any of the literature. I was just looking around
+at the world. I think part of that is the world I grew up in was so homogenized
+that it was years of just noticing the world around me to make sense of it.
+Mission Hills was essentially a planned residential development in which I could
+drive an hour and be in the same beautiful setting with lovely streets, lovely
+houses, flowers in the corner islands, because it had been planned by one
+developer. I knew the universe was not like that, and not like my high school
+where everybody went off to college after graduating. So it was still a
+Judy-gets-to-know-Judy and Judy-gets-to-know-the-world at that point.
+
+The next job it began to change. I was hired as the first professional woman
+staff in relocation in the Federal Highway Administration. Until then, I had
+always had running buddies--people that shared my commitment. We were different;
+we did different pieces of it, but we shared the commitment to make something
+happen. I was on my own there. I was in charge of reviewing the environmental
+impact statements for economic impacts and relocation and social impacts. That
+was at a time when the agency still didn&#039;t accept that NEPA applied to them.
+They were building good highways. NEPA wasn&#039;t for them.
+
+CANDIDA SMITH: What is NEPA?
+
+HART: National Environmental Policy Act, that required you write environmental
+impact statements prior to your federal actions. It was new. The Federal Highway
+Administration guys seemed to me to really believe that everything they did was
+good. All of a sudden I was sitting there in these big meetings, saying, &quot;This
+analysis isn&#039;t adequate. It doesn&#039;t say anything. It&#039;s not accurate. The studies
+aren&#039;t going to cut it with the public&quot;. I had been around the public enough at
+that point to have a pretty good idea what would cut it with the public. That
+was at a point in FHWA history where they had finished most of the interstate
+highways and all over the nation had gotten close to the major cities. And they
+wanted to finish their highways and bring them downtown, and they were being
+stopped all over the country There I was, saying, &quot;This isn&#039;t going to make it.
+You&#039;re going to go down if you publish this piece of work.&quot; It was a very
+unpleasant three years there, lightened only by the fact that Frank Mahady, who
+had come to work with me as an intern at the Community Affairs Department when
+he first got out of Harvard, had become the head of relocation at the state
+highway department. So we were working together and actually managed to make a
+lot of changes, but my office felt very hostile.
+
+That&#039;s when I began to think on a more programmatic level. I was very conscious
+of being the first professional woman in that office and very conscious of how
+the agency tried to deal with that. FHWA was a very well run agency. I was very
+impressed with them. They had review systems and back-up systems and appeals
+systems, most of which came into play in my three years. The Chief Engineer was
+the head of the office, and he was a wonderful, wise, distinguished sort of
+Brahmin sort of a person, who in my opinion had a large vision. He knew that
+what I was doing was helpful to the agency in the long run. He was very
+protective of me, but it was eye-opening.
+
+I remember sitting at my desk there one day, looking through the federal
+telephone book. I looked through this little federal directory, and I found a
+listing for the National Park Service, and it had six names under it. I read it,
+and I looked it for the longest time and thought, &quot;I bet they&#039;re nicer people
+than the people I&#039;m working with here.&quot;
+
+But instead what I did was quit and get a Master&#039;s of Arts in Law at a school
+without walls. Goddard College in Vermont was running a Masters of Arts in Law
+program in Cambridge, and it was again just pushing my life out to the
+boundaries. We sat on the floor on pillows. There were five people in my
+program. The fellow who taught it was a free spirit, a brilliant lawyer who left
+that program to teach the philosophy of law at Harvard Law School.
+
+CANDIDA SMITH: So how is that different from a JD program?
+
+HART: [laughs] I don&#039;t think they sat on the floor on pillows. I don&#039;t think
+their classmates looked like mine. We did things like go down and meet with
+prisoners. One of the most amazing things that we did--the assignment was
+simple--sit in city, state and then federal court for a whole day. Just sit
+there and watch. It was astounding. The program core was social justice. Lee
+wanted us to understand that it was African Americans that you see in the court
+system, whites on the bench and African Americans in the chair. And then going
+down to a prison to meet the folks who actually end up in prison. We studied the
+Cuban legal system, the Russian legal system, and we learned how to do legal
+research, and we had passes to go to the Harvard Law Library. So, it was this
+experience of just stretching me and all of our minds about as far as you can,
+all at the same time. I wrote my thesis on a topic that I had come to feel very
+strongly about when I worked for the state: the three-legged stool. The idea is
+that if you really want to change something huge like stopping highways and
+changing relocation programs and changing benefit programs, you need somebody on
+the inside of the bureaucracy who is sympathetic, and you need a strong
+community protest group, and you need professionals on the outside.
+
+While I was in this degree program, my field project was to work with a group of
+people from the Mission Hill district, I guess they called it, which was on a
+hill right next to five hospitals. Harvard had a hospital; B.U. had a hospital,
+I don&#039;t remember all of them. All of them were in the same neighborhood over a
+few blocks. They were going to build a--what did they call that? It was a
+heating, cooling, generating, and incinerating plant, so that all the hospitals
+had tubes so that they could put, as we often said, dirty diapers and body parts
+in the tube at the hospital. It would all come down to this one common
+incinerator and go up this one common stack, which happened to be right about
+the level of the houses in this low income neighborhood that was downwind from
+this project. So, I got to start demonstrating. I was out there marching with
+this little group in a couple of demonstrations they did. I also organized them
+to go and meet with the state EPA and say that this environmental impact
+analysis Harvard has written is superficial, and wrong, and listed all the ways
+they were being misled by Harvard&#039;s impact statement. One highlight of that
+meeting was showing the state officials pictures I had taken the day before,
+with huge clouds of almost black dust in the air as their demolition of housing
+began. Clearly, Harvard was violating their commitment to water down the
+demolition and prevent dust in this residential neighborhood. The state rejected
+the plan. Harvard didn&#039;t get to build that cogenerating plant, which I thought
+was a really good thing for the world. I did not think that burning body parts
+and diapers to turn it into heat and then spewing that over the neighborhood was
+a good idea.
+
+By this time, I was even more hooked. There was a change someplace in that year
+where I thought very clearly, &quot;I&#039;m tired of stopping things. I&#039;ve spent years
+now stopping really, really bad things, in my opinion. That&#039;s very satisfying,
+but I&#039;d rather start things.&quot; When I finished the degree program, I applied to
+the Park Service, got a job, was on the payroll within four weeks, and started
+doing land acquisition and relocation for the Park Service. I did that for about
+two years, did some really interesting work, relocated four or five families out
+of Eleanor Roosevelt&#039;s home, and stopped the eviction of the eighty-seven year
+old former owner from Martin Van Buren&#039;s home. I&#039;m like, &quot;I think we can resolve
+this a little better.&quot; It turned out there was a gatehouse. He moved into his
+gatehouse. He was happy as a clam. He lived there for another five years, and we
+restored the big house.
+
+Then a job came open that was my dream job. It was legislation for the Park
+Service in Boston creating new national parks. So, that&#039;s what I started doing
+for--I had that job for four years. I found it incredibly satisfying to help in
+the creation of new things.
+
+[interview interruption]
+
+CANDIDA SMITH: So, you wind up in an office of legislation. You&#039;re the person
+who&#039;s drafting the legislation that is then submitted to Congress for parks in
+the northeast region?
+
+HART: I was in the Planning Office in the Boston regional office. I often went
+to communities--I was sent out to meet with every community that wanted a
+national park. So, in many cases my job was to say, &quot;This isn&#039;t going to work.
+This is not going to be what you want. It&#039;s not going to work as a national
+park.&quot; I basically said no to a great many places.
+
+And then I was asked by the Washington office, &quot;What do you want the Denver
+Service Center to study for new parks?&quot; The Denver Service Center was our big
+formal office for planning and design. They would come in and do a study. At
+that point we were submitting twelve proposals for new parks a year to Congress.
+It was very, very different from where we are today. We were actively looking
+for new nationally significant stories and sites then. I looked at what was
+cooking around in our region. It was a general&#039;s home. The first three or four
+people I asked didn&#039;t know which war he was in, and I had never heard of him. I
+thought, &quot;We can do better.&quot;
+
+I had read our Index to National Parks, which was a book we published for the
+bicentennial. It divided all of the national parks into categories. They
+included Civil War parks, Presidents&#039; parks, natural parks. I think there were a
+dozen categories. The Park Service put out a nice little book, and on the very
+front page where it had all of these categories, there was an asterisk. It said
+&quot;African-American history is incorporated into all of the above Parks&quot;. What
+really struck me was that there was no asterisk for women. We didn&#039;t even get an
+asterisk. [laughs] I thought, &quot;This is going to change. This is ridiculous.&quot;
+
+This was 1978, and my title was Chief Ranger for Legislation. It took a year and
+a half for me to get the job--including the beginning of a discrimination suit.
+Finally the Regional Director said that I was supremely qualified for this job,
+having a Master of Arts in Law, having written legislation for the state and
+lobbied for it, and having implemented big changes in legislation at the state.
+He said that since my job was to implement laws, why weren&#039;t they hiring me. It
+took a lot to hire a woman in 1978 for what was considered one of the plum jobs
+in the regional office. But I did get it. That, of course, flamed the fires in
+my soul quite a bit, what it took to get that job.
+
+So I said, &quot;I think we should have a park having to do with women.&quot; I had a
+brand new boss, Terry Savage, the Chief of Planning, who had just come in from
+San Francisco, and he had just driven across the country. He was still in a
+motel. I telephoned him before he even got to the office, because I had a
+deadline to answer Washington. He was like, &quot;Cool.&quot; So, I went looking for one.
+I said, &quot;We should have another one for African Americans, as well as one for
+women.&quot; I proposed we study what became the Women&#039;s Rights National Historical
+Park in Seneca Falls and what became the Boston African-American National
+Historic Site, which was the first freed black community in the country. I
+worked on those for the next two years. What a thrill. The African-American site
+was--I really went looking for it. I found it. I found a fellow who was trying
+to promote the idea, all of the properties. It was on the backside of Beacon
+Hill. He was trying to promote the idea of the park, of the history, but I
+actually got it turned into a Park. It&#039;s open to the public now. And Women&#039;s
+Rights NHP became a huge deal. Stories about that go on forever, starting with
+the name of it. The traditional Park Service name would have been the Seneca
+Falls National Historic Site. I said, &quot;No, it should be a national historical
+park, because the story is so important and there are several different sites
+there. And if you say the Seneca Falls National Historic Site, nobody but
+thirty-five women will know what&#039;s there. If you don&#039;t tell people it&#039;s the
+women&#039;s rights site, no one will ever know.&quot; Well that argument went on for
+years, including the two and half years it took the legislation to go through.
+It was a pretty hard fought fight.
+
+CANDIDA SMITH: Within the Park Service?
+
+HART: Oh yeah.
+
+CANDIDA SMITH: Was it pro forma in Congress or was there opposition there?
+
+HART: It was easier in Congress than it was in the Park Service because Senator
+Daniel Patrick Moynihan, for whom I have the greatest admiration, became its
+champion immediately. The local Congressman wouldn&#039;t sign the proposed
+legislation; he said that we couldn&#039;t do guns and butter at the same time. So,
+Congressman Jonathan Bingham from New York City signed the House bill. But,
+Daniel Patrick Moynihan just came in on a white horse and just blew the stuff
+out of the opposition. The Chief of Staff for the House Resources Committee,
+Dale Crane, our substantive committee, as opposed to our money committee, loved
+the Park and became a very good friend. So, between the two of them--no, I&#039;m
+missing a very important piece of it, a very important person, as I think more
+about that.
+
+I proposed we study it. I went to Washington. I went to The Park Service Denver
+Service Center. Denver replied that it&#039;s not big enough. It&#039;s not complicated
+enough. My boss, who had just come from San Francisco and by this time was
+really interested--we had gotten connected with the local people, and they were
+tremendously excited--and he said that we&#039;d do the study there in the regional
+office. So I worked on the study with another woman who opposed the idea; it was
+her determination that there would never be a national park in this community
+because she said the winters were too harsh. We got the study finished. The two
+of us had many battles, but Terry Savage always intervened and generally agreed
+with me, and we got a good study done.
+
+The regional office study was sent to Washington, and it got sent to Denver. The
+Denver Service Center did not recommend it being sent up to Capitol Hill for a
+proposed new park. In those days we were allowed to promote new parks. I had
+been to Washington a lot. I talked it up a lot with everybody I could find. I
+had been up on the Hill, giving slideshows. The Director had heard about it from
+our Washington liaison Peggy Lipson. And Director Bill Whalen, in the big
+meeting where the Denver folks presented the park proposals to be sent to the
+Hill, he looked at them all, and he asked what&#039;s happened to Women&#039;s Rights? I
+kept hearing about Women&#039;s Rights. It&#039;s not in here. Denver folks said they
+didn&#039;t include it. Director Whalen told them to go find the study and that it
+was going to the Hill. So, he sent it to Congress. By then folks on the Hill
+knew about it, because I had been given a very long leash to promote this idea,
+because my region was really behind it. Senator Moynihan was already aware of
+it, and the House side Chief of Staff Dale Crane was excited about it. So, all
+they had to do was get it to the Hill, and Senator Moynihan and others carried
+it from then on. I don&#039;t even remember what our testimony was like. It was
+pretty lukewarm as I recall. Several folks from Seneca Falls came to Washington
+for the hearings, and their enthusiastic testimony was important.
+
+I actually got to write the legislation. It got watered down in Washington by
+the Park Service, and there were lots of fights about it. They kept wanting to
+keep the costs down, was what they said. I was trying to model it after Lowell
+and have a Commission and two different ways to spend money and have a
+non-profit segment and a Park Service segment. That all got cut out. The Park
+Service chopped the legislation in some really significant ways.
+
+It did survive with its name--Women&#039;s Rights National Historical Park. It got
+authorized. Actually Senator Moynihan had to pull it out of a hole. It went
+through the House lickety-split and was passed by May. It got set aside in the
+Senate, and in the middle of December at the end of the two-year congressional
+term, Senator Moynihan fished it out of the pile and said that they were going
+to pass this. And got it passed within a week. President Jimmy Carter, with a
+broken collarbone, signed it, I&#039;m told, on his last day in office, because of
+course we had had a significant shift in the administration. We went from Jimmy
+Carter to Ronald Reagan. The fear was that if Jimmy Carter didn&#039;t sign it, it
+wasn&#039;t going to happen because the congressional session would have been over.
+
+It did get signed. The administration had changed. I had put all of my new parks
+in for a $400,000 first-year budget, and they had all pretty much gotten it.
+Women&#039;s Rights got funded at $5,000 in its first year.
+
+CANDIDA SMITH: Does that include salaries?
+
+HART: [laughs] Yes. However you want to spend it. We had total freedom. I used
+the money to go out to Seneca Falls once a month and keep up the local
+excitement. I was the Park Coordinator; that title and work was added to my job
+as Chief Ranger for Legislation. Then at the end of that year, they decided--I
+decided, actually, with a lot of anguish about it; I had no intention of moving
+out there and starting it up. But by then the new administration was well
+entrenched. The lists were circulating all over the Hill, all over the country
+of parks to be deauthorized. At the top of the list were parks that didn&#039;t own
+any land. The Park Service didn&#039;t own anything yet in Seneca Falls. I thought,
+&quot;With this name and no land, and we have nothing firm for the future, this Park
+is going be the first one to go.&quot; So, after a lot of soul-searching, I decided
+to leave my much-beloved Boston and legislative job and go out and start up
+Women&#039;s Rights. My first job there was to persuade the local non-profit group to
+purchase the Stanton House, and then the group would donate the title to the
+Park Service. I said, &quot;I know this is a huge sacrifice. You all worked four
+years to raise the money to buy this Stanton House. This was to be your way to
+make your name. I understand that. But this Park isn&#039;t going to happen if you
+don&#039;t give the house to us, so that we can say, &#039;We own something. We&#039;re
+restoring it. This is real. There&#039;s a person out there. This is not a Park you
+are going to shut down.&#039;&quot;
+
+So that was how I ended up at Seneca Falls. Starting on the very first day when
+we cut the ribbon with Alan Alda for the new visitor center, we started the
+rehabilitation of the Stanton House. I of course was looking to put real legs
+under this Park as quickly as possible, which is why Alan Alda came to cut the
+ribbon, and five thousand people were there to watch him. So, it was not
+something the administration could lightly close up.
+
+CANDIDA SMITH: You had mentioned on the phone to me a few weeks back that unlike
+the Rosie Park, you never had any doubt that there would be the Women&#039;s Rights
+Park, once you arrived. I wonder if you could explain what your goals were as
+you established the Women&#039;s Rights Park, what are the key milestones you had to
+achieve that would allow you to say, &quot;Now, we have a functioning Park the way
+I&#039;ve envisioned it.&quot;
+
+HART: Women&#039;s Rights was so much easier than Rosie in Richmond even though the
+legislation was a fight, keeping substance in the legislation was quite a fight.
+I lost part of it, but I kept the traditional part of it, which was that the
+Park Service would own and restore and interpret the primary historic
+properties. In Seneca Falls that was the Wesleyan Chapel, where the first call
+for women&#039;s right to vote went public, the Elizabeth Cady Stanton house, of
+course, the McClintock house where they wrote the Declaration of Sentiments, and
+the Hunt house where they first had the tea party and decided to call the
+convention. So, that was a straightforward Park Service kind of thing, with
+these clearly nationally significant--clearly once Congress passed the
+law--clearly nationally significant sites. Restore them, and tell the story.
+That was all outlined in the legislation.
+
+By the time I moved to Seneca Falls I had been coming to the community for two
+years on a regular basis, three years really. It was a small town. There were
+three thousand people in the village and ten thousand in the town. So, I knew
+all of the reigning figures, all of the significant players in town, and they
+were very excited about it. While it was controversial, there was never any
+doubt that the Park Service was eventually going to own all of those properties.
+It was a question of when and under what circumstances, how much money would we
+pay, but everybody knew we were going to own those properties. The Park Service
+knew we were going to restore them and tell the story. So, I had that behind me.
+I had a very, very deeply committed Regional Director who was the first
+African-American Regional Director, and I walked on water with him, because I
+had created out of nothing, the Boston African-American National Historic Site
+and gone and found the Women&#039;s Rights site, before he was there. He could not
+have been more passionate about getting both of them off the ground and
+flourishing. He saw the potential for a breakthrough success at Seneca Falls.
+
+CANDIDA SMITH: What was his name?
+
+HART: Herb Cables. He was a fascinating guy. I learned a tremendous amount from
+him. For years, the whole time I was in Seneca Falls, in a really tight spot I
+would just stop for a minute, and I would ask myself, &quot;What would Herb say about
+this? What would he do?&quot; He was a professional athlete before he got into
+recreation. He loved horse racing. He said to me I bet horses, and I pick my
+winners, and then I give them everything they need. You&#039;re a horse that&#039;s going
+to win this race, so you&#039;ve got my support, whatever you need, which makes all
+the difference in the world. There were a couple of hundred highly professional
+people that I had been working with already for three years in the Boston
+regional office, who were all excited about the Park, and with his support
+behind me there was no stopping me. The community was the same way. The
+community leaders were totally in favor of it. It certainly wasn&#039;t easy. The
+owner of the Wesleyan Chapel was running a laundromat in the front of the
+building and a parking lot and automobile repair in the back and ten apartments
+up top. As the laundry machines would break down, the owner would put a sign on
+each machine, saying that it was broken and because of the Park Service it was
+not going to get fixed. [laughs] So, during my tenure there, slowly, many of the
+washing machines had a sign that said that because of the Park Service, you
+couldn&#039;t use this machine anymore.
+
+CANDIDA SMITH: Because you were planning on buying the property? Did that mean
+the owner could not sell the property?
+
+HART: Essentially it did. It did take us probably three years to buy it.
+Lightening speed by today&#039;s standards. It was difficult for him.
+
+CANDIDA SMITH: It was a question of negotiating the price?
+
+HART: Unfortunately, no. It was time. The government hires a contract appraiser,
+and there&#039;s no negotiating ability, so that price is take it or leave it. Since
+he really couldn&#039;t sell it to anybody else, it was pretty much, &quot;Take it.&quot; The
+real issue was how quickly could we get in there and relieve him of this place.
+The first breakthrough stage was getting a congressional appropriation to fund
+the purchase. Congressman Horton had led that fight, but still I feared I would
+be fired for going against Secretary Watt&#039;s ban on acquisition, and of course I
+was working closely with the Congressman behind the curtain. So, that was the
+Wesleyan Chapel.
+
+What became the park next to it was the only movie theater in town. It was a
+bright blue cinderblock box. It was right on the main street, and it was the
+only theater in town. That was controversial. We did buy it and tear it down.
+The next building was a very large, three-story building that was functioning as
+City Hall, very badly. The police were on the second floor. There was no
+elevator, no functional elevator. They complained a lot about hauling the drunks
+up a very long flight of stairs. They had a long running public argument for
+about eight months whether they should donate it to the Park Service--publicly
+owned property could only be donated to the Park Service--or they should better
+sell it to a developer. It was a very public debate in this very small village.
+They finally decided that they had a better bet to give it to the Park Service.
+So that became the visitor center, part of what is now the centerpiece of the Park.
+
+That was all done under the Reagan administration when--their policy intentions
+were so clear that you really didn&#039;t say &quot;acquisition&quot; out loud. They were
+brilliant people, I have to say. In other words, that&#039;s how they would limit the
+Park Service. There would be no expansion whatsoever, because we could not buy property.
+
+Everything that we did in the first half of my tenure in Seneca Falls was a
+donation. But still, for all of the public discussions and arguments that went
+on, there was a general community sense that the Park was a good thing. They
+were a little reluctant about the title of it, the topic of it, but on the
+whole, they thought it was a good thing.
+
+CANDIDA SMITH: Did you have allies in the Republican Party at all?
+
+HART: Senator Moynihan was certainly not of that party. Yes, yes, an extremely
+helpful Frank Horton, who was the local Congressman. Whoever it was that
+wouldn&#039;t sign the legislation was defeated, and Frank Horton took over the
+district. He had never had a national park before. He was also a Cornell grad,
+so that was how we got to know each other in the beginning. He decided the Park
+was a really good thing. He was conservative about funding, about spending
+money. He took kindly to the title, the topic, the substance of the Park. He
+became very fond of it and was a very helpful mediating influence. He wasn&#039;t
+going to call Secretary James Watt and say, &quot;Back off.&quot; But he was supportive,
+and that helped.
+
+James Watt appointed the running buddy of one of his principal advisors to be
+the Chairman of the federal commission for the Park, the Advisory Commission.
+She had tried her darndest to stop the development of the Cuyahoga Valley
+National Park. She lived in Ohio, and she would attend every public meeting
+there and disrupt it, scream and yell and that kind of thing to keep the meeting
+from happening. She was not in the end very effective. She wasn&#039;t able to stop
+Cuyahoga from developing, but she did get appointed head of our Commission.
+Phyllis Schlafly&#039;s best friend was also appointed to our commission. The
+chairwoman&#039;s often stated goal was to keep the Park from developing.
+
+CANDIDA SMITH: Your park.
+
+HART: My park. There was not going to be any development. A visitor center was
+okay. Her idea was to have a post with a book on the top, one for each state.
+Any woman who came to visit the Park could write her thoughts on being a woman.
+We would do that maybe in the Wesleyan Chapel. All this stuff about these
+historic buildings and the history of women&#039;s rights, was not the topic that we
+were going to develop and talk about. Phyllis Schlafly&#039;s friend had one mission,
+which was to change the name of the Park, to anything but the Women&#039;s Rights
+National Historical Park. The two of them really tried.
+
+What they really did--I discovered the power of backlash--so alienated everybody
+in the community. They were so dismissive of everybody there, in Seneca Falls.
+And this Chairman just so offended everybody in this small upstate village that
+the backlash to her actually created a whole different level of support for the
+Park because every time she&#039;d come to town, she&#039;d stay three or four days. She&#039;d
+sit in the bar at the hotel and talk very loudly about how terrible this Park
+was, and she wanted to stop it.
+
+Instead, more folks in the village decided that what I was doing and what our
+staff was doing and what some of the leaders of the business community had put
+together was so attractive--for heaven&#039;s sake we brought Alan Alda to town. Who
+would they pick, Alan Alda or this woman? It actually created a much deeper and
+broader level of community support for the Park and moved it ahead faster than
+we would have otherwise.
+
+CANDIDA SMITH: It sounds like you got caught up in the battle over the Equal
+Rights Amendment [ERA], at this Park. It was kind of symbolic in some way.
+
+HART: I made a few people angry and disappointed, because I refused to discuss
+current issues. I said, &quot;That&#039;s not what this Park is about.&quot; That was one of
+the big fights when the legislation was going through, with universal insistence
+that the Park would be limited by the legislation to the history of women&#039;s
+rights. It was relatively clear in the legislation what that story was. So, I
+insisted that we not have exhibits that went beyond, say, 1920 in the Park and
+that we not talk about those things, that we not have programs, that we not be a
+focus of attention. I said, &quot;This Park will die quicker than you can bat an
+eyelash if we get into that.&quot; So, we stayed out of that. But, of course, that
+was what a lot of the push pull was about.
+
+When the Stanton house was finished in &#039;84, when we were planning the ribbon
+cutting, I&#039;ll never know how it got on his agenda, but President Reagan seemed
+to be coming to cut the ribbon. It was never, &quot;He will be there.&quot; But, we had at
+least three waves of Secret Service that came out and inspected everything and
+were talking about logistics and timing.
+
+That was the same summer that there was a women&#039;s encampment at the Seneca Army
+Depot that was just south of town, which was alleged to be the place from which
+the Nike missiles were shipped overseas. So, there were several hundred women
+camping out on a farm close to the depot causing quite a ruckus over things.
+
+I worked with the President of the nonprofit group, the Stanton Foundation. I
+said, &quot;If that encampment is perceived as connected to the Park, is perceived as
+coming to downtown Seneca Falls because of the Park, it will be the end of this
+Park.&quot; So, Corinne Guntzel and her friends, many of whom were professors at the
+local college, spent the summer saying, &quot;Do your thing but don&#039;t force a
+connection to the National Park because you&#039;ll kill it.&quot; The Park was still very
+fragile at that point. They stayed on their farm and demonstrated at the Depot
+for the most part. But when it came to Ronald Reagan coming to town, they said
+quite publicly--and they were in the papers all of the time, of course, it was
+the hottest story in town that summer--they would line the streets with their
+bodies and make him drive over them in tanks to get to the Stanton house.
+[laughs] That was really a very tense summer.
+
+The word got out that the President was not coming, and I spent a whole day
+taking calls from the press and explaining that, &quot;No, the Park Service did not
+tell him not to come.&quot; Of course we hadn&#039;t invited him to come either, so my
+tongue would be awfully busy working around the answers. It turned out Reagan
+didn&#039;t come, and we had a perfectly lovely ribbon cutting.
+
+CANDIDA SMITH: Who did you get to cut the ribbon?
+
+HART: Congressman Horton was our star for the day and Ralph Peters, who had been
+the owner of the house and lived in Seattle. [laughs] I had forgotten that. I
+had to persuade the nonprofit Stanton Foundation to donate the Stanton house to
+the Park Service, but first I had to persuade Peters to let go of it, because he
+had bought it, just driving through town. It was up for sale, and he wanted to
+protect it. I had been working with Ralph Peters for at least a year by then.
+And then when Ronald Reagan won the election, Peters did not want to let go of
+it. I flew out to Seattle where he lived, and fortunately they were having a
+Park Service Regional Directors meeting, so the Director of the Park Service and
+all the Regional Directors were in Seattle. I met with Ralph in the lobby of my
+hotel that first night. They had these big flat upholstered arms on the chairs,
+and he was banging his fists and screaming at the top of his voice in the lobby
+how much he hated Ronald Reagan. That he would never give his house to Ronald
+Reagan. God knows what would happen if he let go of it and Ronald Reagan got
+hold of it. [laughs] I could see my job going down the tubes.
+
+But, the Director at the time was Russ Dickinson, referred to as &quot;the
+silver-haired, silver tongued Russ Dickinson.&quot; He was elegant and gracious, warm
+and friendly, and everybody loved Russ Dickinson. Ralph and I met with Russ
+Dickinson the next day, and Russ did his magic. He was just so impressive as a
+human being. All those classic qualities: really tall, elegant looking, white
+hair all combed back. He looked like the Director of the National Park Service.
+He promised Ralph that if he gave us the house, the Park Service would
+immediately start restoring it. Ralph said, &quot;Okay,&quot; which meant the Stanton
+house jumped up about three hundred levels on the funding list, because the
+Director had made that promise. That&#039;s how we got to start the renovation the
+day we cut the ribbon, the day Alan Alda was there. The Park Service crew went
+over and took off the old wood stairs on the house and started the construction
+by replacing the stairs. We also opened the Stanton house to the public for just
+the one day. This was just five months after I moved to Seneca Falls.
+
+So, in its very odd backlash way--not so much the Republicans in general, not
+even so much Ronald Reagan, except with Ralph Peters, but the fear of--I&#039;m
+blanking on the secretary.
+
+CANDIDA SMITH: Watt?
+
+HART: The fear about James Watt. In its own way, it made it hard for me, but it
+moved the Park ahead as a reaction against those forces.
+
+CANDIDA SMITH: Well, you&#039;ve mentioned how you made a decision that you did not
+want the Park to go past 1920, which is a nice historical justification, but I
+wonder how this political situation affected the interpretive program that you
+developed. What did you learn about how to present an interpretation of a
+subject, which even though it is more than a hundred years old, is still highly political?
+
+HART: I found that very easy when I was working there, because most people that
+I talked to did not know that women did not have the right to vote until this
+century. They were astonished by it. That would catch their attention
+immediately. The rest of it was really complicated in their minds. What do you
+mean they couldn&#039;t go to college? What do you mean they couldn&#039;t be a lawyer?
+You might be able to get into all of that, but that women couldn&#039;t vote caught
+everybody&#039;s attention. That was always my focus, was talking about women getting
+the right to vote. I didn&#039;t ever talk about the Equal Rights Amendment, which of
+course was announced in Seneca Falls, right after women did get the right to
+vote. But it was clear that, first of all, we didn&#039;t have the time or money to
+even tell the primary story, the right to vote story.
+
+My great disappointment about that Park was that I left after six years out
+there, and we&#039;d sponsored a national design competition; we&#039;d had entries from
+every state in the country. A very prestigious jury picked the bold design of
+going back to the historic bricks and just saving a sense of the Wesleyan
+Chapel. That had all gone very well. The two young women from Harvard who&#039;d won
+that design competition, Ray Kinoshita and Ann Marshall, created a team of
+experienced professionals and won the contract to do the A&amp;E work, architectural
+and engineering study and design. We got a massive amount of funding at the
+time; we had a line item congressional appropriation for seven and a half
+million dollars to do that project.
+
+I left with the proviso that the interpretive exhibit team had to hire an
+historian. That was as far as I got, and then I left. The exhibits there now
+barely tell the story of what happened in Seneca Falls around the convention. My
+least favorite exhibit was a monitor set on a post that had an interactive video
+with a current young man and a young woman talking about how they feel about
+dating. I&#039;m like--we&#039;re spending federal money on this?
+
+In the visitor center there was one huge wall that had a poster as part of a
+permanent exhibit. It showed a placard from a modern protest, something about
+lesbian rights. It caused a backlash. Of the sort that I envisioned from day
+one, and thought, &quot;What for? Let this park get its legs under it talking about
+history and then take on a lecture series. Who can complain about a lecture
+series?&quot; A blue ribbon committee came in to look at it and recommended taking it
+down, but then that caused a backlash.
+
+My disappointment with that whole permanent visitor experience is that it
+doesn&#039;t, in my opinion, turn a light bulb on. To me, that&#039;s number one. Help
+visitors understand the history, the context, of women&#039;s rights and inspire them
+to think about how history is shaping today&#039;s society and their lives. You don&#039;t
+need to push current issues in their face with federal tax money.
+
+CANDIDA SMITH: What was your thinking about dealing with the issues of divorce
+couverture? Couverture might have been kind of technical, but divorce was
+certainly a central issue for the Seneca Falls group and for Stanton throughout
+her life.
+
+HART: I always felt that all we had to do was tell the story of what the
+historical issues were and how they fought them. Unfortunately, it was not what
+happened there. It&#039;s a complicated story, but you take it one at a time and talk
+about property rights and divorce and who inherits the money and under what
+circumstances. There&#039;s a whole very rich story of the wealthy Dutch landowners
+in eastern New York supporting women&#039;s rights, because they saw over time their
+daughter would lose the family inheritance, and could be treated very badly by
+her husband. There was nothing they could do about it. It was a compelling story
+to tell and important for people to learn. To this day I don&#039;t believe that the
+Park, using federal tax dollars, needs to push today&#039;s issues in anybody&#039;s face.
+The Park should enlighten them--I&#039;ve always believed that if somebody
+understands the larger context, and some of the highlights of what&#039;s happened,
+then going away and thinking about their own life, looking around them with
+different eyes, is more important than trying to push some button about a
+current issue, which is going to be different for every Superintendent. I feel
+very strongly about it, and I don&#039;t think the Park is very successful in that regard.
+
+CANDIDA SMITH: You were Park Superintendent for six years there?
+
+HART: Yes.
+
+CANDIDA SMITH: What led you to move on?
+
+HART: Most of the development of the--the Stanton house was restored; the
+Wesleyan Chapel was underway; the right people had been hired to do it. I
+thought the Park had a very straightforward future in front of it. We had
+acquired the McClintock house, and I had money in the pipeline to get that
+restored. I&#039;ve never been a person to do operations. Operations and maintenance
+are not my thing. I certainly might have stayed through the development of the
+Wesleyan Chapel, and it was a hard decision to leave when I did. I said that it
+was just time. &quot;I&#039;m burned out. I&#039;m worn out. I need to do something different
+in my life.&quot;
+
+It had been a very emotional few years for me. Somebody said to me that when you
+find a real passion in your life, it&#039;s often about healing a personal wound and
+you don&#039;t know it, but you just--to me going out and spending six years there,
+plus two years before that talking about issues of women&#039;s rights, when I had
+had this whole career when I never thought about it, but I had been in the
+middle of it. So it was a real acting out of a lot of stuff that had been
+building up inside of me and again pulling at pieces of me to change. I know
+it&#039;s true, and I&#039;ve been told it often enough, that one of my strengths is that
+I can inspire people when I talk, because I&#039;m connecting to some deeper part of
+me. Well, I went a whole lot deeper when I went out there, in terms of
+connecting what I was publicly doing with who I was deep down inside, which was
+exhilarating when it worked and went well. It was very inspiring, obviously to
+the people around me, but it was also exhausting. I needed to be doing something
+different for myself.
+
+[Narrator addendum: But before we move on to the next phase, I think it
+important also to mention some of the folks who put their heart and soul into
+getting this Park off the ground. It truly takes a dedicated army for liftoff.
+First and foremost are the Stanton family, including the great granddaughter
+Rhoda Barney Jenkins, and great grandson John Barney and great-great
+granddaughter Coline Jenkins. They frequently visited the Park and always
+brought with them significant donations, including all of the Elizabeth Cady
+Stanton furniture now in her restored home, her china, and many additional
+historic pieces. They also purchased the lot next to the Stanton home and
+donated it for our eventual use. Their presence and enthusiasm gave the
+fledgling Park a stature it could not have had without them.
+
+Bert Fortner and Phil Prigmore were architects working for the Village of Seneca
+Falls and also planning the state Urban Cultural Park there with the head of the
+UCP, Augie Sinicropi. Our joint planning was both a great joy and a challenge.
+Corinne Guntzel and Lucille Povero were Presidents and leaders of the non-profit
+Stanton Foundation that accomplished heroic work that the Park could not.
+Marilyn Bero was the link to the National Women&#039;s Hall of Fame in Seneca Falls
+and worked tirelessly to smooth out bumps between the Park and local
+organizations. The Hall of Fame&#039;s independent work and programs also lent
+credence and substance to the development of the Park, and the Seneca Falls
+Historical Society was the source of invaluable information on the history of
+the community.
+
+Ralph Peters purchased the Stanton home with great assistance from Audie Malone,
+a Seneca Falls real estate brokerage owner who also negotiated the tricky months
+when Peters was refusing to sell to the Stanton Foundation because of his fear
+of Secretary Watt. Audie Malone was also a great help to me with other Village
+matters, as well as my personal home! The regional office staff of the Park
+Service in Boston was extraordinarily helpful to the Park and to me, negotiating
+our first visitor center, securing a free excess furniture set for eight in our
+new office, writing and producing a walking tour, helping with the Alan Alda
+ribbon cutting July 1982, coming out to march in the Convention Days parades so
+we would look more substantial than we really were in the early days, and just
+everything that I needed. I could not have done it without their help. And their
+good and cheering spirits when things seemed maybe not to be possible to
+accomplish. Herb Cables was the Regional Director whose enthusiasm for the Park
+supported and affirmed the efforts of the staff to help the Park.
+
+And underlying it all was the work of a high school student, Hanns Kuttner, who
+got all the Park properties listed on the National Register of Historic Places
+and the Wesleyan Chapel listed as a national landmark, at the suggestion of
+Nancy Dubner. If these two had not engineered this accomplishment before the
+National Park Service arrived, I think the unimpressive appearance of the
+historic sites would have been an insurmountable challenge.]
+
+CANDIDA SMITH: So, where did you go?
+
+HART: Well, my parents were getting ill. They were growing older, and getting
+less well. They had moved to Richmond, Virginia to be closer to my sister and
+her family when my father retired. So it was time to get closer to them, and I
+had always wanted to live in Washington DC. I went on a detail, which turned out
+to be about four months, working for the Twenty First Century project, a Park
+Service, look-into-the-future big project. I did that for about four months. My
+parents got sicker and my mother started to have a series of strokes and was
+really not at all well. So, I decided it really was time to live closer. It was
+a good change for me to be in a bigger place. I used to describe Seneca Falls to
+my close friends as &quot;There wasn&#039;t a corner I hadn&#039;t been around.&quot; There were no
+surprises left. And I really need that to inspire me, like, &quot;Oh, what&#039;s next?
+What&#039;s next?&quot;
+
+I loved being in Washington. I loved the music. I loved the culture. It&#039;s a
+gorgeous, gorgeous city. All the flowers. I was living in the city, and I loved
+everything about Washington, except for the summer weather. So, I applied for a
+job with legislation in Washington and got that after about four months, I
+guess. While I was still on the detail, I got the job in legislation, so I
+permanently moved to Washington, working on new parks again.
+
+CANDIDA SMITH: So you were writing the legislation for new parks for how long a time?
+
+HART: I was in that job six years and loved it. I got to work on some parks that
+were really dear to my heart. Manzanar, the World War II Japanese internment
+camp in southern California. I did a lot of work on Manzanar. Some in the Park
+Service didn&#039;t want it to happen; some in this region, California, didn&#039;t want
+it. I did a lot of damage control. So, I was very proud of the fact that it did
+get to be established, and it&#039;s an amazing place now. I did a lot of work on
+Petroglyphs, which was the same thing.
+
+CANDIDA SMITH: So, you were in New Mexico?
+
+HART: Yeah, the volcanic cliffs on the west side of Albuquerque. There was
+pretty general support for the Petroglyphs, but my part in that was to say that
+you can&#039;t just do the Petroglyphs; you need the volcanoes. That&#039;s where the
+sacred--well they are both sacred sites, but the more sacred sites are the
+volcanoes and the sacred land around them. I did a lot of damage control on
+that, a lot of promoting. It really needed to be the larger park, which got into
+all sorts of really complicated land ownership issues and development issues,
+but it did end up being the larger park. Those are the two that stand out in my
+mind at the moment. But I thoroughly loved expanding the Park Service.
+
+Many in the Park Service have said to me that I was the one that started idea
+parks in the Park Service. I&#039;m not sure that I started them. I think that&#039;s an
+overstatement. I think they are parks about values, and those are the ones that
+have always excited me. I always really pushed to get them in the Park Service.
+They&#039;ve always been odd. Manzanar was very hard for the Park Service to swallow
+because people kept saying there aren&#039;t any buildings there anymore, what is
+there to preserve? I&#039;d say, &quot;Well, you can see the outlines of the buildings,
+the foundations, the ghosts of them, and it&#039;s very haunting in its own way.&quot;
+Women&#039;s Rights had a very hard time, because the buildings didn&#039;t look grand,
+they didn&#039;t look presidential. I&#039;d have to keep saying, &quot;You have to understand
+that women&#039;s history doesn&#039;t happen in palaces, and because it isn&#039;t a palace
+doesn&#039;t mean that the Park Service can&#039;t be there&quot;
+
+It&#039;s all about values for me. Values and untold stories, things that haven&#039;t
+been brought to light before, that the Park Service has the ability bring into
+the national consciousness.
+
+[Narrator addendum: These parks raised the issue that is core to the Park
+Service, and that is interpreting stories through historic structures. I believe
+one aspect of the meaning of my starting &quot;idea parks&quot; is promoting two parks
+that did not have gorgeous, impressive, structures from which to tell the story.
+And for a time we weren&#039;t positive that the remains of the Wesleyan Chapel in
+Seneca Falls in fact included historic remains of the Chapel. So I was promoting
+new parks in spite of a lack of spectacular architecture. So I was promoting
+parks whose story, whose story about values, was more significant than the
+architecture available to tell the story.]
+
+And there was a second controversy, especially regarding Manzanar. Some in the
+Park Service believed that the Service was in the business of celebrating
+American History. This point of view was described by some as telling &quot;only
+happy stories&quot; and no one could believe that the internment of Japanese for no
+fault but being Japanese could be considered a happy story. There was
+significant pushback around this concern.
+
+CANDIDA SMITH: So, how did the Rosie idea generate?
+
+HART: I came in relatively late on that, before the legislation but relatively
+late. The properties of the four shipyards Henry Kaiser built, somehow or
+another evolved to the City of Richmond and the Redevelopment Authority.
+Shipyard Number Two, which was the largest one, is now covered with attractive
+housing on streets with names like Schooner Drive, Wind Drift, Sea Lane and Sea
+Breeze. One section, the most visible section, was intentionally designed to
+look like Cape Cod. The first city councilwoman for the City of Richmond, Donna
+Powers said that we were losing our history, that we were destroying it. This is
+where World War II happened, and now it&#039;s Sea Breeze Drive. So she first wanted
+to name the park that is surrounded by all that housing the &quot;Rosie the Riveter
+Park,&quot; and then she decided there should be a memorial. So the city sponsored a
+design competition for the memorial, and that of course, is what&#039;s there now.
+
+CANDIDA SMITH: What year are we talking about?
+
+HART: I&#039;m not sure what year it started. They dedicated it in 2000. It took them
+three years, so three or four years before then.
+
+CANDIDA SMITH: So, you got involved about when?
+
+HART: 1999. Once the memorial was well underway--before it was finished, but
+underway--the city went to Congressman Miller, George Miller, and said that we&#039;d
+like to have this affiliated with the Park Service. So he shepherded a law to
+enactment saying the Park Service would have to do a study, to see whether or
+not it could be an affiliated area. He hadn&#039;t been talking to the Park Service
+much, because we would have said, &quot;It can&#039;t be because it&#039;s not historic.&quot; They
+hadn&#039;t even built it yet, so it certainly was not historic. But Ray Murray, who
+is in charge of planning for the Park Service regional office in San Francisco,
+went over to meet with the group. He looked around and he asked what were all
+these historic buildings that we now know as Shipyard Number Three and the Ford
+Assembly Building. The group told him, and he said that this memorial couldn&#039;t
+be an affiliated area on its own, because it&#039;s not historic, but he noted that
+there were all these historic properties here and that that&#039;s what we&#039;d need to
+look at to see if there is a national park here.
+
+So he wrote a study that would include all of the properties that are now part
+of the Park. I guess the original concept was that the Park Service would own
+everything. Ray was very excited about it. The Regional Director, John Reynolds,
+was very excited about it. The draft study was submitted to headquarters in
+Washington, and I was working part of the time with the planning office there.
+It just went like that. [claps] Denny Galvin, Deputy Director of the Park
+Service, who had been a long-time standing strength in the agency, said there&#039;s
+no way we are going to do this park. It&#039;s a nationally significant story, but
+there&#039;s no way we could do this park. We can&#039;t afford it. The Regional Director
+said it was the best thing that ever happened; we&#039;ve got to do it. I was told
+there was some yelling over the phone about the study.
+
+So the Washington office asked me to come in and edit the study and basically
+work through this controversy that&#039;s built up. So, I did my usual thing and got
+on the phone and called everybody and said, &quot;What&#039;s your position? What&#039;s your
+understanding of somebody else&#039;s position? What&#039;s your idea of what a compromise
+might be?&quot; I made that loop two or three times around at least, talking to
+everybody, and then proposed a compromise, which was that the Park Service could
+not own or preserve anything in Shipyard Number Three, couldn&#039;t own the Ford
+building, couldn&#039;t preserve it, and couldn&#039;t own or preserve the SS Red Oak
+Victory. At which point, they asked what makes for a park there. I said, &quot;Well,
+we have the Park Service sized things that the Park Service can do. We can build
+a visitor center. We could own and restore&quot;--and this was my real
+compromise--&quot;we could own and restore the Kaiser hospital, the child care
+center, and the war working housing. Those are all perfectly manageable
+structures. They all tell nationally significant stories of their own, and that
+could be the park if all else fails and Shipyard Number Three never opens to the
+public and the city doesn&#039;t do anything.&quot; And everybody said that sounded good.
+So, everybody started talking to everybody else again.
+
+We had another flare-up because there had not been a survey across the nation to
+make sure that Richmond was the best place to do this. The Park Service had
+become polarized over this issue.
+
+CANDIDA SMITH: I guess I&#039;m not clear on what the deal is to be polarized over.
+Is it fiscal? Is it the story?
+
+HART: There were two polarizing issues. The one I was just telling you was
+money. It was pure-and-simple money. Denny Galvin, the Deputy Director, said
+that if we devoted the entire National Park Service construction budget to Rosie
+for ten years, we still couldn&#039;t finish it. It was just money on that first
+round. The second round, that we hadn&#039;t proved that this was the best place to
+do a Rosie / World War II home front park, was more about process, and not
+following procedures. In the end, some people got on the phone and did a
+telephone survey of the historic preservation offices around the country and
+confirmed that Richmond was by far the best place to support the park story. So
+that all got resolved like two weeks before the hearing, which had been
+scheduled because George Miller was retiring from the head of the Natural
+Resources Committee, and this was his going-away gift essentially.
+
+We did all agree with this compromise I suggested and wrote a vastly different
+piece of legislation. I was part of the team that came up with the concepts,
+along with Warren Brown, head of planning in Washington, but it was actually
+written by the Chief of Legislation for the Park Service, Don Hellman. And the
+new draft went to the Hill just in time to not embarrass anybody for the
+hearing. [chuckles] We testified in favor of it, and the rest is history. Well,
+I shouldn&#039;t say that. It was signed by President Clinton in October of 2000,
+again, in anticipation of an election after which it might not have been signed
+by the new administration. So President Clinton didn&#039;t have a broken collar
+bone. It wasn&#039;t December. But the legislation was up against it. [laughs]
+Everybody believed it was up against it to get it signed before it died with the
+end of that congressional session.
+
+CANDIDA SMITH: How did you land the job as the Founding Superintendent? Did you
+volunteer for it?
+
+HART: I was very interested. I had become really enamored of it in the course of
+editing the study and working on the legislation and trying to figure it all
+out. I had no intention of moving again, but went to lunch with friend and
+Departmental Solicitor Nicholas Targ. In the middle of our discussion on the
+park legislation he said you need to go out there and start this up. My parents
+and sister had all passed away while I was living in Washington. I had always
+wanted to live in San Francisco. I had always wanted to live in Washington,
+Vermont, and San Francisco, and Boston. And I had already lived in Washington
+and Boston, and spent enough time in Vermont. So, when the legislation
+passed--by this time I had been out here several times, I had gotten to know the
+local people and thought, &quot;Oh this is just fabulous.&quot; So I told the Regional
+Director I was interested, but they were going to compete the job, of course.
+Actually that&#039;s not true. He had told me that he would just transfer me, that he
+would just reassign me. I had forgotten that part of it. The regional office
+decided to advertise it. And then the region decided to advertise for an Acting Superintendent.
+
+So, I applied for the acting job with much handwringing. There&#039;s this thing in
+the Park Service; sometimes acting superintendents can&#039;t get selected for the
+permanent job, and sometimes it&#039;s a shoo-in to be selected as permanent, and you
+never really know which will happen. But I applied for it, because I decided it
+was too dangerous not to. The Regional Director called me and said--when he saw
+my application for the acting--he said I was it. You&#039;re the Superintendent. This
+was eight o&#039;clock in the morning at home, and I said, &quot;I&#039;m it. Am I the acting,
+or am I the permanent?&quot; He said I was the permanent; that he had decided to
+scrap all of that because I had decided to apply for it. So, I became the
+permanent Superintendent.
+
+CANDIDA SMITH: So, as I remember, you arrive in the Bay Area in January 2001.
+
+HART: Well, because I was the acting, I came two or three different times that
+fall for a week or two and tried to keep things going. Then I moved here January
+12th, I believe it was, of 2000.
+
+CANDIDA SMITH: 2001.
+
+HART: 2001, you are right.
+
+CANDIDA SMITH: Can you describe the resources that you had on hand as you
+started your job?
+
+HART: When I arrived in Richmond, every historic structure was threatened with
+demolition, or death by neglect. I went to meet with the Director of the Port.
+He said that we had to tear down that building on the waterfront, that the roof
+was on the floor, and that there was no way the public was ever going to get in
+the Port. It was too dangerous. I said okay.
+
+I met with the county officials, and they were ballistic. They were so angry.
+They had gotten federal money to demolish the two child care centers as part of
+their grant to build the new Head Start center. I got this &quot;who the hell do you
+think you are?&quot; in my face up three levels. I started with the facilities
+manager, Al Prince, then the head of facilities, then the Assistant Deputy
+County Administrator who was redder than anything on this jacket. His whole face
+was just beet red as he was yelling me at about who did I think I was from the
+federal government telling the county what they had to do. Thankfully, County
+Supervisor John Gioia was very enthusiastic about the Park, and his enthusiasm
+became shared by Al Prince and the Administrator. And they became huge
+supporters of the Park.
+
+Let&#039;s see. The Kaiser hospital, the plan was to build a second floor and then on
+top of the second floor put domes and minarets so that it would look like a
+mosque. The Ford Building, they had just lost--no, I guess they still had the
+first developer. They still had Forest City when I got here. Forest City pulled
+the plug later that spring on the Ford Building.
+
+I remember at that point I was living in Oakland, and the regional office was
+still in San Francisco, and I was taking the bus over the bridge in the morning.
+The tide happened to be out, and I could see like a half a mile of mud right
+there in Emeryville where the Bay Bridge ends. I remember looking out the window
+and thinking, &quot;Dot-com collapsed, Forest City&#039;s pulled out, and everything has
+just gone out from under Rosie.&quot; All of the things that we thought would make it
+happen, which was the money of the dot-com boom, that private people would
+donate money to have this happen. And here the first big project was abandoned
+two months after I moved here. I wasn&#039;t wrong about that and the impact on the park.
+
+CANDIDA SMITH: So, the funding plan for the Rosie park was to rely pretty
+exclusively on private investors?
+
+HART: Yes, for the three big pieces--the Ford building, Shipyard Number Three
+and the Red Oak Victory. We sat around and talked about it in headquarters. It
+was easy in Washington. We&#039;d heard about and read about the dot-com boom. It
+wasn&#039;t particularly happening in Washington, so it was almost easier to imagine
+it happening in California. And I had been to a preservation conference that
+year, that November, in Los Angeles, the National Trust Convention, and I went
+out to see the Gamble House, a dream of mine for decades, and discovered not the
+Gamble House, but another prominent Greene and Greene House had been kind of
+adopted by Brad Pitt. He had put millions and millions of dollars into its
+restoration, quietly. I thought, &quot;Yeah, we were right, that&#039;s exactly what&#039;s
+going to happen.&quot; [laughs] We really thought that a Brad Pitt would adopt
+Shipyard Number Three and just make it happen--not Brad Pitt, we actually
+thought it would be dot-com money. Obviously that didn&#039;t happen, and this caused
+a great deal of turmoil and disappointment and sense of loss in Richmond,
+because all of that money has disappeared.
+
+I remember I used to have a meeting every week, a coordinating committee
+meeting, and the head of the library said one day after about three months, he
+said he finally got it, that he understood what I was saying. Because everybody
+thought a trainload of federal money was coming to town, and I had to explain
+over and over and over again, that there were all these dreams and expectations
+and designations as national historic sites, and no money. That&#039;s what I did
+year one. And, &quot;By the way, you can&#039;t tear it down, because it&#039;s been designated
+as nationally significant.&quot; Which would result in the
+who-the-hell-do-you-think-you-are speeches, monologues. But he was of a more
+even temperament. I&#039;ll never forget him sitting at the other end of this
+conference table. He said that it was like I had brought this great big box to
+town, this beautiful box with this great big beautiful bow on it. They&#039;d opened
+up the bow, taken the top off the box. The box was empty. I was telling them
+they had to do all of this work. I said, &quot;Well, we&#039;ll do it together. But I
+don&#039;t have any money to bring to you.&quot;
+
+There was first a belief that the money would come and then a tremendous sense
+of disappointment and anger that in fact the federal money wasn&#039;t going to come.
+And not only was it not going to come for the restoration, but the operating
+budget only supported one staff person.
+
+CANDIDA SMITH: You.
+
+HART: Me. That was it for the first two years.
+
+CANDIDA SMITH: And you had no office.
+
+HART: And I had no office. Everything I did, I begged for free. My first real
+office was free space in the County Supervisors&#039; office. The space we have now
+in City Hall is free. The regional office even told me that when they moved from
+San Francisco to Oakland that first summer, they told me that I couldn&#039;t have a
+space in Oakland, which would have put me entirely back in my car. That&#039;s what I
+remember of the first year, was sitting in my car making phone calls, trying to
+write notes, making meeting arrangements, and trying to figure out where to go
+to the bathroom--the only public bathroom that I knew of was in City Hall. I was
+never so happy as when Café Teatro opened up, right there in Marina Bay. They
+had this beautiful, big, new women&#039;s bathroom, and all I had to do was buy a cup
+of coffee. I could even easily park there. They even had tables and chairs,
+where I could check my cell phone and write notes on their little tables.
+
+CANDIDA SMITH: When you say that your office was your car, you&#039;re speaking literally.
+
+HART: Literally. My first office was my temporary apartment here. I had two
+bedrooms, and I had all the room in the world, but that only lasted about four
+months. I operated out of my car for years, years until we actually had offices
+in Richmond two years ago. So, that was two years of operating out of my car. I
+had an office in San Francisco that I would use two days a week because I didn&#039;t
+have any other way of getting my e-mail. Then someone took pity on me and gave
+me the bid opening room in Oakland, so I actually had an office there, because,
+again, I couldn&#039;t get my e-mail checked from anyplace else. Then I had the
+office for a while in the County Supervisors&#039; office So, I had San Francisco, my
+car, my home, Oakland, and the County Supervisor, and finally the offices we
+have now at City Hall.
+
+CANDIDA SMITH: I think we should end for today.
+
+HART: My voice is totally gone.
+
+[End of Session]
+
+  
+
+  
+
+  
+
+  
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

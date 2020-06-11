@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042231" dt="2018-08-15"><version>5.1</version><date value="2010-08-24" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Marion Gabler Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Marion Gabler</interviewee><interviewer>Julie Stein</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url>https://youtu.be/5l7ZlR6MEVY</media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format>video</clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>﻿STEIN: Okay, my name is Julie Stein. I’m here on August 24, with Marion
+Gabler, and this is our first tape. Usually the way we start out is just by
+asking you your full name and where and when you were born.
+
+GABLER: Full name, Marion Gabler. Born in Freeport, Michigan. What else?
+
+STEIN: When?
+
+GABLER: Oh. January 7, 1924.
+
+STEIN: Okay, now tell me a little bit about your family. You said you came from
+a large family?
+
+GABLER: Well, I was the first, and over the years my mother had different men
+and different kids, and when she finally got married the last time, why, she had
+seven with one fellow. So they were all back in Michigan, or most of them
+anyway, and I go back there for the family reunion.
+
+STEIN: Did you all grow up in the same house? Was everyone living together?
+
+GABLER: Oh, yeah. Back in those days the mother got the kids, so no question. No
+question. The men disappeared.
+
+STEIN: Did they all just travel on, or what?
+
+GABLER: Well, when I was born my father was in prison, and by the time he got
+out, she had another baby. That’s just the way it went.
+
+STEIN: How many brothers and how many sisters?
+
+GABLER: Well, let’s see. I had four brothers before I had any sisters. I was
+almost seventeen when I finally got a sister. So I had three sisters and five brothers.
+
+STEIN: Okay. Did you have a lot of responsibilities, the oldest sibling?
+
+GABLER: Oh, it didn’t seem like it at the time. When we lived up north we were
+expected to pick the potato bugs off of the potatoes. That was a big chore we
+didn’t like. We had to harness the horse and go out into what they called the
+slashings and pick up pine knots, which now I remember with pleasure, but then
+we’d holler, “Oh, there isn’t any more pine knots out there.” But it was
+a good life. Back then you participated with everything with your family. There
+was nobody else within miles, so that was good.
+
+STEIN: Did you grow up on a farm?
+
+GABLER: Part of the time. I went to two schools every year, so I was in the
+cities, I was in the farm. In this picture, I’m about three, and I was living
+on my grandfather’s farm. That’s it, my mother would bring us back to
+grandpa and grandma. She’s get a nice place to live, she’d go bring us back.
+We could say, “Hi, Grandma and Grandpa,” and “Goodbye,” with the same
+anticipation. I’m sure they got very lonely at times.
+
+STEIN: Where did your grandma and grandpa live? Was it close by in Michigan?
+
+GABLER: Two or three different towns, but in Michigan, the same area.
+
+STEIN: So they had a farm.
+
+GABLER: They had a farm most of the time until he finally retired.
+
+STEIN: Do you know what they used to grow?
+
+GABLER: Well, yeah. He had horses, and they grew rotated crops. I still can’t
+go back to Michigan and look at the field after field of corn, field after field
+of soybeans, never anything else. You know they’re using all kinds of
+fertilizers. It isn’t good for the soil.
+
+STEIN: Certainly not.
+
+GABLER: When I grew up we had a manure spreader, we loaded it, we took the
+manure out to the fields. He planted corn one year, wheat the next, and maybe
+two or three years of hay. But it was all called rotation of crops, and I
+don’t think he ever bought fertilizer.
+
+STEIN: Were there ever blights or crop problems because that, or do you remember?
+
+GABLER: Well, no, I don’t remember it, but during the Depression my mother
+said he took the potatoes out of the basement, throwed them on the manure
+spreader and took them out in the field and spread them rather than to sell them
+for like, I don’t know what, ten cents a bushel or whatever. He wouldn’t
+sell them for the price that he could get, and that was during the Depression.
+But us kids was always happy. We were always well fed. We didn’t know there
+was a Depression. I didn’t know about those children running in the streets
+with no families in Chicago, which was probably 150 miles away. I didn’t know
+anything about that until I was a lot older, into adulthood.
+
+STEIN: Do you remember any changes that were caused by the Depression or having
+an awareness of it in any way?
+
+GABLER: Well, yeah, my grandparents had started bank accounts, and I think we
+got cheated out of two bucks or something. It was enough that I had heard about
+it, but it wasn’t very much money. [laughs] My grandmother had egg money for
+groceries, and he had the milk money for whatever farm costs there was. They
+worked hard.
+
+STEIN: Were they born in Michigan, or do you know how they came to --
+
+GABLER: They lived in West Virginia when my mother was born and moved to
+Michigan, I think, because my grandfather’s brother had married my
+grandmother’s sister, and they were up here in Michigan, and it sounded like a
+good place for farmers. He hadn’t been a farmer, but they came up here and
+eventually got a farm.
+
+STEIN: I guess they learned real quick.
+
+GABLER: Well, he probably grew up on one, but in West Virginia a farm is rock
+piles and a little field about as big as this, and another hill and another
+little field, not farming like they do here in Michigan. But he had been a --
+they built framework for stone quarries, so a framework for a stone quarry is
+just like a barn structure. So he was a carpenter before he became a farmer.
+
+STEIN: Oh, wow.
+
+GABLER: But I spent a lot of time on their various farms. [shows photographs] I
+kept this one because here’s where I’m three on one of grandpa’s farms.
+Here I’m probably twelve or thirteen on another of grandpa’s farm. There
+I’m -- There I’m very pregnant for my first child. My husband was in
+service, and here’s where I worked at the bomber plant.
+
+STEIN: Oh, wow.
+
+GABLER: That’s the only picture I’ve got of that time in the factory --
+
+STEIN: You’ve got nice pants on. That probably wasn’t very common for women, right?
+
+GABLER: That was start, nobody --  You couldn’t buy women’s pants before the war.
+
+STEIN: Did they start making women’s pants, or did you have to wear men’s pants?
+
+GABLER: I think by the time I got in the bomber plant they were making slacks.
+We never saw a woman in a bandana before the war. I do have my badge on in that picture.
+
+STEIN: Oh, yeah. Gosh, this picture of you is precious as a three-year-old, with
+your legs crossed all lady-like. [laughter] Well, I guess to stay sort of in the
+thirties, did your mother work ever?
+
+GABLER: She was a housekeeper. That’s how she met these various men. [laughs]
+She always took the kids, once she’d get established, she’d take us kids.
+That’s why we moved around so much.
+
+STEIN: Okay, did you ever live in other homes?
+
+GABLER: Sure, every time she got a different job as a housekeeper. This is where
+I graduated from high school, very poor picture. But we lived on three acres
+with tents like gypsies, and we had a party for my graduation. This is my
+grandma and grandpa. We had a party out there. We were just as happy in those
+tents, as later on my dad built a house, but he got the house up but not
+finished inside before he was drafted. So he was in the Navy at the same time my
+husband was.
+
+STEIN: What theater did your father serve in?
+
+GABLER: He was a Seabee.
+
+STEIN: That’s a construction battalion?
+
+GABLER: Well, I think so. When I knew where he was, he was around Mississippi,
+down around the gulf. He had something to do with the Navy, so I don’t know
+whether -- I thought they were constructing. He ended up in the hospital, and I
+don’t remember now what that was either, but --
+
+STEIN: So it sounds like you moved around a whole bunch as a child with your big family.
+
+GABLER: Oh, yeah. Two schools a year except maybe two.
+
+STEIN: Was it the same schools? Did you go back and forth, or it was a different
+school every time.
+
+GABLER: It was off with Mom to a different school. Back to Grandma’s to the
+same country school. Off with Mom to some other. Back to Grandma’s. For a
+while it was always the same country school when we was with the grandparents.
+
+STEIN: But a different school when you were with your mom. What was it like
+living in these other people’s home? Was that --
+
+GABLER: It was always home. Just like this. This is home. If I hang my hat here,
+it’s home. If I don’t hang my hat there, it means I’m not comfortable, and
+it’s not home.
+
+STEIN: Were you usually comfortable in the home --
+
+GABLER: Oh, yeah. We had a happy childhood, none of this psychiatric looking
+back and blaming somebody else for all your troubles.
+
+STEIN: Did you have to work yourself as a young person?
+
+GABLER: No. I think I got my first job when I was probably in twelfth grade, and
+I was a babysitter one summer.
+
+STEIN: You never had to work in the home alongside your mother.
+
+GABLER: Well, when you say work, you plant a garden, you can, you maybe dust
+once in a while, help with the laundry. Those kind of things weren’t work.
+When you think of work in those days, you was getting paid for it and doing it
+somewhere else. We’d walk several miles to pick strawberries, in one area we
+could pick strawberries. Another area, we walked so far and got a ride and
+picked string beans. Those were just like a week or two now and maybe never
+happened again. So it was always friendly, always fun.
+
+STEIN: It sounds like a nice job.
+
+GABLER: Well, it was. My mother never worried about anything, and so why did we?
+I don’t know how we got back and forth to Grandma’s as often as we did. Some
+of those times we didn’t have a car.
+
+STEIN: Yeah, do you remember hitchhiking or taking a bus?
+
+GABLER: No, we was there. She probably found somebody with a car. I can remember
+my -- we were three years apart, me and my first brother. I was probably eight
+when Ma and her present husband pulled in, and she got out of the car with a
+baby. I can still remember hollering, “Mama’s got a baby, Mama’s got a
+baby.” I run across the yard. Oh, my brother had been with her because he
+wanted to go play, and I wanted to hang around and hold that baby. That was the
+third brother.
+
+STEIN: That must have been quite a surprise. Didn’t know he was on the way.
+
+GABLER: I didn’t know where she was or anything. I didn’t care. When you
+were on that farm, you just lived.
+
+STEIN: Can you describe the life on the farm a little bit because now fewer and
+fewer people actually are living on family farms.
+
+GABLER: Well, Grandpa would get up probably 4:30 and fix the fires and go out to
+do chores. Grandma would get up, and I think she went out and helped milk. She
+always helped milk. They were milking by hand. Then they’d come back and have
+breakfast. Grandpa would go out and do whatever had to be done. In the winter
+time he -- I don’t know what he did, fixed the tools that needed fixing, or
+what. Grandma always had housework and canning and washing clothes and whatever.
+Out in the woodshed, oh, yeah, we could always stack wood when Grandpa split it,
+things like that. She had the old fashioned wooden washing machine that you
+pushed something back and forth, back and forth and do the wash. She’d hang
+them on the line.
+
+STEIN: That’s hard work.
+
+GABLER: Well, it probably was.
+
+STEIN: Somebody strong.
+
+GABLER: Yeah, it probably was.
+
+STEIN: I can’t imagine what the winters must have been like.
+
+GABLER: I can’t imagine them either because now these kids go by here in the
+dark either in the morning or at night to go to school, and sometimes it’s
+morning and night they’re walking in the dark. We had usually a mile and a
+half to walk in the country. I can never remember at all walking in the dark.
+
+STEIN: Really.
+
+GABLER: Well, you had to go to school, at least start at 8:00 to get there, a
+mile and a half. Usually at this country school when we were with the
+grandparents, the teacher lived somewhere along that line and would walk the
+last bit --
+
+STEIN: What was school like, especially since you have these experiences of
+pretty different schools?
+
+GABLER: Well, it was always -- a couple of times I was in the town school,
+didn’t like that at all.
+
+STEIN: Why not?
+
+GABLER: Well, the first school I can remember being in town, I was probably in
+the third grade, a communal toilet. I wet my pants once rather than to go to the
+bathroom where other girls could see me.
+
+STEIN: Oh, there were no walls?
+
+GABLER: Well, there was walls, evidently, but no -- I don’t know if it was
+walls, there wasn’t any door. Separate ones. Oh, man. I must have been very
+shy. I did outgrow that. But the teacher in the first grade, would be up there
+learning to read, and maybe when they get back, the second grade go up and do
+the same thing. Some of the older kids might be assigned to help these younger
+ones. That was a good atmosphere in the schools to have all eight grades.
+
+STEIN: In one room, at the same time?
+
+GABLER: Yeah, I don’t think they invented kindergarten. Well, they might have
+had it in city schools. I don’t think they invented it until my brother three
+years younger, I think he didn’t have to go to kindergarten either. They would
+start out in first grade. So it was nice.
+
+STEIN: The country, were they all one-room schoolhouses with all the grades together?
+
+GABLER: The country schools were.
+
+STEIN: How about the town school?
+
+GABLER: In the third or fourth grade we was in a school in Grand Rapids,
+Michigan, that had two rooms, so it was up, I think, about fourth grade in one
+room and fourth to eighth in the other. So it was still mixed grades. I don’t
+think I was ever in a school that had one room each until after I started high school.
+
+STEIN: Do you remember, did you have to buy your own books and bring all your
+own supplies, or did they have that at the school?
+
+GABLER: Michigan never anything like that. You could always buy used stuff from
+somebody else, but back then they kept the books so long it would probably use
+the same books, keep them in the family, over and over. I don’t know how old I
+was before they got these paper books that you do your spelling in the book, you
+do your arithmetic in the book, you throw it away. Back in those days you had a book.
+
+STEIN: And you kept it.
+
+GABLER: Yeah, and if you didn’t need it, you could sell it to somebody else in
+the same school.
+
+STEIN: At the country school, do you know how far people came from? Were there
+some kids who were walking --
+
+GABLER: Two miles?
+
+STEIN: Uh huh.
+
+GABLER: Probably. Ours was always about a mile and a half.
+
+STEIN: Because it sounds like it was pretty isolated where, at the farm at
+least, there weren’t so many neighbors close by.
+
+GABLER: Well, for a while there was a house maybe a quarter of a mile further
+that had several kids that would walk our distance, and then we’d all walk
+together. But nobody was driven to school. Everybody walked, including the
+teachers, most of the time.
+
+STEIN: Even in the Michigan winters?
+
+GABLER: Yeah, I guess so. Michigan winter, when you’re living it, is just
+something that’s there. It’s not an ordeal. The people that live in Michigan
+think I’m crazy to live out here. Hardly any of them want to -- well, maybe
+for a visit, but definitely don’t want to move out here. My oldest boy is
+sixty-six, he don’t want to fly even. He’s offered to come out on his
+motorcycle, and I told him I’d rather have him stay in Michigan than come out
+here on a motorcycle.
+
+STEIN: Smart idea. Keep him safe. So other than going to school and being on the
+farm with your family, were there other activities that you remember doing as a
+young girl?
+
+GABLER: I was probably in the seventh grade when I heard about, what was that?
+It might have been 4H, so anyway, I walked a mile and a half to the school and
+then another half mile or something to this person’s house. I didn’t go very
+long. I couldn’t learn crocheting from my mother because she didn’t know how
+to do it right, and one teacher taught me how to crochet, and I went home and
+showed my mother I could croquet. She says, “Well, that’s just the way I do
+it.” Somebody else showed me.
+
+STEIN: Did she make clothes for you?
+
+GABLER: Oh, yeah.
+
+STEIN: Were most of the clothes made at home?
+
+GABLER: I had relatives in Lansing that would bring coats. I hated to see a
+winter coat come in the door.
+
+STEIN: Why did you hate that?
+
+GABLER: Because very few alterations, and then I had to wear it.
+
+STEIN: You didn’t want to wear a coat?
+
+GABLER: Well, I didn’t want to wear an old lady’s coat.
+
+STEIN: Ahh.
+
+GABLER: But it was wool, and it was warm, and shorten it or whatever, I wore it.
+
+STEIN: People talk about the Sears catalog or the clothing catalogs being a big event.
+
+GABLER: Oh, yeah, that was a big event when it was new. It was a practical event
+when it was old because it always ended up in the out house. [laughs] When I was
+in my fifties we had a couple from town out to play cards, and we had sold our
+farm and was living in a hay barn that we had converted into a cabin because our
+home was a hundred miles away. So we was in this converted hay barn and had an
+outdoor toilet again. So this city gal had to go out to the toilet in the middle
+of the night, and I suppose she had a flash light. Anyway, she come in thrilled.
+She’d found a Sears &amp; Roebuck sales catalog with a certain date on it that she
+needed for a treasure hunt. She knew she’d be the only one with a Sears &amp;
+Roebuck catalog.
+
+STEIN: And she found it in an outhouse. [laughs]
+
+GABLER: I never heard what kind of mileage she got out of that.
+
+STEIN: Let’s hope something good.
+
+GABLER: It was just funny that it was out there.
+
+STEIN: Yeah. Do you remember sort of improvements like plumbing or flushing
+toilets or indoor toilets coming?
+
+GABLER: Well, I think they had a telephone down in West Virginia from my
+husband, who was the youngest of fifteen, next to the youngest of fifteen. They
+had a telephone before we did. I spoke on a telephone at a fair, and my voice
+was so scared. They played it back, I was so scared. I was probably in high
+school at that time. When we married her last husband, we moved into a farmhouse
+that had a radio, we had never had that before. I was twelve or thirteen, so we
+could listen to Grand Ole Opry on Saturday nights. I don’t know about this
+same farm he had the well in the kitchen, but it was still a hand pump, you
+pumped all your water.
+
+STEIN: But it must have been easier that it was indoors at least.
+
+GABLER: Oh, yeah. You carry it to the stove to heat up the laundry and stuff. It
+was a lot handier. But that was the first indoor water we had.
+
+STEIN: That’s sort of a thrill.
+
+GABLER: Well, everything was new and wonderful wherever we went.
+
+STEIN: Did you as a family have a religious upbringing? Did you go to church or --
+
+GABLER: No. My grandfather read the Bible to himself every night before he went
+to bed, and that was our only exposure. Well, once in a while in the cities, we
+could go to Sunday School, the kids. My mother would see that we went to Sunday
+School if it was close by when we were in town. But that was it.
+
+STEIN: I just am curious when you said you were living in the --
+
+GABLER: Three tents?
+
+STEIN: Yeah, was that, how old were you then and where was that?
+
+GABLER: I graduated from there, so I was seventeen.
+
+STEIN: That was when you were just done with high school, and do you remember
+was that farm land that you --
+
+GABLER: They bought three acres, and it was the first land that they had bought.
+So in the spring as early as possible evidently, they set up the big tents here,
+and they had their double bed in there and one or two babies. And cooking and so
+on, and then back here, here was a small tent that sloped this way and another
+small tent that sloped that way. So my older brothers was in here and me and
+some of the younger kids was over here. And it was just fun. Daddy finally built
+a house on the hill over here. I think that was after I got a job. First summer
+I was babysitting, but then I got a job in Lansing.
+
+STEIN: They were just --
+
+GABLER: Camping out --
+
+STEIN: Until they built the house, is that the idea?
+
+GABLER: He got the basement in before winter. They lived in that, because I came
+back from Lansing to visit them in that basement. Then they got the upper on,
+but didn’t finish that off. They were sleeping upstairs. And he had to go to
+service, so they must have finished it off after he came back. My husband and
+him both were in about --  I don’t think more than two years.
+
+STEIN: Was he, this wasn’t your biological father, but it sounds like he was --
+
+GABLER: Well, he adopted us when he went into service. Us older two had unknown
+fathers, and he couldn’t adopt his third one because he did have a father, but
+my mother went and found this fellow in Grand Rapids and took him to a lawyer,
+and he couldn’t read or write. My mother said the lawyer was so patient, over
+and over and over explained to this man that he wasn’t signing his life away
+or anything. He just had to sign a paper saying he’d never supported that boy.
+
+STEIN: Okay.
+
+GABLER: He finally got him to put an X down.
+
+STEIN: And that was enough so that he could be adopted.
+
+GABLER: Well, he didn’t adopt him. He just wanted -- he had to prove that he
+had been supporting him for the last several years. So then she got him on the
+-- oh, man, that was the most money coming in when all those, let’s see, six,
+seven kids, no, five kids, six kids was on, probably seven. My oldest brother
+was still home, but he was working on a farm. I was away. She probably had seven
+dependents when he went into service. That was a big paycheck. She sold this and
+bought a eighty-acre farm while he was in, the two years he was in service.
+
+STEIN: How big was that first farm that she sold?
+
+GABLER: Three acres.
+
+STEIN: She sold three acres and got eighty.
+
+GABLER: Yeah.
+
+STEIN: That’s amazing.
+
+GABLER: Yeah, it was on time, but it still was awful cheap.
+
+STEIN: Yeah, and was that because his pay, your father’s pay, was based on how
+many dependents he was supporting?
+
+GABLER: Sure.
+
+STEIN: Okay, because that’s so different from today where you just get a
+paycheck based on the job and they don’t really --
+
+GABLER: Well, I don’t know. I imagine in service you get paid by the
+dependents, yeah, I wouldn’t’ know. Most of these young people going now
+probably don’t have any dependents, but still I bet that’s the way it works.
+
+STEIN: So were you adopted by him officially?
+
+GABLER: Yeah.
+
+STEIN: Because your father was --
+
+GABLER: Unknown.
+
+STEIN: Unknown, okay.
+
+GABLER: The fact that we knew him had nothing to do with it. None of them ever
+did any contributing to the upbringing of the kids.
+
+STEIN: What was your father, your adopted father like? Were you close to him?
+
+GABLER: Oh, after he got older I was. I was totally indifferent for years, but
+when he ended up in the Veterans Hospital and no place to go, I’m glad it was
+my husband that invited him to come live with us. So he lived with us for --
+well, he needed help with a bandage on his stomach, so I’m changing the
+bandage. My mother kicked him out, they got a divorce finally in their
+seventies. Anyway, yeah, we were close in those later years.
+
+STEIN: So a lot of this time is right in the midst of the Depression.
+
+GABLER: No, I think they began to get out of the Depression.
+
+STEIN: When the war started I guess.
+
+GABLER: Before that.
+
+STEIN: Do you remember any of the New Deal programs or anything about FDR?
+
+GABLER: Oh, well. I don’t know who was President when they got the -- was it
+FDR that got the WPA going? Because my dad, he was not too successful on this
+farm up north, but he got a job surveying those -- what they call the slashings,
+all them woods around up north in Michigan. He would be out there, and he got a
+car because of that, I guess.
+
+STEIN: And that was a WPA project.
+
+GABLER: Um hmm. Nobody before had ever cared what was out there that I know of.
+So that was probably just a paid job, but it was good while it lasted.
+
+STEIN: Yeah, and do you remember hearing your parents talk about the President
+or about the Depression or these programs, or are they just happy to have that job?
+
+GABLER: At the time we lived here today, gone tomorrow. We never planned
+anything. I’m sure they planned to load up and move back down to Hastings area
+where my grandparents lived. When he got down there, he got a job in a factory
+for the first time. After that it was just more or less like it’s going to be
+for the rest of their lives, not so much moving.
+
+STEIN: Okay, more stationary at that point.
+
+GABLER: I was gone by then. It did help me decide that I was going to have all
+of my children by one man, which I did. I had four Eye boys.
+
+STEIN: So these are the pictures from your high school graduation. Did you go to
+just one high school, or did you move around then, too?
+
+GABLER: Went to ninth grade in Mancelona, Michigan, and the beginning of the
+tenth we moved to Hastings or Freeport, so I went the rest of the tenth grade
+and all of the eleventh. That was one of the years I stayed in one school at
+Freeport. If I go back there now, I’d go to the Freeport reunion, even though
+I didn’t graduate from Freeport.
+
+STEIN: Because that was the longest stretch.
+
+GABLER: Well, yeah, because I was born in Freeport, and that was the place I
+went back to every time we went back to Grandma and Grandpa. I knew the people
+around on the farms and in that city. I probably don’t know any of them now.
+But Hastings, we went there for the last year, and I graduated from Hastings.
+And that’s where my two boys live now. Two of them are gone.
+
+STEIN: Do you remember what types of classes you like in high school or whether
+the outside of school stuff that you were most interested in? What were your
+memories of that time?
+
+GABLER: We always lived out of town. I don’t remember participating in
+anything to do with school.
+
+STEIN: No dances?
+
+GABLER: Oh, heavens no.
+
+STEIN: Why not?
+
+GABLER: Well, it didn’t occur to me for one probably. Twelfth year I had a big
+sister in the school, and I met her once.
+
+STEIN: Someone you were with or --
+
+GABLER: Yeah, she was supposed to answer any questions or help me in any way. I
+only got lost once and had to go to the office to see where the chemistry room was.
+
+STEIN: Was it a big building?
+
+GABLER: Well, Freeport had all twelve grades in a, I don’t know how they did
+it now, but it was a square building, the upstairs was the junior high and high
+school. We probably had two rooms. I can remember there was a typing room. The
+downstairs was grade school, so if there was any school activities in that
+place, I never heard of them. If there was any in Hastings, I didn’t hear of
+them either because I wasn’t interested. I knew one girl in the ninth grade,
+and she was my friend, and that’s all I needed. If we wanted to walk downtown,
+we could, or walk over to her place; she lived in town. I just didn’t need
+anybody else. So consequently when I was in line -- my name was Rohrbacher --
+the guy ahead of me was Reed, and he looked down at me and he says, “Well, I
+didn’t know you was a senior.” Neither did anybody else because --
+
+STEIN: Was this at graduation?
+
+GABLER: Yeah, this was at graduation. I didn’t know any of the seniors. But
+because I started Latin up in Mancelona -- Freeport didn’t offer it -- I was
+taking tenth grade Latin, tenth grade Geometry. I don’t know, I was probably
+in twelfth grade English, but you couldn’t tell by that, and whatever else I
+had. I was on a college course, so I had to make up the Latin and the Math. So
+that’s how come nobody knew I was a senior.
+
+STEIN: Oh, because you were taking different classes.
+
+GABLER: Lower classes, yeah. Make-up classes really.
+
+STEIN: Because you had kept switching schools?
+
+GABLER: Well, because Freeport, I was in most of the tenth and all of the
+eleventh, didn’t offer that stuff.
+
+STEIN: Right.
+
+GABLER: Latin, especially.
+
+STEIN: Were those some of your favorite classes?
+
+GABLER: Oh, favorite classes always had something to do with reading. Chemistry
+was pretty good because the boys knew that they could get the professor there to
+talk about Ford motor cars or buttermilk biscuits, and as soon as they got him
+on that subject everybody else could do whatever they pleased. I always had a
+book to read inside of my Chemistry books because I didn’t know when he was
+going to get off onto those subjects. Yeah, that was pretty good, anything to do
+with reading, and I still like reading the best.
+
+STEIN: So you weren’t going to dances. Was there a lot of dating in high
+school or did you have a boyfriend?
+
+GABLER: If there was, I didn’t know anything about it. I went through there in
+a reading frenzy, probably. You never had enough to read before, my mother one
+year signed up for true love stories. I read every word in those magazines when
+they come. You just don’t realize, nothing to read? My grandparents told me,
+and my mother, too, I guess, that I learned to read behind the kitchen stove
+because she had wallpapered, behind the stove she’d wallpapered with
+newspapers. I don’t know how much of it I could read, but I that’s how I
+learned to read they said.
+
+STEIN: Wow.
+
+GABLER: Grandpa got the paper, but I don’t remember ever reading it except the
+funnies. But I was a lot younger then. By the time I got old enough to really
+enjoy reading, I wasn’t around him so much any more.
+
+STEIN: Do you remember where you were when you heard about Pearl Harbor?
+
+GABLER: Well, Pearl Harbor, that’s so long ago.
+
+STEIN: That’s right.
+
+GABLER: I don’t remember hearing that exactly. All of a sudden there was talk
+of war, but I was working in Lansing at the TB Sanitarium with my best
+girlfriend from high school. And I don’t know how long the war had been going
+on when we heard that the Willow Run was hiring, so we went in to tell the head
+doctor of this sanitarium that we was going down there and look for work. He
+says, “Well, you know, I could freeze you right here,” but he didn’t. He
+could have made us stay because it was a hospital type place, necessary.
+
+STEIN: And freezing means that --
+
+GABLER: Yeah, we couldn’t move.
+
+STEIN: Because it was necessary for the war effort?
+
+GABLER: Well, yeah, that was. But evidently the Willow Run bomber plant needed
+help so bad --
+
+STEIN: Yeah.
+
+GABLER: They were recruiting down south and men and boys and even their families
+were coming up to Michigan, and, of course, whole families come, too. I don’t
+know how long it took them to build those -- they had these big, long,
+two-stories high dormitories for women and more for men. I saw some of them here
+in California. It was like they opened this up, and it would be two small mobile
+homes, and every one of them was two. That was for young married people, so
+after we got married, we had one of those for a while. My girlfriend still
+stayed in the dormitory. But that was 1943, it got on here, so the war had been
+on for a couple of years. It took them a while to build that big bomber plant.
+So anyway, we went down there and got the jobs, Rosie the Riveter.
+
+STEIN: Let me take one step back before we get into that, but you said that you
+were at the TB Sanitarium. Was that right after high school or what were --
+
+GABLER: It was probably one year, I think the first year after high school I babysat.
+
+STEIN: For your family or friends?
+
+GABLER: No, no, for a couple with two boys. Then this girlfriend got a job at
+this TB Sanitarium. She was recruiting two or three other girls from high school
+who ended up at that sanitarium, too. But when it come time to go to Willow Run,
+just her and I went with this fellow. And his girlfriend, it was, had a car. And
+the girlfriend couldn’t get a job because she was seventeen. He was seventeen,
+too, but boys could get a job in the bomber plant at seventeen. We were
+eighteen. I was nineteen; you had to be eighteen. We were nineteen.
+
+STEIN: Were you excited to get out of the TB sanitarium?
+
+GABLER: Oh, no, that was fun, too. Any work that I ever did, it was fun. My son
+once intimated I didn’t have sense enough to know that it was a nasty job or
+something, because he always complained about his jobs. He’d go in, it was,
+“Oh, wonderful job.” Wouldn’t be there six months, it was time to quit, so
+terrible. Mine were always good. We got acquainted with all the people in that
+sanitarium. I probably got an inactive TB bug. I was checked once and had a
+reaction, and they checked it and said that I had been exposed to TB, but it was
+dormant. So it’s always been dormant as far as I know.
+
+STEIN: Yeah, lucky.
+
+GABLER: Yeah, yeah, wasn’t too concerned about it back then. But there was one
+area where the nurses wore masks when they went into those few rooms there. I
+don’t remember if we did or not. I was a floor girl, and this girlfriend was
+the dietician’s helper, so she stayed in the kitchen. But I was out there
+getting acquainted with all the patients.
+
+STEIN: Before you were really working completely in the war effort at Willow
+Run, do you remember any changes that happened because of the war?
+
+GABLER: Well, they had blackouts in Lansing where this TB Sanitarium was.
+
+STEIN: Were you living in the --
+
+GABLER: We were living at the sanitarium, a big dormitory. The cooks were the --
+what do you call them, that look over the young girls?
+
+STEIN: The chaperones?
+
+GABLER: Yeah, they had two, past middle age maybe, cooks, and they were the
+chaperones for that dormitory.
+
+STEIN: Were they women?
+
+GABLER: Oh, yeah, it was all women. Then we had a nurses’ dormitory, all
+women. If there was any men around that sanitarium it had to have been a couple
+of doctors.
+
+STEIN: And the patients were --
+
+GABLER: Mixed, oh yeah, had a floor for the women and a floor for men, then that
+little section of intensive TB. That was only about six or seven rooms. They
+believed in fresh air.
+
+STEIN: Yeah, did you have to ration there?
+
+GABLER: No, at the TB Sanitarium, I think that was before rationing. I don’t
+know how long into the war before they got rationing, but it didn’t affect me
+personally. Well, the gas did before the war was over, but the meat didn’t
+because when I was working at Willow Run we always ate out. We just had a room;
+we never thought about cooking.
+
+STEIN: You would eat at a restaurant every night, or at the cafeteria.
+
+GABLER: Well, this Willow Run living area was probably two miles from the
+factory. They had something called the cattle car, which was a truck with a big
+enclosed flatbed, where we’d either stand or sit on a side bench. That’s
+where you’d meet to go to the bomber plant, or you could walk. There was a
+trail that you could walk, and we did that all the time when it was nice
+weather. This complex had these dormitories, those little housing for married
+couples, a big recreation building that was open twenty-four hours including the
+restaurant. So if we worked midnights, we could go there for breakfast and play
+games or whatever. If you worked there in the afternoon shift and got off at
+midnight you could go and have breakfast and do the same stuff. It just didn’t
+matter, it was always open.
+
+STEIN: Wow. So had you heard about the plant before you ended up working there?
+
+GABLER: Barely. That kid got hold of the information that they were hiring
+evidently. We knew his girlfriend; we didn’t know him. The only reason we
+went, we heard it through them. Got down there; why, here was all these
+strangers from other countries, I mean other states. It got to be, “Oh, boy,
+here’s somebody from Michigan.”
+
+STEIN: Like a rare local.
+
+GABLER: Yeah.
+
+STEIN: Where were they mostly from?
+
+GABLER: South.
+
+STEIN: Just the deep South?
+
+GABLER: Men coming out of the hills and mountains and so on. The Eye family
+already had two or three of these fifteen kids was up here. So they talked --
+
+STEIN: The Eye family?
+
+GABLER: That was their last name, Eye, E Y E. Their mother and father and
+youngest brother was still home. Well, Ralph was my husband, and his youngest
+brother were still home. They four moved out and bought a place in Inkster, and
+my husband and his dad both got a job there.
+
+STEIN: They moved specifically for those jobs.
+
+GABLER: Well, they came up specifically because the jobs were available, and two
+or three of the kids was already up here.
+
+STEIN: Okay.
+
+GABLER: I don’t think any of them was working in the bomber plant. But when I
+first married my husband we moved in with his folks, who had a two-bedroom
+bungalow. That didn’t work out too good. So we got one of those little rental
+places here. Then he had to go into service.
+
+STEIN: When did you and your husband get married?
+
+GABLER: When?
+
+STEIN: Um hmm.
+
+GABLER: We got married August 28 in, gee, I forgot the date.
+
+STEIN: Was it --
+
+GABLER: I was nineteen, so twenty-four and nineteen is ’43.
+
+STEIN: ’43. Was that right after you moved there? After you started working at
+Willow Run?
+
+GABLER: Well, I don’t know. I was still living in that dormitory, so that’s
+before I was married, so that might be ’43. A lot happened in a short time. We
+got married in ’43, and my husband went into service in December, and my son
+was born in May.
+
+STEIN: Wow, right because here’s a picture of you pregnant in 1944.
+
+GABLER: Yeah. I was an illegitimate child myself, so I was real happy that I was
+married nine months and one day when that kid came. [laughs]
+
+STEIN: Oh, wow.
+
+GABLER: I couldn’t wait for that big bump to get off of there.
+
+STEIN: I bet. I’m so curious what this social life was like at Willow Run.
+
+GABLER: Well, we’d get there early and sit around and talk until it was time
+to go to work. I run a rivet gun, and I think my girlfriend actually did a
+riveting gun where a man bucked. The women did the riveting, and the men reached
+their arm in there and held that big hunk of steel against, so the rivet would squash.
+
+STEIN: Okay.
+
+GABLER: Men always did that. Women didn’t.
+
+STEIN: Was it a hard physical job?
+
+GABLER: Well, evidently. It must have built quite a muscle. You’re reaching,
+up here the aileron is shaped like this, this side is straight, so the inside
+there you go all the way down there and around the bend and come back, it’s
+probably about that wide.
+
+STEIN: Wow, so the man’s arm was inside, and the women were doing the riveting
+from outside.
+
+GABLER: On the outside, yeah. Every one of them rivets, probably that far apart.
+All that aluminum had to be riveted, that bucker had to be back there. I only
+filled in for that kind of riveting once, and the rest of the time I ran a
+squeeze gun.
+
+STEIN: What’s that?
+
+GABLER: Well, you put this aileron has a part about like this.
+
+STEIN: An aileron, can you explain what that is, too?
+
+GABLER: Where’s that picture?
+
+STEIN: Is it the back of the airplane on the wing?
+
+GABLER: No, this is the wing. There’s the aileron, that thing standing up back
+there at the tail end. There was two of them.
+
+STEIN: That piece way end of the tail?
+
+GABLER: Yeah, and I think the aileron part that we worked on, right through here
+it swivels, so if that great big plane wants to curve, those two ailerons cause
+it to have a little reason for turning in the back.
+
+STEIN: Okay.
+
+GABLER: I don’t think they could turn very rapidly, they’re too big. But
+when they wrote that song about coming in on a wing and a prayer, it was either
+this one or the B-17. I think the B-17 had four engines, and the B-27, maybe
+that was the one with two.
+
+STEIN: The B-24 had four engines, right?
+
+GABLER: Yeah, and I think the B-17 did, too. Right in here in the middle of that
+aileron it was a box about like this that you had to rivet in place. It was
+solid aluminum so that that’s where they hooked all this gear that did the
+turning. To do that you had a squeeze gun about this big, and it had a bit right
+about here down at this end. You squeeze the lever --
+
+STEIN: Trigger?
+
+GABLER: And it would squeeze. You put the rivets in all these holes, and then
+squeeze, squeeze, squeeze all the way around that. So actually I didn’t have a
+bucker. The buck was on the rivet gun.
+
+STEIN: Okay.
+
+GABLER: I told somebody here once years ago that I was Rosie the Riveter, years
+ago when I first started coming here, I guess. And she says, “Well, they
+called us Rosie the Riveters out here, but in the shipyards it was mostly welding.”
+
+STEIN: Yeah, Wendy the Welder. [laughs]
+
+GABLER: I never heard of that one, but Rosie the Riveter got its name out here.
+We sure didn’t -- I didn’t hear about it back there.
+
+STEIN: You didn’t hear about the name or the song or anything?
+
+GABLER: Well, I might have heard the song, but I didn’t realize it was a big
+thing out here. It wasn’t a big thing back there. Everybody that practically
+-- well, no, I guess not. Not everybody worked there, but so many did. My
+husband when I met him -- I met him out here at one of these impromptu
+ballgames. The guys would be out there, well, we was walking across, and we saw
+these guys playing workup softball. So we got in it because all the guys was
+there. We were having a ball, and these other two guys, Ralph said, him and his
+brother were out cruising looking for dates. They saw two girls in that
+ballgame, so they stopped and played the rest of the game just to get acquainted
+with us. That’s how I got acquainted with him. And he worked at the bomber
+plant, rivet repair man.
+
+STEIN: So what were his responsibilities?
+
+GABLER: If me or Elaine was the regular rivet gun, if you made a mistake, if the
+bucker wasn’t working right -- whatever, it might slip off and make a dent in
+that aluminum -- anything that was wrong with a rivet, they called the rivet
+repair man. He’d come with his thing of frozen rivets and drill out the hole a
+little bigger, or whatever was necessary, put in maybe a frozen rivet if it had
+to be bigger.
+
+STEIN: What is a frozen rivet?
+
+GABLER: I don’t know what. They were frozen.
+
+STEIN: Were they literally cold?
+
+GABLER: Frozen.
+
+STEIN: Wow.
+
+GABLER: I guess they’d squeeze better frozen.
+
+STEIN: Oh, maybe because it expands when it gets hot or something like that?
+
+GABLER: I don’t know why. Who cared? [laughs] But I met him here. I would
+never have met him in the plant. We walked down there where he worked a time or
+two after we got acquainted with him, but by then the war was closing down. They
+wanted you to look busy. They weren’t ready to lay anybody off yet. But it was
+tapering down, so we’d take a walk. That’s the first time we’d walked over
+and seen how big the place was.
+
+STEIN: Oh.
+
+GABLER: Because it was an area where we went a certain way and got to the
+ailerons. That’s where we’d wait or goof off or whatever. So when we had all
+this time, we walked over to the big areas where the plane was almost done
+before it would go outside to be finished. There was a lot of -- well, not a
+whole lot, but you could always see some, the dwarfs or little people.
+
+STEIN: Yes?
+
+GABLER: That could get into the tight places for like bucking rivets or
+whatever. They were needed.
+
+STEIN: They had dwarfs as buckers?
+
+GABLER: Yeah, it was in the areas where grown men couldn’t get.
+
+STEIN: Wow. Were there a lot of them?
+
+GABLER: Well, I didn’t see, I never worked around any of them, but if you
+stood at the gate, doors there waiting to go in or out, the people that were
+coming out or going in, there’d be like one or two amongst the crowd. They
+were just more of the guys. Like one of them -- they’re smaller -- one of them
+would goose the guy just as they went by, wheeling around like this to sock
+somebody, the guy knew who it was, but it was good relationships there.
+
+STEIN: Yeah, I imagine that that must have in some ways been a really good job
+because I bet it was pretty hard at those times to find work.
+
+GABLER: Well, find work? No, that was the time they were begging people to work.
+
+STEIN: Well, right, but if you were a dwarf, it would probably be harder to find
+a good job in a factory, but --
+
+GABLER: Oh, yeah. Oh, sure. That probably was their main break into society.
+
+STEIN: Yeah.
+
+GABLER: They always been treated like circus people before. I don’t know. I
+had never given it a thought.
+
+STEIN: Well, it takes, I guess, all kinds of people to put these planes together.
+
+GABLER: Well, I can’t remember; back then Michigan was kind of pure white. I
+cannot remember any other nationality.
+
+STEIN: Really, there were no black workers.
+
+GABLER: Not that I can remember, and no other nationalities.
+
+STEIN: Asians, or it was all white?
+
+GABLER: Well, I didn’t know about the Asians in California being rounded up.
+
+STEIN: What did you hear; do you remember when you heard about that? After the
+war was over?
+
+GABLER: Oh, yeah. Years and years later. Yeah, it wasn’t anything to do with us.
+
+STEIN: Yeah, you were right in the middle of the country.
+
+GABLER: And the news weren’t -- actually, the people today are told how poor
+they are. Oh, boy, you poor, poor suffering people. I’m not sure too many of
+them that believe it. Right there where you had your hand out. Back when I grew
+up, I just was lucky that we always could go back to Grandma and Grandpa.
+
+STEIN: Right.
+
+GABLER: Always. She’d find some way to get us there.
+
+STEIN: I’m going to change the tape because we’re nearing the end of --
+
+ 
+
+ 
+
+ 
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt>video</fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

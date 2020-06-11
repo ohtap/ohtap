@@ -1,0 +1,319 @@
+word_1,word_2,count
+rape,raped,134
+attack,harass*,82
+harass*,rape,78
+attack,rape,76
+attack,raped,54
+incest*,rape,52
+harass*,raped,48
+rape,sex* violence,44
+rape,sex* abuse,42
+incest*,raped,40
+attack,insult,38
+rape,raping,38
+insult,rape,38
+rape,sex* assault,36
+anita hill,clarence thomas,34
+insult,raped,32
+harass*,insult,32
+molest*,raped,30
+raped,sex* abuse,30
+attack,outrage,28
+harass*,title ix,28
+molest*,rape,28
+rape,title ix,28
+child abuse,rape,26
+raped,raping,26
+raped,sex* violence,26
+harass*,sex* assault,26
+harass*,molest*,24
+child abuse,raped,24
+clarence thomas,harass*,24
+child abuse,sex* abuse,24
+attack,incest*,24
+attack,molest*,22
+harass*,outrage,22
+harass*,playboy,22
+rape,rapes,22
+raped,sex* assault,22
+sex* assault,sex* violence,20
+attack,clarence thomas,20
+attack,child abuse,20
+anita hill,harass*,18
+incest*,sex* abuse,18
+attack,sex* abuse,18
+attack,raping,18
+incest*,sex* violence,18
+attack,title ix,16
+outrage,rape,16
+child abuse,molest*,16
+harass*,raping,16
+anti-rape,rape,16
+sex* abuse,sex* violence,16
+attack,playboy,14
+outrage,raped,14
+harass*,sex* violence,14
+harass*,sex* abuse,14
+incest*,molest*,14
+molest*,sex* abuse,14
+raped,title ix,14
+harass*,incest*,14
+attack,sex* violence,14
+brutalized,rape,12
+brutalized,raped,12
+raped,rapes,12
+clarence thomas,rape,12
+anita hill,raped,12
+clarence thomas,raped,12
+sex* abuse,sex* assault,12
+anti-rape,incest*,12
+child abuse,insult,10
+hanky panky,harass*,10
+brutalized,harass*,10
+anita hill,attack,10
+incest*,insult,10
+attack,sex* assault,10
+anti-rape,raped,10
+playboy,sex* abuse,10
+playboy,rape,10
+anti-rape,attack,10
+harass*,seduce,8
+outrage,playboy,8
+insult,raping,8
+insult,molest*,8
+brutalized,insult,8
+rapes,raping,8
+rape,seduce,8
+child abuse,incest*,8
+anita hill,child abuse,8
+child abuse,playboy,8
+clarence thomas,outrage,8
+harass*,rapes,8
+insult,outrage,8
+clarence thomas,title ix,8
+attack,hanky panky,8
+outrage,sex* abuse,8
+attack,rapes,8
+attack,brutalized,8
+child abuse,harass*,8
+brutalized,incest*,8
+incest*,sex* assault,8
+rapes,sex* abuse,8
+anti-rape,sex* violence,8
+sex* violence,title ix,8
+sex* assault,title ix,8
+attack,seduce,6
+molest*,raping,6
+brutalized,raping,6
+brutalized,molest*,6
+child abuse,clarence thomas,6
+fondled,molest*,6
+clarence thomas,raping,6
+molest*,rapes,6
+pedophile,raped,6
+attack,pedophile,6
+child abuse,pedophile,6
+rape,rapist,6
+playboy,raping,6
+attack,pinched,6
+anita hill,sex* abuse,6
+anita hill,incest*,6
+child abuse,title ix,6
+incest*,playboy,6
+molest*,sex* assault,6
+playboy,raped,6
+fondling,sex* abuse,6
+child abuse,rapes,6
+rapes,sex* assault,6
+anita hill,rape,6
+sex* abuse,title ix,6
+outrage,title ix,4
+playboy,title ix,4
+raped,took advantage of me,4
+outrage,raping,4
+outrage,rapes,4
+raped,rapist,4
+attack,lady's man,4
+clarence thomas,molest*,4
+molest*,playboy,4
+anita hill,playboy,4
+clarence thomas,playboy,4
+anita hill,outrage,4
+fondled,raped,4
+fondled,incest*,4
+incest*,ladies' man,4
+clarence thomas,rapes,4
+attack,ladies' man,4
+clarence thomas,insult,4
+raped,seduce,4
+insult,sex* abuse,4
+child abuse,seduce,4
+anita hill,insult,4
+ladies' man,rape,4
+harass*,ladies' man,4
+ladies' man,playboy,4
+molest*,outrage,4
+attack,rapist,4
+brutalized,sex* assault,4
+molest*,title ix,4
+child abuse,raping,4
+anita hill,raping,4
+clarence thomas,seduce,4
+attack,fondled,4
+fondled,sex* abuse,4
+fondling,incest*,4
+fondled,fondling,4
+fondling,playboy,4
+rape,sodomy,4
+fondled,rape,4
+attack,sodomy,4
+molest*,sodomy,4
+incest*,rapes,4
+clarence thomas,incest*,4
+raping,sex* assault,4
+raping,sex* abuse,4
+raping,sex* violence,4
+rapes,sex* violence,4
+anti-rape,harass*,4
+child abuse,sex* assault,4
+anti-rape,sex* abuse,4
+molest*,sex* violence,4
+clarence thomas,sex* abuse,4
+child abuse,sex* violence,4
+pedophilia,rape,4
+pedophilia,raped,4
+attack,pedophilia,4
+incest*,title ix,4
+incest*,raping,4
+anti-rape,sex* assault,4
+anita hill,anti-rape,4
+fondling,rape,4
+fondling,raped,4
+rapes,title ix,4
+insult,title ix,4
+pedophilia,sex* abuse,4
+pedophile,sex* abuse,4
+pedophile,pedophilia,4
+molest*,pedophilia,4
+child abuse,pedophilia,4
+molest*,pedophile,4
+pedophile,rape,4
+insult,rapist,2
+molest*,seduce,2
+attack,took advantage of her,2
+harass*,took advantage of her,2
+molest*,took advantage of her,2
+rape,took advantage of me,2
+rape,seduction,2
+fellat*,rape,2
+fellat*,harass*,2
+outrage,sodomy,2
+harass*,rapist,2
+anita hill,molest*,2
+ladies' man,raped,2
+ladies' man,molest*,2
+fondled,ladies' man,2
+hanky panky,molest*,2
+anita hill,pedophile,2
+clarence thomas,pedophile,2
+lady's man,raped,2
+insult,playboy,2
+molest*,seduction,2
+insult,seduce,2
+seduce,sex* abuse,2
+lady's man,rape,2
+ladies' man,lady's man,2
+ladies' man,raping,2
+brutalized,child abuse,2
+incest*,outrage,2
+child abuse,outrage,2
+molest*,rapist,2
+brutalized,playboy,2
+child abuse,ladies' man,2
+rape,sexually inappropriate,2
+sex* abuse,sexually inappropriate,2
+harass*,ladies man,2
+seduce,title ix,2
+brutalized,outrage,2
+hanky panky,incest*,2
+hanky panky,ladies' man,2
+anti-rape,insult,2
+attack,fondling,2
+fondled,playboy,2
+fondled,sodomy,2
+ladies' man,sex* assault,2
+harass*,sexually inappropriate,2
+anita hill,sexually inappropriate,2
+clarence thomas,sexually inappropriate,2
+harass*,took advantage of me,2
+molest*,took advantage of me,2
+harass*,lady's man,2
+interfered with her,rape,2
+interfered with her,raped,2
+insult,interfered with her,2
+harass*,interfered with her,2
+attack,took advantage of me,2
+hanky panky,outrage,2
+anita hill,seduce,2
+rape,ravish,2
+raped,ravish,2
+outrage,ravish,2
+ravish,sex* abuse,2
+rape,sodomized,2
+raped,sodomized,2
+rapes,sodomized,2
+sex* assault,sodomized,2
+attack,sodomized,2
+harass*,sodomized,2
+sex* abuse,sodomized,2
+molest*,sodomized,2
+child abuse,sodomized,2
+brutalized,sex* violence,2
+anita hill,sex* violence,2
+clarence thomas,sex* violence,2
+anita hill,title ix,2
+pedophilia,sex* violence,2
+incest*,pedophilia,2
+brutalized,title ix,2
+anti-rape,raping,2
+anita hill,sex* assault,2
+anti-rape,brutalized,2
+anita hill,brutalized,2
+fondling,sex* assault,2
+playboy,sex* assault,2
+child abuse,fondling,2
+rapist,sex* abuse,2
+playboy,rapist,2
+fondling,rapes,2
+fondled,rapes,2
+fondling,sex* violence,2
+fondled,sex* violence,2
+fondling,title ix,2
+fondled,title ix,2
+rape,took advantage of her,2
+anti-rape,outrage,2
+bestial*,rape,2
+bestial*,raped,2
+bestial*,sex* assault,2
+bestial*,harass*,2
+bestial*,sex* violence,2
+raped,sodomy,2
+pedophilia,raping,2
+pedophile,raping,2
+raping,sodomy,2
+pedophilia,rapes,2
+pedophile,rapes,2
+rapes,sodomy,2
+playboy,rapes,2
+sex* abuse,sodomy,2
+pedophilia,sodomy,2
+pedophilia,playboy,2
+pedophile,sodomy,2
+pedophile,playboy,2
+playboy,sodomy,2
+child abuse,sodomy,2
+anti-rape,rapes,2
+anita hill,rapes,2
+anita hill,sex offender,2
+clarence thomas,sex offender,2
+child abuse,sex offender,2

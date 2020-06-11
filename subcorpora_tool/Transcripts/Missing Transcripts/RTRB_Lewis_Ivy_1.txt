@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042117" dt="2018-08-15"><version>5.1</version><date value="2006-08-04" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Ivy Reid Lewis Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Ivy Reid Lewis</interviewee><interviewer>Nadine Wilmot</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format>video</clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>﻿WILMOT: And now we are recording. Here as well. Nadine Wilmot with Ivy Reid
+Lewis, August 4th, 2006. Okay, so good morning.
+
+LEWIS: Good morning.
+
+WILMOT: We usually start off by asking when and where were you born.
+
+LEWIS: I was born in Oakland, California, February 25th, 1931.
+
+WILMOT: 1931, and that was just like you were born kind of in the beginning of
+the Depression.
+
+LEWIS: Yes I think so.
+
+WILMOT: And what are your parents’ names?
+
+LEWIS: My mother’s name is Beryl Gwendolyn Holder Dash. She was born in
+Bridgetown, Barbados. My father’s name is Charles Rogers Reid. He was born in
+Angel’s Camp, California in 1898.
+
+WILMOT: Where is that?
+
+LEWIS: Calaveras County.
+
+WILMOT: In California.
+
+LEWIS: In the Sierra Nevada Mountain Range. My grandmother, her family moved
+there from San Francisco to pan for gold. Three of my aunts and my father were
+born in Calaveras County.
+
+WILMOT: So how far back do you know your family? And I’m sorry, I don’t
+think I caught your father’s name?
+
+LEWIS: Charles Rogers Reid. I know my family’s history because I did a lot of
+research on the subject. My great-great grandfather William Henry Galt and his
+wife and children came to California in 1861. His white father, who was a slave
+owner, sent all of his black children to California by clipper ship over the
+Isthmus of Panama. They came to San Francisco in 1861 The white father took his
+immediate family and the black children’s mother to Bedford, Massachusetts to
+wait out the war. The reason I know this is because my great-great
+grandfather’s son Richard Galt drowned in the Sacramento River. He was twenty
+one years of age and they sent a telegram to New Bedford, Massachusetts
+informing his father of his son’s death. William Henry became a captain in the
+California State Militia stationed at Sutter’s Fort. In 1873, at a July fourth
+celebration, Governor Booth gave him an award for having one of the best
+military outfits in the state at that time. I found this information in the
+Sacramento Bee. My grandmother said that the Governor named Galt, California
+after him; however, in my research, I did not find this information. The records
+state that Galt was named after a poet.
+
+WILMOT: And you said that the white slave-owner sent his children to California.
+Do you know why?
+
+LEWIS: To escape the Civil War. And he didn’t want to send them overland
+because they might get caught and put in slavery because they were black, and he
+sent them by clipper ship.
+
+WILMOT: But he stayed with -- but the mom of the children stayed with him?
+
+LEWIS: The mom of the children stayed with him and his family and they went to
+New Bedford, Massachusetts until the Civil War was over.
+
+WILMOT: So were they together?
+
+LEWIS: That family, the Galt family, they were together, yes.
+
+WILMOT: That must have been very rare during those times for --
+
+LEWIS: I don’t know that it was rare because another part of my family was the
+Turner family and their white father also sent their black children to
+California at the same period of time, 1861. It is documented on our family’s
+web site. My cousin Mary Lou Patterson is a physician and lives in New York
+City. Her father was a well known attorney, William L. Patterson. He was one of
+the first blacks to graduate from Hastings Law School. He wrote a book, The Man
+Who Cried Genocide. Mr. Patterson and Paul Robeson, the famous opera singer,
+petitioned the United Nations General Assembly in Paris and charged the United
+States of America with genocide against black people. Mr. Patterson also worked
+on the Sacco and Vanzetti and the Scottsboro and Angela Davis cases. Mary Lou
+said that one day her father was at a speaking engagement in New Jersey and this
+Caucasian man came up to them and said, “You’re a relative of mine.” He
+was a member of the Galt family. Later he came to visit them in New York. We
+have never pursued looking for the Galts, but we know that they reside somewhere
+in Virginia because William Patterson’s mother who was William Galt’s
+daughter periodically traveled back to Virginia to visit and it was the Galts
+who paid for William Patterson’s college education.
+
+WILMOT: How did you know all this history? Did your mother and your father talk
+about it all the time? Or how did you learn --
+
+LEWIS: William L. Patterson, who’s now deceased, wrote a book, The Man Who
+Cried Genocide. In the preface of his book, he talks about his family. That’s
+originally how I learned about it. And when I was a student at Cal I met a Mr.
+Abajian. James Abajian. And I was talking to him. He says, “You know you have
+a very prominent family.” You have a big history. It’s part of my anthology
+about blacks in California. He gave me a lot of information about my family
+through census records. The 1900 census. My grandparents lived in Angel’s
+Camp. And Mary Patterson who was a barber -- she was married to some man and
+they lived in Battle Mountain, Nevada. So I got a lot of information from Mr.
+Abajian and then I did a lot of research myself. Mary Patterson and her husband
+sometimes gave Virginia as their place of birth.
+
+WILMOT: And when you were little, before you learned all this, was your family
+-- did you grow up with your grandmothers? Were they here?
+
+LEWIS: Yeah, I would like to say something. Even though my family originally
+came from Virginia, my immediate parents, we were not southerners. So we have a
+different perspective. Most things I hear southerners say, to me -- I don’t
+see the same. My parents, my father was a semi professional ballplayer in
+California. And so we were always involved in a lot of sports. And my
+grandmother lived in Berkeley on California Street. She was originally born on
+Minna Street, now an alley in San Francisco. And I think that Goldie said her
+parents lived on that same street, too. Nadine Byrd told me that. They all lived
+on the same street. When I was growing up, my grandmother lived in Berkeley. And
+at that time, we could ride down Highway 40, which is now Carson Boulevard in
+Richmond. We could ride our bicycles over to Berkeley to see my grandmother. And
+I loved to go to my grandmother’s because she made apple butter and she always
+had good things to eat. My uncle worked at -- well, now it’s Hostess Bakery,
+but it used to be Langendorf Bakery -- and he used to bring all the cakes and
+things over to my grandmother’s. And we all congregated at my grandmother’s
+all the time. I had a lot of aunts. My grandmother had 13 children. So we had a
+large family.
+
+WILMOT: And she was at California and --
+
+LEWIS: She was a Californian. Her mother was Annie Galt so she was the first
+generation of Galts born in San Francisco.
+
+WILMOT: And she lived on California Street, and what was the cross street?
+
+LEWIS: In Berkeley. Ward Street.
+
+WILMOT: Ward. So right in that area. Right next to that --
+
+LEWIS: Right across from a school, yeah.
+
+WILMOT: I know exactly where that is. Okay, and your grandmother’s name?
+
+LEWIS: Virginia Reid.
+
+WILMOT: Virginia Reid.
+
+LEWIS: She was originally a Parker. Her father Edward West Parker registered to
+vote on the first day the 15th Amendment to the constitution was enacted. He
+gave his occupation as a special boot maker and his place of birth as Virginia.
+Mr. Abajian gave me this information and also showed me where he voted. My
+grandmother used to talk about the San Francisco earthquake and fire and how all
+the people would come to her house -- She saw how the fire was burning, it
+turned the moon red, it looked like there was blood on the moon. She always told
+a lot of history. My father was sort of a historian. Someone recorded his
+history but I don’t know who he gave it to. But he talked about Berkeley when
+it was a small city and San Pablo Avenue was a dirt road.
+
+WILMOT: That’s how he remembered it. And your mother was from Barbados.
+
+LEWIS: Yes.
+
+WILMOT: How did she and your father get together?
+
+LEWIS: Oh, I think my father went to a party or something or a picnic and he met
+my mother. My mother, you have to know a little history of California. When I
+was a child, West Oakland was sort of like Sugar Hill, where the rich people
+moved out and more working-class families moved in, but not a lot of black
+people. A lot of immigrant people. Where we lived, there were Syrian people,
+Italian people, all different groups of people lived in West Oakland and they
+lived in these big old Victorian houses. We still have that Victorian house in
+our family. My sister now owns it. But it was really a nice neighborhood and
+people, my girlfriend Lala, her name was Elaine Chukovich, she was Russian. All
+different kinds of people lived there and it was really a nice neighborhood.
+
+WILMOT: Where was this house located, the house you grew up in?
+
+LEWIS: At 1926 Chestnut Street in Oakland.
+
+WILMOT: Okay, and that was West Oakland.
+
+LEWIS: Yeah, West Oakland. But West Oakland, even when we went down to Wood
+Street -- because I remember so many things. You know the lottery they now have,
+like Keno, what they play in Las Vegas and Reno, it started in Oakland.
+Originally, the Chinese had the Chinese lottery, because I remember they used to
+deliver it, throw it on your doorstep. And my mother would play it and she would
+take me, we’d go down to West Oakland and play the tickets. They call them
+tickets. And all those big beautiful homes, they tore them all down, they were
+just beautiful, beautiful homes. Oakland tore down so many beautiful homes until
+somebody said Stop, you’re tearing down really fabulous homes. They did. They
+tore down a lot. The Chinese moved their lottery to Reno, Nevada and opened
+gambling establishments. Before they moved to Reno, blacks were not allowed in
+the casinos. But it was really a nice neighborhood. We had several people who
+were West Indian people. We used to visit down in those areas. But mostly it was
+not an all black neighborhood. It was a mixed neighborhood.
+
+WILMOT: And so you grew up with people from all different backgrounds. Would you
+say that racism was an issue when you were growing up?
+
+LEWIS: It was very subtle. There was racism but it was not like it is in the
+south. I mean, we didn’t have that extreme racism. People all lived in mixed neighborhoods.
+
+WILMOT: Like say when you were an adolescent then, was interracial dating
+something that was accepted? I mean, could you -- I mean did you even want --
+did you want to have dates with white boys or --
+
+LEWIS: [chuckles] Well, funny thing about that is that we lived in this
+neighborhood where a lot of people who were black looked like they were white.
+And they used to go to work every day as white people and came home at night as
+black people. And I have a half-sister who’s passed for white for years. In
+fact she doesn’t speak to me. Although my grandmother used to say Ivy and
+Bertha look alike, only Bertha’s white and Ivy’s black. So I don’t
+remember, I know my aunts, both my aunts were married to Filipino men. And all
+of my uncles, my Uncle Vander was from British Guyana and my Uncle Robinson was
+from Jamaica and they were all chef cooks and so was my Uncle Gene -- he was
+Filipino, he was a chef cook. So I grew up around a lot of mixed people. So I
+never really noted -- and a lot of my family looked like Caucasians. So I
+didn’t have that problem. I mean, as seeing mixed couple didn’t -- I just
+took it for granted that’s the way people lived.
+
+WILMOT: But as an adolescent, when you were growing up, was that something --
+like in your social group were there mixed white and black couples?
+
+LEWIS: When I grew up in North Richmond, and I went to Peres School, until I was
+in the third or fourth grade I was the only black child in the class. I have a
+picture I can show you. There’s maybe seven black families in North Richmond,
+it was all Italian and Portuguese and all mixed groups of people, some Spanish
+people. So I played with all different groups of people. When I got older the
+whole city of Richmond changed because of World War II so I never saw -- I
+don’t think I ever saw any white people and black people together -- I mean as
+boyfriend and girlfriend. But my half-sister Bertha married a white man.
+
+WILMOT: As teenagers. I think I’m confused because on one hand I have you in
+West Oakland, and now I have you in North Richmond, so could you break down for
+me the chronology? Like, you grew up in West Oakland --
+
+LEWIS: I grew up in Oakland. My parents moved to Richmond when I was three years
+old, but I spent a lot of my time in Oakland. Summers and going to camp and
+going to DeFremery Park. My mother and father worked. So they didn’t leave us
+at home and when we were small in Richmond we always went to my grandmother’s
+or to my aunt’s in Oakland. My grandmother and my aunt, they didn’t want us
+to move to Richmond because my aunt considered herself to be a very socially
+prominent person and she had this huge beautiful home and she always gave these
+big parties and --
+
+WILMOT: Where was her home?
+
+LEWIS: On Chestnut Street.
+
+WILMOT: Same house?
+
+LEWIS: Same house. And Richmond was sort of a throwback, she said the people
+were ignorant there and there was no social life. In fact one of my aunts wanted
+my mother to take me to stay in school in Berkeley and not go to school in
+Richmond because they considered it a backward place. And we moved to Richmond.
+So we spent most of our time in Oakland. We were not involved. In fact, the
+first time my family was really -- my mother was a good swimmer and we always --
+when we lived in Oakland -- I don’t know where Depression Beach is, okay, I
+couldn’t tell you, but I assume it’s someplace down in the general vicinity
+of Jack London Square, some of that area down there, and my mother -- they
+always went down there. My mother was a good swimmer, and my father said my
+mother used to swim across the estuary all the time. So the estuary was from
+Oakland to Alameda, I think, and back. So when we came to Richmond, we lived in
+North Richmond, and at that time, Chevron had not blocked off the bay. The bay
+used to come into North Richmond and you could go swimming at a place down at
+the end of Vernon Street, they called the slough. So when we first moved to
+Richmond, Sunday morning we went swimming, and the people in the church talked
+about us. [laughs] They said these new people came and went swimming on Sunday
+and they thought that was terrible. So we never really fit in in Richmond when
+we first moved there. It was mostly southern black people and --
+
+WILMOT: They talked about you in church?
+
+LEWIS: Yeah, they said that --
+
+WILMOT: Which church was this?
+
+LEWIS: This was the Baptist church.
+
+WILMOT: Which one was it?
+
+LEWIS: And our neighbors told us about it. But then my mother became very
+popular because she was a good cook. And at that time, I remember the WPA and
+the Depression people. A lot of people didn’t have food, and my mother used to
+cook a big pot of food and feed people.
+
+WILMOT: Well, you said that your mom -- okay, so your mom was from Barbados. Now
+did she grow up in Barbados?
+
+LEWIS: Yes, she did.
+
+WILMOT: So how did your father find her?
+
+LEWIS: Well, he came down to Oakland to a party or something and he met my
+mother. Either they went -- I think they were in a park, like a picnic.
+
+WILMOT: So she was already here.
+
+LEWIS: She was already here.
+
+WILMOT: Is her family here?
+
+LEWIS: My aunt who I talk about, my Aunt Maude Robinson, who lived on Chestnut
+Street, my grandmother’s name was Ivy. And Ivy died and my mother was orphaned
+and when her father died -- my mother’s father was Caucasian -- and when he
+died, her sisters didn’t want to keep her because she was a half-sister of
+theirs. So a lady took my mother and kept her.
+
+WILMOT: These are white sisters or black sisters?
+
+LEWIS: They were white sisters. And when my mother grew up, this lady raised
+her. Her name was Aunt Liz. And then when she got to be about 12, I think, or
+13, Aunt Liz died. So she really didn’t have a family. And she had some
+cousins but they didn’t really pay her too much attention. And my aunt said
+she had a dream that Ivy came and asked her to send for my mother. So she did.
+And my mother came here when she was15 years old. And my mother was very a
+beautiful woman.
+
+WILMOT: Did she have an accent?
+
+LEWIS: Pardon me.
+
+WILMOT: Did she have an accent?
+
+LEWIS: Yes she did, yeah.
+
+WILMOT: What do you remember about your mother’s Caribbean culture? Her Bajian culture?
+
+LEWIS: She’s a Bajian.
+
+WILMOT: What do you remember about her culture? What did you learn from her
+about being Bajian?
+
+LEWIS: My mother was a really good cook and she used to cook a lot of West
+Indian food. In fact every Christmas I still make coconut bread. In Barbados
+they have it every day, but we only make it once a year. And she used to make
+cou cou and fish, she was very -- my mother was really a good person, she would
+give you her coat off her back, because she was an orphan, she always took in
+children -- people would come and leave their children at our house and my
+mother raised so many other people’s children. They would just drop them off
+and not come back and get them for a while.
+
+WILMOT: How many siblings that were hers, how many -- ?
+
+LEWIS: We had three children in our family. But my mother raised three more
+children from babies until they were about 12 or 15. And then, she had other
+people just leave their kids there, like, they worked and they’d leave them
+there all week, and she always had a houseful of kids.
+
+WILMOT: And your half-brothers and sisters, they were on your father’s side or
+your mother’s side?
+
+LEWIS: My half-brothers and sisters on my father -- my father was previously
+married and he had two children, Bertha and Donald.
+
+WILMOT: What a story. Well how did Ivy get here then? I think I may have missed that.
+
+LEWIS: Ivy didn’t come here. Ivy died -- my grandmother, Ivy, was from British
+Guyana and when my mother was five years old she went back to British Guyana and
+my mother never saw her again.
+
+WILMOT: So the woman who sent for your mom --
+
+LEWIS: Maude Robinson.
+
+WILMOT: And she was Auntie?
+
+LEWIS: Ivy’s sister.
+
+WILMOT: Auntie. How did Maude get here?
+
+LEWIS: They migrated from Barbados a long time ago. I think my Aunt Maude was a
+teenager when they came to the United States. Her mother and father migrated to
+California and brought my aunt with them. They had three children: my Aunt Maude
+and Uncle Vander and Ivy, my grandmother. I think my Uncle Vander came on his
+own. They left Ivy with her grandmother. Maude was born in Venezuela. Jules
+Vander and Ivy were born in British Guyana. My Uncle Vander spoke fluent
+Castilian Spanish I remember vaguely Maude’s father. I never knew her mother.
+But she was somewhat like my mother because she fed and took care of a lot of
+people. One of the people she cared for was a West Indian man who was a merchant
+seaman. Somehow he got into trouble and he jumped ship in Manila. He became one
+of the richest men in Manila. I remember when they came to visit my aunt they
+would have like ten taxi cabs with theirs luggage [laughs] and everything.
+During World War II when the Japanese invaded the Philippines, Mr. Pritchard and
+his son were captured and forced in the march in Corregidor. H sent his wife and
+younger children to California and they stayed with my aunt for a while.
+
+WILMOT: Okay, hold on one second. I’m doing some adjustments over here. [pause]
+
+LEWIS: So even though I lived in Richmond, a lot of my social life was in
+Oakland. [laughs] My family thought Richmond wasn’t too good.
+
+WILMOT: How did you get back and forth?
+
+LEWIS: You know what? I tell people that on Saturdays the Key system used to
+have free buses. You could ride free. Now they’re talking about this new
+system where you can ride free. This isn’t a new invention, because when I was
+a child, on Saturdays, you could get on the bus and go free to Oakland. Because
+everybody went to the -- was it the Seventh Street Market? Some market down there?
+
+WILMOT: Housewives’ Market?
+
+LEWIS: Housewives’ Market. But it wasn’t called the Housewives’ Market
+then. It was called Swan’s Market or something like that. We used to go to
+Swan’s Market too. Everybody did.
+
+WILMOT: It’s so beautiful hearing you talk about Oakland and hearing you talk
+about your childhood.
+
+LEWIS: Oakland was really beautiful. We lived near 16th Street so we used to go
+up and catch the streetcar and go. And downtown Oakland where City Hall is, they
+had a plaza with all beautiful flowers and gardens around it. I know now, the
+discrimination, I remember we went to camp. I don’t know where the camp was. I
+couldn’t tell you. But I went with the kids from DeFremery Park. It was mostly
+black kids in those days, but I remember it was a mixed group, because my friend
+Lala came also. And this was before World War II, or it might have been just
+almost at the beginning of World War II. We went to summer camp and when we came
+out, some girls were there from Piedmont, and they were all white and they
+started calling us names. I don’t know why [laughs] white people want to call
+black people names, I don’t know what we ever did to them, but they looked
+kind of silly.
+
+WILMOT: Did you smack them?
+
+LEWIS: No, I didn’t. No. I don’t know what their problem was but anyway, I
+didn’t have the same problem they did. But things like that, people calling
+you names. Once in a while that happened. I remember when I went to kindergarten
+in Richmond, one girl didn’t want to hold my hand because I was black. But I
+never had really a lot of problems -- I was really a popular kid with other children.
+
+WILMOT: So you were in North Richmond. Can you tell me the address of that place there?
+
+LEWIS: In North Richmond? When we first moved to North Richmond, we lived on
+Filbert Street and we rented from some Italian people, I can’t think of their
+name. But then we moved. When I lived in North Richmond, we lived all around
+Italian people. And I got used to eating dry salami with French bread, and they
+would always have that, and everybody sat around in the afternoon talking,
+eating French bread and salami and salad and drinking Dago red, they called it.
+[laughs] North Richmond was really a small community -- I lived in the city part
+of North Richmond most of my life, and it was paved but it was still county. It
+was not incorporated in those days. And but if you went past Chesley Avenue, it
+was nothing -- and I tell people that so many black historians have wrote about
+the cabbage patch; I didn’t see any cabbage patch in North Richmond. Mr. Longo
+-- when you went out First Creek, far as you could see there was lettuce. They
+grew iceberg lettuce. And over the Second Bridge. We used to call the different
+bridges First Bridge, Second Bridge, First Creek, Second Creek, which was the
+First Creek was the big creek, Second Creek was a smaller creek next to North
+Richmond. But if you went across there the Baronis had a farm. Now he probably
+had some cabbage, but he also grew a lot of vegetables at the Baroni farm. In
+North Richmond, there was a big family who lived out on Market Street called the
+Turners, and they were black. And there wasn’t too many more people -- the
+Marlbroughs and the Turners had the biggest families. And I remember Richard
+Granzella, I used to like Richard Granzella when I was three years old. He would
+come down the street. Richard and Nelson Carter. Nelson and Richard Granzella
+were really good friends. And they used to go down to the dumps and dig around
+there because people would go down and nobody owned the dumps at that time.
+People would just go down and dump their things and then Richard and Nelson used
+to go down and do salvage work. And then Richard became the owner of the
+Richmond garbage dump. [laughs] So it was interesting. I knew those people when.
+
+WILMOT: Did you know anyone named Alfred Granzella?
+
+LEWIS: Oh, I went to school with Alfred Granzella. Yeah, I went to Peres
+Elementary School. Yeah, we were in the same room, same grade together.
+
+WILMOT: Do you remember what he was like?
+
+LEWIS: Alfred was a good little kid. I remember he was short and I was taller. I
+knew all those people who lived north of 7th Street. Let’s see, there were the
+Banduccis, the Dell Simones, the Grandzellas and Angie Mapeli and Mary and Tony
+Uder. All the girls liked Tony -- he was good looking. Yeah, I knew all of those
+people. I went to school with them. Alfred was always a likeable kid.
+
+WILMOT: Okay, what did your parents do? What kind of work did your family do?
+What were your parents?
+
+LEWIS: We moved to Richmond because my father got a job at the Richmond Pullman
+Company sandblasting cars. My mother worked in the cannery and when the cannery
+wasn’t on, sometimes she did housework, but mostly she worked at Del Monte
+Cannery in Emeryville. There was a big cannery there. And all my aunts worked
+there too, Del Monte Cannery.
+
+WILMOT: Did anyone in your family go to college? Was your father or your mother
+a college graduate?
+
+LEWIS: No, my father finished high school, but my mother didn’t. My mother
+went, she said, as far -- in Barbados, you go to a certain grade and only if
+your family’s wealthy you can go further. But they all knew how to read and
+write and stuff like that, but they were not college graduates. My mother went
+to school later. I don’t know too much about my grandmother’s education. But
+all of my cousins and aunts were college graduates on both sides of the family.
+
+WILMOT: On your mother’s side or --
+
+LEWIS: On my father’s side. I never knew my mother’s mother. I never knew my
+grandparents on my mother’s side. I knew my grandfather on my father’s side
+died the same year I was born. But he came from Griffin, Georgia. And my cousin
+said there’s a dispute -- they have a story about a guy who was a bouncer.
+[chuckles] Well, my grandfather was a bouncer at Jim Corbett’s Saloon in San
+Francisco. And when they wrote a story -- they made a movie about that. My
+cousin says they didn’t write it right because her grandfather was the bouncer
+at Jim Corbett’s Saloon in San Francisco. But I didn’t know him but I just
+knew my grandmother. My grandfather came from Griffin, Georgia. His mother was
+half black and Seminole Indian and his father was white.
+
+WILMOT: You mentioned that in Oakland you lived in a neighborhood where there
+were many passing black people.
+
+LEWIS: I didn’t know that when I was a child but I figured it out when I got older.
+
+WILMOT: How did you figure it out?
+
+LEWIS: Well, I just figured it out that these people, they all looked like they
+were white, but they were not white. And they all worked in nice office jobs
+that blacks couldn’t get. So I just figured it out after I got older.
+
+WILMOT: So it was like a whole community.
+
+LEWIS: It wasn’t a whole community, but it was a lot of people who lived in
+the community.
+
+WILMOT: Was there language for that when you were young? Was there a language
+for oh so-and-so is passing? Was there a language for that behavior?
+
+LEWIS: Nobody I heard talk about it.
+
+WILMOT: And when you moved to Richmond were you in a similar community or --
+
+LEWIS: No, heavens, no. Richmond was more rural. When we moved to North Richmond
+it was the country, RFD.
+
+WILMOT: RFD.
+
+LEWIS: People had cows. My neighbors down the street, the parents were from
+Arkansas and they had cows and a windmill and they used to shoot possums and
+coons and eat them. [laughs] And one day, my girlfriend’s mother had a possum
+cooking, and she says, “I want to have a turkey for Thanksgiving just like
+Mrs. Reid cooks.” [laughs] Well, we always went over to see the possums and
+the coons. And they had chickens. And they taught me how to milk cows and how to
+churn butter. It was a different life. What the kids would do in the evenings --
+I was like the little devil -- they would go out and pull people’s corn. A lot
+of people grew corn, and they would go and get the corn and make a fire and
+roast it. And I would get in the window and go [makes siren sound] “Aaah!”
+like I was the fire department and the kids would start running. But anyway, my
+neighbor, Mrs. Delgadillo, she taught me how to speak Spanish because a lot of
+my friends were all Spanish and I would go over their houses all the time and
+help them do their housework and their parents would be talking to them in
+Spanish so I just sort of picked up on it. I’d go help Mrs. Delgadillo grind
+her corn and clean up the corn husks and put them in a sack and everything. And
+then they’d kill a hog and they would get a big copper kettle and put it over
+the fire in the backyard and make chicherones and tamales and all kind of stuff.
+I learned how to do all those things.
+
+WILMOT: Let me just adjust this for one second. Did you go to a place called the Plunge?
+
+LEWIS: We used to walk down the railroad tracks to the Plunge, down the Santa Fe
+tracks. Goes from North Richmond, you go straight to the plunge.
+
+WILMOT: Did you know about the group of Native Americans who were --
+
+LEWIS: Yeah. I have a picture -- I don’t have a picture of them, but my father
+used to play ball at the First Street Park, there used to be a big ballpark at
+First Street and McDonald. And then right down from the ballpark close to where
+Saint John’s Apartments -- there were some little grey concrete buildings. I
+think they were two like barracks. And that’s where the Indians lived. And
+then some of them lived over in the Santa Fe yards, also.
+
+WILMOT: Were there connections there socially? Did you connect with them? Or was
+it -- ?
+
+LEWIS: They went to school with me, but let me tell you about a situation I
+remember. At 16th and MacDonald, they had carnivals and they wouldn’t let the
+Indians come in.
+
+WILMOT: Did they let little black children come in?
+
+LEWIS: Yeah, but they wouldn’t let the Indians come in. One man came one day
+and I think he was drunk and I remember the man said that they’re not
+manageable when they get drunk, whatever. I was a little kid. I just -- my
+brother said -- my brother used to call me the Black Dispatch because I would
+listen to every conversation anybody had [laughs] and I knew everything, so I
+heard that man say that, that they were not manageable if they were drunk. So
+they put them out of the carnival.
+
+WILMOT: Were there Asian people in Richmond? Chinese, Japanese?
+
+LEWIS: Oh, I had a lot of Japanese friends in school. My brother used to work
+for Mr. Abbe.
+
+WILMOT: What’s your brother’s name?
+
+LEWIS: Charles. And my brother worked for Mr. Abbe at the nurseries.
+
+WILMOT: A-B-E-I?
+
+LEWIS: Mr. Abbe who owned the nurseries -- north of Wildcat Creek, he had all
+those greenhouses and grew long-stemmed roses. And there was a Japanese man next
+to him, too, who owned them and I think when he got interned, when they put them
+in internment camps, Mr. Abbe kept his place going for him. I read that story in
+the Reader’s Digest. But I didn’t know that at the time. But my brother
+worked for Mr. Abbe for a long time.
+
+WILMOT: So when you were in high school it was basically really your high school
+years that the war was going on, is that correct?
+
+LEWIS: No, the war started when I was ten years old. I went to junior high
+school, I didn’t finish school here, I moved to Los Angeles, so I went to
+school in Los Angeles. When I first -- I think it was in the fourth or fifth
+grade when I came to school, there was a lot of black children who moved here
+because of World War II. And everything start changing then in Richmond. It got
+to be more discriminatory -- my father used to go and cash his checks when he
+got off work. My father didn’t drink. But he used to shine shoes in downtown
+Richmond with a guy called Ollie Freeman. He played blues and he was a local
+disk jockey but he had a really nice shoeshine parlor. And people would come in
+and my father worked there on Saturdays. Yeah, I think he only worked on
+Saturdays. When he got off work, he would go and cash his check at 16th and
+MacDonald. One of the local city councilmen, [Gay Vargus], he owned a bar, and
+he asked my father not to come anymore because he said he didn’t want black
+people to think that they could all come in there. He didn’t mind my father
+coming, but he didn’t want this to be a black bar. So that’s the only thing
+I knew about. Other than that, I never had any problem. But the white people who
+came -- they caused more discrimination. I remember once when I was about 16 I
+think I went to the skating rink in Oakland. And this white kid said to me,
+“You’re supposed to come on Thursday nights.” I said, “I can come on any
+night I want to come, and I’m coming here and you can’t tell me when I --
+.” “Well, the black people -- ” they called them colored people --
+“usually come on Thursday nights.” I said, “Too bad.” And I didn’t
+learn till after I was grown and I went to the south, if they had like when the
+state fair was on or something, the black people only came on Thursday nights or
+they came on that day, Thursday, was the day for black people. So they were
+trying to institute their own thing. This happened after the war. And I remember
+when I was in junior high school, a lot of the people pet</transcript><transcript_alt></transcript_alt><rights></rights><fmt>video</fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

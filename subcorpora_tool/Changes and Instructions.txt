@@ -1,0 +1,36 @@
+Main Changes
+
+- Changed the way metadata is processed.
+	-Formerly, the script took as input a single file containing metadata on each transcript. In this file, each transcript's metadata would be copied for each of its interviewees.
+	-Now, metadata is separated between an interviews file and an interviewees file. The script then references both.
+
+- Replaced the "--metadata" argument with two "--interviews" and "--interviewees" arguments, which specify CSV files with metadata for interviews and interviewees, respectively. If not entered, the arguments default to "interviews.csv" and "interviewees.csv"
+
+-Commented out the "get_top_words()" function because: The data it produces has not proven particularly useful, its results only change when changes are made to the corpus so it only needs to be run once per corpus, and it takes an extremely long time to run.
+
+-Saves transcripts with keywords in subdirectories based on their collection ids.
+	-For instance, if supplying the "cluster_assault.txt" keyword file and the "All-Transcripts" directory, each transcript with a keyword hit will be saved under a "_cluster_assault" directory sorted into subdirectories named "[transcript_collection_id]", and a second time in an "All-Transcripts" subdirectory.
+
+-Produces a csv file with one row for each keyword hit, containing metadata according to NMS's specification.
+
+
+
+Instructions
+
+1. Place the following in the same directory: the script "find_subcorpora_v8.py", the .csv files "interviews.csv" and "interviewees.csv", and your keyword list "[your_list_name].txt"
+
+2. [Recommended] Place a folder containing your transcripts in this directory.
+
+3. In your terminal, navigate to the directory containing your script and other files.
+
+4. Type the following command without quotations: "python find_subcorpora_v8.py -w [your_list_name].txt -d [your_transcript_directory]/ -i [your_interview_metadata].csv -v [your_interviewees_metadata].csv"
+(Note: If you named your .csv files according to instruction 1, the final two arguments can be omitted.)
+
+5. Allow the script time to run.
+
+6. After the script has finished, if keywords were found, the following should be generated in the directory of the script:
+	-an .html file named "_[your_list_name]_report.html"
+	-a .csv file named "_[your_list_name]_new_metadata.csv" which contains information about each specific keyword hit
+	-four other .csv keyword reports
+	-a directory named "_[your_list_name]" containing all transcripts containing keyword hits, sorted into subdirectories by collection id
+	-within the above directory, there will also be a subdirectory named "[your_transcript_directory]" containing another copy of all transcripts with keyword hits

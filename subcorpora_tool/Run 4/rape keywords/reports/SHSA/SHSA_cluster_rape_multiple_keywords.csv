@@ -1,0 +1,23 @@
+word_1,word_2,count
+rape,raped,2
+rape,rapes,2
+rape,sex* abuse,2
+rape,sex* violence,2
+fondling,rape,2
+fondled,rape,2
+raped,rapes,2
+raped,sex* abuse,2
+raped,sex* violence,2
+fondling,raped,2
+fondled,raped,2
+rapes,sex* abuse,2
+rapes,sex* violence,2
+fondling,rapes,2
+fondled,rapes,2
+sex* abuse,sex* violence,2
+fondling,sex* abuse,2
+fondled,sex* abuse,2
+fondling,sex* violence,2
+fondled,sex* violence,2
+fondled,fondling,2
+rape,raping,2

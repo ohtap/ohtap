@@ -1,0 +1,3231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042462" dt="2018-08-15"><version>5.1</version><date value="2002-04-05" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Mary Hall Prout Interview 1: Rosie the Riveter World War II American Home Front Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Mary Hall Prout</interviewee><interviewer>Ben Bicais </interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>BICAIS: I&#039;d like to start off asking you about your early life. Where were you born?
+
+PROUT: I was born in San Francisco. I lived with my parents and my sister. I was
+seventeen months older than my sister. She is still alive. I went to Catholic
+schools in high school and grammar school. My father was in the small-town
+newspaper business and we moved around a lot. I was actually born in San
+Francisco, and then my folks lived in Sacramento Valley. My mother came down to
+have me because she used to be a nurse, and she knew a doctor in San Francisco
+that she felt very secure with. So then she went back to the Sacramento Valley.
+My dad had a newspaper, and he was a very creative man. So then finally he
+started the Gilroy Dispatch, to Watsonville, Morning Sun News and then to Petaluma.
+
+When we were in Petaluma I went to San Jose State University. I received my BA
+in education and psychology. After that, I wasn&#039;t sure what I wanted to do. I
+had a credential and could teach, but that didn&#039;t appeal to me very much. I went
+over to Dominican College to see my sister, and there was a lady there that said
+they were hiring in Richmond. This was in 1944. She said they needed teachers
+because they were starting a large child-development program. They used to call
+it &quot;child-care centers.&quot; We eventually got the &quot;care&quot; out and the State
+Department of Education called it &quot;children&#039;s centers.&quot; We just didn&#039;t want to
+be labeled as a welfare program. It was an educational program. I went over to
+Richmond, and they needed teachers so badly that they just hired you. I became a
+teacher, and the program was financed by the federal government because Richmond
+had the shipyards and all the parents worked in the shipyards. The children
+needed care; they needed a preschool program. The program started in 1943, and I
+got into it in 1944. We had about twenty to twenty-two centers--I&#039;m not entirely
+sure about this. Richmond was lucky because it didn&#039;t have any old school
+buildings to place the children. The Lanham Act was developed by Congress, and
+there was money for regular nursery school buildings. They built them in
+Richmond and we had a beautiful physical set up.
+
+BICAIS: So all of the buildings in Richmond were brand new?
+
+PROUT: All brand new, and people came by bus from all over California and all
+over the United States to see these buildings. They were the first early
+childhood centers that were really developed on a large scale. They had the
+classrooms, and they had the little bathrooms attached to them and lots of
+windows to look out. It was a beautiful setup. Going back, the federal
+government financed the program, and the school district administered it. It was
+really all over California. Los Angeles, Oakland and San Francisco all had them.
+They also had them in Oregon and Washington, but in these states, they closed
+them after the war was over. In our case, they kept them open. We had about
+twenty-two centers, and we had one center that was open twenty-four hours.
+Little children would come because their parents were on swing shift or
+graveyard shift. The children whose parents were on graveyard shift would come
+in their pajamas, and they would sleep. We provided the swing-shift children
+with dinner, and the other little children would have breakfast to enhance their
+nutritional needs. We had daytime students and swing shift and graveyard. That
+was just in one center.
+
+They had big staffs. They had a director and they had a nutritionist; the food
+was excellent and well prepared. We had a kitchen in each site. These ladies
+were very conscientious. They were all ladies that had had children, and the
+food had to be perfect for the center&#039;s children. The parents appreciated this a
+lot. At night, they could go home and maybe just give the children a glass of
+milk and maybe some soup. They were all so busy; many of the men were overseas.
+There was a lot of trauma connected with the times. The federal government had a
+fee schedule. For one child it would be $3.60 for the next $2.75.
+
+BICAIS: It was very affordable then?
+
+PROUT: Yes, definitely. The teachers were not simply aides; they knew a lot
+about child development. Our first director was a real educator. She didn&#039;t want
+any part of welfare. She just didn&#039;t want the program to have that stigma. It
+was really wonderful; she hired only credentialed teachers. They knew about
+early childhood. When a child painted something, they knew what it meant. The
+curriculum had science and art, all kinds of cognitive material and language
+development. The children really learned how to read. Later on, when the program
+was a little bit different, all the kindergarten teachers wanted our children
+because they had had such an advanced background. The program was excellent.
+
+The federal government pulled out after the war. I think it was in 1945 or 1946.
+We had a hard time getting finances. The field was new, and people thought that
+women should not be working. People had to work to be eligible for the program.
+We had ways of verifying this. The state of California took over, the childhood
+development office. Unfortunately, they never gave us enough money. At first, we
+had ample funding. It was based on--grants through the state--on the number of
+children you had, so much per child. We also had a full-cost fee, and teachers
+and nurses children could participate in the program. The real cost was picked
+up by the school district. The government wasn&#039;t paying anything for them; they
+were paying themselves. We had an override tax that paid the rest of it. It was
+all done on a means basis according to your income. When the men began coming
+home, they took advantage of the GI Bill, which was probably the most wonderful
+thing that ever came out of the war. Many of these men would not have gotten an
+education without it. The state of California would give us money for just a
+year at a time. It was really rough budgeting.
+
+We were administered by the school district; we were all hired by them. Our
+salaries were set by them. By that time, we had closed some of the centers
+because we didn&#039;t need them. They were scattered all over Richmond which was wonderful.
+
+We had an art supervisor, a music supervisor; the children received every form
+of education. We did a lot of parent education. These were young parents who
+needed help. Very cooperative. We had a PTA group and had good speakers come.
+The centers stayed open from 6:00 in the morning to 6:15 in the evening.
+Sometimes it was a little hard to schedule, but we maintained good ratios. We
+had a fine medical program. We had a part-time doctor on our staff. When the
+parent first brought the child in, Dr. Albert would give them a physical exam.
+Six months later he would give them a recheck. We did a lot healthwise. We kept
+track of all the immunizations, which some of the parents didn&#039;t. By the time
+the children got to kindergarten, we had the whole record so we could just turn
+it over to the schools. We didn&#039;t have to depend on the parents finding all
+these pieces of paper. We had access to any special education in the district.
+We had a psychiatrist that we could refer the parents to if we had a child that
+had really deep problems. We had a dental hygienist and a full-time nurse at
+each site. We had to cut this down gradually.
+
+We opened two brand new centers. One was in the San Pablo area. There was a
+wonderful minister that realized the need for one there. He talked to the school
+district that talked to Sacramento. They put a beautiful portable set-up there.
+It was made especially for this program. It had classrooms and isolation room
+for ill children. They had a long hall going down the middle and bathrooms
+attached to each one. We had school age children before and after school. You
+should have seen the boys; they were so cute. They learned to knit, and they
+didn&#039;t think anything of it. They learned all this art. Some of them were really
+very good. It was all their work. We didn&#039;t use any cutouts or anything. They
+could recognize their own painting. We had art appreciation. They learned so
+much about the Impressionists.
+
+BICAIS: Something everyone should know about.
+
+PROUT: Absolutely. There was this one little girl who looked just like a girl in
+a Van Gogh painting. I called her mother&#039;s attention to it. We had nice outdoor
+equipment for physical development. The San Pablo center was full before we
+opened it; we had such a waiting list. We had about 100 children there. It was
+so intimate; everyone knew everybody else. It gave the children a great deal of
+security. So many people say, &quot;Oh, child care; you&#039;re taking them away from
+their parents,&quot; but you&#039;re giving them so much.&quot; When you have more adults. We
+opened the Lake Center in San Pablo in the sixties. In the seventies HUD came
+into the act. The city of Richmond received HUD money.
+
+BICAIS: HUD was what exactly?
+
+PROUT: HUD was the housing development of the federal government. The city
+received the money, and then they knew that we were the only ones that knew
+about childhood development. They came to us and asked us to develop a program
+and to see that the right equipment was bought: &quot;We will pay for the equipment.&quot;
+The HUD money paid for the equipment. It was the most beautiful center. We had a
+young architect working on it. I was director of the program. My assistant and I
+had to plan it under the direction of this architect. Every day when the child
+would come in, we had an inspection, because we wouldn&#039;t take a sick child. The
+architect planned the most beautiful center from the ground up. It was an ideal center.
+
+BICAIS: It was federally funded, you said?
+
+PROUT: The city had the HUD money to erect the building, and then the school
+district bought all the equipment, the beds, instructional supplies, et cetera.
+It was a wonderful cohesive interaction between these two big departments. More
+of this should have gone on. I was a teacher for eight months.
+
+Then I thought I should do something else. Instead of principals, we had head
+teachers. I went to my boss who had valuable experience. She had worked in the
+WPA and did a lot of things before she took over the job as the director of this
+big program during the war. It became smaller, but at one time it was massive.
+We had thousands of children, and she really knew what she was doing. I went to
+her and told her I thought I was going to quit because this wasn&#039;t for me. She
+said, &quot;Yes it is. I want to make you a head teacher.&quot; This instilled so much
+confidence in me. I was twenty-three years old at the time. I said, &quot;I don&#039;t
+know how to be a head teacher.&quot; She said, &quot;You can learn&quot;. And I learned! I went
+to two of the big centers as assistant head teacher and then to a couple of
+smaller centers as head teacher. When our director retired, I took her job as
+director of the whole program. It was long lifetime career of about forty-two
+years. It was so rewarding. For a long time we made it on our own with the state
+money. However, it got to the point where costs were too high. We paid excellent
+salary. We had to skimp a lot. The district began to give us money, but that
+stopped after a while because they needed that money. The program was closed in
+1990. I retired in 1985. They let the county take the grant over from the state.
+I had been retired for three years, and they asked me to come back to help
+settle the books. It really made me sick. The county had a poor program. They
+were just using the grant money, and you just couldn&#039;t do that and have an
+excellent program. It&#039;s still going that way. It really hurt us when we had to
+close it.
+
+BICAIS: So it still exists to this day, only the county runs it?
+
+PROUT: It&#039;s not the same program at all. Many of our staff received jobs there.
+Some of our custodial and classified staff. They tell me it&#039;s just terrible.
+They don&#039;t have the standards that we had. They said if I were there it wouldn&#039;t
+have happened, but it would have. It was dollars and cents. The district was
+giving quite a bit of money, but they got to the point where they couldn&#039;t
+afford it. It was just sad. I was there the last day. The new people didn&#039;t know
+what they were doing, they criticized our program. The school administration
+offered help, but they didn&#039;t accept it. It was the people involved. We had a
+strange book-keeping system that was highly audited. Thank God we never made a
+mistake. No gross errors. Our teachers kept attendance books. We started to call
+them the Bible because they were audited so heavily. We received money on daily
+attendance. It had to all be right. Each one of those hours were dollars. I got
+paranoid over it. We had auditors, federal, state and local. We had certain
+eligibility requirements for parents. The parent would give us verifications of
+his employment. We would have a big file that we placed all this information.
+Auditors would check. They would check the number of days they were there. We
+knew the rules and we abided by them. Some places had a hard time. People
+interpreted it incorrectly.
+
+We had a great staff. Our nutrition program consisted of breakfast in the
+morning. We had lovely nutrition program. We taught the children nice manners,
+how to use a napkin. The three-year olds were in a classroom by themselves with
+maybe two or three teachers and aides. Some would come at 6:00, 7:00 or 8:00.
+Breakfast was served at 7:30, and it was brought from the kitchen on carts into
+the classroom. They would set up a little cluster of tables, and the teacher
+would sit down and eat with them. It was lovely. She would serve them and
+correct their manners.
+
+I know that a great deal of children benefited from the program. So many parents
+were working so hard that I don&#039;t think that they ever sat down and had a nice
+meal. I just don&#039;t think that they had the time. That worked out well. We also
+had a well-balanced dinner that was served in the various classrooms from 11:00
+to 12:30. That was set up the same way. Then the little ones had a nap for about
+two hours. We would bring the beds in and put them down in the classroom. Each
+child had his own bed. Nice clean sheets at all times. It was a Cadillac program.
+
+BICAIS: It sounds like a very all-inclusive program.
+
+PROUT: Oh, it was really. And then in the afternoon we would get up and have a
+little snack. We would have milk, and there would be fruit wedges and sandwiches
+so they would have a little bit more to eat before they went home.
+
+Let&#039;s see. We had school-age children before and after school, and it was
+wonderful. The little kindergarten children would go to the adjoining school
+from the center. Each center had a different public school because they were
+located all over Richmond. We got to know the teachers, they got to know us, and
+they depended on us a lot to make sure that notes to the parents got home. And
+then the children could do their homework. And then in the summer we had a
+wonderful program. We would hire buses and take them all over, you know, to
+Sausalito where they have the Model of the Bay that the US engineers put up. And
+the children got so much out of it. And then we would take them to the zoo.
+Thank God we never lost anybody. We could&#039;ve but we didn&#039;t.
+
+But the school-age program was a big success so that children would come back to
+us for the hot lunch. Because the school was very close. They would walk back
+and then go to school in the afternoon. They would get nutrition and then come
+back and do all kinds of activities. We even had a tea one time. We had an
+elderly teacher; she was great. She really knew children. And she decided to
+bring some of her nice little cups, her china cups. And the boys were even
+involved in it. They loved it! And they would have tea in the pretty cups; it
+was really a learning situation.
+
+BICAIS: One of the things--you said something about, just kind of when the
+program went from not being federally funded anymore, after the war. I was
+wondering, this could be a stretch, but do you think this was in anyway kind of
+indicative--you talked a little bit about how you did a lot to avoid the stigma
+of the program being welfare. Do you think that was--?
+
+PROUT: No, I don&#039;t think that had anything to do with it. I think that--see,
+they called them child care centers. And once the war was over we still had that
+name, and we didn&#039;t want it. So we had to go to the legislature and ask them to
+change it. Just as we changed them to children&#039;s centers the big boom in the
+federal government in day care came out. We didn&#039;t like when it happened. We had
+a big compliance bureau in Sacramento. They examined us from head to toe. We
+always had some consultant coming up. Nutrition or education. They only had one
+big department that could come and evaluate the physical setup. We had to have a
+certain amount of square footage per child. We had more rules than the public
+schools, I think. Because every department gave us rules. [laughs] But anyway,
+then our name was changed to children&#039;s centers. So that denoted education.
+
+That stayed all the time until I retired. Let&#039;s see, how&#039;d it go? This big
+department in Sacramento was under social welfare, and it was the compliance if
+they saw a teacher that was cross-eyed or something, they&#039;d report it. They were
+just terrible.
+
+Our whole division, which was a big division because it included all these other
+towns, they fought so hard not to be put under this compliance. We wanted one of
+our own. But they had one, and it was already established. Some of our head
+teachers had terrible times with them. They would assume something had happened.
+Like we had one big black aide, and he was a wonderful fellow, but he dressed a
+little peculiarly, you know, and they found one child that had been abused. Once
+we found a child that had been abused we had to report it to the police, you
+know. And call the parents in. That was within the last fifteen years that that
+law was passed. Well, they were going to accuse this man of doing it. I knew he
+hadn&#039;t done it. He was a wonderful young man; he had a marvelous report. But
+this woman was writing him up, so we had to go to the headquarters and say,
+&quot;She&#039;s not doing it right.&quot; But they were very picky. And then of course we had
+the child development office. We had to write a program each year, which was
+wonderful, telling them what we did, what we did in science and why we did it.
+The reasons for it and everything.
+
+And one time we had something funny happen. This was a developing program, so a
+lot of things happened, and they are still happening that way. I was directly
+under an assistant superintendent in the Richmond schools. They had special
+education, and our program was placed under special education. We were writing
+this brochure. And language development beginning to develop. Dr. Ricklin said
+to me, &quot;What do you do?&quot; I said, &quot;We assimilate the children&quot;--I was just
+guessing--&quot;and these little children from Vietnam don&#039;t know the English
+language, and they come in here, and they are so smart that they learn it like
+that.&quot; And he looks at me and says, &quot;Well that sounds pretty good.&quot; And then
+about two years later he came in, and some woman at Texas University had written
+a paper on assimilation for language development! [laughs] And we laughed
+together, we said, &quot;We were guessing about that.&quot; I&#039;m not taking credit or
+anything, but it was just funny- the incident. And he laughed, and he was very supportive.
+
+We had union problems. We had aides that had been kind of used as teachers a
+little bit but weren&#039;t paid as teachers. Our former director was saving money to
+hire them. Well once the aides realized that was happening, we went to
+arbitration and won. We should have won. Because it was a little unjust. And we
+had a good program for school-age children: if something was wrong with one
+child, we could go through the schools and have counseling, and we had many
+support systems. Then, as I was leaving, the program was declining because the
+district didn&#039;t have the money for counselors. They had maybe one for four
+thousand children. They are beginning to realize now that early diagnosis is so
+important and to get the parent involved.
+
+I feel we did a lot for the children, a lot for the parents. Some of the parents
+were very young, and they needed to know how to treat their children. They loved
+their children. Like one man who was a huge man--and he was a nice man--his wife
+had died. But he had two little girls. When he spanked them his big hand would
+almost destroy their muscle development. So I had to call him in one day, and I
+said, &quot;You know, I&#039;m not being critical of you; I know you&#039;re a good parent,&quot;
+because he used to hem up his little daughter&#039;s dresses--he was just nice--but I
+said, &quot;You&#039;ve got to stop spanking the children because there&#039;s going to be no
+muscle tissue left.&quot;
+
+BICAIS: He didn&#039;t realize how strong he was.
+
+PROUT: He really didn&#039;t, and he said, &quot;I don&#039;t realize how strong I am.&quot; One
+blow from him would&#039;ve sent the child careening over. So we could intercede and
+help the parent.
+
+BICAIS: It seems like there were a lot of young families around at the time.
+
+PROUT: Oh, yes.
+
+BICAIS: Maybe kind of inexperienced with child raising and whatnot. I&#039;ve read a
+little bit about just the Bay Area in general at the time, and it seems like it
+was a mass exodus to the Richmond and Oakland area. Richmond went from like
+25,000 to 100,000 in a few years.
+
+PROUT: You know what? During the war the kindergarten teacher would have 100
+students in one class. She could barely take them out to the bathroom and count
+them. It was just a huge job. A lot of fine teachers. They were really
+dedicated, and they did the best with the facilities that they had. But there
+was something else--but the school district really didn&#039;t like us, we were a
+burden to them. Because they had the K-12, and they were having problems with
+them. This was just an added program. But little by little they realized what we
+were doing. By the time I was director there was much more understanding of the
+goals and objectives of the program. Our first director would come back with
+tears in her eyes sometimes.
+
+BICAIS: The program was based solely on need, right?
+
+PROUT: It wasn&#039;t for everybody. That&#039;s a good point.
+
+BICAIS: So it was a relatively small percentage of the kids so they just saw you
+guys as almost a nuisance.
+
+PROUT: Yes, and we had different guidelines that they had to work on you know.
+But then, when I took over, it was getting better. It was about twenty years
+after the program had started. Dr. Griffin was wonderful; he was assistant
+superintendent in charge of special education. He was very supportive of the
+program. Anytime we had to go in front of the union--the union became very
+impractical--he helped us. We had just so much money in our budget we couldn&#039;t
+spend anymore.
+
+BICAIS: This is the teachers union?
+
+PROUT: No, this is the classified union and teachers both; all our teachers were
+under this. And we had a bad time with them. Then finally they began liking us a
+little bit. Realizing that we were doing something for the benefit of the
+children. But we had one teacher who was always reporting me. Always reporting
+me for some little dumb thing, you know? And, so the union leader and I got to
+be good friends. And he says to me, &quot;Mary, get her off my back.&quot; So we all
+realized that we had to work together. But when they wanted more money, one time
+Dr. Griffin said, &quot;You&#039;re going to have to give it to them.&quot; And I said, &quot;If you
+can find any extra money in the budget we will give it to the employees.&quot;
+
+BICAIS: That was the school board?
+
+PROUT: No, we had a teacher&#039;s union, and a classified union. The classified one
+is for people who did everything but teach. They became very active in the
+district. One of the superintendents--he was very fair, he was a fine man and he
+could see some of the injustices in education and tried to counteract them. And
+so he didn&#039;t do it; he let the unions in. They were going to get in anyway; they
+had a powerful man at the head. Part of it was good, and part of it wasn&#039;t so
+good. There always benefits and tradeoffs.
+
+What else can I tell you about the children? Oh I know! In 1962 remember when
+Kennedy died, and they were enacting the civil rights legislation?
+
+BICAIS: Sure.
+
+PROUT: Welfare on the federal level was going to give us money for the children.
+So we had to take for a while people that were on welfare but they were going to
+school or ill. And they had to be doing something, and they had welfare grants.
+And then many of them--I admired some of the girls; they were marvelous. Some of
+these black girls wanted babies, so they&#039;d have a baby out of wedlock, wouldn&#039;t
+finish high school, and then go to community college and get their degrees from
+community college and get good jobs. But they wouldn&#039;t give them enough; it
+would be an entry-level job. So there wouldn&#039;t be enough money; the grant was
+better than the money from the job.
+
+So we encouraged them to give them a supplement, and welfare did. The supplement
+lasted for about three years. And it was the only way to get them off welfare. I
+don&#039;t know why the federal government hadn&#039;t figured that out. But one of the
+girls--one time a fee schedule went very high. See, the state had a fee schedule
+that was based upon the income plus the welfare they got. And the fee schedule
+was raised so high throughout the state of California. We knew these girls would
+go back on welfare. So they had a welfare referee come to each school district,
+and I had to represent the school district and just say that we were doing what
+the law said. But we didn&#039;t believe in the law. And these girls came and
+testified, and they showed us their budgets and everything. Oh, they were
+wonderful. I couldn&#039;t have made a budget like they did. And they were trying so
+hard to get off welfare. So the referee said to me, &quot;You&#039;re really for these
+girls aren&#039;t you?&quot; And I said, &quot;Yes, I am because they are trying to improve
+their status instead of going back 100 percent on welfare.&quot; All the people in my
+position throughout the state said the same thing. So they changed it. And it
+was so good because then it was realistic to say that they could have a little
+welfare and have a job and do well.
+
+BICAIS: And then the welfare didn&#039;t last that long.
+
+PROUT: And social workers were telling them how to spend their money. These were
+smart girls. They led their lives the way they could and budgeted. But we had
+some parents that were really mad; one parent was cheating on it, I knew. She
+didn&#039;t put down her welfare grant. So we had to go in front of a group, a
+welfare group. And somebody said, &quot;You know, she&#039;s going to kill you.&quot; And I
+said, &quot;No, she won&#039;t kill me.&quot; But she followed me down to the welfare office,
+and I had all the papers in my hand to prove that she hadn&#039;t paid. I don&#039;t think
+she would&#039;ve killed me, but who knows.
+
+BICAIS: That&#039;s scary.
+
+PROUT: They could get pretty volatile. But you know what has happened here in
+California which is so wonderful? You know, when Dr. [Wilson] Riles was
+Superintendent of Public Instruction for all education he started a pre-school
+program. And that was for underprivileged mothers whose children needed that
+type of education. Now that program is going 100 percent. In Richmond one of my
+friends that was in our program became the director. Her name is Sharon
+Fogelson. She is operating a beautiful program. She&#039;s gotten all kinds of grants
+outside the government program. And she has twenty-eight classrooms. She&#039;s going
+to be retiring in a year. I think she knows right now, more about early
+childhood development than anybody. She&#039;s just marvelous. I&#039;m so proud of her
+because she had been a head teacher in our program. And she&#039;s just very
+dependable. Very, very good. But she received funding for I think four new
+programs this year. And then there are a lot of grants coming through to the
+Richmond schools, and she&#039;s getting a great deal of them. And then she can
+improve her program and give orientation.
+
+Oh, that something else we did. We had all kinds of orientation for our
+teachers. You know, you can get a credential and know a lot about specific
+programs their goals, and objectives have to be explained and how you relate to
+those goals and objectives. That helped us a lot. Many of them were elementary
+teachers who had not had too much preschool education.
+
+BICAIS: In your previous interview, you talked something about how the school
+district ate up the buildings after your program was finished, or something
+along those lines?
+
+PROUT: Yes, well a lot of the buildings were torn down. A few of them were
+temporary. Now Lake [center], the one that I told you about that was the
+portable setup? That&#039;s still going, and the county has that. And Crescent Park,
+the one that was brand new--but the county didn&#039;t keep up those buildings. They
+look terrible. And we were so fussy about that. Of course they are examined just
+the way we were. I don&#039;t know how they get by with it.
+
+Then we had the two big programs, one was Pullman and one was Maritime, and
+these buildings could hold 180 children. They had about eight classrooms and big
+kitchens; all of them had kitchens, but some of the centers were a little bit
+smaller. We ended up--probably when I left, oh, we had to whittle it down a
+little bit. We ended up with probably--do you remember reading that?
+
+BICAIS: No. I didn&#039;t see it.
+
+PROUT: I&#039;m probably going to tell you too many, but there were probably about
+450 children in the late eighties and nineties.
+
+BICAIS: And there were thousands at one point?
+
+PROUT: Oh yeah, it was just huge. You know, because we had all of those centers.
+I threw away a lot of things when I left. We had a wonderful brochure. But I
+thought I&#039;d never use that. I should have saved it. It was a happy program. Even
+the housekeepers were concerned about the children. They did the custodial work.
+
+BICAIS: It sounds like an ideal program.
+
+PROUT: Very idealistic. That&#039;s put very well. Yes it was. Our first director set
+the goals and objectives for the whole program, and she had such high standards.
+Her name was Erla Boucher.
+
+BICAIS: And she was the mastermind behind it?
+
+PROUT: Oh, she was the mastermind behind it, and then I just continued it
+because I realized what she had done was just right. And all of our teachers
+would get mad at her because she was the last of the authoritative
+administrators. She said, &quot;Do this, do that.&quot; And they did it. And then when I
+took over, I really did both setups. I believed that the teacher should have
+their say.
+
+And we had an arts supervisor that was excellent. I&#039;d love to have that brochure
+too. She had a brochure that showed how you would set up various art displays
+and art activities. She did so many wonderful things and set it up so well for
+the children. We had easels, and then she would take a long strip of paper, and
+cans would have different colors of paint, and she would put a circle here and
+the color. That was identifying the color. Everything was educational. It was
+excellent programming. We had many of teachers on various committees that the
+district had--they learned. That last year that I was here I would haul great
+big cartons of food to each center so we wouldn&#039;t have to call a truck driver.
+We really just stretched everything and we couldn&#039;t stretch it forever. We just couldn&#039;t.
+
+BICAIS: So it just slowly got smaller and smaller? You slowly lost funding?
+
+PROUT: Well, it got the same amount of funding, but expenses rose. Salaries went
+up, which they should have. And everything was more expensive, so that&#039;s what
+happened. It&#039;s a shame when I see all this information that President Bush is
+putting out about the Head Start Program. It&#039;s a federal program, and I know
+it&#039;s a lot better than it used to be; I shouldn&#039;t be criticizing it, but it was
+a poor program. And lately in the paper, he said that some of this money is
+going to--he did mention child development, which is good, but most of it is
+going to go to that Head Start Program. And I&#039;m sure it&#039;s better than it was.
+
+End Tape 1, Side 1
+
+PROUT: When this federal money came into Richmond and they had all these
+home--little programs, where maybe a lady would take care of twenty children.
+They were little centers. And we had some wonderful people. A lot of people
+didn&#039;t want advice. But a lot of people said, &quot;You&#039;ve been doing this for so
+long; what kind of toys should I buy, what should I do?&quot; And we had this one
+lady, Roberta Griffin. She was great. She really listened to us, and she had a
+great program, but it was a federally funded program. It had nothing to do with
+the school district. She did well. But some of them--a lot of money was wasted,
+it made you sick.
+
+BICAIS: Just on--
+
+PROUT: Well, on equipment. If they just listened to us and bought the minimum
+amount, it would have been great. Equipment that pre-school children shouldn&#039;t
+have. Developmentally they weren&#039;t ready for the task of heading a program of
+this kind. And that was sad. I think we should have gotten some of that money.
+We got some of it because we got to the point where we only took welfare
+children, because the money was out there. We had to go over our books and find
+out how many children were on welfare. I remember this assistant of mine, we
+were pounding it out on the adding machine, and she says, &quot;I&#039;m tired&quot;, and I
+say, &quot;Listen, this means money, and we&#039;ve got to do it!&quot; So anyway, we received
+money for quite a while. Then the federal government pulled out, and it was just
+the state funding.
+
+BICAIS: It sounds complicated, dealing with the different agencies.
+
+PROUT: Well, it was basically the state and the federal government. The federal
+government started it first, then came into it again in the sixties, and then
+the rest of it was the state.
+
+BICAIS: Did Prop 13 have anything to do with this?
+
+PROUT: Oh, it had a big impact because it had an override tax for some of the
+special activities, and ours was one of them. And when that was done away with,
+that really was the demise of our program. It really was. I&#039;m glad that you
+mentioned that. Because we didn&#039;t have that extra money from the override. And
+we could charge fifty cents an hour for children, and the school district would
+pick up the rest of the cost per pupil. And adult education had it, and we had
+it, and there were a couple of special programs that had it. It murdered us.
+
+BICAIS: I think it was &#039;79.
+
+PROUT: Seventy-nine. Well we existed for maybe about twenty years after that,
+but barely. You see, we just made it every year. We could not carry money from
+one budget year to the next; see, we had all these rules: state local, federal.
+
+BICAIS: Sounds very complicated.
+
+PROUT: Well, our teachers would get so mad because we had reports that we had to
+send to the feds. Well little Mississippi had to do it too, and we were so big.
+The teachers would get so mad. It was on how many welfare children we had, and
+how many AFDC 1, 2, or 3. And it didn&#039;t apply to us, but we still had to make
+numerous reports because we took that federal dollar.
+
+BICAIS: Kind of just going through the motions?
+
+PROUT: Yes, and they would get so angry because they didn&#039;t have time for much
+paperwork. They did essentials and did them well. But that override killed us.
+That&#039;s what did it. We got that extra money. We could make more children
+eligible. It was a better assemblage of children. They weren&#039;t all poor little
+children. Some of the mothers were teachers or nurses. So it was a good
+socio-economic blending of children. And I think that helped.
+
+BICAIS: It sounds like it was a good place for children to interact with their
+peers and whatnot.
+
+PROUT: And some of those school-age children were so cute. One little boy,
+Johnny, was always getting into trouble, but never defending himself. He went to
+public school, and the principal was always giving him a bad time. And I would
+say to him, &quot;Johnny, speak up, don&#039;t just stay in the periphery of the group.&quot;
+&quot;Oh no, Mrs. Prout, I&#039;m okay.&quot; So two days before I left, John called, and he
+hadn&#039;t been in our program for years. He went into the Army. He said, &quot;I heard
+you were retiring, and I wanted to thank you.&quot; I got tears in my eyes, because
+he was always getting into trouble, and I was always getting him out of it. But
+I loved that boy. He did well in the Army, got married; he married a nice girl.
+So it was a thrill for him to remember. He was in his forties then, I&#039;m sure.
+
+BICAIS: I&#039;m sure you made a huge impact on him. I&#039;m sure you made a huge impact
+on all the kids.
+
+PROUT: Well, I don&#039;t know, but we all tried. No one took all the credit. I
+always felt that it was the teacher; we all just helped the teacher. She was the
+important one. And we tried to instill that in her. We did in most cases. We
+were there to support her.
+
+BICAIS: That&#039;s a good philosophy.
+
+PROUT: But if she was ineffective, the program was poor; we couldn&#039;t motivate her.
+
+BICAIS: She is definitely the front line.
+
+PROUT: She was the front line, and the aides were too. Some of the aides went on
+to become teachers. They went back to school. One girl, she was a black girl and
+a lovely girl. One day I was giving this speech and saying how important
+education is and going on and on. And I looked at her face, and I didn&#039;t think
+that she was maybe even listening. Well she went back and got her AA at
+community college, and when she got it she came up to my office and she said, &quot;I
+have a little gift for you, because you&#039;re the one who inspired me.&quot; That wasn&#039;t
+completely the truth because she worked hard to develop her educational skills.
+She was so honest and so sweet.
+
+But another time I went to talk; it was terrible. It was to a bunch of
+kindergarten mothers, and I was going on about the benefit of nursery school
+education and how everybody had to have it. This cute little Asian mother came
+up to me and said, &quot;Do you think I have abused my child because I didn&#039;t give
+her a pre-school education.&quot; And I said, &quot;Oh no, no, no. I&#039;m sure you&#039;re a good
+mother.&quot; You get too general sometimes so we all make mistakes. I&#039;m so glad you
+mentioned the override, it was so critical. We gradually knew what it would mean.
+
+BICAIS: When it first came out on the ballot, did you realize the dire
+consequences that it would have for the program?
+
+PROUT: No we didn&#039;t until later, because that wasn&#039;t publicized very much. But
+then we began reading carefully and realizing and those other programs did too.
+
+BICAIS: You have to read the fine print.
+
+PROUT: Oh, you certainly do.
+
+BICAIS: Someone who is advocating a political stance isn&#039;t going to come out and
+tell you the down side of it.
+
+PROUT: No, they are not going to tell you. But you know, we did a lot of
+legislative work too because that kept us alive. You know senior George Miller
+who was in Martinez--his son is now a Congressman and he&#039;s one of the heavy
+democrats, I think, in Washington--old George was wonderful. My former boss name
+was Erla; she would go to him, and he would say, &quot;Erla, what do you want now?&quot;
+And she&#039;d say, &quot;We have to this and we have to do that.&quot; &quot;Okay, I&#039;ll see that
+it&#039;s taken care of.&quot; He knew it was a good program.
+
+And then a lot of these state legislators enacted legislation that helped us.
+They would put us on the bottom of the bill where no one noticed we were there.
+We would go up on Legislative Day, and they would have some of the organizations
+would have it. And all of these legislators&#039; offices were open, and we would go
+in and talk with them. We had powerful organizations too. We had a directors
+group. When the program first started we all had Social Security, but we weren&#039;t
+in the state pension system. San Francisco had a state pension system because it
+was through the City of San Francisco, but they were the only ones. So, my boss,
+and the gal from Oakland, and about five of them lobbied to get that. So now, we
+all have pensions. We&#039;ve had them since the sixties, I think. So we have both,
+which is wonderful because a lot of programs don&#039;t have both. The San Francisco
+director said to my boss, &quot;You&#039;re going to ruin it for everybody.&quot; And my boss
+said, &quot;What do you mean? You&#039;re the only one that had it. Your people have a
+pension but our people don&#039;t.&quot; So by God they went to the right legislatures and
+got it done. So now we all have good pensions.
+
+BICAIS: Wow, that&#039;s great.
+
+PROUT: The teachers were all under STRS, which is the State Teachers Retirement.
+And a lot of us stayed under PERS, which is basically for classified people.
+There was a fiscal man in Richmond that helped me a lot with our program. I had
+a chance to go under STRS in the middle of my career. And he says, &quot;No Mary,
+stay where you are, it&#039;s a better system.&quot; Well, it&#039;s debatable whether it is or
+not. I think it&#039;s caught up with PERS. PERS is the largest public retirement
+system in the world, I think. It has state and all the police, and community
+officers are participants. When you get a job, make sure it has a pension.
+Because it all happens very fast. And you suddenly think, &quot;Oh! I have to retire.&quot;
+
+PROUT: And those dollars come in handy every month. Our district put in 13
+percent for us, and we put in 6 percent a month. Which was pretty good; they put
+in the bulk of it. Our district had wonderful medical coverage. I&#039;m still
+getting it right now as a retiree. They put it in a contract, and they can&#039;t
+renege on the contract. For a while we had medical, dental, and pharmaceutical,
+and I paid one dollar for my prescriptions; that&#039;s all. I&#039;d walk into a doctor&#039;s
+office and not give him anything because this was such a good plan. Now it&#039;s
+changed, and we have to give a little bit more. We have $1000 dental coverage
+which doesn&#039;t go too far, but it takes care of many problems lot of your needs.
+
+BICAIS: Filling in cavities and whatnot. [laughter]
+
+PROUT: And you get to be this age, and you really have to have construction work done.
+
+BICAIS: Thank you so much for your time today. I really appreciate it.
+
+Begin Tape 2
+
+BICAIS: I was wondering if you could talk a little bit about how--along I-580
+and Cutting Blvd, how some of the temporary wartime housing was razed.
+
+PROUT: It was mostly along Cutting Boulevard. And some of those streets that
+went into Cutting. And then a lot of--as you said, with I-580 [coming in] there
+were a lot of housing areas there. Each housing area had a central--it was like
+and administrative building. There was a man in charge, and he would collect the
+rents and do any maintenance that had to be done. We had Terrence Center and
+Harbor Gate, and Canal Centers; they gave us room for child centers in these
+areas. And they were awfully good to us. Of course they were under the federal
+government too, and that&#039;s when we were under the federal government. But they
+would give us rooms in their administration buildings to develop a children&#039;s
+center. And we had, in one location, about 100 children. The manager would come
+in and talk with us and help us on lots of things. So it was a good correlation
+of these two agencies, of the housing and the school district, and the federal
+government. And it worked very well together. And then, I can&#039;t remember when
+they tore the housing down, but it was like in the fifties.
+
+BICAIS: Early to mid-fifties I think.
+
+PROUT: I think so too.
+
+BICAIS: When they tore down the housing, they tore down the daycare centers as well?
+
+PROUT: Let&#039;s see, we had two big daycare centers or children&#039;s centers that
+survived it. And this was our Pullman Center on 23rd and Florida St; that&#039;s just
+off of Cutting. And then our Maritime Center, which had been the first one to be
+constructed, and that was on 10th Avenue off of Cutting. And those are still
+remaining today.
+
+BICAIS: But initially they were on the same land as the housing, and they got
+spared basically.
+
+PROUT: Yes. Right. And it was good because people could walk their children to
+the children&#039;s centers. Especially the ones that were in the housing areas. They
+had a lot of support from community of people. That was part of the housing
+contingent; they were the ones that were torn down. We really didn&#039;t need them
+after the war. Because a lot of people went home, and many people went to
+school. Some of the GI fellows and their families lived in that housing. They
+used to call it the GI housing. It had nice little apartments, and it was kept
+up well.
+
+BICAIS: After the war a lot of that temporary housing wasn&#039;t really needed at
+that point?
+
+PROUT: Well, it was needed while these men went to school. See they only had the
+GI Bill and maybe their wives&#039; salaries. And so they needed low-cost housing.
+
+BICAIS: Kind of an interim period?
+
+PROUT: See, that gave them the incentive to go to school, and that was part of
+the purpose of the GI Bill. That was really one of the best things to ever
+happen to this country. It really was wonderful. And Roosevelt was responsible
+for that. He signed it and everything. When they say he was the greatest
+President, you wonder, but he did a lot. And there were so many isolationists
+that didn&#039;t want us to go to war, and we had to. He just pushed the bill. To
+think that the poor man was crippled and everything, but he was so smart.
+
+BICAIS: He was President through a lot of critical times, that&#039;s for sure.
+
+PROUT: And Churchill depended on him. I remember reading in a book about the
+Lend-Lease and how Churchill didn&#039;t want any part of it. And Roosevelt knew that
+it would save England. You&#039;ve got to have these ships and this power behind you.
+If it weren&#039;t for Roosevelt, England could have gone under. They were bombed,
+and they just had a rough time. And Churchill wasn&#039;t as realistic as Roosevelt,
+but they were good friends.
+
+BICAIS: Churchill was more from the old school, I remember reading
+someplace--this is kind of off topic--but that Churchill wanted to retain the
+English Empire after World War II. And Roosevelt wanted none of that. He used to
+kid Churchill about the old English Empire.
+
+PROUT: It was a good relationship because they each helped each other quite a
+bit. But I think Roosevelt helped Churchill more than Churchill helped
+Roosevelt. But it was a different era. Mrs. Roosevelt played a big part. She
+came out here and viewed our centers. They always said that Franklin would start
+the programs, and he wasn&#039;t as mobile as she was, and then he would send her out
+to evaluate them. It was a good team.
+
+BICAIS: And she actually came out to your centers?
+
+PROUT: She actually came out. I&#039;m sure she did. I could be wrong on that. I
+never saw her. But I could be wrong on that. But her influence was felt on all
+the legislation. It was an interesting time. A constructive time. All these men
+going to school; it was wonderful. Some of them got their PhDs, some got
+masters, some became teachers, engineers. Many of them are some of the famous
+men today. They really worked hard.
+
+BICAIS: It really got a whole generation going. And trickled down, so to speak,
+to their children and grandchildren. A lot of people my age&#039;s grandparents are
+really the solid force in our country today.
+
+PROUT: Exactly, and everybody should go to school. You can never get enough
+schooling. I remember my own father; it was so important to him to my sister and
+me to college. It was marvelous.
+
+BICAIS: That&#039;s the attitude that you have to take to be successful: put a
+priority on education.
+
+PROUT: Once in a while there will be someone like Bill Gates [laughs]. It&#039;s
+funny; the children that came from this group of people were all staunch
+Americans. They were all--many of them were from the Midwest. They knew what a
+dollar meant, and they knew how to get an education. It was really a
+constructive time.
+
+BICAIS: Do you think that coming out of the Depression, just the fact that money
+was so scarce? That generation had the attitude that money was something to be
+held on to; you saved it. And then coming out of the war, and having such an
+unprecedented period of prosperity, do you think that in any way contributed to
+the conservatism that followed. Because people had such a high value for the
+dollar and maybe they didn&#039;t want to see it given away to social programs.
+
+PROUT: Yes. Yes. And some of them gave too much to their children. Because they
+had been deprived with the Depression and everything, they gave too much to
+their children. And I don&#039;t think that was good. You needed the necessities and
+you needed an education, but you didn&#039;t need a lot of other things.
+
+BICAIS: It kind of spoiled the next generation, huh?
+
+PROUT: Yeah, spoiled the next generation. But then some good things happened
+too. You know. There were a lot of good kids out there. Like you! [laughs] I
+mean you want an education and a future, and you don&#039;t just want to sit around.
+And that comes from your family. I know it does. So it was a big era in the
+history of the United States.
+
+BICAIS: I&#039;m interested in looking a little deeper into how the country didn&#039;t
+seem to have the same--what&#039;s the right word--I guess sympathies coming out of
+the war. Maybe I&#039;m reaching here, but it seems like a lot of people in the
+Depression maybe felt that, since they got through it and they were maybe
+well-off after the war and felt the economic benefits of the wartime boom, that
+maybe after that they were less inclined to be socially liberal, and to give
+money to social safety net type programs. I&#039;m trying to work that in to your
+experience with how the federal government after the war began to withhold funds
+from your program. Do you think that--I guess I&#039;m trying to make that connection.
+
+PROUT: I think that they thought it just wasn&#039;t needed. And now more and
+more--it&#039;s really early childhood education, and everyone should have early
+childhood education. The child is ready to learn, and if he just stays at home
+all the time he can learn from books and puzzles and all that. But they need the
+camaraderie and the socialization with other children. And if the child doesn&#039;t
+have that, they miss a lot, I think. And then the kindergarten teacher can&#039;t go
+on to her next level. I remember the kindergarten teachers all wanted our
+children because they had all of the aspects of child development along the way.
+It wasn&#039;t just play it was learning.
+
+BICAIS: And they were probably much better behaved than the other children.
+
+PROUT: Well maybe not so well behaved [laughs] because they kind of got excited
+a little bit. They were used to being in a group. But they did have the--many of
+them were bright, and they had been exposed to activities on their level. The
+emotional part too. Children are so ready for kindergarten and first grade
+because they&#039;ve have the emotional part tie of leaving their parents out of the
+way. You know, being away from your parents. Also the health factors. I think I
+told you that we had a pediatrician on our staff. They accumulated all the
+records. So when it came time to go to kindergarten, all these things were
+amassed in our files. It was the vaccinations and everything. So there were many
+pluses and benefits, the child&#039;s whole health record.
+
+BICAIS: Do you think that as the war came to a close and you received less and
+less money--I guess you stopped receiving money from the federal government and
+it went to the state, but there was a diminishing in the funding overall, is
+that right?
+
+PROUT: I really don&#039;t know if it was a diminishing of the funds. The state did
+pretty well at first, but we had a grant from the state. And it was good it took
+care of a lot. And then of course with Proposition 13; we could add to the
+program because that was local money. We were in pretty good shape. The only
+thing that worried us was that the money from the state was enacted every year.
+So on June 30 we didn&#039;t know on July 1 if we were going to be open. It was a lot
+of emotional upheaval. Afterward, they put it on a permanent basis. But we
+received money on an attendance basis, similar to the school district. It was
+very involved as far as book work was concerned. But, we got along. And then, as
+I said to you, after I left--we didn&#039;t receive district money when I was
+there--but after I left they had to because we had good salaries, and they just
+couldn&#039;t pay them with the grant. We were always going to Sacramento and asking
+for more money. Sometimes we would get it and sometimes we wouldn&#039;t. It was a
+little iffy there for a while. And then when the school district pulled out
+because they needed the money, then they knew they couldn&#039;t make it. It was impossible.
+
+BICAIS: Last time when I talked to you, you mentioned that World War II was
+really the golden age of the program. You seem to have a lot of fond memories of
+the program during the war. Was the same standard upheld after the war?
+
+PROUT: Oh yes! And that&#039;s why we ran out of money. Because our salaries were so
+good we insisted that we had credentialed teachers and had to pay them. The
+money was getting less and less. We weren&#039;t getting any more money.
+
+BICAIS: But the cost of living was still going up of course.
+
+PROUT: Yes, the cost of living was going up. And so that&#039;s what broke the back
+of the program. And then the county took over. But the county didn&#039;t have the
+same goals and objectives that we had.
+
+BICAIS: It just wasn&#039;t up to speed, huh?
+
+PROUT: Oh, it wasn&#039;t and still isn&#039;t. All of us old timers feel very bad about
+the demise of the program.
+
+BICAIS: I guess what I&#039;m trying to get at was, after the war do you think that
+the program was able to meet the same needs as it did during the war?
+
+PROUT: The needs weren&#039;t as great as the years progressed after the war. We
+developed these two new centers, and one was in the San Pablo area. There was a
+minister there that knew there was a need. So he went to the school district and
+went to bat for us. At that point, we had a lot of welfare children. And we
+would receive money from the federal government as far as the welfare children
+were concerned, and they didn&#039;t pay anything. That was on one other transition.
+And then, a lot of that money dried up, and the eligibility rules changed a
+little bit. You see, before, during World War II, we could take any child; we
+didn&#039;t have eligibility rules. Once the state took over we had a means test, and
+the parent could make just so much money. And then, when the federal government
+came back in to the program with the AFDC children we had a little bit more
+money, but not a lot. I hate to keep talking about money, but money really made
+the program. We really became almost a welfare program, but we weren&#039;t; we had
+the name &quot;child care center&quot; during the war. All of us hated &quot;care&quot; because it
+denoted welfare. So then, we got the state legislature to change the name to
+&quot;children&#039;s centers.&quot; Just as we did that, the big child care boom in the nation
+came. Federal money was poured into some small programs. And so it identified
+our program, but it didn&#039;t identify every program. We did not want to be called
+welfare. It was education. This is what we stressed because we were under
+education. We didn&#039;t want just a babysitter program. And we really fought over
+the years. We didn&#039;t want it to be labeled that. When the school district tried
+to call us welfare we said, &quot;We are administered by you, but we are not a
+welfare program.&quot; When we got the name changed, it helped a little bit.
+
+BICAIS: Do you think that people started calling you a welfare program because
+during the war it wasn&#039;t need based, and then it became more for only the lower
+income kids?
+
+PROUT: It could be.
+
+BICAIS: I&#039;m trying to tie in the trend towards more conservative politics at the time.
+
+PROUT: That lessened the desire to have our program, the conservative politics.
+Because a lot of those legislators thought the mother should stay home and the
+child should be reared at home. And they didn&#039;t think that these programs were
+very important. But we had a couple of key legislators that really helped us
+out. When I think about it we would go and talk to them, and they would put us
+in a bill, and we would get more for buildings or maybe supplies or teacher&#039;s salaries.
+
+So it was very challenging. Very challenging. Our parents--the parents that we
+had were very convinced that their children were getting a good education, and
+that was very rewarding. We had no problems with the parents at all. We had
+parent groups, and the parents helped legislatively a lot on the state level.
+They would write letters to the state legislators. They helped a lot with the
+money programs. They were loyal and good, you know. Increased the money that
+flowed. It made a better program.
+
+BICAIS: I&#039;m assuming that the people who sent their children to the centers
+during and right after the war, most of the women probably worked?
+
+PROUT: And the men went to school. That was a whole period. That lasted for
+maybe four or five years after the state took over. Then it became--then we took
+welfare children. Remember when Kennedy and Johnson had their big welfare
+emphasis; they wanted to get people off welfare. And so we would get extra money
+for children. And then our food program was developed around that as well. If
+they had so much money, the child would be eligible or not. So we had a lot of
+paperwork to do. And we had auditors all over the place. And thank goodness we
+never had a bad report. But we had federal auditors, we had state auditors, and
+we had local auditors. Each school district has to hire a team of auditors every
+year to make sure the program was meeting its finance goals. We were very
+fortunate. We had a many people that were conscientious, so we never had a bad mark.
+
+BICAIS: So because for an initial time, you said it was GIs and their families
+that used the center, and then after that it predominantly became welfare.
+
+PROUT: Well there was a period between welfare and the GIs where we had means
+testing. It was workers that made quite low salaries. So the government didn&#039;t
+have to put a lot of money in, but they put some. So it was that period that
+lasted about--well, 1965 is when the welfare money came. And it lasted.
+
+And see, the color of our program changed too. A lot of black people lived in
+the public housing and paid rent and lived in the housing program, poor people,
+after the GIs left. So that was a phase of the program. And many of those girls
+went and got jobs, good jobs. They were eligible if they went to community
+college or some kind of vocational program. So it helped the community a lot. As
+it progressed, sometimes we would feel it was going down, but then it would go
+up again. The federal government influenced the first days and those middle
+days. And then finally they pulled out completely except for the lunch program.
+And of course the lunch program is that way in the schools too. It was all based
+on family&#039;s income. Then when I left we still had a lot of black children, but
+we had a little bit of everyone. But the requirements were getting more, not
+less. So but it was still under the state.
+
+BICAIS: You talked a little bit about LBJ and Kennedy, their push to get people
+off welfare. Do you think that this had a negative effect on the child care or
+children&#039;s centers?
+
+PROUT: No, I don&#039;t think so.
+
+BICAIS: You don&#039;t think there was a conservative push to end programs like this
+because it was welfare in the eyes of some?
+
+PROUT: Well, in the eyes of some legislators. Some Republicans. They didn&#039;t want
+anything to do with it. This was an anti-social deal; it was like Sweden in
+particular: all the children out of the homes putting them in these other
+buildings. It took them a long time to get that through. Some of them never did.
+Some of them don&#039;t have it now.
+
+BICAIS: They saw it as a negative thing?
+
+PROUT: An anti-social thing. But more and more with early childhood education,
+the theories are being developed that it&#039;s a wonderful thing for children. It&#039;s
+now a plus rather than a negative. So the whole history of it has been very
+interesting because we can see improvement during times, and we can also see
+non-improvement at times. But most of it was constructive.
+
+BICAIS: Overall it seems that without question it was a positive thing.
+
+PROUT: And the school districts began to realize that these programs were very
+important and they would build them up--our former director was under elementary
+ed as far as the school district was concerned. And then when I took over we
+were under special ed. We had a wonderful superintendent that would meet with me
+once a week and talk about our problems and everything. And he was very
+supportive. So we finally got a little acclaim. Acclaim that we needed and
+acclaim that we deserved. But it was a new program, and it was just one more
+thing for the school district to worry about. They had so many special ed
+programs. But finally we got the right people in some of those jobs. They were
+younger people. They were people that had early childhood courses in college.
+They knew the importance of it. But we always had that conservative element.
+
+BICAIS: And you were always fighting them, Basically conservative Republicans of
+the time were anti-New Deal, anti-welfare, and anti-FDR and his legacy. A lot of
+conservative Republicans came into the House in the 1942 elections.
+
+PROUT: Yes, they did.
+
+BICAIS: They probably saw this as a borderline socialist program.
+
+PROUT: Babysitting. They said it was babysitting. This just killed us. We
+weren&#039;t babysitters, but that&#039;s what they thought we were. But then finally the
+programs began being accepted. And this was very gratifying.
+
+BICAIS: And this happened around what time do you think?
+
+PROUT: Well, it was a gradual thing. As different legislators came in--they were
+younger some of them--the whole country began conforming a little bit to
+education at three years old or even two years old. It was better than having
+the children at home with an inexperienced person who didn&#039;t know anything about
+childhood development. A lot of legislators were young, and their wives were
+working. It was just a different philosophy. Completely. It grew.
+
+BICAIS: So in the sixties and seventies as women started working outside the
+home, and it became more accepted, as opposed to the World War II generation and
+before when women stayed home. It kind of became more accepted overall. That
+makes sense.
+
+PROUT: Yes, it was a whole philosophical change in the world. Some of it was for
+the good; most of it was for the good.
+
+BICAIS: A little more realistic in a sense, because it was inevitable that women
+were going to begin to work outside of the home. It was just a matter of time.
+
+PROUT: Yes, many of these women had a good education, and they wanted to develop
+this. So anyway, it progressed pretty well. Anyway, San Francisco still has
+children&#039;s center. Berkeley has them. I think Albany&#039;s are still open. And they
+are funded just the way ours was. Los Angeles has them too. There aren&#039;t small
+towns in LA anymore. We had a good situation, we had what we had a director&#039;s
+association. And this director&#039;s association did a lot for the program. They
+were all the directors of all the programs in the south and the north. And we
+would meet once a year in either the north or the south. So we could get a lot
+of legislation done that way. We were a bigger group, and we got a lot done.
+
+BICAIS: It sounds like coming out of the conservatism of the forties and fifties
+people eventually came around and saw that these programs were a good thing, and
+we should support the teachers and whatnot.
+
+PROUT: It took a while, and it would be great if we had a little bit more. You
+know, like now the teacher&#039;s salaries are just terrible and the money for
+teacher&#039;s salaries has to come from the local level. And if there is a bill that
+comes from Sacramento that makes it look like there will be some money, they
+spend it on something else. It&#039;s a great inequality.
+
+BICAIS: And of course when you offer lower salaries, you are going to attract a
+lower caliber of person.
+
+PROUT: Lower people, right. And the teacher is the most important thing. I used
+to say to our teachers, &quot;We&#039;re just here to help you. Because you are the ones
+involved in the children.&quot; And the more I think about that, the more I realize
+that it is so true.
+
+BICAIS: And it&#039;s hard once you get the cycle started of underpaying teachers,
+you do start attracting, I don&#039;t want to say lesser people, it sounds bad, but--
+
+PROUT: Well you lower the standard.
+
+BICAIS: Yeah, someone who is coming out of a really good college probably isn&#039;t
+going to be inclined to take the $30,000 a year teaching position. And once you
+get that cycle started, it&#039;s hard to throw more money at the teachers because
+you already have a lower standard of teacher. You really need to keep the
+standards high the whole time, because at this point, we have a lot of teachers
+that are underpaid, but there is also a lot of bad teachers out there. In the
+public schools.
+
+PROUT: That&#039;s right, but there are a lot of good teachers too that stay because
+they believe in what they are doing. I have a little niece who graduated from
+John Hopkins, and she entered the Teach for America Program, and she&#039;s has been
+there for three years. I don&#039;t know if she is going as a teacher to stay there
+or not; she says she loves the children, and she feels like she is doing
+something for them. I&#039;m so proud of her. Her degree was in international
+relations. And she&#039;s a smart, lovely girl.
+
+BICAIS: Probably could have gotten the high paying job out of school, but she
+opted to teach?
+
+PROUT: And she has about twenty little children, and they just do fine. She&#039;s
+really motivated.
+
+BICAIS: Those are the type of people that we need as teachers. You need people
+that are highly qualified and don&#039;t mind taking a pay cut. Unfortunately,
+they&#039;re hard to find.
+
+PROUT: They&#039;re not worried about the paycheck. But it seems so unrealistic with
+Silicon Valley. We did get teacher&#039;s salaries up a little bit, but now they&#039;re
+just horrible. I have a couple of friends that have been in education for a long
+time, and their salaries are decent. They&#039;re not bad. But they are in bigger
+school districts. Dr. Riles, he was the public superintendent in Sacramento, and
+he started a program for just poor little children. It was called 1331; that was
+the legislation that started it. I think the eligibility--I think the parent
+still has to not work.
+
+But I have a friend who is in charge of this massive program, and she&#039;s done a
+beautiful job. She was one of the head teachers in our program years ago. She
+has about twenty-eight classes, and she&#039;s doing beautifully. I think she knows
+more about early childhood development and education than anybody maybe in the
+United States. Her salary is pretty good. The districts are realizing that they
+have to have programs of that nature, or they can&#039;t compete. That&#039;s a program
+that evolved from this original program. There are a lot of benefits to it. We
+belong to all the educational organizations, and we brought back all the
+materials and everything. And we had a lot of information coming back from the
+Eastern colleges that had early childhood programs. We had a lot of good
+information so that we knew what was the latest.
+
+BICAIS: That&#039;s great. Well, I&#039;d like to thank you for your time; I got a lot out
+of this interview.
+
+PROUT: You&#039;re welcome. If you ever need anything else, just let me know.
+
+[End of 2002 interview]
+
+Interview 2: May 11, 2012Begin Audiofile 1 05-11-2012.mp3
+
+Redman:My name is Sam Redman, and today is May 11, 2012, and I&#039;m sitting down
+today with Mary Hall Prout, in Greenbrae, California. Mary eventually became a
+teacher, then head teacher, then director of the early childhood development
+programs in Richmond, California. So today, that&#039;ll be most of what we talk
+about. But I&#039;d like to first begin by asking you if you could tell me your full
+name and where you were born.
+
+ 01-00:00:40
+
+PROUT: Before I was married?
+
+Redman:Sure, that&#039;s fine. We can start with that.
+
+ 01-00:00:46
+
+PROUT: It was Mary Agnes Hall.
+
+Redman:And Mary just spelled M-A-R-Y.
+
+ 01-00:00:54
+
+PROUT: Yes. Agnes, A-G-N-E-S.
+
+Redman:And your maiden name, last name, was spelled?
+
+ 01-00:01:06
+
+PROUT: My last name was Hall, H-A-L-L.
+
+Redman:And that became your middle name when you were married, and you took the
+last name Prout. Could you spell that?
+
+ 01-00:01:17
+
+PROUT: Yeah, P-R-O-U-T.
+
+Redman:And you were born in San Francisco, is that right?
+
+ 01-00:01:22
+
+PROUT: Right, at Mary&#039;s Help Hospital.
+
+Redman:And what date was that? When were you born? What was your birthday?
+
+ 01-00:01:29
+
+PROUT: What was my birthday? It was August 7, 1921.
+
+Redman:Can you tell me just briefly, just for a moment, about your father?
+
+ 01-00:01:41
+
+PROUT: My father was a very interesting man. He was a newspaper man. He bought
+the Gilroy Dispatch. And he was very clever; he could do the front office and
+the back office. And he bought that newspaper--it was in Gilroy--and he had it
+for probably about six years. Then he got bored and wanted to go on someplace
+else. So my mother said, &quot;Okay, John, we&#039;ll go where you want to go.&quot; So then he
+started a paper in Santa Cruz, and it was a weekly paper. He would go up and
+down the main street of Santa Cruz, and he would interview people. He just had a
+lot of fun doing it. Then he went to Watsonville. And the Watsonville people
+were very mean to him; they didn&#039;t want him in the act. It was a syndicated
+group. They didn&#039;t want him there. So whenever his boys would deliver the papers
+in the morning, they would go around and pick them up and throw them away. So
+that got to him a little bit. Let&#039;s see, then he went to Petaluma and had a nice
+little newspaper there. What was so good, what we admired, my sister and I--I
+have one sister--we admired so much, the fact that he could do it all by
+himself. He did the artwork, he did the mechanical work--he just loved it. It
+was really astounding to see the talent that he had.
+
+Then my mother was a housewife, but she became a nurse before my mom and dad got
+married. She was born at Mary&#039;s Help Hospital. An excellent nurse, loved it. But
+her father didn&#039;t want her to become a nurse because he felt that it was too
+hard on girls. They had to do all the custodial work and everything. So she
+said, &quot;Okay, Father, I&#039;ll graduate from high school, and then in three years I&#039;m
+going to go to become a nurse.&quot; And he said, &quot;That&#039;s fair enough.&quot; So she had a
+young sister, so in three years, they both went to Mary&#039;s Help, both became RNs.
+Then after-- well, it was after the war, I guess, my aunt was just a little gal,
+and she was getting that virulent flu that they had then, that terrible flu. It
+was just awful. So my mother knew that she wouldn&#039;t live through it. So Mom
+tried to get an ambulance, but she couldn&#039;t find one, so she got a hearse, and
+she went down to the veteran&#039;s hospital in Palo Alto, picked up my aunt and
+saved her life, really.
+
+Redman:This was in 1918, the influenza?
+
+ 01-00:04:40
+
+PROUT: Yes, exactly, that virulent, terrible--
+
+Redman:I&#039;d like to get back to that in just a moment. [audiofile stops,
+restarts] Thank you for letting me fix the audio there. When we left off, we
+were talking about your parents and your mother&#039;s recollections from the 1918
+influenza outbreak of the flu, the Spanish flu.
+
+ 01-00:05:04
+
+PROUT: Oh, yes, that was terrible. People were dying by the inches.
+
+Redman:What did your parents tell you about how they met? Do you remember about
+their early courtship and how they got together?
+
+ 01-00:05:18
+
+PROUT: Yes, I do. We&#039;re Roman Catholics. My grandmother, my maternal
+grandmother, always had the priest to dinner or to breakfast. She was very proud
+of that, because he could only come every other week, I think it was. Her name
+was Flanagan, a good Irish name. So anyway, my father was starting in the
+newspaper business. He had a little newspaper up in Colusa. And my mother had
+beautiful red hair and he saw her at the holy communion rail and just thought,
+boy, that lady&#039;s for me. There was a twelve-year age difference. So anyway, he
+popped the question, and my mother said, &quot;Well, John, I can&#039;t go right away,
+because I&#039;ve promised another nurse that I would take her and a patient by
+train, to Chicago, and I can&#039;t let them down.&quot; She did that. Then when she came
+back--she was cute--she said she saw the bridges and everything and thought, oh,
+this is where I want to be. So anyway, my mom and dad got married and then they
+had just two of us.
+
+Redman:So you came along in the early twenties and your sister is a little younger?
+
+ 01-00:06:39
+
+PROUT: She&#039;s seventeen months younger.
+
+Redman:Seventeen months younger, okay. And what&#039;s her name?
+
+ 01-00:06:43
+
+PROUT: Her name is Gabriella. Gabriella Thomas.
+
+Redman:In San Francisco?
+
+ 01-00:06:49
+
+PROUT: Yes, she&#039;s now in the Sequoias. She broke her shoulder and she&#039;s a very
+brave girl. She&#039;s going to be in the hospital, I think she said, for three
+months. So it was a bad break.
+
+Redman:Can you tell me a little bit about where you attended elementary school?
+
+ 01-00:07:11
+
+PROUT: Yes. We went to Catholic schools. We started out in Gilroy, and we went
+to the Presbyterian Sisters there. We were there for maybe about three years,
+and then we went to the Daughters of Charity, in Santa Cruz, up until about--I
+was a sophomore in high school and my sister was a junior. Or no, she was--what
+do you call it? I can&#039;t think of the right word. Well, she was a junior in high
+school, and I was a senior. Then my dad moved us to Watsonville, and we went to
+the Notre Dame Sisters. They were good teachers. Oh, boy, they were wonderful!
+
+Redman:What was it like to be a young girl in a Catholic school in those days?
+
+ 01-00:08:05
+
+PROUT: It was just fine. We loved the nuns. They were so nice, and they were all
+overly qualified. They had PhDs and everything. And they did a lot of music, and
+they did a lot in the arts. At our school, let&#039;s see, we had fifty girls, period.
+
+Redman:So it was an all-girls school?
+
+ 01-00:08:27
+
+PROUT: All-girls school.
+
+Redman:And it was a good environment for you.
+
+ 01-00:08:29
+
+PROUT: Oh, it was wonderful! We had this one nun that would write poetry, and
+she was just great. Then we had this other sister, so funny. She wrote books and
+everything, and she was very learned, but she was funny, too. She would take all
+the peanuts away from all the girls. And we had desks that lift up like this.
+You probably never saw a desk like that.
+
+Redman:I haven&#039;t used a desk like that, but go ahead, yes.
+
+ 01-00:08:58
+
+PROUT: But anyway, so the part that was open would be standing here, and then
+she would eat the nuts herself. [laughs] She was so funny.
+
+Redman:Some of the things you hear about Catholic schools in that era are about
+punishment. One of the things you hear is that it was a stricter system than
+later educational styles. Can you speak to that? Is that characterization
+overblown, do you think, or is that something that happened?
+
+ 01-00:09:28
+
+PROUT: Once in a while. See, a lot of the sisters came from Ireland, and they
+disciplined children. They just did. They were kind of mean. But I never saw any
+of that, because the nuns that we had were all very reasonable. They were
+wonderful. If they called your mother, you&#039;d have a chance to tell her what was
+wrong. Nothing that was quiet or anything.
+
+Redman:Was there an aspect of being in California, do you think, that--
+
+ 01-00:10:03
+
+PROUT: It might.
+
+Redman:--had a little bit of a laid-back attitude towards those sorts of issues, maybe?
+
+ 01-00:10:09
+
+PROUT: Yes. Well, I never thought about that, but they were just very fair with
+us and very--I know they wanted my sister to take music lessons. She had a
+beautiful voice. But she said, &quot;No, I&#039;m just going to waste Dad and Mom&#039;s money,
+because I&#039;m lazy.&quot; Yes, I always remember. But this nun was saying, &quot;Go ahead.&quot;
+Then they wanted me to become a nun, and I didn&#039;t want to become a nun. I always
+remember, there were twin girls. Well, one of the twins became a nun. She was so
+devout and great, but she would go behind the altar and drink some of the wine.
+She was a character. So we said, &quot;You&#039;re going to get caught.&quot;
+
+Redman:Now, how about you? With some of the encouragement to become a nun, why
+did you choose not to?
+
+ 01-00:11:03
+
+PROUT: Well, I just didn&#039;t want to be a nun. It&#039;s too cloistered. In those days,
+they got around a lot, but it was just--you couldn&#039;t get married, life was
+limited, and it just didn&#039;t appeal. We couldn&#039;t go out with boys. Oh, we could
+go out if we wanted to, but we never had any chances to.
+
+Redman:Now, you would&#039;ve been about, I understand, in second grade--or first or
+second or third grade, thereabouts--when the great stock market crash happened--
+
+ 01-00:11:35
+
+PROUT: &#039;29, yes.
+
+Redman:--in &#039;29, in the autumn of &#039;29.
+
+ 01-00:11:38
+
+PROUT: See, I was about eight years old.
+
+Redman:But I understand that things got a lot worse then, after the end of the
+year; that in &#039;30, when--
+
+ 01-00:11:47
+
+PROUT: Oh, it was bad.
+
+Redman:Things just got worse and worse. Could you talk about that?
+
+ 01-00:11:50
+
+PROUT: Yes, I can. But my mother and dad protected us. They never told us much
+about it. I had friends that oh, were bemoaning the fact all the time. My dad
+lost our home. The Bank of America took it, and he was just as scalded as
+anybody else, but they never mentioned it in a negative way.
+
+Redman:So they shielded the kids from some of that stress.
+
+ 01-00:12:14
+
+PROUT: They shielded us, yes.
+
+Redman:Do you think it had a toll on them, those things?
+
+ 01-00:12:20
+
+PROUT: Well, I know this one friend of mine that the parents were very open with
+it all. She remembers changing majors in college because she just couldn&#039;t
+finish. She was going to be an artist and she wanted to be, but her folks
+thought it was very impractical and that there was no point in her going through
+with it, where my family would&#039;ve encouraged me to do it. They were always so
+placid. We had a grandfather that lived with us, my mother&#039;s father. He was
+wonderful. Tall, good looking Irishman. My mother would scold us and then he&#039;d
+say, &quot;Anna, you can&#039;t scold them, because they&#039;re good girls.&quot; Well, he had
+thirteen children. Thirteen children. She&#039;d say, &quot;Father, I remember you
+disciplining us.&quot; But they had a nice rapport. It was happy time.
+
+Redman:So for you, I imagine that your father&#039;s newspaper businesses would&#039;ve
+come up against tough times, certainly, in those days.
+
+ 01-00:13:27
+
+PROUT: Oh, yes. But you know what he did? He was a young man. The first
+newspaper was in Gilroy. Gilroy was a pretty small town then. But anyway, one of
+the men got measles. He was the man that sold hay. So these fellows were all
+still so young, they--let&#039;s see, how&#039;d that go? Well, they had a dummy horse up
+on top of the feed store, so they put red dots all over. So they had a wonderful
+time. Then my dad joined all these clubs, the Kiwanis, the Rotary. He was just a doer.
+
+Redman:So he was active in joining clubs and associations?
+
+ 01-00:14:15
+
+PROUT: Elks. Yes.
+
+Redman:For someone that, let&#039;s say, is unfamiliar with the Elks Club or the
+Kiwanis Club, what types of things did that mean?
+
+ 01-00:14:23
+
+PROUT: They were service clubs. The Elks Club did a lot for charity. Then they
+had the Kiwanis Club, too. You had to be in business to join the Rotary and the
+Kiwanis. Well, you had to be a businessman.
+
+Redman:So certain men in the community would get together and do charitable
+activities or service activities?
+
+ 01-00:14:49
+
+PROUT: Yes. Then they always had lunch on Tuesday. That got a little boring for
+my father, I think. But he loved it, because he knew that these men were all his
+friends, and they were good and they were working hard. But it was a lovely time
+for a young couple, I think. So there was a lot of happiness. Then we would want
+to go to Sacramento for the state fair. My father&#039;d say, &quot;No, no, we can&#039;t go,
+girls. I&#039;m getting this wonderful offer to print something.&quot; I can&#039;t remember
+now what it was, but we just can&#039;t go. Well, then my mother came home, and she
+was packing to go to Sacramento, and we said to my father, &quot;We knew you&#039;d let us
+go.&quot; He always wanted to widen our horizons, which was a lovely way. So I have
+nothing negative to say about either of them.
+
+Redman:Were there any struggles that you would point to in the Depression?
+
+ 01-00:15:53
+
+PROUT: Oh, yes. My dad and mother lost their home, a beautiful home on King
+Street in Santa Cruz. That, oh, my father was just--he was ready to kill
+[Amadeo] Giannini. Really. Because Giannini was the big banker, Bank of America,
+and he was doing terrible things. Some of these poor little farmers, he was
+telling them that they had to close their doors. That was an awful time.
+
+Redman:Do you think that California suffered the full brunt of the Depression?
+
+ 01-00:16:29
+
+PROUT: I think so. Yes, I think they did.
+
+Redman:So people could really feel it. But it sounds like, though, in the home,
+there could be a sort of situation where your parents might be able to protect
+you from--
+
+ 01-00:16:42
+
+PROUT: Oh, yes, they did. In fact, I don&#039;t think my sister or I even knew about
+it, because we were so protected. Then we moved to another house, which was very
+nice, so it wasn&#039;t so traumatic. And the other house had ducks, so we were all
+crazy about the darn ducks.
+
+Redman:[audiofile stops] When we left off, we were talking a bit about what life
+was like before the war, during the Great Depression, growing up with your
+sister and your mother and your father. Then for a while, your grandfather was
+also in the house.
+
+ 01-00:17:23
+
+PROUT: Yes, he stayed with us.
+
+Redman:He was from Ireland, you said.
+
+ 01-00:17:26
+
+PROUT: He was from--oh, he was a handsome man. Great big, tall man. Had a beard
+and everything. My mother--see, she had a lot of brothers and sisters, and they
+would always come down and see him. And my Aunt Virginia wrote him a letter
+every day, from San Francisco. They just adored him. And he had been a tough
+parent and not an easy one. He had five sons, and they didn&#039;t all want to be
+Catholics. They would say, &quot;Dad, you&#039;re taking our little sisters, when it&#039;s
+pouring rain, and you&#039;re not covering them up enough.&quot; So anyway, they really
+got after him. Then finally, he lessened a little bit and he wasn&#039;t so strict.
+But he loved the kids; you knew that.
+
+Redman:How about then, as you get a little older, as you&#039;re starting to get into
+high school age, were there subjects that you and your sister both enjoyed
+particularly much, or subjects that you disliked?
+
+ 01-00:18:39
+
+PROUT: The only thing I disliked was geometry.
+
+ Redman:Geometry.
+
+ 01-00:18:42
+
+PROUT: Geometry. But I loved algebra. And we had good teachers. They were
+wonderful; they inspired you. But geometry was very hard for me. I hated it. And
+I made it harder. We had this nun, she was a great big nun, and she taught us
+typing, too. She had this long, long room and she had typewriters and here and
+here, and then she could barely go in the middle, with the typewriters. Anyway,
+but she was great. She taught us how to type.
+
+Redman:So that skill typing sounds like that would come in handy.
+
+ 01-00:19:25
+
+PROUT: Came in handy. Very, very much so.
+
+Redman:That was something that young women of your generation, many of them
+didn&#039;t get skills in typing, it seems like, and that they would have to pick it
+up later on or they would struggle.
+
+ 01-00:19:38
+
+PROUT: Well, I think most good high schools had it, because they knew that it
+was the only communication we had, really. It worked out well and
+everybody--then we&#039;d do the hunt and poke, where we look over here. But Sister
+Eleanor was cute. Then if she saw us not doing that, she would tap us on the
+shoulder. Then once in a while, boom! But she meant so well and was a good
+instructor. So they weren&#039;t angry with us.
+
+And my mother and dad were so fair. One time I had a report card that my mother
+knew did not belong to me, because it was terrible. So anyway, we went up to the
+school. My mother would never criticize one of the sisters. She was very, very
+diplomatic. So she said, &quot;I know this report card doesn&#039;t belong to my daughter,
+because she has much better grades.&quot; Well, they had copied the wrong report
+card. But Mom never, never said bad words about the teacher. She just kept her
+level, and we knew it was going to turn out all right because I was a good student.
+
+Redman:That seems like something, a character trait that you would want to see
+in a head teacher.
+
+ 01-00:21:05
+
+PROUT: Yes, exactly.
+
+Redman:Someone who doesn&#039;t blow up or respond to things, someone who keeps their cool.
+
+ 01-00:21:08
+
+PROUT: Oh, yes. I was a head teacher for a while, and we had some interesting
+times. I always remember this one black man. He didn&#039;t want his child
+disciplined. I said, &quot;I don&#039;t think you know what the term discipline means.&quot; I
+said, &quot;We don&#039;t put our hands on the children. If we did, Protective Service
+would be called in right away, and we would be in trouble.&quot; And we would&#039;ve, so
+we never did it. But this man was threatening me. We were in the hall of that
+Maritime center, and all these other parents were coming by me and trying to see
+if I needed help. I said, &quot;No, I&#039;m fine.&quot; So he backed me up against the wall,
+but didn&#039;t touch me. I said, &quot;Sir, now I&#039;m going to say good evening and I&#039;m
+just not going to think about what we&#039;ve been talking about, because I know now
+you understand where we stand.&quot; You had to be very diplomatic. And then, you
+learned to be diplomatic. Then he never said a word after that. But the word
+discipline was, ugh; he didn&#039;t like that.
+
+Redman:We&#039;ll get back into those stories in just a moment, but that was a really
+fascinating example.
+
+ 01-00:22:27
+
+PROUT: It was good.
+
+Redman:San Jose State comes next for you. You started in 1939, is that right?
+
+ 01-00:22:33
+
+PROUT: Yes, I graduated in--well, just during the war.
+
+Redman:So &#039;43, you graduated?
+
+ 01-00:22:40
+
+PROUT: I graduated in &#039;43. Now we have about three or four people here who
+graduated about the same time.
+
+Redman:Is that right?
+
+ 01-00:22:47
+
+PROUT: Because we&#039;ve had a lot of Cal people and a few Stanford, but we&#039;d never
+had anybody from San Jose, so it was fun. Now this lady is leaving because--she
+didn&#039;t stay very long. Her husband died. She had a home someplace and they were
+going to paint it, and she decided she would leave.
+
+Redman:What was San Jose State like when you arrived there? What was the school
+like when you got there?
+
+ 01-00:23:13
+
+PROUT: Well, it&#039;s always been kind of a mess, because they would have to
+take--architects would bid on the schools. So those campuses just had a little
+school here, a little school there; it was just a mess. We hated that, but we
+loved the common area, which was so--I loved that school. I just loved it. It
+was fun. We did well in school and we just had--I joined a sorority.
+
+Redman:Did your sister join you, as well, the next year?
+
+ 01-00:23:52
+
+PROUT: No, she went to Dominican [University].
+
+Redman:Oh, is that right?
+
+ 01-00:23:55
+
+PROUT: Yes, she went to Dominican and she wanted to. We had an aunt who was a
+Dominican nun, and she wanted us all to go to Dominican. But I didn&#039;t want to
+go, and my father didn&#039;t make me. So I went to community college for two years,
+and then went to San Jose and graduated from there.
+
+Redman:What were you studying at--?
+
+ 01-00:24:16
+
+PROUT: Teaching.
+
+Redman:You were studying be a teacher all along?
+
+ 01-00:24:18
+
+PROUT: Yes.
+
+Redman:Did you know when you arrived that that&#039;s what you wanted to do?
+
+ 01-00:24:23
+
+PROUT: Yes, because it was basically a teacher&#039;s school for so long, and now
+it&#039;s broadened; it&#039;s everybody.
+
+Redman:What were the options for a young woman like you in those days? You&#039;d
+mentioned nursing was clearly an option that was in your family, becoming a nun,
+or becoming a teacher. Were there sort of career opportunities that might&#039;ve
+presented themselves?
+
+ 01-00:24:47
+
+PROUT: Yes, like librarian. They had a wonderful library school there, just
+wonderful. I always remember when Eisenhower first went in as President, we had
+a place where it was kind of a common area, and he spoke and it was the first
+time anybody spoke on television. It was really very awe-inspiring. It was
+marvelous. Then during the war, it dropped so much because the men weren&#039;t
+there, and it was a small school.
+
+Redman:What was December 7, 1941 like for a student? The day Pearl Harbor was
+attacked, what was that like, to be a student?
+
+ 01-00:25:30
+
+PROUT: I&#039;ll tell you. My friend and I went down to Watsonville; we were going
+for the weekend. We went to her home and her grandfather was there, and of
+course, Pearl Harbor came on. He looked at us, and he said, &quot;My dear girls, we
+must pray.&quot; I&#039;ll never forget that old man. So everybody had a distinctive
+meaning to what happened. Really, we just cried, because we knew that all the
+men were going to go and some of them weren&#039;t going to come back. It was a
+terrible thing.
+
+Redman:So part of the sadness of that moment and the emotions that came up were
+about the implications for the young men around you. It wasn&#039;t just about what
+had happened on that particular day, which was, of course, very sad.
+
+ 01-00:26:31
+
+PROUT: Yes, yes. But you know what? I heard an interesting thing. I&#039;d never
+heard this before. We were in the [Hawaiian] islands later. They said that some
+of those fellows that had been on those ships that were bombed, that they--let&#039;s
+see, how did that go? They had a musical contest. They won, I guess, and the
+head general said, &quot;I want you fellows to sleep overtime, because you won the
+contest.&quot; And they were some of the ones that were killed. That was so sad, when
+you think back on that. But I&#039;d never heard that until the last time we were in
+the islands. Interesting.
+
+Redman:Let me ask about after the war starts. So you were in your second or
+third year of school by that time.
+
+ 01-00:27:24
+
+PROUT: Right.
+
+Redman:Had you transferred to San Jose State by that point, do you remember? Or
+was that still in the community college days?
+
+ 01-00:27:30
+
+PROUT: No, I just had two years in the community college, and then I went to State.
+
+Redman:War is declared not that long after, and early in 1942 President
+Roosevelt issues an executive order that sends the Japanese on the West Coast to
+internment camps.
+
+ 01-00:27:52
+
+PROUT: Yes, right. I had a couple of friends that were in an internment camp and they--
+
+Redman:Can you talk about that?
+
+ 01-00:27:47
+
+PROUT: Yes. And they loved it. They go back every year, because they were little
+kids and they had fun. And they all lived so close together in those internment camps--
+
+Redman:And they could play, as kids.
+
+ 01-00:28:10
+
+PROUT: They could play. The only thing that was so sad, I had a friend who--
+[mic noise; audiofile stops, re-starts]
+
+Redman:When we left off, we were talking about what school was like, what
+college was like for you and the start of the war, because those things would&#039;ve
+coincided in your life.
+
+ 01-00:28:35
+
+PROUT: Right.
+
+Redman:And we were talking about some of your friends who were young kids, who
+were of Japanese ancestry, who went to camps, and they had a different
+perspective on it than you might imagine.
+
+ 01-00:28:50
+
+PROUT: Oh, they were wonderful. They were with other kids of their age. The only
+thing is, my friend Mary was a beautician. Mary&#039;s father was taken away, one of
+the men that was taken away, and eventually brought back. They had scars in
+their family and it was just terrible. I remember she worried so much about her
+father. Then finally, he came back to camp. But she goes every year. She loves
+it. And she has more friends. She made new friends. It was marvelous. It&#039;s just
+a plus. And it&#039;s so sincere. It&#039;s just marvelous. Then Roosevelt was really on
+the pan, because he wanted to--oh, no, I know. The Governor of California was
+really giving him a bad time. He said, &quot;You&#039;ve got to do something, because the
+Californians think it&#039;s going to happen again.&quot; That was very dramatic. Very
+dramatic. Then of course, it didn&#039;t happen again, but they were afraid it was.
+Then they had blackout curtains all around here.
+
+Redman:Did your family happen to have a particular perspective on what had
+happened to the Japanese?
+
+ 01-00:30:14
+
+PROUT: Well, I think they felt very bad, because a lot of them had beautiful
+ranches and farms and everything, and a lot of those things were taken away, and
+they were never brought back. There a family over here in Richmond. I think a
+lot of their possessions were taken away. So there&#039;s a lot of bitterness. Those
+people are so sore. And they&#039;re good people. They&#039;re workers. That was an
+atrocity, really.
+
+Redman:Can you talk about what your parents said or what they felt about FDR?
+
+ 01-00:30:49
+
+PROUT: Well, they liked him.
+
+Redman:Did you grow up listening to FDR on the radio?
+
+ 01-00:30:53
+
+PROUT: Yes, we did.
+
+Redman:I understand that during the Depression, he would&#039;ve had fireside chats.
+
+ 01-00:30:58
+
+PROUT: He was wonderful.
+
+Redman:What would those have been like to listen to?
+
+ 01-00:31:03
+
+PROUT: Well, they were just about what was going on, giving people hope that it
+was going to change. A lot of times, he would send his wife, because he had
+infantile paralysis and he never wanted to stand up, if you ever noticed the
+pictures. He was always sitting down. But he was a wonderful president.
+
+Redman:He brought about a series of initiatives that we today-- well, even then,
+were known as the New Deal.
+
+ 01-00:31:34
+
+PROUT: New Deal.
+
+Redman:In particular, I&#039;m wondering if their works programs, like the WPA and
+the CCC--
+
+ 01-00:31:42
+
+PROUT: It worked. It worked.
+
+Redman:Can you talk about what those were?
+
+ 01-00:31:47
+
+PROUT: Well, they were wonderful. Some of these men were tramps; they didn&#039;t
+have work. So I remember my mother would always give a tramp food. She said she
+could not stand it. In the meantime, her engagement ring was stolen, a beautiful
+diamond, but--never got it back. But she thought that poor man maybe needed it
+to convey it into food or something. So there were a lot of good things.
+
+Redman:So these programs hired people and resulted in parks and roads and things
+like that.
+
+ 01-00:32:24
+
+PROUT: Oh! Oh! Oh, yes. They were wonderful, and that money was put to such
+good. Roosevelt was a fine, fine man. Everybody loved him.
+
+Redman:This is great.
+
+ 01-00:32:35
+
+PROUT: Well, everybody liked him and loved him. But he was a fine leader. And
+with that infantile paralysis, he had had a bad time.
+
+Redman:What about Eleanor Roosevelt?
+
+ 01-00:32:45
+
+PROUT: Oh, she was wonderful. A lot of times he would send her out to fix things
+up, because it would be too hard for him, and she did it. I remember we were in
+Australia one time and she came along--there were pictures of her--and she would
+smooth the way. But she was bright, very, very bright woman, and always could
+convey his message, which was so good. Really wonderful.
+
+Redman:So let me get back to college for a moment. What were some of the methods
+taught to you as a teacher, that you would describe as particular to that time
+or that era? So we&#039;ll talk about how some of them changed, but give me a
+starting point.
+
+ 01-00:33:30
+
+PROUT: Very permissive. Everything was permissive. You couldn&#039;t tell a
+child--you couldn&#039;t tell him anything. It was Dewey; Dewey was the man.
+
+Redman:John Dewey.
+
+ 01-00:33:42
+
+PROUT: John Dewey. I remember my brother-in-law, who was a very fine husband and
+a fine disciplinarian, but he would say to me, &quot;If you ever have children,
+you&#039;re going to be too permissive,&quot; because that was during that era. Now we
+don&#039;t feel that way at all.
+
+Redman:So I understand John Dewey was an educational theorist who had run the
+Chicago experimental school, and then had gone to Columbia. So he would&#039;ve been
+an educational theorist that you probably would&#039;ve used his textbooks or used
+his methods.
+
+ 01-00:34:16
+
+PROUT: Oh, we used his methods and texts. Then we had a school in New York. I
+can&#039;t think what the name of it was, but it was very permissive. We all began
+realizing that that wasn&#039;t the answer. That permissiveness did nothing for children.
+
+Redman:So first of all, was there a student-teacher program? What was your first
+experience in the classroom? Did that come when you were a college student? Were
+you a teacher&#039;s aide or something?
+
+ 01-00:34:48
+
+PROUT: No, you weren&#039;t a teacher&#039;s aide, you went in and you took the place of
+the teacher, and then she was there. Student teacher, they called it. It was
+really good, because the teacher was there; but she wasn&#039;t doing any work or
+anything, she was just listening.
+
+Redman:And maybe providing some--
+
+ 01-00:35:08
+
+PROUT: No, no. First of all, they had an observation class first, where you&#039;d
+observe; then finally, a student teacher, where you&#039;d actually teach with the
+teacher. So they did really a good job.
+
+Redman:Did you find that the methods that people were talking about in the
+classroom lined up at that time to what teachers were actually doing?
+
+ 01-00:35:29
+
+PROUT: They were doing, yes.
+
+Redman:So they were taking pretty much the textbook methods, the Dewey methods--
+
+ 01-00:35:36
+
+PROUT: Absolutely.
+
+Redman:--and really applying them, whether or not they were effective or not.
+
+ 01-00:35:41
+
+PROUT: Yes. That&#039;s kind of the trouble with education sometimes; they have so
+many new ways of doing it. Like developmental teaching, where you put a
+child--let&#039;s see, the child will be in the first grade. Then he gets better and
+better and better, and then he goes to another grade, but he&#039;s never quite
+ready. But then he comes back and starts again. And then they put some of the
+good ones in the classroom and some of the ones that need help, and that&#039;s
+developmental. And that&#039;s a wonderful thing. That really clicked.
+
+Redman:So there seems to be sort of this shift between the Dewey-based, then,
+the theories of childhood development, and the psychology of the stages of
+childhood development. So I&#039;m wondering about preschool and pre-K or pre-kindergarten--
+
+ 01-00:36:41
+
+PROUT: It&#039;s all the same thing.
+
+ Redman:Sure.
+
+ 01-00:36:42
+
+PROUT: It&#039;s all the same thing. The only thing that is different is that the
+teachers have degrees and they know what they&#039;re doing. They&#039;re early childhood
+teachers. See, that&#039;s what our program had for so long; those girls knew what a
+child was supposed to do. And I hated that word preschool until I died, because
+it didn&#039;t mean anything.
+
+Redman:Right, it was a meaningless term, okay.
+
+ 01-00:37:10
+
+PROUT: Yes. Then we had to write curricula for the state, and we wrote some
+good, good things. Our girls were wonderful.
+
+Redman:Back maybe when you would&#039;ve graduated from college, would those sort of
+pre-K programs have been around? Or were they a new--
+
+ 01-00:37:37
+
+PROUT: They were starting, I think. They were starting, yes. Then they kind of
+went hog wild a little bit and then they leveled off. And I do know that Head
+Start, they never had enough money. Then they had--oh, what are some of
+the--Montessori. Montessori was strange, because it was one child. You probably
+have heard about Montessori.
+
+Redman:I&#039;ve heard a little bit about it, but I&#039;d love to hear you explain it.
+
+ 01-00:38:03
+
+PROUT: Yes. The child works on his own. I have a couple of nephews that were in
+schools like that, and they were very bright little boys, and they did quite
+well. But I do know that just being by yourself--see, the social aspect is so
+important for kids. They need to interplay with their friends.
+
+Redman:Can you talk a little bit about graduating in the midst of World War II?
+I imagine that the outlook for a young teacher, a newly-degreed teacher--
+
+ 01-00:38:43
+
+PROUT: Sure.
+
+Redman:Now, did you have to do an additional licensure after that? Or in your
+degree program, did you come out a licensed--?
+
+ 01-00:38:52
+
+PROUT: Oh, yes. We had to take tests. They were state tests. We had to take
+those. Then we just graduated, got a credential, and we&#039;re on our way. That was
+an exciting time. Really exciting, because finally, you were somebody and you
+could do it. You knew you could do it.
+
+Redman:You were ready, it sounds like.
+
+ 01-00:39:13
+
+PROUT: Yes. But this is kind of interesting. When I first graduated, I went
+over--my sister is seventeen months younger, and she was at Dominican. They had
+a wonderful, wonderful early childhood program; the nuns had it. It was done
+just the way most of us would like our programs to go. They were marvelous
+women. They still have it. Anyway, one of the sisters said to me, &quot;What are you
+going to do, Mary?&quot; And I said, &quot;Well, I want to get a job and I&#039;d like to be in
+early childhood ed.&quot; She said, &quot;They&#039;re hiring in Richmond.&quot; So I went to
+Richmond, I got a job. We had so many people looking for jobs. I ran all the way
+home to tell my mother I had a job! [they laugh] She was getting a little leery
+about that.
+
+Redman:In those days, Richmond was changing really rapidly.
+
+ 01-00:40:12
+
+PROUT: Oh, Richmond was wonderful!
+
+Redman:Now, in, let&#039;s just say, 1940, or when you would&#039;ve started college, I
+understand that Richmond was a pretty sleepy town; but then--
+
+ 01-00:40:50
+
+PROUT: It was.
+
+Redman:--when the Kaiser Shipyards move in and Standard Oil is booming and
+there&#039;s a war boom, a legitimate war boom, that affects everything. That affects
+the drycleaners, that affects the movies; and that also affects the schools,
+doesn&#039;t it?
+
+ 01-00:41:09
+
+PROUT: Oh, yes. But also, that was a gradual thing, too, gradual. It just didn&#039;t
+happen all at once. We used to get mad at Standard Oil because they had a
+refinery there. It was just almost over the hill from San Rafael. They would let
+some of their gases go into one of our yards. We had to go and talk with them
+and say, &quot;You&#039;re doing something just terrible to these children.&quot; Then you know
+what they&#039;d do? They&#039;d take the staff out for dinner. Bunch of crumbs.
+
+Redman:Oh, that must&#039;ve been frustrating.
+
+ 01-00:41:50
+
+PROUT: That was terrible.
+
+Redman:Can you talk about your job interview for your first job in Richmond? Do
+you remember what it was like to interview for that job?
+
+ 01-00:42:01
+
+PROUT: Yes. Well, see, I just went in. Mrs. Boucher was the director. And she
+had very high ideals, so she knew that I was going to take her place. So anyway,
+I just walked over and got in the desk and I became known--well, I had been
+known, because I was a head teacher. She wanted me in that job; she knew that I
+loved the field. She had said to me, &quot;Are you planning on staying?&quot; And I said,
+&quot;Yes. Yes, I am.&quot;
+
+Redman:But your initial job, though, as a teacher, when you first arrived at
+Richmond, do you remember that interview?
+
+ 01-00:42:44
+
+PROUT: Oh, yeah. Well, I really wasn&#039;t interviewed, I don&#039;t think; I was just
+placed. I was just placed.
+
+Redman:So you walked in and presented your--
+
+ 01-00:42:53
+
+PROUT: Credentials. They needed bodies, see? It was during the war and they
+needed people. I was with two-year-olds, and it was fun. I enjoyed it and I felt
+that we did a lot. And the field was just opening up.
+
+Redman:So would you have started there as a teacher in &#039;43? Or maybe in &#039;44?
+
+ 01-00:43:16
+
+PROUT: &#039;43. No, it was &#039;44.
+
+Redman:It was &#039;44.
+
+ 01-00:43:19
+
+PROUT: &#039;44, yeah.
+
+Redman:So before you go on, I wonder if, while the war is still going on, can
+you describe what a typical day would&#039;ve been like for you as a teacher in 1944?
+
+ 01-00:43:33
+
+PROUT: Well, I&#039;ll tell you. First of all, it&#039;s hard to explain.
+
+Redman:You might wake up in the morning--
+
+ 01-00:43:40
+
+PROUT: Yes, you wake up in the morning and have breakfast with the children.
+Then the school-age children go to school, and then they come back for hot
+lunch. Then in the afternoon, they have activities, art activities and things
+like that, to keep them busy. It worked out just fine. But also we had a
+twenty-four-hour center, where the parents would bring the children in their
+nightclothes. So they&#039;d bring them maybe at 8:00 o&#039;clock at night, and then we&#039;d
+have them go to bed and sleep. Then their parent would pick them up about 7:00
+o&#039;clock, because they had all those shifts in the shipyard.
+
+Redman:Now, who would cover on the twenty-four-hour center? Was it teachers?
+
+ 01-00:44:24
+
+PROUT: Teachers, yes.
+
+Redman:So did you have to do the occasional overnight shift? Or did people sign
+up for that?
+
+ 01-00:44:30
+
+PROUT: No, no, I think they were just scheduled. They had a head teacher, and
+she would schedule. It really meant just going to bed. Wearing your
+nightclothes, and then the mother would pick you up. But see, the parents worked
+shifts. They did everything for the war, those Victory ships and everything.
+
+Redman:They would run three shifts, so you would have to have some sort of
+place, I assume, if you had a child, to bring them--
+
+ 01-00:45:03
+
+PROUT: Oh, yes. Yeah.
+
+Redman:--and for them to get to school.
+
+ 01-00:45:05
+
+PROUT: And then they&#039;d pick them up, yeah. And then the school-age children
+would go to the adjoining public school, like Lake. We were very fortunate to
+get Lake, because Lake was an interesting school. It was built in parts. I can&#039;t
+think of the word they called it; it was a word--
+
+Redman:Piecemeal, sort of?
+
+ 01-00:45:30
+
+PROUT: Well, yeah, but it was a beautiful little building, and it went to all
+our needs. We could really establish it ourselves. And Crescent Park was the
+same way. The district paid for the building of Crescent Park, and then we paid
+for the equipment. Did anybody tell you about the daily inspection period that
+we had?
+
+Redman:No, can you talk about the daily inspection period?
+
+ 01-00:45:46
+
+PROUT: Oh, yeah! Oh, that&#039;s wonderful. The mother or father would bring the
+child into the building, and we had a little lamp. That was kind of superfluous.
+But anyway, they would look at the tummy of the child. We didn&#039;t want a sick
+child to come in. It was really wonderful. Sometimes they&#039;d have to go back home
+with their parent.
+
+Redman:Who would do the daily inspection?
+
+ 01-00:46:17
+
+PROUT: Had a teacher.
+
+Redman:The head teacher would?
+
+ 01-00:46:19
+
+PROUT: Not the head teacher, but an inspection teacher, we called her. Because
+the head teacher had to administer the whole bit, the whole thing, the whole program.
+
+Redman:Can you tell me, what were the duties of the opening teacher? What did
+the opening teacher do?
+
+ 01-00:46:34
+
+PROUT: Well, she did some of the bookwork, and she would interview the children
+and interview the parents, if anybody was sick, and wouldn&#039;t let them go to work
+if there was something going on. Then she had, usually, a place in the
+classroom, eventually, that she would be the teacher in the classroom.
+
+Redman:So she would get to the school early and would go through several steps,
+in order to get it ready for the day, but then would proceed to be a normal teacher.
+
+ 01-00:47:11
+
+PROUT: Yes. We had deep schedules. Everybody knew where they were going to go,
+what they were going to do. Our first director was wonderful. She planted the
+core to everything.
+
+Redman:What was her name?
+
+ 01-00:47:25
+
+PROUT: Erla Boucher. She died, oh, some time ago.
+
+Redman:Can you talk about her a little bit?
+
+ 01-00:47:31
+
+PROUT: Oh, she was wonderful. She was a marvelous example. Everything had to be
+perfect, almost too perfect. But she had been the head of--oh, what do you call
+it? WPA nursery school, a small one in Richmond. The superintendent--I can&#039;t
+think of that man&#039;s name. We had a little center at Peres. We had maybe about
+sixty children. What is that man? I know it so well. But he and Mrs. Boucher
+paced off the amount of room for a regular school. They were just wonderful; so
+many things, they did for themselves. And we had wonderful maintenance people.
+They always knew we had the smallest children. So if we called, they were there,
+because they knew something had broken or something was hazardous. So we had a
+lot of support.
+
+But the superintendent didn&#039;t like us. And I remember seeing Mrs. Boucher going
+to the head office, where the superintendents were, and she would come back
+crying because we were just one more program that they had to worry about, and
+they hated it. And the whole field was so new then. But then when Dr. Griffin
+came along, he had a great sense of duty and what you could do. He was
+wonderful. He would meet with me every Tuesday; we&#039;d have lunch. He loved the
+food because our food was so good. He was a dear, dear man. He helped us a lot.
+And with the union, I always remember the teacher union and--
+
+Redman:So the union comes along a little later, is that--
+
+ 01-00:49:20
+
+PROUT: Yes.
+
+Redman:Do you remember about when? Because I talked a fair amount with Sharon
+Fogelson about the union activity, but I&#039;m curious if you can situate us in
+time. That starts to come about--
+
+ 01-00:49:34
+
+PROUT: That was about maybe ten years from the beginning. But Henry Clark was
+the main man. He turned out to be a very good friend. Then the teacher union,
+he&#039;d call me, and he&#039;d say, &quot;Mary, get that teacher off my back.&quot; That we became
+good friends. Then he&#039;d say to me, &quot;You and Sharon are doing a beautiful job.&quot;
+Well, we were. We were working hard.
+
+Redman:This is great. With this, I&#039;m going to stop this tape.
+
+Begin Audiofile 2 05-11-2012.mp3
+
+Redman:My name is Sam Redman, and this is tape two today, May 11, 2012, with
+Mary Hall Prout. And in the interim, we discussed a little bit about some of the
+changing theories and changing ideas about education in this era. We&#039;re working
+with younger and younger children, and new research is coming out about how the
+brain actually develops in that age.
+
+ 02-00:00:50
+
+PROUT: I know; it&#039;s quite something.
+
+Redman:So you&#039;re taking the ideas taught by the Deweyites, and they don&#039;t seem
+to fit entirely, with what you&#039;re trying to do. So some new things seem to have
+to be innovated.
+
+ 02-00:01:07
+
+PROUT: But they really do. We hated to evaluate. We had evaluations that we did
+on children. But we did it mostly by observing the child. Then we would call the
+parent in and talk to the parent. We had a wonderful, wonderful system going. It
+was marvelous. There was a law that was passed in Sacramento, asking all these
+people to have evaluations. So our people--we called them assessment devices,
+and they were wonderful. They would observe the child. It wasn&#039;t really like a
+big old evaluation; it was being critiqued, and it was just how we saw the
+child. That came out wonderfully when they went to kindergarten, because the
+teachers in kindergarten weren&#039;t that good and our people were excellent. They
+just did a beautiful job. What they would do is the teacher would have maybe
+three or four children that she would evaluate. Each one of those teachers would
+establish goals and objectives. They would establish them, and then they would
+try to exemplify them, how they exemplified them. They were really invaluable.
+Those little kids were little, young, but they always hit it right on the nose.
+Then the parent would come in, and we would talk with the parent about it. It
+was never gross. It was just the way it should be, but it wasn&#039;t a lot of
+gobbledygoo that didn&#039;t mean anything.
+
+Redman:Tell me about who the parents of the kids were. First during the war
+itself, and then I&#039;ll ask again later on, because I suspect that there are
+actually several pretty major demographic shifts of who the parents were, of the
+kids. But during the war, what were the parents like?
+
+ 02-00:03:17
+
+PROUT: Well, the parents were just people that were working in the war effort.
+They were from all over the United States. They were hard-working people, and
+they got good salaries. Many of our cooks had been cooks for big, big programs
+and they&#039;d been from Oklahoma and from Texas. Those women could cook! And they
+never wasted anything. The director was kind of involved in the food items. But
+they never wasted. We never had leftovers, because they just knew what to order,
+because they&#039;d ordered for big families. The parents would come in, and they&#039;d
+smell the cornbread. It was so good. Or they&#039;d smell something that--because we
+had these big, huge, huge stoves.
+
+Redman:Now, you&#039;d mentioned that the director--I wonder if you could go back and
+elaborate--was interested in food. People have told me over and over again, the
+high quality of the food. How did that happen?
+
+ 02-00:04:25
+
+PROUT: Well, see, we had a nutritionist, at first. We had everything at first;
+the money was just flowing, just flowing, and we found a lot of money. And we
+had this lady who was a retired nutritionist. Her name was Lee Leet, I think it
+was. [audiofile may stop &amp; restart]
+
+Redman:You had a nutritionist. And what was her name again?
+
+ 02-00:04:49
+
+PROUT: Alice Leet. She was from Columbia, and she was retired. She really set
+the pace on that program. She was wonderful.
+
+Redman:Sorry, she was from Columbia University?
+
+ 02-00:05:00
+
+PROUT: University. She&#039;d been there; she&#039;d been retired. I don&#039;t know how Mrs.
+Boucher got a hold of her, but she did. She set the menus, and she did
+everything to do with--so you knew that the program was well set up and it would
+have the right kinds of nutrition. Then we had these lovely setups. The carts
+would come from the kitchen with the food on it, and then they would go into
+each classroom. It was a lovely setup. Then we taught the children manners. They
+didn&#039;t have to be taught; they just had good examples from the teachers. So
+there were many plusses, just oodles of plusses.
+
+Redman: I&#039;ve heard a number of stories where kids who maybe hadn&#039;t had good food
+before, or things like, in particular, fruits and vegetables, this might&#039;ve been
+their first exposure to fruits and vegetables.
+
+ 02-00:05:56
+
+PROUT: I think it was.
+
+Redman:And later on, I understand, a garden--
+
+ 02-00:06:00
+
+PROUT: Oh, they were so funny! These kids didn&#039;t like the food that they cooked.
+It was so funny. Most little kids don&#039;t like radishes. Because they grew them
+themselves, they ate them. But there were so many, they&#039;d say no, no, they
+didn&#039;t like them. I don&#039;t blame them.
+
+Redman:But they gave it a try.
+
+ 02-00:06:21
+
+PROUT: But they gave it a try. That was very important, to taste everything.
+See, everything was a learning situation. The whole program. We took it very
+seriously, and we loved it, and that came through.
+
+Redman:Do you think that there had been previously in that age group, a tendency
+instead of seeing things like a learning opportunity or based on a curriculum,
+based on research, that instead, it was more of a daycare center, a baby-sitting
+sort of thing?
+
+ 02-00:06:55
+
+PROUT: No, no, no. We had a curriculum, and we had to write the curriculum, and
+we had to send it to the state, so it was all accredited. We had nature study,
+we had art, we had science. I would have head teacher meetings, and this is
+where Sharon came in so beautifully. She&#039;s so vocal. She was really great.
+
+Redman:I want to get back to that. I understand that there was a science
+curriculum and something set up called the science committee. So I&#039;d like to ask
+you about that in a few minutes.
+
+ 02-00:07:37
+
+PROUT: Well, we had a lot of--
+
+ Redman:Committees.
+
+ 02-00:07:40
+
+PROUT: Committees, yes. Committees on curriculum and on parent education and on
+everything. Then we had PTAs too, where the parents would come and they would
+have learning situations.
+
+Redman:Can we talk about the end of the war? Do you remember when FDR died?
+
+ 02-00:07:59
+
+PROUT: Yes. I was in San Francisco, walking down First Street, when the paper
+came out and says FDR died. I remember everybody cried. They loved that man. I
+always remember. That stayed in my mind for a long, long time. Everybody was
+crying. Everybody had stopped; they were just stunned. A good man, and they knew
+he was a good man.
+
+Redman:How about Truman, when he came in? Did you have thoughts about him? He
+obviously was a very different person than FDR.
+
+ 02-00:08:43
+
+PROUT: I think he was a very good man. I remember going back to where he lived
+and going through his library and everything, and how interesting it was. He
+fooled a lot of people. He wasn&#039;t the haberdasher that they thought he was; he
+was a brilliant man. I remember going to that place out of Kansas City, and Bess
+had this beautiful old home, and she never wanted to do what Harry wanted her to
+do, as far as being first lady. She did just what she wanted to do.
+
+Redman:Yes. So it&#039;s interesting thinking about those transitions. Then in &#039;45,
+the Germans surrender. But then a little later on, the dropping of the atomic
+bombs on Hiroshima and Nagasaki.
+
+ 02-00:09:37
+
+PROUT: He&#039;s the one that had to have the nerve to do that.
+
+Redman:I&#039;m wondering if you could talk about when you first heard the combined
+news of the atomic bombs and then the surrender of the Japanese, what your
+initial thoughts were.
+
+ 02-00:09:56
+
+PROUT: Well, I was just trying to think. I think the whole thing was so
+overshadowed by--it was so immense. And MacArthur and all that. We had friends
+that were being tortured, we had friends--it was just almost unbelievable,
+because you weren&#039;t there. Some of those men really put up--my brother-in-law
+was one of them. He went behind the Marines. He was in the Army. My sister says
+he couldn&#039;t talk about it, to this day. But I have a friend right now who was a
+pilot. He was wonderful. He was in Africa. They were bombers; they bombed the
+German bombers. He said the first time he killed someone, it was just terrible;
+but he had to do it. Someday, I&#039;d love to have you talk with him. He tells some
+of the most interesting stories.
+
+Redman:Let me ask, do you remember that time, being around the school at the end
+of the war? Were there any changes that occurred overnight? Were there any
+implications for the school immediately, at the end of the war?
+
+ 02-00:11:18
+
+PROUT: No, I don&#039;t remember any. I really don&#039;t.
+
+Redman: Because it seems like there are a number of implications after the war,
+in that the shipyards start shutting down. But then also we talked about the GI Bill.
+
+ 02-00:11:34
+
+PROUT: Oh, the GI Bill was great.
+
+Redman:I&#039;m wondering maybe if you could sort of put this in a bit of a package
+for me, in telling me how Richmond was changing at the end of the war, as the
+war ended.
+
+ 02-00:11:45
+
+PROUT: Well, you know what happened in Richmond. They put all the black people
+in the county part and they were just--it was terrible.
+
+Redman:There was a lot of segregation.
+
+ 02-00:11:55
+
+PROUT: It was just terrible. Then finally, they began to treat them as human
+beings. And a lot of those black men had fought in big squadrons and everything,
+fought for the country. Remember that one big group?
+
+Redman:Tuskegee Airmen?
+
+ 02-00:12:12
+
+PROUT: The Tuskegee Airmen, yes.
+
+Redman:I wonder if a small-town girl from California, who had gone to Catholic
+School with fifty other students, what race looked like to you at that time.
+
+ 02-00:12:32
+
+PROUT: I was always very pleased. Now we have a couple of staff members that are
+black and they&#039;re--well, no, they&#039;re here, really. They&#039;re living here. They&#039;re
+the most wonderful people. And we grew to love so many of these black people,
+and so many of them would bring their children, then they&#039;d bring their
+grandchildren ten years later. I remember one woman, I said, &quot;You&#039;re back
+again!&quot; She had raised two sons and then she had three grandchildren. But they
+trusted us; that was the main thing. I think there was trust all over the place.
+
+Redman:So the other interesting thing is that you come from an Irish-Catholic
+background; Sharon Fogelson--
+
+ 02-00:13:16
+
+PROUT: Comes from a Jewish.
+
+Redman:It seems you guys got along really well.
+
+ 02-00:13:26
+
+PROUT: Oh! Oh! Oh, we loved each other. She would do anything I asked her to do.
+
+Redman:I wonder if, to an extent, having such different backgrounds helped you,
+in some sense.
+
+ 02-00:13:37
+
+PROUT: I think it did. I think it did. And I think it helped her, too. But we&#039;ve
+always been good friends, because we believe the same philosophy.
+
+Redman:What philosophy do you think you two had such an agreement on? What was
+that core philosophy?
+
+ 02-00:13:55
+
+PROUT: She was a heavy union person for a long time, and that was okay, because
+we needed better salaries. So she took care of a lot of that. And we liked each
+other. She respected me, and I respected her. Very much so.
+
+Redman:And it seemed like you were both deeply committed to the craft of teaching--
+
+ 02-00:14:18
+
+PROUT: Oh! Oh!
+
+Redman:--and improving your teaching.
+
+ 02-00:14:20
+
+PROUT: Oh, we just loved it. We just knew we were doing something, something for
+these children. And we felt very confident. We were the first ones that really
+had good programs that weren&#039;t just little mollycoddle things. And the parents
+respected us. We had a lovely black man. He was a minister. He had polio, and he
+used to say to me, &quot;The polio&#039;s going to get me, but it won&#039;t get you, because
+you don&#039;t have polio.&quot; We&#039;d go round and round about that. Then I always
+remember, he had a white congregation in Arizona. And one time, I had to go down
+to Adachi&#039;s and pick out some corsages, and here he comes, he&#039;s back, and he
+grabs me and he waltzes around like this. And all these women look at us, a
+black man doing that to a white lady. Oh, they were having a fit. But we were
+such good friends. No, he believed the way we believed.
+
+Redman:So it seems like you found allies and support of people who cared about
+young kids.
+
+ 02-00:15:39
+
+PROUT: Oh, we all cared. We all cared. No matter how old the people were, they
+all--there was a dedication that you could feel throughout the whole place, and
+they didn&#039;t let anybody down. There was a loyalty that--and Mrs. Boucher stirred
+that, because she&#039;s the one that started all that.
+
+Redman:What were the duties of the head teacher?
+
+ 02-00:16:00
+
+PROUT: Well, she was basically a principal, like a principal. She had to fix up
+her staff; she had quite a big staff. And she would do any troublemaking. If any
+parent complained, she had to be involved in it. Then we had a receptionist.
+There was money involved--everybody paid a fee--and all those books had to be
+audited, because the state had a strange system. I used to get paranoid over it
+and I&#039;d say to the girls, &quot;It&#039;s got to be right.&quot; Then they would send the forms
+to us in the main office, and then we would edit them before we&#039;d send them
+downtown, because I thought the feds--the feds had a right to them, the state
+had a right to them, the district had auditors. I thought if I ever did anything
+wrong, I&#039;d just walk down those stairs and forget the whole thing.
+
+Redman:Right, it was overwhelming.
+
+ 02-00:17:07
+
+PROUT: Overwhelming. But it was easy, too, because everybody did his share.
+
+Redman:How did parents pay their dues?
+
+ 02-00:17:15
+
+PROUT: Well, it was based on income. Based on income, and then based on what you
+did. Like nurses and teachers were eligible, but they paid the full fee, which
+was fifty cents an hour. Full fee. Well, we had them for probably maybe about
+ten years or so. And then the black crew came in, and those girls were going to
+school. They were bright, bright girls. And there was a lot of criticism about
+them. I just couldn&#039;t stand that. So anyway, let&#039;s see. The fees were changed
+and they were too high; and we knew they were too high. A lot of the districts
+would send people to--what do I want to say?--to the meetings, where they were
+trying to change the fees. And I remember this one referee, social welfare
+referee, said to me, &quot;You really care for those girls, don&#039;t you?&quot; And I said,
+&quot;They&#039;re wonderful. They&#039;re getting a little bit of AFDC to put them over the
+hump, but they&#039;re not depending on a lot of it; but they&#039;re going to get some of
+it because they need it to raise their child.&quot; See, all education was eligible.
+But they would make us mad, because we were trying so hard, and most of the
+girls would get jobs afterwards. So it was a learning situation.
+
+Redman:There&#039;s one other definition question I want to ask. What were the duties
+of the closing teacher each day?
+
+ 02-00:18:58
+
+PROUT: Well, sometimes you had to combine classrooms, because people would pick
+up the children. Oh, let&#039;s see. The closing teacher would take the first--number
+one, number two. By 5:30 you wouldn&#039;t have all the rooms open, and you didn&#039;t
+have to have them staffed, either. So you would combine them as they went. Then
+as the day progressed, there might be one or two. But there was always somebody
+in the building that was an educator.
+
+Redman:And then would teachers be dismissed based on no longer needing them at
+the end of the day, once enough parents came to pick up their children?
+
+ 02-00:19:48
+
+PROUT: No, not really. How can I explain that? No, they would know where their
+child was, because it was repetitive. So if you were in one and two, and then
+two, everybody from two went home and--but was still in one. So it was that kind
+of a thing. See, we were open from 6:00 to 6:00, so that was hard to schedule.
+And what was hard, the union got after us on a couple of things, because--we did
+this on purpose, because we had to survive--we would have aides there from 2:30
+to 3:30, but we wouldn&#039;t give them any benefits because we couldn&#039;t afford it.
+We never gave them a benefit because you could give anybody that was there four
+hours a benefit, but you couldn&#039;t give anybody that was three. And the union
+knew we were doing it. I said, &quot;You can see our books, but we can&#039;t afford to
+give--&quot;what do they call those?--&quot;fringe benefits.&quot; And they weren&#039;t fringe
+benefits, they were expensive.
+
+Redman:Can you talk about fire drills and fire escapes, how those would&#039;ve happened?
+
+ 02-00:21:01
+
+PROUT: Well, we had those wonderful fire escapes, but we never used them in my time.
+
+Redman:But what were they? Talk about the fire escapes. How were they built?
+
+ 02-00:21:14
+
+PROUT: Well, you just left the classroom and they were huge. They ended up being
+slides. But that was a long time ago. Then we had also--oh, what do you call
+those things? I can&#039;t think of the right word. We had everything to protect the
+child. But one fallacy was they had a barbed wire fence on one of our yards.
+Where that came from, I&#039;ll never know. We got rid of it.
+
+Redman:It looked a little too menacing.
+
+ 02-00:21:50
+
+PROUT: Oh, it was terrible, yeah. Awful.
+
+Redman:Were there ever any accidents or incidents?
+
+ 02-00:21:55
+
+PROUT: Yes. One little girl. How did that go? She was working with scissors, and
+they were sharp scissors, and she hit her eye. I can&#039;t really remember how that
+ended up, but we were terribly worried. But it was okay. Then we had one child
+drown. We had access to the recreational big swimming pool, and we would send
+children there, with teachers. That&#039;s where we learned a lot about the kids. It
+was really cute. Then one little boy, who had--oh, what do they call that? He
+stuttered a little bit. But all the other kids loved him, because he had command
+of what he did. And he was so cute. They would always wait for him to talk,
+because they knew Stephen had something worthwhile saying. So there&#039;s a lot of
+different types.
+
+We had a lot of psychological help from the school district, too, an awful lot.
+We had a psychiatrist and then we had our own pediatrician, this Dr. {Alpert?}.
+He was wonderful and he loved the program. He also had a big office of his own.
+Oh, we gave children physicals, and that was a marvelous thing, because then all
+their immunizations were all up to snuff. Then the parents could come, when they
+went to kindergarten, and say, can I have those records? So we supplied the
+records for them. So we did an awful lot.
+
+Redman:How did the kids react each morning when you would give them cod liver oil?
+
+ 02-00:23:46
+
+PROUT: Well, it wasn&#039;t as bad as it sounded. Usually, the three-year-olds. The
+problem is, you&#039;d get it on your clothes, and then you could get on a bus, and
+you just reeked. But then that lasted probably about three years, and then they
+started doing the other, the pills.
+
+Redman:So they were multi-vitamin pills?
+
+ 02-00:24:09
+
+PROUT: Yes. That lasted during the war years, I think.
+
+Redman:We&#039;ve talked a little bit about the segregation in Richmond, and you&#039;d
+mentioned this pretty delightful scene, when the minister takes you on a little
+dance in the streets of Richmond there, but people look at the scene of a white
+woman and black man dancing. Can you describe a little bit of the racism that
+was out there in this era? Because of course, this is before the Civil Rights Movement.
+
+ 02-00:24:51
+
+PROUT: Yes. Well, one of our teachers, I remember, she came from the South. She
+was black. Listen, she told me that she could not go into one of our California
+restaurants, because it was taboo, that even though she had money in her pocket
+she couldn&#039;t do it. So the beginnings of the children&#039;s center, we had some of
+that, but then it went away. Went away and everybody began getting calm. Then we
+had a couple of aides that were black that were good women. Oh! They cared about
+the kids. They would say, &quot;Now, Miss Hall doesn&#039;t want you to do that.&quot; They&#039;d
+quote me, and it worked. They were just wonderful people. There was a loyalty
+that I never will forget, in that whole deal. And Mrs. Boucher is the one that
+started that. She started the whole feeling. I remember all the teachers--it was
+during the war, so clothes were hard to get--but they all wore smocks, and she
+wanted them to look very neat and nice in these smocks, and they really did. Did
+they tell you about Monica Haley and the art program?
+
+Redman:I&#039;ve heard that Monica Haley was the director of a really innovative art
+curriculum program--
+
+ 02-00:26:14
+
+PROUT: She was wonderful.
+
+Redman:--that included finger painting as an activity.
+
+ 02-00:26:19
+
+PROUT: Easel, easel painting.
+
+Redman:Easel painting.
+
+ 02-00:26:22
+
+PROUT: And also--oh, what&#039;s that other? There&#039;s another activity, where they put
+little pieces of paper together.
+
+ Redman:Collage.
+
+ 02-00:26:30
+
+PROUT: Collage, yes. But also Monica set up the situation in each classroom, so
+a child could--they had about fourteen cans of paint, and it was done neatly,
+very--she was really a very good person. Her husband was an art professor at
+Cal, John Haley. They lived in Point Richmond, and they didn&#039;t have any
+children. Monica&#039;s house was so interesting. They had all built-in wooden
+furniture. Very interesting!
+
+Redman:Do you know why she became so interested in children?
+
+ 02-00:27:07
+
+PROUT: Well, she didn&#039;t have any of her own. But she was interested in the art
+part of it, and that&#039;s where it stemmed from.
+
+Redman:Did she bring something a little different, personality-wise, or was she
+pretty similar to the other teachers? Or was there more of a focus for her on
+the art?
+
+ 02-00:27:29
+
+PROUT: No, no. It was all--she was an art supervisor. When she would set up, she
+would take all these cans, and she&#039;d put, like red here, green here and all
+this. Then she&#039;d have the easels set up. And she&#039;d never tell the child what to
+paint, see? That was the main thing. They painted what they wanted to do. It was
+hysterical, because all these little kids--art is a developmental things, and
+all three-year-olds paint a lot, all four-year-olds paint a lot. And same way,
+because it&#039;s developmental. I remember the parents would come in, and the kids
+would have their pictures on the wall. The little kids would go right to his or
+her painting, and they all look alike. [they laugh] I used to love to watch
+that; it was just so funny. They had the paintbrushes and the cans of paint, and
+she was very diversified. Then also she had a lot of reproductions, nice
+reproductions, and taught the children who the artists were. That really stuck
+around for a long time.
+
+ Redman:Interesting.
+
+ 02-00:28:30
+
+PROUT: Very.
+
+Redman:It&#039;s been written about, that the images that the children would
+paint--it was voluntary--would stem from their own minds.
+
+ 02-00:28:53
+
+PROUT: Exactly. It&#039;s all developmental. All three-year-olds paint a lot, all
+four-year-olds, all kindergarten. They&#039;re all doing the same thing in their age range.
+
+Redman:But during the war, I understand that some of their images were
+especially influenced by wartime imagery. So there would be more flags or tanks
+or things like that.
+
+ 02-00:29:17
+
+PROUT: Well, there was one very interesting deal. This little boy would
+always--let&#039;s see, how&#039;d that go? He&#039;d say that the Japanese were flying above,
+and they really were down below. I can&#039;t remember how that went. But anyway, he
+was at Pearl Harbor when the Japanese bombed. It&#039;s amazing what painting can do.
+It made a real deep impression on that child.
+
+Redman:So he could imagine this.
+
+ 02-00:29:56
+
+PROUT: Let&#039;s see. He would put the Japanese above and then the white people
+below, because he had been in Japan when the war was starting, when Pearl
+Harbor--so it was just the reverse of what we would&#039;ve done. Very interesting.
+Then also this finger-play stuff. We had this one little girl--and it was a Van
+Gogh. Monica had wonderful reproductions. And we all learned ourselves, a lot
+about it. She was very methodical, and the teachers didn&#039;t like her very well,
+because she wanted them to do things in a structured way, and they wanted to do
+their own thing. So as the new teachers started coming in, they thought she was
+too rigid. But she served a lot. When I think back on it, she taught the
+children a lot that they were capable of learning. And then her husband was a
+very modern painter. He was from Cal. Nice, nice man. But he would have exhibits
+in the Richmond Art Center, and we would have to ask Monica to put a name on
+them because we didn&#039;t know which was which, because it was so modern. It was
+really something. But Monica contributed a lot.
+
+Redman:You think the kids got a lot out of these programs.
+
+ 02-00:31:39
+
+PROUT: Oh! Oh! Oh! They had to.
+
+Redman:For many of them, it would&#039;ve been the first time they would&#039;ve--
+
+ 02-00:31:44
+
+PROUT: They had to. And they did, I know. We had one little girl named Tazie.
+Beautiful little blonde. I always remember she was so cute. I said to her, &quot;Have
+you ever shown your mother the Van Gogh picture that looks just like you?&quot; And
+she said, &quot;Yes.&quot; She four years old. She says, &quot;Yes, yes, I did.&quot; I said, &quot;What
+did your mother say?&quot; &quot;Looks just like Tazie.&quot; They were so cute.
+
+Redman:Can you tell the story for me about a little boy who you saw in the
+hallway, who wasn&#039;t behaving? What happened?
+
+ 02-00:32:27
+
+PROUT: He was so cute. He really was behaving, but he was escaping. [they laugh]
+He was escaping. When he saw me, he thought, uh. He was only two years old. So
+anyway, I said, &quot;I&#039;m going to string you up.&quot; I was just so mad because he
+could&#039;ve gone walking someplace else. I said, &quot;I&#039;m going to string you up.&quot; Then
+his father was just behind me and his father said, &quot;Miss Hall, if you can figure
+out how to do that, let me know.&quot; I was so embarrassed. But he meant well. He
+was a nice young GI.
+
+Redman:Can you talk about any other stories? The kids would usually be pretty
+amusing, I would imagine.
+
+ 02-00:33:12
+
+PROUT: Well, we had a school-age boy named Johnny Toplick. Johnny was an old
+dear, but he was always there where there&#039;s a fight going on. He was about eight
+years old. Always there. I said to him one day, &quot;Johnny, you&#039;ve got to stay away
+from groups. You just have to do that. They think you&#039;re guilty, when you&#039;re
+not.&quot; &quot;Oh, yeah, Miss Hall, I&#039;ll do that. I&#039;ll do that.&quot; So then anyway, he
+called. He went into the Army, and every once in a while, he&#039;d call me at school
+and tell me what he was doing and everything. So finally, at my retirement, he
+came. I was really, oh, just full of it, because he didn&#039;t mean to be naughty,
+but he was always there when something was happening. He was curious. He was
+curious. But when he came, oh, I cried, because I was always on his tail.
+Because he didn&#039;t have too much common sense, that&#039;s what it was. Then one time
+we took the kids, the children, to the zoo. And Johnny didn&#039;t show up. We had
+buses. Johnny didn&#039;t show up. So we all thought, &quot;Oh, gosh, I wonder what
+happened to him.&quot; So then finally, the caretaker comes and has Johnny by the
+ear. We said, &quot;Johnny, where were you?&quot; &quot;Oh, I just went back to see the lion.&quot;
+I thought, &quot;Oh, that&#039;s all we need.&quot;
+
+Then we lost one little girl that died. Our people would take kids to the
+swimming pool, and this little girl drowned. Mrs. Boucher was the director
+there. Thank God, I didn&#039;t have to call the parents.
+
+Redman:Oh, that must&#039;ve been just--
+
+ 02-00:35:05
+
+PROUT: Oh, it was just so sad.
+
+Redman:So that would&#039;ve been pretty early on in your career.
+
+ 02-00:35:10
+
+PROUT: That was very early on, yes. No, Mrs. Boucher was the director then.
+
+Redman:So you would occasionally take kids to the Richmond pool, the public pool.
+
+ 02-00:35:22
+
+PROUT: Well, we had passes to put them in our car, and we were mostly good
+drivers, and we would take them. Then the teachers would stay there with them,
+so that if anybody drowned or anything--they would be there to supervise them.
+We had these two little boys. They were black, and they were so cute. They would
+come back for lunch. They would go to school in the morning and then come back
+for lunch and then go back in the afternoon. I can&#039;t think what their names were
+now. Oh, what were their names? We&#039;ll come to it. But anyway, this guard that
+showed children across Cutting Boulevard would say to this little boy, &quot;I want
+you to open your mouth.&quot; So he&#039;d open his mouth, and she&#039;d say, &quot;I can tell you
+were naughty today.&quot; I thought, that&#039;s terrible, to do that to that poor kid.
+But he believed it. He believed it. [they laugh]
+
+Redman:So this kid was just totally gullible. &quot;How could she tell?&quot; Oh, man. So
+did you ever get the sense it was dangerous to be around any parts of Richmond
+after the war? It was pretty safe.
+
+ 02-00:36:46
+
+PROUT: It was pretty safe, yeah. And we had a lot of policemen that we knew.
+Then our Pullman Center was where our main office was; it was upstairs. We had
+two or three very nice older gentlemen that would kind of take care of us. They
+were aware that we were a lot of women. I would come up in my car, and I&#039;d
+always wave to this little fellow. You know, try to be friendly and everything.
+So one time he came to the desk and wanted to talk with me. I thought, I wonder
+what that&#039;s all about. So anyway, the girl showed him upstairs, where our office
+was. Finally, I said, &quot;Sir, how can I help you?&quot; I thought he was interested in
+buying some outdoor equipment that we had just bought, for his granddaughter.
+Finally he said, &quot;No, Miss Hall, I&#039;m interested in you.&quot; I almost had a heart
+attack. Then I said, &quot;Thank you very much for coming in.&quot; I didn&#039;t want to hurt
+him because he was a nice man.
+
+Redman:But you didn&#039;t see that coming.
+
+ 02-00:38:03
+
+PROUT: I didn&#039;t see that coming. And I didn&#039;t want to hurt him because he&#039;d been
+a nice neighbor, and his wife was dead. A lot of negativisms and you&#039;ve got to
+watch it.
+
+Redman:Sure. So tell me then, about what year did you become head teacher?
+
+ 02-00:38:24
+
+PROUT: Almost right away. Almost right away. I think about a year. About a year.
+Well, I was head teacher for about six or seven years, I think, yes.
+
+Redman:So through the end of the war, you were head teacher.
+
+ 02-00:38:43
+
+PROUT: I was head teacher at Pullman.
+
+Redman:And was that different at all? Because I understand each of the centers were--
+
+ 02-00:38:53
+
+PROUT: It was just like a principal. Had all kinds of nitty-gritty, and you had
+to solve a lot of problems or bring a teacher in and talk with her. And as I
+say, that union man would say to me--some of our girls were awful. I really got
+mad at two of them, and I said, &quot;You are going to close this program. It&#039;s going
+to be your fault.&quot; You really had to get tough. I said, &quot;It will be your fault.&quot;
+Uh. This girl had a heart attack.
+
+Redman:As the years progress, eventually, the teachers start to think about
+unionizing. I understand that--
+
+ 02-00:39:34
+
+PROUT: And that helped.
+
+Redman:That helps a lot. Sharon Fogelson is working with a union rep from
+Detroit, who comes--
+
+ 02-00:39:43
+
+PROUT: I know. She&#039;s very good. You ought to hear her talk to the school board.
+She lays them low! And she usually knows more than they know.
+
+Redman:It seems like her personality, in some sense, must&#039;ve complemented your
+personality; and similarly--
+
+ 02-00:40:02
+
+PROUT: Well, in some way. I was more tactful. But I love Sharon, and she always
+told the truth. She never lied. We had good talks about philosophy and all that.
+She still is.
+
+Redman:So you&#039;re head teacher for about six to seven years, and then you become
+the director of the entirety of the childcare [development centers].
+
+ 02-00:40:37
+
+PROUT: Yes, and we&#039;ve had to close a couple of centers, because we didn&#039;t have
+the money.
+
+Redman:So you were director then for how long, about, do you think?
+
+ 02-00:40:49
+
+PROUT: Twenty years.
+
+Redman:I assume that brought on a new set of challenges. We&#039;ve talked about the
+union negotiations of salaries and benefits as being a particular challenge, but
+it also seems like it clarifies a lot of things.
+
+ 02-00:41:11
+
+PROUT: If you don&#039;t have the money, you don&#039;t have the money, see? But our
+teachers were on the teachers&#039; salary schedule; you knew that.
+
+Redman:Could you talk a little bit about what that was?
+
+ 02-00:41:21
+
+PROUT: Oh, what that was, that was wonderful. Well, you know how an education
+salary schedule goes? First you have the AB, and then you have the master&#039;s and
+then you have a PhD and all that. So they were all put on that salary schedule.
+So when they had those needs, they were paid for them. That killed us a little bit.
+
+Redman:So it&#039;s a little bit of a catch-22, in that you bring up the salaries for
+your staff; but at the same time, it&#039;s expensive.
+
+ 02-00:41:52
+
+PROUT: Well, it lasted. It lasted for quite a while. And we were happy that it
+did, because we had a lot of young, good teachers; and then we had a lot of old
+gals, too. But those young teachers were good. Sometimes they reported too much.
+They were kind of--well, you just had to know what they were going to do, and
+then you had to get to them. They were loyal, but loyal in an odd way.
+
+Redman:So it seems like there were generational differences between the older
+generation--we talked about the implementation of new methods and theories and
+things like that.
+
+ 02-00:42:37
+
+PROUT: Well, you see, Monica, the art supervisor, was criticized by almost
+everybody. It got to the point, because they thought she was too stern on
+rigidity of the art program. But she helped a lot. You had to hand it to her.
+
+Redman:It&#039;s interesting that at once, there&#039;s both the structure of the art
+program, in that the cans have to be in a particular place and it&#039;s a certain
+kind of activity; but yet on the other hand, the art itself is child-born; it&#039;s
+from their imagination, it&#039;s free.
+
+ 02-00:43:12
+
+PROUT: Well, it&#039;s developmental, what it is. All three-year-olds do it, all
+four-year-olds. All five-year-olds have the sun up here and the water down here.
+
+Redman:Right, yes. The box house and the mom and the dad, two windows. Sure. I
+just have a few more questions, and then I&#039;ll ask if there&#039;s anything else you&#039;d
+like to add. Tell me a little bit about the committees, because we talked about
+the science committee a little bit, but then you&#039;d mentioned that there were
+other committees.
+
+ 02-00:43:42
+
+PROUT: The art committee, we had nature study, we had all the curricula on committees.
+
+Redman:Now, I understand that a lot of people in the US, especially around the
+time of Sputnik and the space race, there was this new added emphasis on science
+and math, in terms of teaching.
+
+ 02-00:44:04
+
+PROUT: Right.
+
+Redman:So I know that that&#039;s the case for K-12 education; how much of that was
+coming down to where you guys were?
+
+ 02-00:44:11
+
+PROUT: Well, it&#039;s amazing. Counting and all that. It&#039;s sort of--what do I want
+to say? Not just incidental, but we&#039;d have counting boards, we would have
+puzzles with all the things that led up to eventually becoming aware of all
+that. And nature study. We had nature study, we had everything. So these little
+kids just lapped it up; they just loved it. When people say, &quot;Oh, they&#039;re too
+young,&quot; that&#039;s a lot of hooey because they&#039;re ready to go. They&#039;re ready to go,
+and they want to go. Then they have doll corners, and they&#039;re so cute in the
+doll corner. I love to go into a room and just listen to what they say. We had
+these--oh, they were kind of fences, sort of. Not fences, but dividers. And we
+could move them around as we wanted to, to make a doll house out of it. If you
+go down there and listen to the conversation, it&#039;s hysterical. One&#039;s playing the
+papa role, one&#039;s playing the mama role. It&#039;s just fun. When I went to Japan, I
+was still working. Japanese, you&#039;re probably aware of this, have symbols of
+their food. Like if they have a steak and they have potatoes, that&#039;s all in one
+deal, and they have those in their restaurants and everything. Every time I&#039;d go
+by one of those I&#039;d think, &quot;I have to buy some of that.&quot; So I bought some of it
+and brought it back to the children, and they just loved it! So there&#039;re a lot
+of side issues.
+
+Redman:Yes. But kids were willing to try anything.
+
+ 02-00:46:03
+
+PROUT: Oh, yes.
+
+Redman:Do you think that more could&#039;ve been done in terms of languages and
+teaching languages?
+
+ 02-00:46:08
+
+PROUT: No, no, because we&#039;ve done all that. We had that finger play. We had that
+wonderful finger-play book. How&#039;d that go? Two little blackbirds sitting on a
+hill; one named Jack, one named Jill; fly away Jack, fly away, Jill. I lost my
+book and we developed, and Sharon lost hers, too. We had all these finger plays.
+And that&#039;s part of language development. We did everything. Everything a normal
+curriculum would do, but on a smaller basis.
+
+Redman:It seems like we&#039;ve talked about some of the most important things
+that--we&#039;ll shift now to big picture--
+
+ 02-00:46:56
+
+PROUT: Sure.
+
+Redman:--and look at the school in a big picture, to wrap up. First of all, I&#039;ll
+ask the question, looking back in your own personal life, why it was so
+important. Then I&#039;d like to ask about the kids, and then I&#039;ll ask about
+Richmond. First, why was the school so important for you, personally? Why was
+this experience so personal for you, important for you personally?
+
+ 02-00:47:21
+
+PROUT: Well, I was allowed to develop. Mrs. Boucher just let you do what you had
+to do. There&#039;s a freedom there. And then you knew about curriculum, you&#039;d read a
+lot, you&#039;d been at San Jose, in some of those classes. You just loved the
+development of children. And see, I didn&#039;t ever have any children of my own, but
+I don&#039;t think that had anything to do with it, really. I really, honestly don&#039;t.
+I just love--and then I have these wonderful nieces and nephews. My oldest
+nephew, Tom, I would bring him to school. He was--let&#039;s see, how old was he? He
+was about four years old or five. We had the children bring slippers, because we
+had a rest period and they&#039;d have to put their slippers on. The nap period would
+be finished at 3:00 o&#039;clock, and he&#039;d say to me, &quot;it&#039;s about time for me to go
+home, go home to my mother.&quot; He would call her Anna. I&#039;d say, &quot;Honey, we&#039;re
+going to have to wait till 5:00.&quot; &quot;Oh, I don&#039;t think I can wait that long.&quot; I
+said, &quot;Well, get your slippers, and go and have some activities, and then I&#039;ll
+be there pretty soon.&quot; But it was so cute, the way he&#039;d say, &quot;my flippers.&quot; He
+loved it. He loved it. Everything evolved.
+
+Redman:How about for the kids? What did this place mean for the kids?
+
+ 02-00:48:54
+
+PROUT: They loved it. But at first, especially the two-year-olds, at first they
+would cry, and they&#039;d put on for their mothers, do it on purpose. Now, we knew
+that. They would do that, they&#039;d cry.
+
+Redman:So you could see that.
+
+ 02-00:49:09
+
+PROUT: And half the time, when the mother was gone, the eyes would dry up and
+everything. And we knew that. Once in a while, it would last a little longer,
+but most of it wouldn&#039;t. But they&#039;d play the mother to the hilt and make her
+feel so guilty. And she was doing the right thing. But it was funny, the way it
+all developed.
+
+Redman:But then from there, the kids would then--
+
+ 02-00:49:32
+
+PROUT: Oh, they loved it! They didn&#039;t want to go home. And we had little
+lockers, where we put the slippers. Each child had an individual one. It was
+just structured beautifully. And see, Mrs. Boucher was the one that structured it.
+
+Redman:It seems that structure and organization and curriculum are things that
+are so critically important for this place. But then also keeping people on the
+same page in all of those things seemed to be incredibly important. Do you think
+that that&#039;s the case with all of these teachers? You have to keep them together
+on a plan of some sort.
+
+ 02-00:50:15
+
+PROUT: Well, you have a curriculum, and they&#039;re developing that, see? They&#039;ve
+developed it. So they can pick those activities as they want to, because they&#039;re
+developmentally sound. That&#039;s what really happens.
+
+Redman:So then on a particular day, you might choose different kinds of
+activities, but it&#039;s affecting the child&#039;s brain at a certain age of their development.
+
+ 02-00:50:39
+
+PROUT: Yes. And I&#039;m sure I told you this, about the evaluation of the children.
+We really wanted that, because the teacher does the evaluation; it&#039;s not just a
+lot of cut-and-dried verbiage.
+
+Redman:So that&#039;s something that it seems like a unique opportunity, in some
+sense, for these parents in this generation--
+
+ 02-00:51:01
+
+PROUT: Oh, it is. It&#039;s wonderful.
+
+Redman:--to have an honest assessment of their child at that age.
+
+ 02-00:51:06
+
+PROUT: And see, many places use those assessment devices, but we got to the
+point where we didn&#039;t like them. We just felt that they weren&#039;t authentic. They
+were poor. So we just got the teacher to do it. Then they passed a law in
+Sacramento, where the public school had to do it, too; that they were lax,
+because they hadn&#039;t done it. So we were ahead of a lot of people.
+
+Redman:What did these schools mean to the city of Richmond?
+
+ 02-00:51:38
+
+PROUT: Well, the city of Richmond was pretty good to us. Like our Lake center.
+Our Lake center was in San Pablo, and a minister touted the program, because he
+knew it was good. I can&#039;t think what his name was. And the building was a
+portable building. So this man from the school district developed it. He had an
+isolation room. Each room was different. It turned out to be a wonderful center.
+A lot of people from San Pablo went there. We had a black head teacher there,
+and she was great. I remember walking in one time, and she was giving this
+parent the business because she hadn&#039;t paid her fee. I said, &quot;Audie, are you
+talking to that girl?&quot; &quot;She&#039;s a friend of my daughter&#039;s, Miss Hall,&quot; and she
+says, &quot;She deserves it. She&#039;s got a lot of money, and she&#039;s not telling you
+about it.&quot;
+
+Redman:So she knew the situation on the ground pretty well.
+
+ 02-00:52:52
+
+PROUT: She knew it; she knew it. Then also our Crescent Park center, the
+district paid for the building, and then we paid for the equipment. It was a
+beautiful center. Beautiful. One of the nicest ones we ever--and it was from
+scratch up, brand new.
+
+Redman:All right, so now final question. I am a person who has just walked into
+the Maritime school classroom, as it was set up in 1943, as it&#039;s now been
+reconstructed. What sorts of things should I think about as I look at this room?
+
+ 02-00:53:33
+
+PROUT: Well, each parent is interviewed. So you have to kind of conduct the
+interview. You tell them what we do for the child. That&#039;s basically about
+curriculum, about health, about parent meetings. So you sit there, you interview
+the parent. Then the child can come and stay for a while. Usually, they get so
+enthralled with the program they want to stay that day. But that&#039;s what we
+basically do. We let them know what we&#039;re doing and how we&#039;re doing it, because
+there are a lot of programs around and some of them are very poor. Then once in
+a while, you&#039;ll find a good one. But we can always say ours was the best,
+because of the credentialed teacher. But then we can get fooled, too. We had one
+Japanese girl. Mrs. {Huffert?} and I interviewed her. We had a chance to
+interview all our staff. She was being interviewed, and she just knew
+everything. She knew curriculum, she knew health. She was so bright. She turned
+out to be the worst teacher we ever had. Just a waste of time. We were both so
+wrong. We were just wrong.
+
+Redman:But you clearly couldn&#039;t get it right every time.
+
+ 02-00:54:52
+
+PROUT: No, no.
+
+Redman:But it seems like most of the teachers, you were on a good page with.
+
+ 02-00:54:57
+
+PROUT: Oh, oh! Oh, yes.
+
+Redman:Is there anything else you&#039;d like to add about the school?
+
+ 02-00:55:03
+
+PROUT: Well, I was just trying to think. I think we told you about the Lanham
+Act and the buildings. Did I tell you about the Lanham Act? That was an act, a
+federal act. We had Maritime, Pullman, and what else? There was one other
+center. They were built just for preschool. Because a lot of times, they would
+put the preschool in the basement of the public school, a terrible environment.
+Now, let&#039;s see. There were three centers that the Lanham Act built. And that
+lady from Cal had a lot to do with what a nursery school should look like and
+everything. So they were done according to specific plans. Then the upstairs of
+Pullman was supposed to be a sleep room they had, but that was condemned because
+it was upstairs. They thought it unsafe for children to be placed upstairs. So
+we used that as a main office. Then what&#039;s the other? Maritime was the same way.
+Those two centers were put up with the Lanham Act money, and they were
+beautiful. Just perfect. Every facility there ever was. And people from all over
+the world would come to look at them. We had bus after bus, just in Richmond.
+
+Redman:That&#039;s pretty amazing.
+
+ 02-00:56:40
+
+PROUT: Yeah, it was amazing.
+
+Redman:I&#039;d like to thank you so much for taking the time to sit down for an interview.
+
+ 02-00:56:43
+
+PROUT: Oh, listen, I enjoyed it.
+
+[End of interview]
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

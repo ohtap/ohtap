@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042446" dt="2018-08-15"><version>5.1</version><date value="2011-03-28" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Louise McClain Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Louise McClain</interviewee><interviewer>Sam Redman</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>﻿ REDMAN: All right, today is, gosh what is the date today, March 28?
+
+MCCLAIN: Yes.
+
+REDMAN: March 28, 2011, and I’m here in Davis, California with Louise McClain,
+and I’d like to ask you an easy question. Would you begin by telling me your
+full name and where you were born?
+
+MCCLAIN: Louise Evelyn McClain, and I was born in Denver, Colorado.
+
+REDMAN: Oh, you were born in Denver, okay. How long did you live in Denver?
+
+MCCLAIN: I lived in Denver really all my life until I was married, which would
+have been when I was twenty-five, except for during World War II when I worked
+in Columbus, Ohio.
+
+REDMAN: Okay, okay. So can you tell me about, I’m sorry, can you remind me
+what year you were born?
+
+MCCLAIN: Nineteen twenty-four.
+
+REDMAN: Nineteen twenty-four, okay, so when you were fairly young, the Great
+Depression started.
+
+MCCLAIN: Oh, yes.
+
+REDMAN: Okay, so do you have some early recollections of the Great Depression in Denver?
+
+MCCLAIN: Not really. It didn’t really hit us until about 1932. My father was a
+bricklayer, and lo and behold there was no building going on, so it hit.
+
+REDMAN: Okay, okay, so, yeah, can you tell me a little bit about your parents,
+what they were like. You mentioned your father was a bricklayer, and did your
+mother have work as well, or -- ?
+
+MCCLAIN: No, she was strictly a stay at home mother.
+
+REDMAN: Okay, and what were they like as people? What do you remember about them?
+
+MCCLAIN: Wonderful, my mother was an amazing person. She was a little lady, and
+they asked her if she would go around collecting for Red Cross, and so she
+decided to do it, and she even walked in the neighborhood bar, [laughs] this
+little bitty lady in the neighborhood bar seeing if they wouldn’t donate. She
+had more donations than anyone else in our district.
+
+REDMAN: Is that right? Wow, okay, okay.
+
+MCCLAIN: My father was a very quiet man, very much, but he did teach me a lot of
+things and some of the old songs like, I don’t remember. I’ll think of it
+later maybe.
+
+REDMAN: Okay, and did you have any siblings?
+
+MCCLAIN: Yes, I had one sister.
+
+REDMAN: What’s her name?
+
+MCCLAIN: Edna.
+
+REDMAN: Okay, so then tell me a little bit about what it was like to grow up in
+Denver. Do you have some favorite recollections? Did your family live in the
+city of Denver proper, or did you live just outside of Denver?
+
+MCCLAIN: No, we lived in the city of Denver proper in south Denver. Denver was
+very I’ll have to say segregated, south Denver, east Denver, north Denver, and
+so forth and we lived in south Denver, which was lily white, and most of the
+Mexicans and Negroes lived in west Denver. There were some blacks in east
+Denver, and also some very rich people. Some fairly wealthy people in south
+Denver, but not as many.
+
+REDMAN: But by and large the different neighborhoods were segregated.
+
+MCCLAIN: Yes, yes.
+
+REDMAN: Okay, okay, then what was your elementary school like?
+
+MCCLAIN: Well, it went only through sixth grade.
+
+REDMAN: Okay, and I assume that was segregated as well. Is that correct?
+
+MCCLAIN: No. We had probably one Jewish person, no blacks, a few Mexicans,
+that’s it.
+
+REDMAN: Okay, so there might have been some different groups going to school
+with you when you were young.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, so what do you remember about going to school each day? What was
+that like?
+
+MCCLAIN: I loved it. I really enjoyed school. My sister almost scared me to
+death when I said something about, “We’re going to take some kind of a test
+tomorrow, it’s a city-wide test.” And she said, “A city-wide test!”
+“Oh,” she said, “That’s terrible.” So when the teacher passed out the
+papers I started to cry, and she came around and said, “What’s the
+matter?” I said, “I can’t do this, this is a city-wide test.” She said,
+“Let’s read the first one,” and it was very simple, and I knew it, so that
+ended that.
+
+REDMAN: So how old were you and your sister at that time?
+
+MCCLAIN: I was six, and she was nine.
+
+REDMAN: Okay, so she had a little influence over being able to scare you a
+little bit.
+
+MCCLAIN: Oh, yes, yes.
+
+REDMAN: Play tricks, and okay. You said you enjoyed school. What was your
+favorite subject, or what were your favorite things about school? What did you
+enjoy about it?
+
+MCCLAIN: I think I enjoyed most of the curriculum. I enjoyed gym, too, and I
+don’t know, it’s hard to say which --
+
+REDMAN: But you enjoyed basically every subject.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, and then how about the other children? What were some of your
+early memories, or do you have any favorite early recollections about the other
+kids at your school in Denver?
+
+MCCLAIN: Well, one of my best friends, we went through kindergarten through
+third grade, and then I skipped a half grade ahead and she didn’t, but we kept
+in touch really all our lives. She’s no longer living now, but --
+
+REDMAN: Okay, but you made some good friends.
+
+MCCLAIN: Oh, yes, yes.
+
+REDMAN: Okay, okay. So then did you then transitioned into a junior high school?
+
+MCCLAIN: Yes, seven, eighth and ninth grade.
+
+REDMAN: Okay. Was that different from the elementary school in any --
+
+MCCLAIN: Well, of course, we had changed rooms for every subject, and it was
+much larger, I think around 700 children in the junior high, and I didn’t like
+social, well, yes, I did. I think I still liked it all pretty much.
+
+REDMAN: Okay, okay. How about your teachers? What were they like? Were they
+particularly strict, or were they lenient and friendly, or how do you remember
+your teachers?
+
+MCCLAIN: Mostly lenient and friendly. There were some I remember in particular,
+Miss McGucken, Mrs. McGucken, who was just wonderful, and she would assign us to
+go to a I think it was a care home for children who had no place to go after
+school until both parents got home in a very poor district, and she made sure
+that there were some boys going with us, and not just all girls.
+
+REDMAN: Okay, okay, so you would volunteer then with these younger kids.
+
+MCCLAIN: Oh, yes.
+
+REDMAN: All right, excellent. Now tell me did your parents encourage you to stay
+in school and to continue on going through the high school and maybe beyond, and
+how far along in school did your parents go?
+
+MCCLAIN: My parents both went through eighth grade. My father would have loved
+to have gone longer. As a matter of fact, he purposely flunked eighth grade so
+he could stay in school again, but his father was an Englishman, a brick mason
+in England, and his oldest son had to be a mason, and there was no point in
+going any further than eighth grade. So my father, he went ahead and was a brick
+mason, which was a pity. It was a good brain wasted, I believe. He did beautiful
+woodwork on carved small chests, made his own workbench, and you could have put
+it in your living room and been proud of it. It was a little sad. My mother was
+very poor, and they really needed her to go to work when she got through eighth grade.
+
+REDMAN: Okay, so both of them had left school fairly early on, but encouraged
+you to continue your studies.
+
+MCCLAIN: Oh, yes, yes.
+
+REDMAN: Do you think it was in part because they wanted themselves to continue
+on -- ?
+
+MCCLAIN: Yes. I’m sure it was for my father anyway.
+
+REDMAN: Okay, okay, so then tell me about what a typical day would have been
+like growing up with you and your parents. When would your father leave for
+work? Do have any sort of memories of what your mother did for chores, or what
+things were like around the house?
+
+MCCLAIN: Immaculate. My father left, they were on a fairly rigid schedule. He
+left I think around 6:30 in the morning, and always my mother had packed his
+lunch for him. We left for school about 9:00, and we came home for lunch. We
+were very close to the grade school. We came home for lunch, and she was always
+there. Oh, once in a while a neighbor would come in, or we’d go to the
+neighbor’s house for lunch, and their daughter would come to our house
+sometimes, they’d trade, babysitting in other words.
+
+REDMAN: Okay, so then can you tell me did you have a job at all? What was your
+first job? Was your first job working in defense or did you work at all when you
+were in junior high or high school at all?
+
+MCCLAIN: High school, I lied about my age, you had to be sixteen to work, and I
+lied about it, it was on my Social Security card for a long time, but I worked
+at Penney’s as a sales girl.
+
+REDMAN: Okay, is that right? How old were you, were you fifteen or fourteen?
+
+MCCLAIN: Fifteen.
+
+REDMAN: Okay, but you told them you were sixteen, okay, and this got on your
+Social Security card.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, oh, that’s a funny story. All right, so then how did you like
+working at Penney’s? What was that like?
+
+MCCLAIN: It was all right. I had to learn that some of the sales ladies would
+steal the sales from you anytime they could.
+
+REDMAN: Okay.
+
+MCCLAIN: They probably needed the money, but --
+
+REDMAN: So you were paid on commission.
+
+MCCLAIN: Yeah, partly.
+
+REDMAN: Okay, that’s interesting in the era of the Great Depression working at
+a department store. What was that like? Were people buying nice things, or were
+people buying kind of everyday things at Penney’s? What sort of what was that
+-- ?
+
+MCCLAIN: Pretty much every day. I had one man customer that wanted to get his
+wife a purse, and, of course, I showed him the most expensive one we had, and he
+bought it.
+
+REDMAN: Okay. So you’d sort of suggest this is what purse your wife my like,
+and --
+
+MCCLAIN: I think that he told me that she was a redhead, and I picked out a
+brown purse, but I kind of thought that’s not very nice.
+
+REDMAN: Okay, so did you get pretty good at that job, or did you like it, or -- ?
+
+MCCLAIN: It was just a summer job.
+
+REDMAN: Okay, so you were a little indifferent towards the type of work and,
+okay. So then tell me about completing high school. What year did you graduate,
+do you recall?
+
+MCCLAIN: Nineteen forty-one.
+
+REDMAN: Wow, okay, so December of 1941 would that have been your senior year of
+high school when Pearl Harbor happened?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, okay, so almost before graduation.
+
+MCCLAIN: Yes.
+
+REDMAN: So tell me about what that was like, to be a senior in high school and
+to have Pearl Harbor happen. Do you recall the day that Pearl Harbor happened?
+
+MCCLAIN: I recall quite vividly. It was a Sunday, and my father always listened
+to Keltenborn on the news, and I said, “Do we have to listen to him? He never
+has anything to say anyway,” Smart aleck, about then it came on that we had
+been bombed.
+
+REDMAN: Wow, okay.
+
+MCCLAIN: So I remembered that, and it made a huge difference in school. A lot of
+boys were starting to enlist, or many of them joined ROTC. It was different.
+
+REDMAN: Did a lot of the young men leave immediately? Would they have left in
+December of 1941, or did most people in your school until after graduation to enlist?
+
+MCCLAIN: Waited until after graduation.
+
+REDMAN: Okay, so what about the young women who were graduating from high
+school? What were many of them doing?
+
+MCCLAIN: I think maybe a few more went into nursing. I don’t remember anyone
+joining the Army, Navy, or I’m not even sure you could join the Marine Corps.
+
+REDMAN: Right, yeah, the --
+
+MCCLAIN: But their lives changed a lot less.
+
+REDMAN: Okay, okay, now, tell me about, did you grow up attending church
+services at all?
+
+MCCLAIN: Yes. My parents didn’t. My mother sent us to Sunday School, and we
+went to the Presbyterian Church.
+
+REDMAN: Okay, okay, so what was that like then growing up and attending Sunday
+School, and then your parents, did they have sort of mixed feelings about
+church, or -- ?
+
+MCCLAIN: Well, I think my mother missed it. I don’t think my father, I don’t
+know why, but he never, I mean if somebody got married in a church, he went, but
+other than that, he didn’t.
+
+REDMAN: Okay, okay, but they thought it was important for you to attend Sunday School?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, do you know why? Did they just think that it was an important part
+of your education, or -- ?
+
+MCCLAIN: No, I don’t know. My mother also wanted me to be married in a church.
+
+REDMAN: Okay, okay, so there was some --
+
+MCCLAIN: Yeah, she missed it.
+
+REDMAN: Okay, okay, so then I’m curious, did you have any friends or relatives
+that signed up for the military right after Pearl Harbor?
+
+MCCLAIN: I don’t remember any.
+
+REDMAN: Okay, okay, and then any friends or anything like that who were
+immediately affected by the war, it seems like?
+
+MCCLAIN: No.
+
+REDMAN: Not right away.
+
+MCCLAIN: One or two of the folks did join the Army as I recall. I had forgotten
+that, but they did.
+
+REDMAN: Okay, okay, so then tell me about what your high school graduation was
+like. Do you recall graduating from high school or anything surrounding that?
+
+MCCLAIN: Oh, yes.
+
+REDMAN: Tell me a little bit about that.
+
+MCCLAIN: Well, it was held in the downtown auditorium. My graduating class had
+over 700 students.
+
+REDMAN: So it was a large school.
+
+MCCLAIN: Large school, yes. The girls all wore long white dresses, and the
+fellows suits. Afterwards several of my girlfriends, their parents and my
+parents all went out to get something to eat.
+
+REDMAN: Okay, okay, so the mood was still upbeat despite the fact that there was
+war that had started. Now tell me about then what happened to you after
+graduating high school.
+
+MCCLAIN: I started Denver University right away.
+
+REDMAN: Okay, okay, and what were you studying at Denver?
+
+MCCLAIN: Mathematics.
+
+REDMAN: Interesting, okay, so why did you choose, now it seemed like you enjoyed
+all different types of classes as a high school student, so what attracted you
+to mathematics?
+
+MCCLAIN: I guess, well I know, I just got to thinking about it, but that was my
+easiest subject and that I did enjoy it, so I decided to major in math.
+
+REDMAN: Okay, okay, and what types of things do you remember learning, or what
+types of classes do you remember taking early on at Denver?
+
+MCCLAIN: One education course that I fell asleep. It was at 8:00 o’clock in
+the morning, and the professor just covered the book, the chapter that you were
+supposed to have read anyway, and he might as well as said it word for word. He
+was terrible.
+
+REDMAN: Okay, okay. But most of your professors were --
+
+MCCLAIN: Yes, excellent.
+
+REDMAN: Excellent, okay. Tell me a little bit about what it was like to be on a
+university campus when my understanding is that many of the men would have left
+by that time.
+
+MCCLAIN: Yes.
+
+REDMAN: So was that a little bit of a different feeling?
+
+MCCLAIN: Oh, yes. There were a lot less men. But we also had Japanese people
+that had been in the camps that they could go to college.
+
+REDMAN: Okay, so there were Japanese Americans in your classes at Denver.
+
+MCCLAIN: I didn’t happen to have any. There weren’t many of them. I do
+remember that one boy, we called him Sunny because he was always smiling, and he
+got a job cleaning the astronomy building, which wasn’t used much anymore.
+They didn’t really have a good telescope. The FBI found out there was a
+two-way radio there and said, “He’s got to go.” The two heads of the math
+department, they used to take turns being heads decided that’s terrible. He
+couldn’t get to Japan with that radio anyway, so they talked to the FBI and
+said, “How about if we take the radio out.” They said, “Fine.” So he
+kept his job.
+
+REDMAN: Okay, okay, so there was, one of the things that I’ve heard is that
+there was a lot of suspicion about the Japanese at that time, but it’s hard to
+kind of underestimate how people were talking about, oh, the Japanese as being
+this sort of group to be feared in the United States during the war, and it
+sounds like the FBI sort of played into that a little bit.
+
+MCCLAIN: Yes, very much, yeah.
+
+REDMAN: So did you at the time have any feelings about the Japanese being
+interred, or was that sort of your first -- ?
+
+MCCLAIN: I didn’t think it was fair, but I don’t think it bothered me. I
+think it’s bothered me more in later years that they were.
+
+REDMAN: Okay, but at the time you maybe you didn’t ponder it quite a much.
+
+MCCLAIN: No. I was awfully glad that they stepped in in Sunny’s case.
+
+REDMAN: Okay, so in the case that affected you personally, you were happy to
+have him on campus, and it sounds like he was a --
+
+MCCLAIN: Yes, thought it was ridiculous.
+
+REDMAN: Okay, okay, so tell me a little bit about then so you continued on at
+Denver and then did you graduate from Denver University, or did you leave for
+work first?
+
+MCCLAIN: Well, I left, I went through my freshman year and started my sophomore
+year, and then this program with Curtiss-Wright Aircraft came up, and I looked
+into it. It seemed like an awfully good program, and by then the campus was
+changing a lot, lots of the men were leaving, and so I signed up for the
+Curtiss-Wright program. They took 700 girls, their engineering departments were
+depleting because of the draft, and sent approximately 100 girls to seven
+different colleges. This gets into my whole life during the war practically. It
+was a very good program. I ended up at the University of Minnesota. They also
+used Ohio State, Iowa State, Purdue, Rensselaer. I wanted to go to Rensselaer
+but I didn’t get there. I didn’t have, they wanted everyone to have two
+years of math or science, I’d only had a year and one quarter in my sophomore
+year, and so I did go. They paid all our tuition, our board and room.
+
+REDMAN: Do you remember how you found out about this program?
+
+MCCLAIN: A friend of mine had heard about it and told me, and, of course, she
+was excited because that was a Big Ten school.
+
+REDMAN: Right, yeah, yeah. I want to ask one more question about Denver, you
+mentioned that the campus was changing. Then after maybe ’42, on into ’43 on
+your sophomore year, can you tell me a little bit about, so obviously many of
+the men were leaving. How did that change sort of feeling on campus? Did you
+sort of, you had a need it seems like to do something else.
+
+MCCLAIN: Probably. Social things when there weren’t enough men to go around
+weren’t as fun.
+
+REDMAN: Okay.
+
+MCCLAIN: Yeah.
+
+REDMAN: Yeah. I guess there was a popular song around that era that joked that
+all of the men were either too old or too young, that for the girls to go to
+dances --
+
+MCCLAIN: Yeah, I don’t remember the song.
+
+REDMAN: Okay, that sounds about right, okay.
+
+MCCLAIN: Yeah, oh, yes.
+
+REDMAN: Okay, okay, so you ended up at the University of Minnesota taking
+classes and Curtiss-Wright through this program was paying for the tuition.
+
+MCCLAIN: Yes.
+
+REDMAN: Do you remember then your recollections of, you were on the Minneapolis campus.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, and do you remember what that was like?
+
+MCCLAIN: Well, it’s a huge campus. We entered, our whole schedule was
+different from a regular campus because we went to school all day, for one
+thing, and for ten months straight. We entered I think the last of January or
+first of February that year.
+
+REDMAN: In ’43?
+
+MCCLAIN: In ’43, yeah.
+
+REDMAN: Okay.
+
+MCCLAIN: Went through the summer, oh, and they paid for our transportation, too,
+from Denver, from wherever we came. There were girls from all over.
+
+REDMAN: Okay, so then you’d take ten months’ worth of fairly intensive, or
+very intensive it sounds like, math and engineering courses or what -- ?
+
+MCCLAIN: Oh, yes, yes, drafting and strength of materials.
+
+REDMAN: Wow, okay, and was it entirely women in the course?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay.
+
+MCCLAIN: Entirely.
+
+REDMAN: Okay, okay, so then you would take all of your classes together with
+this group of women over the course of ten months.
+
+MCCLAIN: Yes. We were divided into four groups, depending on where the, what
+we’d had and so forth.
+
+REDMAN: Okay. So did you just show them your transcripts, or tell them about
+what you were interested in, or do you know kind of how people would get
+funneled into some of these particular channels?
+
+MCCLAIN: No, I don’t. I really don’t remember.
+
+REDMAN: Okay, okay, so you’d maybe say that you were a math major and you’d
+show them your list of courses that you’d taken or you’d explain what
+you’d taken and they’d put you into a class or something like that?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, okay, so then what were the professors like that were teaching you there?
+
+MCCLAIN: Some of them were almost a little afraid of us. They hadn’t had many
+women at all.
+
+REDMAN: Oh, wow, okay, and then suddenly you’ve got a room full of women, an
+auditorium full of women.
+
+MCCLAIN: Most of them were just wonderful to us. In fact, I had dropped calculus
+when I left. I’d started that quarter, but I hadn’t gotten very far, were
+getting to integral calculus, which is quite hard, and I dropped it, and my
+professor said, “Oh, I hate to see you drop it. Why don’t you just send me
+in the assignments, and he gave them to me, and he said if you do that I can
+give you a grade.” So I did, and I got into trouble when I was at Minnesota on
+the assignment. I walked into Professor {Turreton’s?} math class with my long
+face. [laughter]
+
+REDMAN: Right, yeah.
+
+MCCLAIN: And he said, “Is there a problem?” I said, “There are a lot of
+problems, and I can’t do them,” and explained that I was going to quit. But
+I just couldn’t carry that, and he said, “Oh, don’t do that. I’ll help you.”
+
+REDMAN: Wow.
+
+MCCLAIN: He helped me pass that calculus course.
+
+REDMAN: Okay, okay, so some of the math was quite challenging.
+
+MCCLAIN: Yes, it was.
+
+REDMAN: Okay, so trying to push some of the limits of what you were able to --
+
+MCCLAIN: Well, this was the course in Denver.
+
+REDMAN: Okay, oh, okay.
+
+MCCLAIN: Yeah, so, but no, I don’t think they were that challenging actually.
+
+REDMAN: Okay, when you got into the classes at Minnesota they were fairly
+straightforward in this program.
+
+MCCLAIN: Yes, yes.
+
+REDMAN: Okay, now how about some of the other girls that were with you? Were
+they mostly college women like yourself who then had left their programs in
+order to do this?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, okay, so then tell me a little bit about, Denver does have a
+fairly mild climate at 300 days of sunshine a year, then going to Minneapolis in
+January or February of 1943, was that a little bit of a shock?
+
+MCCLAIN: Yes, it was. You had to walk on the sidewalks because there were banks
+four feet high on either side.
+
+REDMAN: Ice and snow, yeah.
+
+MCCLAIN: That was a funny thing there; they were also tons of servicemen there.
+
+REDMAN: Okay.
+
+MCCLAIN: Navy bakers, meteorologists, everybody, and they marched to classes.
+
+REDMAN: Okay.
+
+MCCLAIN: If you happened to be walking to classes, you just had to stand still
+when they went by you, so there were about four or five of us walking together,
+and then here came somebody, I’m not sure, I think it was a meteorologist, and
+they got all through us and their sergeant or whatever he was just couldn’t
+resist, he called, “To the rear, march,” and took them back through.
+
+REDMAN: That’s so funny. So people were still having a little bit of a good
+time on campus, okay.
+
+MCCLAIN: Oh, sure, yeah.
+
+REDMAN: So, yeah, what was that like having all of those servicemen around on
+campus when you were in the midst, because they were taking classes there as
+well, too, is that correct?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, but not necessarily in your program.
+
+MCCLAIN: No, no, not at all.
+
+REDMAN: Okay, so they were completely separated but taking classes on the campus
+at the same time. So did you feel like a normal college student there for a
+little while, or did you feel more or less like you were in this program on campus?
+
+MCCLAIN: I think we felt like college students.
+
+REDMAN: Okay.
+
+MCCLAIN: I think the meteorologist, their leader, whoever he was, came over and
+said, “Could we arrange some blind dates?” So we did, and it worked out.
+
+REDMAN: Okay, so every once in a while you’d go out on dates or your friends
+would go out on dates with people on campus.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, that’s wonderful. So I wanted to ask then so you finished this
+program, so that would have been maybe in the summertime or a little later?
+
+MCCLAIN: A little later, almost Christmas time.
+
+REDMAN: Almost Christmas time, okay. So then, I’m sorry, did you say there was
+an eleven month program?
+
+MCCLAIN: Ten month. Ten month.
+
+REDMAN: Ten month, okay, so maybe from February to December in ’43. So then
+what happens to you then after you complete this program?
+
+MCCLAIN: Well, they paid for our train fare back home, and for most of us it
+worked out that we were there for Christmas, not for all. They wanted to space
+the girls going in to the engineering department, all set for Curtiss-Wright at
+Columbus, Ohio, which made the Helldiver, which was a scout bomber, SB2C5, and
+also were working on a little scout plane. What was my train of thought?
+
+REDMAN: So you took the train back to Denver for Christmas. Were you one of the
+ones that made it back for Christmas that year?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, and what was the mood at Christmas like then seeing your parents
+after having been away in Minneapolis for some time and then about to leave and
+go to Columbus, Ohio?
+
+MCCLAIN: I think upbeat.
+
+REDMAN: You were happy to see them, okay.
+
+MCCLAIN: Maybe they were happy to see me go. No, I think they were just awfully
+glad I got to come back for Christmas, but they thought it was a good program.
+
+REDMAN: Okay, so they were proud of your decision to take part in it.
+
+MCCLAIN: Yes.
+
+REDMAN: Did you see it already as even before going into the factory, did you
+see it as part of the war effort, or were you thinking more about furthering
+your education?
+
+MCCLAIN: No, it was part of the war effort.
+
+REDMAN: Okay, okay, so had the war not been going on, you probably would have
+stayed at Denver.
+
+MCCLAIN: Right.
+
+REDMAN: Okay, okay. So then following Christmas then you and the other girls who
+had completed this program went to the Curtiss-Wright Factory at Columbus, Ohio,
+is that correct?
+
+MCCLAIN: That’s correct, yes.
+
+REDMAN: Okay, so what were some of your impressions of signing up for the job
+and officially arriving in Columbus, what was that like?
+
+MCCLAIN: A little hard. I think that’s where we got some resentment from the
+men that were there. They didn’t think we could do the work, and some of them
+were wonderful, but some could be a little nasty.
+
+REDMAN: Okay, okay, yeah. One of the questions I wanted to ask is how the men
+and women interacted because I’ve gotten a number of stories that there was
+either sexism or hanky panky or all different types of interaction, friendships
+or positive relationships, but most of those people I talked to had been on the
+line, on the assembly line. But from my understanding were you guys in the same
+building as the assembly line, or were you working on engineering plans and
+drafting completely separate from -- ?
+
+MCCLAIN: The engineering room was completely separate, but you could go out on
+the line any time you wanted to take a walk through or something.
+
+REDMAN: Okay.
+
+MCCLAIN: You couldn’t, to go out on a flight deck, you had to have a permit
+from the Chief Engineer. I’ll tell you more about that later.
+
+REDMAN: Sure, yeah. So then some of the engineers, some of the male engineers,
+resented this new group of young women, okay, and how did that manifest itself?
+You said some of them could be a little nasty. Would they say anything in particular?
+
+MCCLAIN: One I remember was talking to the draftsmen or the head, whose table
+was right in front of mine, and I don’t remember what he said, but it was very
+insulting, and I was so mad I just slammed my pencil down. He and I became quite
+friendly friends after a while. [laughter]
+
+REDMAN: Okay, okay.
+
+MCCLAIN: I was mad.
+
+REDMAN: Yeah, that’s a good story. I mean at the time that must have been so
+frustrating. All right, so we were talking about the one male engineer, but you
+said that the two of you actually became pretty good friends eventually.
+
+MCCLAIN: Yeah, yeah.
+
+REDMAN: Or a good working relationship.
+
+MCCLAIN: Yes, good working relationship.
+
+REDMAN: Okay, okay.
+
+MCCLAIN: There was some hanky panky. Most of it I didn’t know about until
+later, and one made me very unhappy. There was a girl in my group, I worked in
+landing gear and hydraulics, and she was almost totally deaf. She wore two
+hearing aids, and she could understand men’s lower voices and she could
+understand me pretty well, but I really liked her, and this one married man just
+took advantage of her loneliness, I felt.
+
+REDMAN: Okay.
+
+MCCLAIN: So it caused a lot of trouble. His wife found out about it, and so
+forth and so forth.
+
+REDMAN: Okay, I’ve heard some stories about how it was a real challenge for
+women who they may have had boyfriends or fiancés or husbands who then went
+away for war. Did you see any of that, or was that maybe the main story that
+stuck in your mind as far as loneliness --
+
+MCCLAIN: No, one of my very good friend’s husband, he wasn’t sent overseas
+yet but was scheduled to go, and quite a few, we only had one married woman, and
+her husband was in the service, too. Yes, a lot of them had boyfriends in the service.
+
+REDMAN: Okay.
+
+MCCLAIN: My boyfriend was an engineer, so he was not in the service.
+
+REDMAN: Can you tell me how you met your boyfriend at about that time?
+
+MCCLAIN: No, actually I had met him in Denver before I left, yeah.
+
+REDMAN: Okay, okay, and he remained behind in Denver.
+
+MCCLAIN: Well, for about a year longer until, or two years until he graduated,
+but then he ended up in Ithaca, New York.
+
+REDMAN: Okay, okay, so we can get to that in a bit. I want to ask you about the
+engineering room. You had mentioned that you worked in landing gear and
+hydraulics, and could you just walk me through, draw me a little bit of a
+picture of the engineering room was like? There would be these large drafting
+tables, was that correct?
+
+MCCLAIN: That’s correct.
+
+REDMAN: How large were, I’ve seen some for ships, engineering rooms for ships
+where there would be these massive drafting tables with the entire plan on the
+ship, and you’d take off your socks and shoes and actually stand on the
+drafting table. But for planes were they large desks placed around, and how was
+it divided up, what did the engineering room look like?
+
+MCCLAIN: The engineering room was full almost entirely of drafting tables. I was
+just looking at my dining table, about that long, but, of course, they tip up.
+
+REDMAN: Yeah, so maybe about six feet long.
+
+MCCLAIN: Um hm.
+
+REDMAN: Then they would tip up, okay. Now would there be a section for landing
+gear and hydraulics, and a section for the other different components of the plane?
+
+MCCLAIN: Yes, but it wasn’t, there were no partitions or anything. It was just
+that all the landing gear and hydraulics was in about two rows and so forth.
+
+REDMAN: Okay. Once a plane has been designed, what would an engineer like you do
+at a factory, would you double check to make sure that the designs were being
+accurately implemented? Or tell me about what an engineer would do?
+
+MCCLAIN: Well, when I was there they were on the fifth model of the Helldiver
+and were starting to work on the sixth.
+
+REDMAN: Okay.
+
+MCCLAIN: So there was always new work to be done, and on the little scout plane
+that was just in the experimental stage and so there was work on that, too.
+
+REDMAN: Okay, now I’ve seen it referred to as well as the hell cat or
+Helldiver --
+
+MCCLAIN: Correct.
+
+REDMAN: That was used primarily by the Navy, is that correct?
+
+MCCLAIN: Yes, it’s a Navy plane entirely.
+
+REDMAN: Okay, okay, and it was meant to carry one or two large bombs.
+
+MCCLAIN: I believe just one large bomb.
+
+REDMAN: Just one large bomb, and it would dive down, it was mainly to be used in
+the Pacific, is that right?
+
+MCCLAIN: That’s correct.
+
+REDMAN: Okay, okay, so did you know some of this coming in, what the goals of
+the plane were, what it was meant to do? Or did you just sort of learn about
+what the function of the aircraft was as you were working as an engineer?
+
+MCCLAIN: I think just picked it up.
+
+REDMAN: Okay, so people would tell you this thing or the other thing about the
+plane, or, okay, let’s go back to arriving and signing up for work. Did you
+sign up for a union at all?
+
+MCCLAIN: No, there were very few union people in there, it wasn’t, and I
+didn’t sign up for --
+
+REDMAN: Okay, okay, now how about a health care plan? Was there -- ?
+
+MCCLAIN: No.
+
+REDMAN: Okay, let’s turn back, so there was some union activity at the plant.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, but it was pretty limited?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, so maybe some people were required to sign up for a union, but
+they didn’t actively maybe play a role in the unions or anything like in the
+plant or maybe just not that you saw, or --
+
+MCCLAIN: I know they didn’t in the engineering department. Whether they did in
+the plant, I don’t know.
+
+REDMAN: Okay, okay. So then tell me a little bit more about the dynamic in the
+engineering room, so what on a day to day basis what sort of thing does someone
+who is working on drafts of a design of landing gear or hydraulics, what would
+you do?
+
+MCCLAIN: Well, hydraulics, you might be designing a bracket to hold the
+spaghetti, we called it, and I was just I think I finally had a junior engineer
+rating, but I didn’t do any of the real design work.
+
+REDMAN: Okay, I’ve heard of frequently the military coming back to many of
+these plants and factories, it would seem to make sense that representatives
+from the Navy would periodically come to the engineering room and say, “These
+are some of the things that we want to work on on the fifth model or the fourth
+model of the diver.” Would they suggest improvements, or how would that sort
+of be implemented? How would they improve the plane?
+
+MCCLAIN: I think their meeting would be with the Chief Engineer and a few of his
+immediate followers. It didn’t get down to me, except I’m sure that they
+came along and said, “We want to change this,” and I didn’t really wonder why.
+
+REDMAN: Okay, so you just saw some of these things as general improvements to --
+
+MCCLAIN: Yeah.
+
+REDMAN: Okay, okay, so then how did you commute to work each day? What was your
+living situation like?
+
+MCCLAIN: Oh, I lived with three other women in an apartment, and we were fairly
+close to the plant on the outskirts of Columbus really, and one of my lead men
+gave me a ride every day.
+
+REDMAN: Okay, okay, so there was an active share the ride program at the --
+
+MCCLAIN: Oh, definitely, yeah.
+
+REDMAN: Okay, so people would commute together.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, now so you said you lived with three girls who worked at the plant.
+
+MCCLAIN: That’s right
+
+REDMAN: Did you guys then share rationing, or how did your rationing work for a
+group of young women, you might get so much milk or butter or margarine or, do
+you recall how that worked? Or did you have a system in your house?
+
+MCCLAIN: No, I think we had a great plenty of, I don’t remember.
+
+REDMAN: Okay, so do you remember rationing at all?
+
+MCCLAIN: Yes, I do remember, we did want more sugar, but one of the girls that
+lived in Columbus, her mother had plenty and shared it with us.
+
+REDMAN: So if you maybe didn’t have quite enough sugar, you could find someone
+who would be able to share a little.
+
+MCCLAIN: Yes.
+
+REDMAN: All right, so let’s talk about, we talked a little bit about how the
+plant was mixed in terms of gender in the engineering room. How about, do you
+have sort of a general recollection of how about race? Were there mainly white
+people who were in the engineering room?
+
+MCCLAIN: Yes.
+
+REDMAN: Almost exclusively?
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, and then how about on the actual assembly line? Do you recall if
+that was --
+
+MCCLAIN: I think there were some blacks on there, but not a lot.
+
+REDMAN: Okay, okay.
+
+MCCLAIN: Columbus at that time was awfully close to the South and in their
+thinking they were.
+
+REDMAN: Okay. I’m sorry, can you move your hand? So, I’m sorry, you said
+Columbus was awfully close to the South. So were you getting a lot of people
+coming up to Columbus from the South seeking jobs?
+
+MCCLAIN: I think there were probably closer jobs than Columbus.
+
+REDMAN: Okay, okay, so how about the pay at Curtiss-Wright? Were most people
+pretty satisfied with the salaries that they were getting for work?
+
+MCCLAIN: I think so.
+
+REDMAN: Okay, okay, and how about yourself? Did you feel like this was a good
+paying job, or is that something that wasn’t really on your radar or something
+you weren’t paying as much attention to?
+
+MCCLAIN: I don’t think any of us were paying, the jobs we’d had always been
+just summer jobs, and it seemed very good really.
+
+REDMAN: Right, so for many of the girls this would have been their first real
+permanent job.
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, okay, so that must have been, to a certain extent do you feel like
+people were learning on the job to what extent they could and kind of learning
+as you go along in the engineering room?
+
+MCCLAIN: Oh, yes.
+
+REDMAN: Okay, so what sorts of things were you trying to pick up, or what sort
+of things were you trying to learn from --
+
+MCCLAIN: Well, I really wanted to learn exactly how a hydraulic system worked.
+Don’t think I ever felt very capable on that. [laughter]
+
+REDMAN: Okay.
+
+MCCLAIN: Then I learned to improve my drafting a great deal.
+
+REDMAN: Okay, did you feel like that was through practice?
+
+MCCLAIN: Yes, mostly practice, yes.
+
+REDMAN: Okay, so you would be asked to draft and redraft some of the small
+design changes that were critical to the aircraft, but tell me about what the
+other sections of the engineering room might have been, so you were working in
+landing gear and hydraulics. Do you recall what some of the other engineers were
+working on?
+
+MCCLAIN: I surely should. Well, the bomb bay and the bomb equipment for holding
+the bomb, and, goodness, electrical systems, and the whole, the firewall and the
+sides of the plane.
+
+REDMAN: So that’s a pretty diverse range of jobs, going from bomb equipment to
+the hydraulics, so were you assigned to landing gear and hydraulics, or was that
+something that you chose, or -- ?
+
+MCCLAIN: No, I was assigned to it.
+
+REDMAN: Okay.
+
+MCCLAIN: Yeah.
+
+REDMAN: Okay, and how do you feel like that compared as a job to these other
+sorts of jobs that some of the other engineers were doing?
+
+MCCLAIN: About the same, for the girls, I mean for the cadets we were called.
+
+REDMAN: Okay. Oh, that’s interesting. Do you know why they called you cadets?
+
+MCCLAIN: It started with the schooling. We were the Curtiss-Wright cadets.
+
+REDMAN: Curtiss-Wright cadets, okay, okay. So can you tell me then do you
+remember, I’ll close on this question for this tape, so most of the senior
+engineers then would have been men.
+
+MCCLAIN: Yes.
+
+REDMAN: Was it almost exclusively men who were already in the plant who then
+were at a higher rank than these young women engineers who came in through this
+Curtiss-Wrights cadets program, and that must have had, we’ve talked a little
+bit about the relationships that that may have brought about or there might have
+been some resentment. Can you just comment a little bit more on what, were some
+of the men equal, maybe some of the men were quite gruff, but were some of the
+men pretty easy to work with, or did they like having young people working with
+them, or -- ?
+
+MCCLAIN: I think most of them did. My final job was to draw the final hydraulic
+system on the Helldiver. The engineers cannot place every hydraulic tube. It has
+to go to the experimental shop because it’s, there’s just too many of them
+and trying to get in a narrow space and all, so that we had to do the final job
+on that. I worked with one of the engineers on that, and he was great.
+
+REDMAN: Okay, okay, so by and large most of them were supportive and --
+
+MCCLAIN: Yes.
+
+REDMAN: Okay, okay, well with that I’ll change the tape and ask some other questions.
+
+ 
+
+ 
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

@@ -1,0 +1,37 @@
+word_1,word_2,count
+harass*,rape,10
+attack,harass*,8
+rape,raped,4
+outrage,rape,4
+harass*,outrage,4
+molest*,raped,4
+rape,raping,2
+rape,rapes,2
+raped,raping,2
+raped,rapes,2
+outrage,raped,2
+rapes,raping,2
+outrage,raping,2
+outrage,rapes,2
+rape,sex* assault,2
+rape,sex* violence,2
+raped,sex* assault,2
+harass*,raped,2
+raped,sex* violence,2
+harass*,sex* assault,2
+sex* assault,sex* violence,2
+harass*,sex* violence,2
+rape,seduction,2
+hanky panky,harass*,2
+harass*,sex* abuse,2
+attack,rape,2
+rape,seduce,2
+attack,seduce,2
+harass*,seduce,2
+child abuse,incest*,2
+insult,raped,2
+child abuse,raped,2
+insult,molest*,2
+child abuse,insult,2
+child abuse,molest*,2
+outrage,sodomy,2

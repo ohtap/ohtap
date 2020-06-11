@@ -1,0 +1,29 @@
+filename,keyword,count
+SCAP_Abrams_Lisa.txt,harass*,1
+SCAP_Baldwin_Tammy.txt,attack,1
+SCAP_Callahan_Kara.txt,harass*,2
+SCAP_Carr_Carolyn.txt,attack,1
+SCAP_Grace_Martha.txt,child abuse,1
+SCAP_Hazeltine_Glenna.txt,rape,1
+SCAP_Hazeltine_Glenna.txt,sex* assault,1
+SCAP_Jimenez_Ileana.txt,harass*,1
+SCAP_Jimenez_Ileana.txt,seduce,1
+SCAP_Jimenez_Ileana.txt,anita hill,1
+SCAP_Jimenez_Ileana.txt,clarence thomas,1
+SCAP_Kessler_Elizabeth.txt,rape,1
+SCAP_King_Brandy.txt,rape,1
+SCAP_LaBarbera_Jen.txt,sex* violence,7
+SCAP_LaBarbera_Jen.txt,rape,2
+SCAP_LaBarbera_Jen.txt,sex* assault,1
+SCAP_LaBarbera_Jen.txt,harass*,1
+SCAP_Leiter_Ruth.txt,attack,2
+SCAP_Lewis_Sylvia.txt,rape,1
+SCAP_McNulty_Molly.txt,rape,3
+SCAP_McNulty_Molly.txt,sex* violence,2
+SCAP_McNulty_Molly.txt,attack,1
+SCAP_Rosenthal_Betsy.txt,insult,1
+SCAP_Rothblum_Esther.txt,rape,1
+SCAP_Simpson-Sawyer_Miranda.txt,incest*,2
+SCAP_Wang_Kit.txt,rape,3
+SCAP_Winawer-Wetzel_Sarah.txt,attack,1
+SCAP_Yahm_Elinor.txt,raped,2

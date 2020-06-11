@@ -1,0 +1,3188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042066" dt="2018-08-15"><version>5.1</version><date value="2003-04-10" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Maggie Gee Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Maggie Gee</interviewee><interviewer>Leah McGarrigle</interviewer><interviewer>Robin Li</interviewer><interviewer>Kathryn Stine</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>LI: It&#039;s April 9th, and this is Robin Li and Kathryn Stine and Leah McGarrigle,
+interviewing Maggie Gee. Do you know what the Chinese character means?
+
+GEE: Yes--oh, I forgot what it means.
+
+LI: But it&#039;s in Cantonese?
+
+GEE: It&#039;s in Cantonese. Gee Mei Gue, that&#039;s my Chinese name.
+
+LI: What does it mean?
+
+GEE: Mei Gue. Mei is &quot;pretty&quot; something. I forget what is pretty. Everyone is
+Mei. Aren&#039;t you Mei-something?
+
+LI: No, I&#039;m Yue Bin. Yue, like &quot;happiness.&quot; Doesn&#039;t sound as good in English.
+
+Once again, we were talking about maybe just sort of starting in the beginning,
+talking about your grandparents, where they were from and how they ended up in California.
+
+GEE: My grandparents were from Guangzhou area, which is Canton I guess, in those
+days. They came here because of the Taiping Revolution, I believe. They came
+because of economic reasons. They didn&#039;t come to work on the railroads. They
+were fishermen. It was very unusual at that particular time; it was probably the
+1870s. They came as a couple. I don&#039;t know whether anyone has looked at it, but
+when we talked to Sandy Lydon, he said that there were some Chinese that came
+over in junks. [laughs] Well, there were quite a few, and not very many got
+here. We could never prove it, though. There were some that came over as
+families, because at that particular time it was just men that came. Then there
+was the Exclusion Act--women couldn&#039;t come. My grandmother was quite a bit
+younger than my grandfather when she came to this country. She had thirteen
+children. They landed in Monterey; well, they probably landed in San Francisco,
+then they went to Monterey. There was a fishing community down there, of Chinese.
+
+MCGARRIGLE: Do you think they would have known before they came that that was
+their destination, Monterey?
+
+GEE: I have no idea. I never got a chance to speak to them; my mother didn&#039;t
+talk about it. My mother was born in Monterey.
+
+LI: Were the thirteen children all born here?
+
+GEE: I believe all thirteen were born in this country, yes. Maybe there were
+more than thirteen, but the thirteen survived.
+
+LI: Where was your mother in the birth order?
+
+GEE: My mother was--I would think about the fifth one down. She was just one of
+the mouths to feed at that particular time.
+
+LI: Do you know when she was born?
+
+GEE: She was born 1895, I believe.
+
+LI: Would she talk about growing up in Monterey?
+
+GEE: No, she didn&#039;t talk. I picked it up. We used to go down to Monterey all the
+time to visit friends, but she never--well, by the time I became interested, she
+didn&#039;t talk very much about it and I didn&#039;t ask her, which was unfortunate. You
+know, as children you grow up and your parents are speaking, they&#039;re telling you
+things and you really don&#039;t listen very well. At least, I found myself not doing
+it. I regret it. I picked up most of the information just by being around my
+uncles and my aunts.
+
+LI: The family kept in touch.
+
+GEE: Oh yeah, the family kept in touch like most Chinese families, because at
+that particular time there was the isolation. There was a lot of discrimination,
+so the families were very close. All the brothers and sisters of my mother&#039;s
+generation were very close, as long as my grandmother was living, in particular
+when my grandmother was living.
+
+MCGARRIGLE: Do you know what kind of house they moved to in Monterey? Where did
+they set up house?
+
+GEE: Well, we had a reunion almost twenty years ago. They were down in Seventeen
+Mile Drive, where the Tennis and Beach Club is. We had it there, which was
+really great fun. They were squatters; the Chinese couldn&#039;t own property at that
+particular time. I&#039;ll just generalize and say Asians could not own property. I&#039;m
+not quite sure whethersome people bought it in their children&#039;s name that were
+born in this country, but I&#039;m not quite sure. Some people might have.
+
+MCGARRIGLE: So squatters in the sense that they would into an existing home?
+
+GEE: No, no. Squatters in a sense you build something on land that you don&#039;t
+own, I believe. I don&#039;t think there are any houses there. It&#039;s beautiful
+property that Del Monte finally developed, though, and became Seventeen Mile Drive.
+
+LI: Did they work as fishermen in Monterey?
+
+GEE: Yes, as fisherman for the Chinese in San Francisco. They dried fish, went
+out and got abalone and dried abalone; it was just part of the Chinese
+community. There was a big Chinese community there in Monterey, Watsonville, and
+Salinas. They were all either fishermen or they had grocery shops. Some farming,
+but not much farming, I don&#039;t think.
+
+LI: Did your mother work with her parents?
+
+GEE: I&#039;m sure all of the children worked, whatever they did. In fact, they
+collected abalone shells, because they kept them and they polished them, and
+they sold them in stands. I don&#039;t have one of them. My sister had one and
+they&#039;re just beautiful. When I was a child when we went down to Monterey, we
+used to go and pick these abalones off of the beach--they were very small.
+Nowadays you have to wait until they&#039;re seven inches and you have to dive for
+them. We would just boil them on the beach. We would get a fire going and we&#039;d
+eat these little abalones. They were absolutely delicious, I remember that. You
+could just pick them up on the rocks, like you would be able to get mussels, but
+no longer. At that time, most of the otters had gone and now we have otters that
+have come back, because they&#039;re an endangered species. And so I don&#039;t have to
+eat abalone anymore; the otters can have it. [laughs] They don&#039;t commercialize
+them here, because they&#039;re so few and the otters go after them.
+
+LI: How did your mother come to leave Monterey?
+
+GEE: The family moved up. My grandfather died, I believe. He was quite a bit
+older than my grandmother. So they moved up to San Francisco Chinatown. I just
+don&#039;t know exactly how this happened, but my father came as a merchant from Hong
+Kong. At that time, there was the Exclusion Act and so the only people that
+could come to this country were professionals or merchants or businessmen. So he
+came. He was an importer. He had a company in Hong Kong and so he set up a
+company here. He wanted to get married, so who did he go to? A marriage
+arranger, a marriage counselor, whatever you call &#039;em. So it was an arranged marriage.
+
+LI: Had your mother registered, sort of, with the--
+
+GEE: I don&#039;t know how that works, I really don&#039;t. Usually it&#039;s families that
+know each other. This was something that wasn&#039;t, though. He was someone who had
+a little means. He was a young man and looking for a wife. Whether he looked
+through many of them and chose my mother--it was an okay marriage.
+
+MCGARRIGLE: How old was she when they married?
+
+GEE: My mother, when she got married--if she was a &#039;95, I would say she was
+twenty, at least. About 1915. Is that right?
+
+MCGARRIGLE: That would be right.
+
+GEE: Did you get hold of the book by Xiao Jiu.
+
+LI: I was reading her book, because there&#039;s one chapter which is based almost
+entirely on that article. I was reading in there about your mother losing her
+citizenship when she got married. Would she talk about that?
+
+GEE: Oh, yes, but she didn&#039;t lose it until a few years later, in something
+called the Cable Act.
+
+LI: Right, so it&#039;s 1922.
+
+GEE: They were married for some time and then the Cable Act came and it was
+directed to really Asians. I&#039;d have to look at the Cable Act. Is it specifically Asians?
+
+LI: It&#039;s any American woman who marries someone ineligible for citizenship,
+which is pretty much just Asians. So even if a white woman married an Asian--
+
+GEE: She&#039;d lose her citizenship, yes. So my mother lost her citizenship. It
+really bothered her, as I remember, but she got it back. It was a big thing for
+that particular time. Where are you a citizen of, then, if you lose your
+citizenship? Are you a citizen of China? She had been to China I think, but
+that&#039;s about all.
+
+LI: Had she gone back to visit?
+
+GEE: She went back to visit. It had to be about 1920, because my sister wasn&#039;t
+born, just my brother. My sister was born in 1921.
+
+MCGARRIGLE: So that was a long trip. Who went back, when they went back?
+
+GEE: My mother and my father and my brother. I think she had a baby there, which
+she lost, in China at that particular time. There was one child which she lost.
+
+MCGARRIGLE: That might have been a business trip, then.
+
+GEE: Some trip. Business, I guess, because he was able to come back.
+
+LI: Do you know if they ever considered moving back to China, after she lost her citizenship?
+
+GEE: I don&#039;t think so. She really was an American, though, even though we lived
+in a Chinese community up till then. It must be after they came back that my
+father decided to move to Berkeley. They lived in San Francisco.
+
+LI: Do you know why he decided to move to Berkeley?
+
+GEE: Well, he wanted his children to grow up outside of Chinatown. He didn&#039;t
+speak English at all, but he commuted from Berkeley because we had such
+wonderful transportation here. I think I told you there was a train on Tenth
+Street, a train on Sixth Street, a train on Sacramento, a train on California,
+two on Shattuck Avenue. One went along Claremont to the Claremont Hotel. These
+are all trains to San Francisco. Pretty nice.
+
+LI: Did they run across the Bay Bridge?
+
+GEE: There was no Bay Bridge. There was a ferry. Where the toll gate is, that&#039;s
+where the ferry slip was. It was really wonderful. It took you about the same
+amount of time; faster, no traffic. It&#039;s a short distance. Have you ever taken
+the ferry to San Francisco? Well, do it. It&#039;s really a nice ride. You pick the
+ferry up at Jack London and it&#039;s only a half hour. What you do is you go along
+the channel, then you go under the Bay
+
+Bridge. But in the channel is where all the container ships are and you see them
+loading them. It&#039;s really interesting. Then you come to the Bay Bridge; I think
+you get very close to Yerba Buena, I&#039;m not sure. You go under the Bay Bridge,
+then you&#039;re at the Ferry Building. You park your car down at Twelfth Street, at
+the garage or on the street, then you take BART home if you don&#039;t want to stay.
+You can get off at Twelfth Street and you just walk to your car if you don&#039;t
+want to wait for the ferry, which runs probably every hour. You go over and have
+lunch, and then take BART back. It&#039;s more flexible.
+
+LI: When you were a child, did Chinatown feel close, even if you weren&#039;t living there?
+
+GEE: Yes, I think so. When I was a child, Chinatown was close, because all my
+relatives lived in San Francisco Chinatown. My uncle had moved to this side of
+the bay, lived in Oakland Chinatown. Everyone lived in Chinatown. There were so
+many restrictions of where you could live.
+
+MCGARRIGLE: So Berkeley was kind of outside of that.
+
+GEE: Well, what happened was in 1906 there was a big earthquake. People came
+over to this side of the bay and a lot of people in Chinatown came over. The
+Chinese had these little truck farms down below San Pablo, I guess.
+
+LI: How did they get that land, do you know? Was it just sort of empty?
+
+GEE: I have no idea because there was no ownership. Didn&#039;t I show you my little
+pamphlet Looking Back at Berkeley? [Looking Back at Berkeley: a Pictorial
+History of a Diverse City. Berkeley, 1984] I want to
+
+show you what Chinese--I just picked these up from the basement recently,
+because someone had asked me so I brought a whole bunch of them up. This was
+Berkeley Chinese. It&#039;s actually there. I&#039;ll give you this. Let me see if I can
+see those. This talks about the Chinese in Berkeley. I love this picture. In
+Berkeley? There it is, this one. It&#039;s down here on Hearst Street and Shattuck, I
+think. It&#039;s just like the Farmer&#039;s Market.
+
+MCGARRIGLE: Comes full circle.
+
+GEE: [laughs] They&#039;d bring up the vegetables in these, just like in China. You
+can have that.
+
+LI: Are you sure?
+
+GEE: I have so many copies of it. I still have a bunch of copies, that&#039;s why I
+had them in the basement and I said I gotta give &#039;em away.
+
+LI: It&#039;s amazing. It looks just like Berkeley; the houses look the same, and the street.
+
+GEE: Oh yeah, Berkeley hasn&#039;t changed. In this neighborhood everything burned in
+&#039;23, but on your side, on the other side of campus, some of the same houses are
+still around.
+
+MCGARRIGLE: What was your father&#039;s business at that point? Did it evolve?
+
+GEE: My father imported foodstuff from China, rice, and I guess the usual
+foodstuff, and then he exported soap products back to China. From China, the
+foodstuff, just like you do today, more so. At that particular time, America
+wasn&#039;t a rice-eating community. There was still Texas; I guess maybe in the
+South people ate rice, but rice was not a big item.
+
+LI: Did that make him an important member of the community?
+
+GEE: Oh, he was a businessman in San Francisco, yes. We used to go over there, I
+remember, to his warehouse--it was on Clay Street and he had one of these
+elevators, one of those things that open up in the street, on the sidewalk. You
+put the stuff down there and the elevator goes down. I guess you store it inside
+the shop. Are they still around?
+
+MCGARRIGLE: I see that, yes. In other cities, also. More Eastern cities, where
+they load. Big steel doors open up and this lift comes up and they download
+everything. You see that more in the East.
+
+GEE: But you don&#039;t see that here anymore.
+
+LI: In Chinatown, they have them. In the restaurants, behind the restaurants
+you&#039;ll see all this bok choy--
+
+GEE: Is that right? [laughs] Going down there. It was practical. They had it on
+the sidewalk. I remember his on Clay Street. I think it was Clay Street, yeah,
+Commercial and about Kearny.
+
+LI: Was your mother staying at home at this time?
+
+GEE: She stayed at home. She had six children, so she stayed at home.
+
+LI: You said her first child was born in 1920? That&#039;s when your older brother
+was born?
+
+GEE: My brother was born in 1917 or &#039;18. Eighteen, I think. No, it has to be
+1917. I was born in &#039;23 and he&#039;s six years older than me, so whatever that is.
+[laughs] That&#039;s 1917.
+
+LI: The youngest was born--
+
+GEE: The youngest in the family was born--probably &#039;28.
+
+MCGARRIGLE: She had six children in ten or eleven years.
+
+GEE: Every two years, that&#039;s what you do. You have sex, you just get pregnant. [laughs]
+
+MCGARRIGLE: Did she maintain contact with her mother and all the extended family?
+
+GEE: Oh yes, yes. On her side, but my father died when I was quite young so that
+I really didn&#039;t know [his side of the family]. I just had a cousin that lived
+here and the rest were in Hong Kong, so I as a person, or none
+
+of us in fact, had an opportunity to really know that side of the family. Part
+of it is communication. Today you would know. To go from China from here was a
+long ways.
+
+LI: What year did your father pass away? When was that?
+
+GEE: What was the Depression? &#039;30, &#039;31? Whenever the stock market crashed. He
+had a heart attack. That&#039;s because he had so much in the stock market. It&#039;s
+interesting. I think five percent was all you had to put down. People bought.
+Like a lot of Chinese, they gambled a lot. I think the stock market is gambling,
+somewhat. In those days, more so. Today we hope we&#039;re intelligent about it,
+sometimes we&#039;re not very intelligent. [laughs] But in those days, that&#039;s right.
+When the market crashed he had either a heart attack or stroke in the streets of
+San Francisco, came home and died shortly after that.
+
+MCGARRIGLE: Was your mother then following up on his business?
+
+GEE: Oh no, she didn&#039;t know anything about it, but my uncles had worked for him.
+They were very smart. We owned a house, then, and they were smart enough
+to--when the market crashes and the margin, you owe people a lot of money. But
+they quickly arranged it so the house was in my mother&#039;s name. It was hard to
+tell how you do this, so she wouldn&#039;t lose her house. Someone loses when the
+market crashes, besides you, but someone else loses, too. Usually you have to
+pay off your margin and everything you have goes to pay off your margin account.
+
+LI: How did you parents come to buy a house in Berkeley, because of the restrictions?
+
+GEE: It was down in the flats, down by Sacramento Street. There weren&#039;t any
+houses down there to begin with. Here&#039;s this little house with empty lots all
+around. It wasn&#039;t a big, established place. The only owner of the house was
+whether they built there or had it built, or whatever. I don&#039;t know.
+
+MCGARRIGLE: What was that church on Acton Street that your mother had been
+active in? Isn&#039;t there a Chinese church--
+
+GEE: Oh yes, my mother was very active in that Chinese church. In fact, she
+moved from one part of Acton Street to the other part, and the church was in
+between. Have you ever visited that church?
+
+MCGARRIGLE: We gave a talk about oral history to them once. I remember you
+telling me that your mother had been active there.
+
+GEE: Very active in that church, yeah. Do you remember the architect Roger Lee
+He was a fairly well-known local architect and he built that church. It&#039;s a nice
+church, yeah. This is not an interview about me, you know. This is background.
+
+MCGARRIGLE: What was the denomination of that church?
+
+GEE: The church was very interesting. Now, my little book here--It was founded
+by the Mason-MacDuffie Ladies of the First Congregational Church, so it was a
+Congregational Church. It was on Addison. Do you know where Gertie&#039;s is? It used
+to be Gertie&#039;s Restaurant. The church was there. They owned the property there.
+It was a house that was used as a church, but also it was a big house. It had a
+large room;
+
+that was the downstairs. Maybe they took out some of the walls. The upstairs was
+housing for students: Chinese students had a hard time finding housing here when
+they were going to school, particularly the Chinese from China. There were some
+students from China, so they lived there. So it was more. I went to Chinese
+school there. It was more than a church, it was a Chinese community center. Most
+of the people in Berkeley, at least the Cantonese, went to that church. So you
+knew everyone in Berkeley at that particular time.
+
+LI: You said you went to Chinese school there?
+
+GEE: Went to Chinese school there. It was Chinese school after school there.
+
+LI: When did you start going to Chinese school?
+
+GEE: Oh, I don&#039;t remember. When I was young, we used to have a teacher come to
+our house. It was really for my brother--so I was quite young--it was for my
+brother to know Chinese. The girls got a little bit of Chinese. It was important
+because it was an insult, if your children didn&#039;t know Chinese; you were ashamed
+of it. There used to be a name--I forget what the word is, a very derogatory
+name for people who did not speak Chinese in the Chinese community. As I grew
+up, my mother was ashamed, a little bit. [laughs] Not really, though, but you
+know, people would always mention &quot;Your children don&#039;t speak Chinese.&quot;
+
+LI: Did she try? She tried to send you to Chinese school.
+
+GEE: I went to Chinese school for a long time and hated it. [laughs] Because it
+was school after school. My regret was that I was not a better student. I went
+for a long time, I can&#039;t tell you how many years.
+
+MCGARRIGLE: They spoke Chinese at home, because you said your father didn&#039;t
+speak English.
+
+GEE: Well yes, but see, my father died when I was relatively young, and my
+mother spoke English. She might speak to us in Chinese, and you answer in
+English. It&#039;s typical with that generation, though. But with my generation, you
+didn&#039;t want to speak Chinese, because you wanted to integrate. Didn&#039;t want to
+eat with chopsticks, none of that. &quot;Why are we having rice all the time?&quot;
+
+LI: Did you feel that separation from your home life and outside?
+
+GEE: A little bit, because we were not living in Chinatown. See, if you were
+living in Chinatown then it&#039;s all the same, pretty much. My friends in school
+were not Chinese, here. But if I stop and think about it, most of them, their
+parents were immigrants. This was in the twenties and I remember there was this
+one family who are plumbers, Italian family in Berkeley. Nice kids. Plumbing was
+considered kind of a lowly profession, and of course it turns out that it&#039;s the
+Jacuzzi family. [laughs] You start out as a plumber-- everyone has to start
+someplace. They were smart plumbers.
+
+MCGARRIGLE: The schools were integrated then and the neighborhoods--
+
+GEE: Oh yeah, the schools were really integrated. There were black kids; Walter
+Gordon lived down the street from me. Walter Gordon is a black man who was
+early, he was a lawyer, he played football. This was before civil rights, so he
+could only live in a certain place and he couldn&#039;t go places, stay in hotels and
+things like that. He was appointed by Earl Warren to the head of the probation
+board. I&#039;m not quite sure exactly what it was. Then later on he was appointed by
+Eisenhower to be the Governor of the Virgin Islands. But he was black, and at
+that time they still could not do a lot of things. It took civil rights, and you
+still couldn&#039;t do a lot of things. But the community was pretty well integrated.
+We had quite a few blacks in Berkeley, and the reason why we had them was
+because it was the end of the railroad line and so the blacks worked as Pullmans
+on the trains. That&#039;s where Dellums comes from. I&#039;m not sure that Dellums&#039; uncle
+or his father was a Pullman porter. So they all had jobs and they all had
+houses, they had children like anyone else. They were middle-class. It was
+before the onset of the war that brought in lots of people from elsewheres.
+Berkeley was integrated, in that sense.
+
+LI: Even at that time, in the 1920s.
+
+GEE: In the 1920s, yes. There were blacks, whites living in the neighborhood,
+quite a few Japanese, and some Chinese. More Japanese in my neighborhood than Chinese.
+
+LI: Was your mother friends with all?
+
+GEE: My mother was pretty much friends with everyone. Yeah, because your
+children, I think that&#039;s part of it, in the neighborhood. She spoke English
+pretty well, spoke Chinese very well, so that was good.
+
+MCGARRIGLE: Did she always cook Chinese at home, or did she adopt some other foods?
+
+GEE: It was either, sometimes Chinese and sometimes not. Okay, my mother--
+
+LI: How did her life change after her husband died?
+
+GEE: She had some money for a while. You own a house, that really made a
+difference. Today it does, too. She owned a house, it was in the depths of the
+Depression. She was in her thirties, if you kind of stop and think about it. She
+should have sent us all out to the orphanage or some place like that. [laughs]
+But she didn&#039;t. She didn&#039;t work for a long time; then she took in sewing. I
+remember she had this big sewing machine, so she&#039;d sew during the middle of the
+night. A lot of Chinese did that. They&#039;d go to the sewing factory in Chinatown
+and they did it by piece. She did that; then she went out and she did housework
+for a while. She was a terrible housekeeper; I don&#039;t know how she ever did any
+housework. Then the war came on, and that made a lot of difference. She had a
+real job. But we never lacked for money. There was not a lot of money around or
+anything like that, for anything we wanted, but we always had a automobile. I
+mean, I just don&#039;t know how it all worked. She learned to drive, by the way,
+when my father died in the early &#039;30s. We had a &#039;28 Studebaker, then my mother
+started buying Buicks, I remember, so there was a little money coming in.
+
+LI: Do you think you were getting support still from your uncles?
+
+GEE: She might have. That I don&#039;t know. She might have, because we had one uncle
+who wasn&#039;t married and he always came around. He was sort of the father figure
+around, one of her brothers. I don&#039;t know
+
+whether he was older or younger. He was about the same age that she was. One
+thing I&#039;ll always remember, he was a hunter and he&#039;d go hunting for deer. It
+really kind of amazes me now. Every year it seems like he shot a deer, before
+the days of Bambi. [laughs] And we&#039;d have this deer hanging in the garage. Well,
+you have to hang meat for a while, and I can always remember that. I&#039;m not big
+on deer meat, never was. I&#039;ve never been big on deer or meat or anything, but I
+do remember that. That&#039;s very unusual for a Chinese man to go hunting. Now, who
+he went with, I have no idea. I just remember there was this deer hanging in the
+garage. One didn&#039;t have a freezer then, so we had a lot of meat.
+
+LI: Would your mother maybe cure it?
+
+GEE: Well, any meat is hung for weeks. You&#039;d think it&#039;d rot, wouldn&#039;t you?
+[laughs] But that&#039;s aging.
+
+MCGARRIGLE: You had an icebox?
+
+GEE: We had an icebox then, though. So what do you do with all this meat? I
+guess a lot of people got a piece of it. He slaughtered it all alone. I think my
+uncle skinned it. Yuck. [laughs] Now that I stop and think about it--
+
+MCGARRIGLE: Sounds like she was very independent, in that she learned to drive--
+
+GEE: Which was pretty unusual; that&#039;s right. She has these six kids? [laughs]
+Oh, my goodness. She learned to drive, she had a car; she never taught us to
+drive, none of us, and she was very smart. We knew exactly
+
+why it was, because she didn&#039;t want us to be asking for the car, so she kept the
+car to herself. Smart. So we all had to learn how to drive on our own.
+
+MCGARRIGLE: Were there messages that she imparted to you and the other sisters
+and your brother, from her experience about independence or about becoming self-sufficient?
+
+GEE: I think so. She really knew how to do things. As I grew older, I became
+aware that she knew how to change the lights--I mean, these are small things
+that we can do, but the light socket, she could fix, do a little plumbing; she
+could do simple things that a lot of women can&#039;t do, particularly of that
+generation. You had to. If you own a house, as you know, you don&#039;t have anyone
+to take care of all the little things. You learned how to do them yourself. My
+sister said she was really smart. See, I didn&#039;t have that sense. When you&#039;re a
+child, you&#039;re so wrapped in yourself. You have to kind of look behind. My sister
+not so long ago, when I was asking her, says, &quot;You know, your mother really was
+very smart.&quot; Too bad she didn&#039;t have the opportunity for education.
+
+LI: Did you get a sense that she had other aspirations? Would she talk about
+things that she would have liked to have done?
+
+GEE: No, she really didn&#039;t talk a lot, no. Not to me. She always had a meal on
+the table. We always sat down and ate. What the conversation was about, you
+know, with all these kids around [laughs]--it&#039;s not very good at different ages.
+Although, you know, when you have your two kids, you know how it is when you sit
+down to eat, how chaotic it is. If you have six of &#039;em, well--[laughs] at all
+different ages. The older ones are telling you to knock it off a little bit.
+
+MCGARRIGLE: Was there a kind of method she had for discipline that you remember,
+that she would do?
+
+GEE: No, I think we were all kind of disciplined. You had to, in a sense, in
+order to have a calm household. No prima donnas. They were too difficult.
+
+MCGARRIGLE: Because she&#039;s at that time the mother and the father figure.
+
+GEE: I know, and she did the laundry and just everything. There were no dryers.
+[laughs] Now that I stop and think about it, there must have been big
+clotheslines outside. Everyone must have pitched in, had to pitch in a little bit.
+
+LI: When she started working, doing housework outside the home, would those
+other siblings take care of the younger ones?
+
+GEE: I think the older ones took care of the younger ones. Simpler times, you
+know. You probably could leave the house and not be too concerned about someone
+getting hurt or someone coming by. We lived in a stable neighborhood. No one&#039;s
+going anyplace, and there&#039;s no television or radio. You go out in the streets
+and play, or you play in the local lots and everyone sort of look after each
+other. In fact, we lived very close to San Pablo Park.
+
+MCGARRIGLE: Did she distinguish, like your father had, between the sons and the
+daughters? Your father got the Chinese tutor for your brother to learn Chinese,
+and then you learned--
+
+GEE: I think that it was important. I don&#039;t think my mother, so much though, but
+I think when my father was alive the boys had to be--well, I have one brother at
+the top and one at the bottom, so the one at the top, a lot of attention was put
+on him. That was important. The girls are all right too, but it was important
+that he do well.
+
+LI: How did your mother transition from housework to defense work?
+
+GEE: You know, it&#039;s really surprising, though. I wish I knew. She realized, I
+guess, that there was need, and she started very early, I think when the war
+first started, to apply for a job out in the shipyards. It was a real job. I
+think that was the important thing. It was a real job and you did something for
+the war effort. Some one else must have told her, but she might have found out
+all by herself, because I don&#039;t think any of her friends went out to work in the
+shipyards. Maybe there was a group of younger generations, but I don&#039;t remember,
+though. Someone might have said, you know, there&#039;s good jobs out in the
+shipyards and you could do something for the war effort and make good money. She
+really enjoyed that. My sister was telling us. I guess I wasn&#039;t at home at that
+particular time, but she really enjoyed getting up in the morning, going to
+work, and feeling as if she were doing something and being out there with other people.
+
+ Stine:
+
+Do you think that was a large part of why she, aside from wanting to have a real
+job, was that a big part, the doing your part? Do you think that patriotism had
+anything to do with helping in the war effort?
+
+GEE: I think it was a combination of all. I think that during World War II,
+almost everyone wanted to do something for the war effort. There was a
+tremendous amount of patriotism. Since it was an Asian
+
+country that we were fighting, I think it made a lot of difference. It could
+have been the Chinese. It couldn&#039;t have been, but people felt that since the
+Japanese and Chinese look alike, it could have been the Chinese that attacked
+Pearl Harbor. I mean, there was no chance, of course, but you felt as if you
+wanted to do something.
+
+LI: Do you think being Chinese made you want to demonstrate your patriotism even more?
+
+GEE: I think so, yeah. Even though the Chinese and Japanese did not get along at
+that particular time, because the Japanese had invaded China.
+
+LI: Do you think your mother felt conflicted, because she had lost her
+citizenship earlier?
+
+GEE: She might have felt that this is one way of proving it, too. She did. You
+could work in the shipyards and not be a citizen. You could join the Army and
+not be a citizen and get your citizenship, too.
+
+MCGARRIGLE: You said last time when we were visiting, that some of her Chinese
+friends looked down on her decision to go to work.
+
+GEE: I think so. Some of her women friends, because those were things you didn&#039;t
+do, but I don&#039;t think too many. It&#039;s just more gossip. [laughs] They did. It
+wasn&#039;t a closed society, but the families all knew each other quite well. In
+Berkeley, there were quite a few Chinese families there. I don&#039;t think anyone of
+her generation--my mother was one of the older people working in the shipyards,
+I believe. Women, that is,
+
+working in the shipyards. She was in her forties. That&#039;s not very old today, is
+it? She was forty-five, at least.
+
+MCGARRIGLE: She had already had adult children.
+
+GEE: Yeah, she already had adult children. She was an old lady, then. Your life
+expectancy then probably was sixty or something like that, sixty-five.
+
+LI: Do you remember her making friends at work?
+
+GEE: I think she did, but I didn&#039;t know any of them. She liked it, though. She
+really liked it.
+
+LI: What was she doing?
+
+GEE: She was a burner. And so, what is a burner? I didn&#039;t know the difference
+between a burner and a welder. A burner has a torch, too. It&#039;s like light
+welding or cleaning up the welds and things like that. The welders did stuff in
+ships, and the burner--I suspect the burner works with the welder. I don&#039;t know,
+but I suspect that.
+
+LI: Was she trained on the job?
+
+GEE: Oh yes, they trained you on the job, so that you could come with nothing
+and learn. She was a fast learner in things of that sort. She was good with her
+hands. I never saw her change a tire, but she probably changed a tire. [laughs]
+I don&#039;t know who&#039;s going to change it for you.
+
+MCGARRIGLE: Do you remember when Kaiser first came in and they got that contract
+to build all those shipyards, and how that transformed the area?
+
+GEE: Oh, yes. Well, with my mother, it was the first time. They had this
+wonderful health plan, the beginning of whatever you call an HMO nowadays. I do
+remember them, somewhat, Kaiser coming in. They had been around for a while.
+Benevolent, somewhat, I guess you&#039;d call that. They&#039;d take care of their
+workers. The workers did get hurt on the job, so they started an infirmary or
+something like that that just grew into something bigger. My mother had such a
+low number. She was so proud of it, that she had this low number as a member of
+Kaiser, as being one of the first. Just like the co-op. Do you remember the co-op?
+
+MCGARRIGLE: Yeah.
+
+GEE: I had a number of 17,500 and something. My mother had 1044. And the co-op,
+that was a store that we had here. It&#039;s now Andronico&#039;s. It&#039;s all the new Andronico&#039;s.
+
+LI: Is that where she shopped?
+
+GEE: That&#039;s where we shopped. Berkeley. The Finns started here in Berkeley, the
+co-op. It really worked very well and everyone belonged. Your mother must have belonged.
+
+MCGARRIGLE: My father did.
+
+GEE: Your father did. A good liberal community, you pay into it a little bit.
+They over-expanded, and then they sort of bellied-up, because they didn&#039;t stick
+to food. They should have stuck to food. They started a little banking, which is
+fine. Credit unions are fine. But then they wanted to do a lot of social things,
+so it became a bookstore, lost lots of money on that. Lost money here, lost
+money there, so they folded up.
+
+MCGARRIGLE: It was a real institution in Berkeley.
+
+GEE: Maybe it lived its life. Sometimes things live their lives. It was a
+wonderful institution.
+
+LI: When did it start?
+
+GEE: When did it start, when did it end? I can&#039;t remember.
+
+LI: But your mother shopped there when you were a kid.
+
+GEE: Oh, yeah. But the co-ops, I&#039;ll tell you where they are, Andronico&#039;s bought
+all the co-ops. Someone else did first, but the co-op was where the University
+Andronico&#039;s is, and this one here, Shattuck, and then
+
+there was one on the other side. Oh, I know, it&#039;s one on Telegraph and Ashby.
+It&#039;s a Whole Foods. They&#039;re all big stores, and those were the three big co-ops
+here. Big stores.
+
+MCGARRIGLE: Would you conjecture what her politics were, your mother, at that time?
+
+GEE: Oh, I think my mother&#039;s politics were inclined to be on the liberal side.
+Pretty much so.
+
+MCGARRIGLE: Do you think she would have been actively following national
+politics or voting in elections?
+
+GEE: I don&#039;t know. That&#039;s hard to say at that particular time. There was a group
+of Caucasian women and Chinese women that worked together for these Chinese
+orphanages. There was two of them; one for girls and one for boys. She worked
+with the Baptist Church to raise money for them, and the church actually did.
+They had these little church socials where ladies would make things and sell
+them. One of the homes for the girls is one of the dormitories for Mills College
+now. If you go out to Mills College and look at one of the dormitories, it has a
+little Chinese effect in it. It has these little curlicue things, the building.
+I think it has a tile roof. Out here in El Cerrito there is a private school
+called Windrush. Do you know it at all?
+
+LI: Is this the boys&#039; orphanage?
+
+GEE: Yes.
+
+LI: I remember hearing about this. My grandfather taught there.
+
+GEE: Oh, he did? It&#039;s very close to the El Cerrito BART station. It has
+architecture, little curlicues on it. You can see it looks a little Chinese.
+Your grandfather taught there? Is that right?
+
+LI: Yes, when he first came here he taught Chinese at the orphanage.
+
+GEE: He taught Chinese there. It was a boys&#039; orphanage, yeah. We used to go out
+there, Chung Mei Home, to look at all those good-looking boys. [laughs]
+
+MCGARRIGLE: Go out there with your mother, you mean?
+
+GEE: Oh, yes. Because we were raising money for them and bringing them things.
+It was up &#039;till high school. There were a lot of children that were not all
+Chinese. Not a lot. A few, because the families didn&#039;t want them.
+
+MCGARRIGLE: So she had the six kids, even if some of you were out of the house,
+she still had kids at home, and she had full-time work and she did community work.
+
+GEE: Oh, she did a lot of community work. I don&#039;t know how she found the time.
+It&#039;s because she had a car. You know, it really makes a difference, because she
+could run around. She never was home.
+
+LI: So when was this that she was working with the orphanage and the church, in
+this philanthropy?
+
+GEE: To me, it seemed like all her life. Probably more so during the war and
+then after the war. I don&#039;t think in the &#039;30s; I don&#039;t know.
+
+MCGARRIGLE: Those Kaiser medical benefits, were those lifetime? Did they give
+those to their employees for lifetime?
+
+GEE: No, you always had to belong and pay.
+
+MCGARRIGLE: So when she stopped working in the shipyards?
+
+GEE: Oh, she just kept it.
+
+MCGARRIGLE: She kept it, but she paid her premium?
+
+GEE: Oh yeah, she paid her own premium.
+
+MCGARRIGLE: Did she have Kaiser the rest of her life, then?
+
+GEE: Kaiser the rest of life, yeah. It&#039;s really amazing, though. In a sense,
+Kaiser was good. When you&#039;re young, you don&#039;t need it.
+
+MCGARRIGLE: It was meaningful, though.
+
+GEE: I think it gives you that security, a little security blanket that you have.
+
+MCGARRIGLE: Did any of the people that worked in the shipyards have retirement?
+
+ Stine:
+
+Not that I know of. Not in the beginning.
+
+GEE: What did they have?
+
+MCGARRIGLE: No retirement for the shipyards.
+
+GEE: Oh, I don&#039;t think so, no. Just Social Security, and that was never
+considered retirement money. That was just to help you with your retirement.
+
+[end file Gee1 04-10-03]
+
+[begin file Gee 02 04-10-03.wav]
+
+ Stine:
+
+This is tape two with Maggie Gee. I had a question.
+
+GEE: A question? I&#039;ll see if I can answer it.
+
+ Stine:
+
+To go back with the Kaiser healthcare, I was wondering about the physical
+properties of the job that your mom was doing, burning. Did she ever get injured
+on the job?
+
+GEE: No, she never got injured on the job. Nothing major, no. She probably might
+have gotten burned or something like that, but nothing major.
+
+ Stine:
+
+Did she ever have to use her healthcare while she was there?
+
+GEE: That I don&#039;t know. I don&#039;t know whether she did or not. I&#039;m assuming that
+they probably checked on you, gave you a physical occasionally, but I don&#039;t know.
+
+ Stine:
+
+And then beyond that, it sounds like it was a very tiring job, that it involved
+so much physical labor and such physical effort. Did she talk about that?
+
+GEE: She came home quite tired, but I always have to say that I wasn&#039;t home very
+much. But my sister said that there was always dinner, whether she fixed it
+ahead of time. She did the shopping, and there was always dinner. There were no
+fast-food places at that particular time. I find it pretty remarkable; if one
+has to do things, one does them. She had a very busy schedule. They worked long
+hours. At the shipyard, she started at the graveyard shift. That&#039;s when they
+first train you, and then you get a better shift, which is the evening shift,
+the early evening shift. It&#039;s the one where you leave at midnight, where you&#039;re
+on from about four o&#039;clock. Actually, it works out well in a sense, if you have
+a family, because you can do many things during the day and then you can go to
+work. Then you can sleep from one o&#039;clock to whatever time, ten o&#039;clock. So that
+worked out. It worked out quite well. They had good public transportation out to
+the shipyards. As you know, or maybe you don&#039;t know, that there was this train.
+The trains came from the East; I think they were New York elevated trains. They
+ran along the existing tracks that we had from Oakland to Richmond. A lot of
+people didn&#039;t have automobiles then.
+
+LI: Were they brought in just for the defense workers? They brought them when
+the factory was there?
+
+GEE: When did they build these trains? They brought them in, actually. I don&#039;t
+think there were any existing trains going on those tracks when the war began.
+If there were, there were a few trains that went on it. They were brought in so
+that they could be used as commuter trains, to go to work. At that particular
+time, I was just trying to think--yes, we were getting rid of all our trains and
+streetcars here, because California, everyone wants to have their own
+automobile. So I think there were no longer trains that went to San Francisco.
+Of course, there weren&#039;t very many trains because the ferries had already left
+by then. There was the bridge that was built about 1937, &#039;38. There were trains
+that went over the bridge from East Bay to San Francisco, but from Berkeley
+there was just the F Train. I believe that was the only train, the one that ran
+on Shattuck Avenue that went over the bridge. There weren&#039;t all these from all
+over town.
+
+MCGARRIGLE: Did she go to that, what&#039;s now a restaurant, the depot at the base
+of University? About Fifth Street, is that where she caught the train?
+
+GEE: No, the train was on Sixth Street, I believe, Sixth or Seventh Street. I&#039;m
+not sure, but for some reason I thought it was a little further. I didn&#039;t think
+it was way down there.
+
+MCGARRIGLE: There&#039;s that building--
+
+GEE: I know, that&#039;s the old S.P. train station.
+
+MCGARRIGLE: Do you remember when that was?
+
+GEE: Santa Fe train station--no, the Santa Fe is where the Montessori school is
+now. It was the S.P. train station. Yeah, it was a Chinese restaurant, then it
+was a fancier Chinese restaurant called Xandau or something like that. It went
+out of business.
+
+MCGARRIGLE: Did Richmond seem a very far ways away at that time?
+
+GEE: Yes. Richmond seemed like quite a ways off. It was a different type of
+community. It was a small community, I believe. They had twenty-odd thousand
+people, then it went up to a hundred thousand. It was a blue-collar community.
+Standard Oil was one of the big employers there. The Ford Plant was there. Then
+there was the Pullman Company where the Pullman cars were built, I believe. Not
+quite sure, but they were refurbished there. I remember the Pullman cars,
+though. I don&#039;t remember the Ford, but I remember Standard Oil. I mean, we all
+know of Standard Oil. They&#039;re still there. It was a blue-collar town. It had one
+section where Point Richmond is--there is a very nice section when you go
+through the tunnel to Point Richmond, where all the houses are along the water.
+Have you ever seen them? They&#039;re very nice houses along there. A lot of Italians
+built there, as I remember, because it reminded them of the Riviera. If you&#039;ve
+been to any of the houses, some of the houses go down to the water. They&#039;re very
+nice. All of a sudden you come through the tunnel and all these lovely houses,
+down on the right-hand side. In a way, it was not considered a desirable place
+to live because of the odor--that&#039;s the one thing I remember. There was a lot of
+odor, sort of gaseous odors of some sort. Wasn&#039;t really unpleasant, but you were
+aware of it. It was a thriving little community. Mostly Caucasians lived there,
+until the shipyards came. I was going to say it was a redneck community, but I
+won&#039;t say it. [laughs]
+
+MCGARRIGLE: Do you think she would have ever gone there before she took the job?
+Would there have been a reason for her to visit?
+
+GEE: There were reasons to go there, oh yes. There was a big swimming pool.
+Well, we couldn&#039;t swim in the swimming pool, though. There was a whaling station
+there at Richmond. There was a ferry that left from there to go to where the
+bridge is. There was a nice ferry that went over to Marin County. So there were
+all sorts of positive things. My mother got in her car and we went over to the
+other side of the bay.
+
+MCGARRIGLE: The prohibition was against any non-whites swimming in the pool, or
+was it specifically targeted at one group or another?
+
+GEE: Well, you know there was a prohibition for a long time for non-whites
+swimming in pools. But I can&#039;t remember when that was sort of lifted, though.
+It&#039;s a big pool there, a big Plunge there. It&#039;s been there a long time. I
+suspect non-whites couldn&#039;t swim there. That meant really Asians, at that
+particular time, because I knew that was at Neptune Beach over in Alameda County.
+
+MCGARRIGLE: Did she talk at all to you or her other children about discrimination?
+
+GEE: No, she did not. I can&#039;t remember her talking about it. It&#039;s not vivid in
+my mind. Actually, I think in Berkeley her white friends, these would be the
+church ladies. They&#039;re there to help you, in a sense, because they feel that
+they want to do something for the Asian community. There was a great group
+called the Wah Mei Club, in which there were the Caucasian women and the Chinese
+ladies. They just took on projects and got to know each other pretty well. The
+Caucasian ladies were, I would say, upper-
+
+middle class ladies. Their husbands were professional people. Like any church
+group, you&#039;re looking for a project and so they sort of adopted the Chinese
+church. The women remained friends for a long time.
+
+When I was working at the laboratory I came across a young man and he said to
+me, &quot;You know, my grandmother knew your mother.&quot; It was someone I knew. I said,
+how? He said, &quot;There&#039;s an old real estate company called Forbes in Berkeley.&quot;
+His grandmother was Mrs. Forbes, and they owned this real estate company. They
+remained friends for a long time. After he told me, I called Mrs. Forbes up and
+we talked at great length. She remembered my mother quite well. My mother had
+died by then, so that was kind of nice. Any more questions, ladies?
+
+ Stine:
+
+Thinking about Richmond, you had the perception that it was a little more
+redneck-y and out of the way, maybe?
+
+GEE: When I say that, it&#039;s that there is more discrimination. I always use San
+Leandro as a better community, in a sense. They were a blue-collar city and they
+really, up until recent times, it was very difficult for anyone besides the
+Caucasian people to even move into San Leandro. They just wanted to keep it a
+white community. They were threatened by the blacks moving in from Oakland and
+also the Asians, too.
+
+Actually, when you see it, groups do take over. You look at Fremont; I remember
+seeing Fremont. It&#039;s really a melting pot of all of the various ethnic groups,
+because one moves in, everyone else moves there. Fremont is a melting pot. I
+mean, it has lots of Chinese, Taiwanese, lots of Afghans, lots of Hindus, lots
+of everything. So if you wanted to keep yourself a white community--and
+small--in those days, then you just not allow anyone to move in, except the
+whites. If you feel threatened, your job threatened--if you&#039;re a blue-collar
+worker, any new immigrant is willing to take your job for much less and they
+work harder, too. So there&#039;s always that kind of threat. The shipyards just made
+a change, because everyone came in at one time and there was such a shortage of
+help that people just moved in. I bet if I looked at Standard Oil, who was on
+their working roll in the &#039;30s, I bet they were probably mostly white. Very few
+Hispanics, or
+
+Mexicans, they would be; I guess that&#039;s what you called them at that particular
+time. Or Asians. But then on the other hand, there were fewer of our so-called
+minority groups, ethnic groups, at that particular time, too. It&#039;s not one thing
+that causes the other; there&#039;s many factors.
+
+ Stine:
+
+Do you remember actually seeing the Bay Area change? This large population
+explosion that was centered in Richmond because of the shipyards, so do you have
+any kind of personal recollection of feeling all these people moving in?
+
+GEE: Oh, I think so. Things just seemed a little more crowded, that&#039;s all. You
+became aware of it in the stores. I didn&#039;t live in Richmond. I&#039;m sure Richmond
+was really impacted. I saw a little bit of it when I was out at Treasure Island.
+I saw a little bit in Vallejo. That was a quiet, sleepy town once upon a time.
+When the war started, it took on a lot of workers. Not like Richmond did,
+because they were launching a Liberty ship a day. But it did have more people
+there. They say it was sort of a dying town, and then it became very vibrant
+because of the new people coming in. So I would compare it with Richmond
+somewhat, and I would say Richmond was just that much more. I&#039;m just trying to
+think--did I go out Richmond very much? Well, I remember all those houses going
+up. That&#039;s the one thing I do remember. We didn&#039;t have much gasoline, but we had
+a little bit. We did, or maybe I did with my friends--at that time, I was much
+older then--we went over to Marin County. There were just a lot of things
+buzzing in Richmond with all these new houses. They must have been put up in a
+very short time. I do remember that there were jokes made about the shortage of
+housing. If you had a room and you had a bed, you could rent it out to three
+different people. One shift could sleep, and then another person could sleep the
+next shift, and another person. You did not have to change the sheets, I
+remember. The housing really was short. I&#039;m sure that you&#039;ve read about it. It&#039;s
+well documented. But houses went up very fast then. The war only lasted less
+than five years, and people came in, had to house &#039;em, feed &#039;em, then some of
+them moved out.
+
+LI: Were you a teenager at this point?
+
+GEE: No, I had really left home. I went into the war myself. I went out to work.
+Like any young person, you&#039;re really involved in yourself, more so, trying to
+figure out what you&#039;re doing.
+
+MCGARRIGLE: After the war, did your mother find different employment, or was
+that the end of her working?
+
+GEE: No, my mother went to work in the post office after the war. I think she
+must have retired from the post office. I don&#039;t know how long she worked in the
+post office, but then she ended up helping {Homer Lee} who had this florist.
+They had a very nice article about Homer in the Sunday supplement: &quot;From Rags to
+Riches.&quot; But he still lived the same. I called him after I saw it in the paper
+and I spoke to his son. I said, is Homer coming down to cook lunch for you? And
+he said, &quot;Yes, he&#039;s not here yet.&quot; [laughs]
+
+LI: I was thinking about the influx of workers in Richmond. Was it exciting, as
+a young person, to have all these new people here?
+
+GEE: I think so. I think it was. People have to find things to do,
+entertainment, so there was just a lot of people around. Which there wasn&#039;t,
+though. What do you do at nighttime, after working all day? If you&#039;re young, you
+go to the movies or you look for something to do. There was a certain amount of
+excitement. How much overflowed into Berkeley, that I just can&#039;t remember. But
+Richmond had a lot of things going at that time.
+
+LI: Would you go to restaurants or bars in Richmond? Would you go out, there?
+
+GEE: I used to go to bars, sort of. [laughs]
+
+MCGARRIGLE: The whole music scene there; did you go to any places where there
+was live music? There was a whole developing scene in Richmond.
+
+GEE: I think so. I used to like music. I wouldn&#039;t go out now to listen to music,
+unless it&#039;s the symphony or the opera, something like that. But just to hang out
+in bars, I don&#039;t. I used to; I think I was dating someone at that time and we&#039;d
+go down and see what the action was, follow it. There was nothing going on here,
+go find some other place.
+
+LI: The people who were coming to Richmond, they were from--
+
+GEE: From the South. There were a lot of blacks, but they were from every part.
+
+LI: Did it feel really--
+
+GEE: I don&#039;t have a vision of it. I know a varied lot of blacks came in, and
+there had to be people from elsewheres. I think if I lived there, then I would
+have become much more aware of it, who had come to town. But they were just more
+people around.
+
+ Stine:
+
+You didn&#039;t live in Richmond, but in a way that gives you a perspective from not
+being part of that community and knowing what the general perception of Richmond
+was, once all these big changes had occurred there. I was wondering how your
+friends or your colleagues would talk about it in a different way than maybe
+before the war. If it became some place that you wanted to go to, more? Or if it
+became some place that you--
+
+GEE: Wanted to stay away from? Richmond was not on the horizon when I was
+growing up, except for the Chinese home there and some of the people. The
+Chinese Boys home, Chung Mei Home, was there and we used to go out there quite a
+bit. That&#039;s really El Cerrito, right on the edge of Richmond. The boys did go to
+Richmond High School. No, I don&#039;t think that Richmond was a place I would go to,
+to seek out entertainment at that particular time. It was close, though. San
+Francisco was a place you go to seek out entertainment, but sometimes it&#039;s
+difficult to get to San Francisco.
+
+MCGARRIGLE: I was just thinking about what you said about Standard Oil and I
+remembered there&#039;s a neighborhood in El Cerrito, close to Richmond, that had
+beautiful homes like you see around the Claremont Hotel. They were all owned by
+the Standard Oil executives. Large-scale, what would now be very, very expensive
+homes in the hills there.
+
+GEE: Richmond, in the hill area, there&#039;s some very large homes up on the top. I
+think there are several Maybecks up there. I haven&#039;t seen them, but they say
+where the Maybecks and the Julia Morgans are. I think there are one or two
+there. There are just very large homes, because of the Standard Oil.
+
+MCGARRIGLE: So the children of those executives were in public schools with the
+children of the shipyard workers who came in. It must have been interesting.
+
+GEE: You&#039;ve hit it on the head, in the sense that on the West coast, we don&#039;t
+have private schools. There&#039;s so very few private schools, so the children
+probably did go to public school. Otherwise, you have to be shipping them all
+the way to Berkeley. The private schools in Berkeley were really small. What&#039;s
+the one that was on Benvenue?
+
+MCGARRIGLE: The Academy?
+
+GEE: California Preparatory School on College {CPS} was small there was another
+one called Brentley, just a house on Benvenue Street. That&#039;s the nice part about
+the West Coast: it&#039;s very liberal in that, because we don&#039;t have private
+schools. We do in San Francisco. There&#039;s some in San Francisco.
+
+[end file Gee 02 04-10-03.wav]
+
+Interview #2 with Maggie Gee, April 29, 2003 Interviewers: Robin Li, Leah
+McGarrigle, Kathryn Stine Transcriber: Sarah Wheelock
+
+[begin file Gee3 04-29-03]
+
+ Stein:
+
+This is the 29th of April. We&#039;re here with Maggie Gee for a second interview.
+
+GEE: I was just trying to think, what was life like? I think that&#039;s the
+question, after Pearl Harbor? I lived in Berkeley, I lived with my mother and
+some of my brothers and sisters. Some of them had already left home. As I
+recall, the community--I&#039;m talking about the neighborhood, really, right at the
+moment, is that we did have some meetings to see what we should be doing. We had
+been warned that what had to be considered about the Japanese that might land in
+the bay. We had some meetings, as I recall, in the neighborhood. There was a
+civilian--some sort of patrol. There was a bigger organization that was to tell
+what we, as citizens in this community, should be doing. In particular, we were
+on the coast, so since there was fear of an invasion of some sort, we had to
+have blackouts. That was the first thing as I remember, that we were told. We
+were able to purchase all this black material so we could put it over the
+windows at nighttime. We could have the lights on, of course, but you had to put
+this black material over your windows in case Japanese submarines or planes came
+over, that they wouldn&#039;t be able to see the community, or they wouldn&#039;t be led
+into this area. You think about it today; it was highly unlikely that the
+Japanese would land, but we didn&#039;t think that Pearl Harbor would happen, either.
+So what made it nice was we got to know each other much better in the community.
+At least, my mother did. She knew everyone in the area pretty much already, but
+we started looking after each other and there was that sense of community. Since
+I wasn&#039;t head of the household, so I didn&#039;t know how the stamps came, but I&#039;m
+sure there was a form that was filled out, how many people you had in the house
+and whether you had an automobile; just a lot of questions, so that you were
+given stamps for various items. I knew about the gasoline stamps, but I didn&#039;t
+know about the other items. But there was probably shortage of oil.
+
+Someone else probably could tell you, or you could just read about it, what kind
+of stamps there were.
+
+But I do remember seeing stamps my mother had, these books of stamps. Life went
+on, and we looked after each other quite a bit in the neighborhood.
+
+MCGARRIGLE: Are there specific examples of how people looked after each other differently?
+
+GEE: Prior to that in the forties, and before the forties, people did know each
+other in the neighborhood. Today, so many of us want to be alone. There&#039;s lots
+of entertainment we have within our households, so we don&#039;t need our neighbors
+quite as much. When I said they looked after each other, they became aware of
+who the children were in the family and made sure they were taken care of. Also,
+as I remember, we had a relatively large family, so there probably wasn&#039;t enough
+for whatever you needed. I didn&#039;t know anyone who shared their gasoline stamps.
+I don&#039;t recall that ever happening, but some of the items that were being
+rationed at that particular time, I remember my mother and some of the neighbors
+wanting to know whether she had sufficient--maybe you can tell me, was sugar on
+that list? Yes. Maybe oil, sugar and oil?
+
+ Stine:
+
+And meat.
+
+GEE: And meat--yes, meat was on that list. Oh, what happened then, horsemeat
+showed up. I don&#039;t know whether you had to have a stamp for horsemeat. Do you know?
+
+ Stine:
+
+I&#039;m not sure. I don&#039;t know if that would have been a replacement, maybe.
+
+GEE: I don&#039;t think so. I think horsemeat was plentiful. I had horsemeat, too. I
+wouldn&#039;t eat horsemeat today because I like horses, but horsemeat, as I
+remember, there were these funny stores that had horsemeat.
+
+Some people bought it for their animals, but you also could buy it to eat. It
+was a very dense meat. I didn&#039;t like it, as I remember. So I&#039;m quite sure that
+you did not need a stamp for that. In fact, I could almost tell you where that
+horsemeat store was. It was up in the Lorin area. That&#039;s up by Alcatraz and
+Adeline; there was a big horsemeat store there. I don&#039;t think the family had
+much horsemeat, because we weren&#039;t a meat-eating family.
+
+MCGARRIGLE: Was there more emphasis on gardens then? Were people even more
+focused on growing vegetables?
+
+GEE: Yes, because there was a shortage. That&#039;s right, people started having
+Victory Gardens, though. In my neighborhood, there was an empty lot. In the
+neighborhood I grew up in, most of the people did have backyards, though. But
+there was an empty lot. People got together and grew vegetables and shared them.
+If you grow radishes, for instance, you have more radishes than you can eat, so
+you&#039;d share them with your neighbors. So that was part of the community. As I
+said, there was more of a community than before the war.
+
+MCGARRIGLE: I was wondering how you got information about what was happening
+during the war. Was it newspapers and radio?
+
+GEE: When things happened, the radio was always very much available. We listened
+to what was going on. But if there was a big event happening, a battle or
+something like that or something that the public should know about, there were
+these &quot;extras.&quot; The newspapers would publish a special edition. They were young
+men, usually, or older men; they would come down the street and say &quot;Extra!
+Extra!&quot; and you&#039;d come out and buy a newspaper to find out what was going on.
+There was a lot of human interaction, which was nice
+
+in that respect. So they probably weren&#039;t young men; they were probably older
+men doing extras during the war, because the young men were out fighting in the military.
+
+LI: Did your mother read Chinese newspapers as well?
+
+GEE: Chinese newspapers, yes. I didn&#039;t. I can&#039;t read Chinese, though. But in
+Chinatown, I think there were several Chinese newspapers, and they really
+concentrated pretty much on what was happening in China.
+
+LI: Did your mother read them?
+
+GEE: My mother could read some Chinese, yes, but she didn&#039;t keep up with what
+was going on. She talked to her friends. I was very much aware, they were very
+much aware what was going on in China, what the Japanese were doing in China,
+because everyone had close families. They would send packages to China. They
+were our allies, also.
+
+LI: What kind of packages?
+
+GEE: I belonged to a Chinese church and there was a women&#039;s group. I think the
+supplies they sent to China were--I&#039;m not too sure, but there was some clothing.
+Clothing is a little bulky, though, and it took a long time to get there. I
+mean, everything was sent by boat. A little hard to get there, I think. I don&#039;t
+know the details of that. Gosh, you gave me things that I didn&#039;t even think about.
+
+MCGARRIGLE: Something about talking out loud to somebody triggers the memory.
+
+GEE: Is that right? Is that how it works?
+
+LI: I think it does. It works for me that way.
+
+GEE: I haven&#039;t even thought about these things for so long, so you have to kind
+of visualize what was going on. You have all this information from so many other
+people now that&#039;s it a little different.
+
+ Stine:
+
+Oh, but finding out from everybody&#039;s personal experience how you actually went
+through things.
+
+GEE: I just want to remember what my mother did with her driving around. We
+always had a car.
+
+LI: Would you shop with her after work? Would you go with her to the horsemeat store?
+
+GEE: My mother worked, and she worked in the shipyards. She worked at first the
+graveyard shift. I think everyone worked the graveyard shift to start with,
+because it&#039;s the least desirable. Then, as you get a little bit of seniority you
+can switch to the day shift. My mother did; she shopped. We did have a Safeway,
+I remember, in the neighborhood. It was small, but it was walking distance. At
+that particular period, people had neighborhood stores and even though there
+were chain stores, there were a lot of just small neighborhood stores,
+independently run. Then there was the local meat market. They were open late,
+and that would give her opportunity to go shopping. But she would send her kids
+out to go shopping, as I remember. We went and did some of the shopping.
+
+ Stine:
+
+Do you remember hearing about Pearl Harbor and what that was like? That specific
+event, if you have any personal recollection or hearing the extra, what that meant?
+
+GEE: Having gone along life and having life pretty easy in a sense, and feeling
+very safe in this country, not even thinking about it, knowing that there was a
+war in England, in Europe. Really, I was young, so I was quite happy that we
+weren&#039;t in a war, even though we probably should have gotten in earlier, maybe.
+I can&#039;t pass judgement on that. When I heard about Pearl Harbor and when FDR got
+on the radio, it was really scary. I think if I had ever been to Hawaii, it
+would have been a little more meaningful, but all of a sudden I felt unsafe. I
+think that was it, that this was something that shouldn&#039;t have happened. Being
+very selfish, that it shouldn&#039;t happened to us, because we hadn&#039;t done anything
+to anyone. That&#039;s kind of ridiculous--that&#039;s a very naive statement to make
+today. Since I was young and not very worldly, I felt &quot;What is going to happen?
+That we&#039;ve got to fight this enemy, though--&quot; I really felt that the Japanese
+were really the enemy. Then there were cartoons depicting these terrible
+Japanese. Cartoons worked very well for young people. I always can remember the
+cartoons with the glasses and the Japanese pilot with these little round glasses
+and big teeth, kind of very evil. That made an impact; I wasn&#039;t a child, though,
+but I saw many of these cartoons like that. All of us, the whole nation,
+including, I should say about myself, felt that &quot;I got to do something. What can
+I do? What can I do to help this country?&quot; That was for the moment and then you
+go on doing the things that you&#039;re doing, but behind your mind you think, &quot;What
+are these options I have?&quot; The options were to go to work; they were rounding
+people up to go to work. Or to join the service: Uncle Sam needs you, and so you
+don&#039;t want to be a 4F. Help this country. Made you feel very patriotic.
+
+LI: Would you and your friends talk about what you would do? Because you were
+young--when you would hang out with your friends, would you talk about it?
+
+GEE: We did, in the neighborhood. People were going--I was going to say the
+boys, but the men were beginning to have to. Women didn&#039;t have to do anything;
+the men had to sign up for the draft and they started leaving. I think there was
+much more chaos in their lives. Well, not chaos. They were more directed than
+the women--the girls were. We&#039;re talking about teenagers, twenty-year-olds. So
+you see your friends go. They&#039;re going out to fight this war. You felt that you
+must do something, too. I actually was in my first year in college, so I saw my
+college friends leave. Some of the women just continued going to college, the
+Chinese Americans--I was one of the few that joined something or did something
+else. Quite a few of our friends got killed, as I remember. It was kind of hard
+to believe that they were gone. Now that I&#039;m older, of course I&#039;m much more
+sensitive to all these things, but at that time I was sensitive and sad about
+it, though you just seem to move on. You move on easier, I think, when you&#039;re
+younger. You&#039;re more involved with yourself, because you have to direct yourself
+to do something with your life.
+
+LI: Why do you think you were one of the few Chinese who joined something?
+
+GEE: Well, only in hindsight, now, because I know there were very few Asian
+women--I&#039;m going to blanket Asian women--that joined the forces. A lot of the
+young Asian girls worked in the USO here, which was good. They formed clubs.
+Things were segregated at that particular time, so when the Asian or Chinese
+soldiers came back to town, they would not go to the USO that the Caucasians
+did. They needed entertainment with the Asian community, so there were people
+that organized places in San Francisco and the East Bay for them to come to. So
+they had dances for them, and there&#039;d be a type of entertainment, recreation
+type of entertainment, because they needed it.
+
+MCGARRIGLE: What was your first organized activity along those lines? Was that
+working at Mare Island? What was the sequence of your involvement with the Armed Forces?
+
+GEE: I did some work at the Y first. I remember that the Y had some things. I&#039;m
+not sure exactly what we did there. Later in my life, I did go work with
+soldiers. I ran--in Europe--a service club. I remember now that I used reference
+of having done organizational work at the Y during World War II for recreation
+for soldiers that came by. Also, we had soldiers on campus. I just did it for a
+very short time, the V5 and the V12 program. These were programs of education
+for soldiers. The International House was taken over by the Navy. They had a
+program there where the men were going to school getting, I think, degrees in
+engineering at that particular time. So there were things at the Y for them in
+their spare time. We&#039;d hang out for a while, maybe just fed them a little extra,
+just talked to them. So that&#039;s sort of the first type of work that I did related
+to our volunteer work that I did related to the war. But I was busy doing
+something a little more--make some money, I guess, do something I could make
+some money. That&#039;s why they needed people to work in the shipyards, and U.C. had
+this program to train you if you wanted to become a draftsman, if you had
+trigonometry. You had to have a little bit of mathematics. If you had a little
+bit of trigonometry or you knew how to draw a line, or you had the concept of
+what a ship looks like, how to draw things. We had little, mechanically-minded.
+I must have read something in the Daily Cal and decided to go for this training
+and get this job. It was really more direct; one felt that it was more directly
+involved in the war effort. It was the war effort. You wanted to get involved in
+the war effort.
+
+ Stine:
+
+How long of a course was that?
+
+GEE: It was all day, and it might have been six, or eight, or ten weeks. I&#039;m not
+sure, now. It was just training to work as a draftsman. You&#039;re working as a
+draftsman, you&#039;re working with an engineer, and he needs
+
+some drawings. You have to understand a little bit of what you were drawing,
+though. You were an assistant to him. You started out as an assistant to an
+engineer. I was pretty good at that, because I was mathematically inclined and I
+knew I could understand a lot of things that an engineer might understand, just
+as a lay person, so it didn&#039;t baffle me at all.
+
+MCGARRIGLE: Were you at that point already a physics major?
+
+GEE: No, no. I wasn&#039;t anything. I just started college. A lot of Asians start
+pre-med at that particular time, because you can finish and you can have a job.
+
+MCGARRIGLE: Did you consider medicine yourself?
+
+GEE: Oh, yes. In my particular family there are no medical doctors, but I have
+so many friends where everyone in the family is a medical doctor, it seems, in
+my generation. At least, there are four or five. My best friend, Julius Chang
+he&#039;s not a medical doctor, but all his sisters and brothers are and they&#039;re all
+married to medical doctors. They have four children. So it&#039;s not unusual. I
+wasn&#039;t interested in physics. But I was pretty good at mathematics at that
+particular time, so that&#039;s why I chose to train to be a draftsman.
+
+MCGARRIGLE: Was it an application process that you had to go through before you
+got appointed as an assistant?
+
+GEE: Yes, it was a civil service job, so you had to take a civil service
+examination and have an interview. But I would say at that particular time they
+needed people, so it wasn&#039;t as if you were really competing with a lot of
+people. If they thought you knew how to do something, you were hired. Mare
+Island was the only
+
+place that I looked at. I think there were places like Hunters Point and
+probably the Richmond shipyard, doing design work. Yes, of course they&#039;d need
+engineers and draftsmen.
+
+MCGARRIGLE: Were there very many other women then?
+
+GEE: In my group, there were three of us at Mare Island, in the engineering
+department. There were three young ladies.
+
+MCGARRIGLE: Out of a total of how many, do you think?
+
+GEE: A hundred, maybe fifty to a hundred. Women just didn&#039;t do this. There
+weren&#039;t very many women engineers in those days. I don&#039;t think there was a
+single woman engineer there. The men who were there were exempt from the war and
+most of them were married. There were no young, young men. I would say the
+average age might have been mid-forties. There weren&#039;t a lot of old, old men
+either, then. I don&#039;t remember--maybe a few twenties, but not very many.
+
+MCGARRIGLE: Did you take a leave of absence from university studies then, to do
+that work?
+
+GEE: I guess one had to. I&#039;m going ask you: are we going on to--? This is not
+about Richmond anymore. [laughs]
+
+ Stine:
+
+We also just want to find out, since you were around in the Bay Area at that
+time, what it was like. Another thing I was curious about was when you left your
+mother&#039;s home and how you found a place to
+
+live, and what that experience was like, being a single woman and being out on
+your own for your first time.
+
+GEE: In the Bay Area. I didn&#039;t do that until later on. I lived with my mother
+for a long time. Like we all do; it&#039;s cheap. [laughs] It&#039;s inexpensive. When I
+came back from being in the service is when I--I&#039;m just trying to think. I&#039;ve
+lived around town in Berkeley, and Berkeley was a very difficult town to rent
+in, for non- whites. Very difficult. I think that was a discouragement, &#039;cause
+my sister and I had tried to rent, I guess several times. We really couldn&#039;t
+find a place to live, because there would be a place available but when we came
+to see them, the place was rented. It became very discouraging.
+
+LI: Were they pretty overt about why they weren&#039;t renting to you?
+
+GEE: Well, you knew already. I sort of gave up. My sister, she&#039;d call ahead of
+time and say that she was Chinese. That kind of settled things, pretty much.
+It&#039;s sort of hard to believe today that that&#039;s the way it was. The Chinese
+church that I belonged to had housing, because for years Chinese students had a
+very hard time finding a place to live, unless they worked as a houseboy for
+someone. So the Chinese church bought a house, and that&#039;s where the church was.
+Also, there was a Chinese student club on Etna Street, a big house that was
+purchased by--it might have been the Congregational church. I&#039;m talking about
+the regular congregational church, because there was no housing for Chinese
+students, men particularly.
+
+MCGARRIGLE: Do you remember at the time, what your feelings were about that kind
+of discrimination?
+
+GEE: I was hurt, more than anything else. Many years later I served on a
+commission on housing discrimination in the city of Berkeley. This was actually
+before the Rumford bill, and that was in the sixties. You&#039;d think
+
+Berkeley, being a university city it&#039;s an enlightened thing--it&#039;s just like any
+other city, though. People are frightened. If you allow a minority person to
+live, it would allow all the rest of the other minorities in. It&#039;s really quite
+stupid. Economics really determines where you live. Yes, I was really
+disappointed in Berkeley.
+
+LI: How did Pearl Harbor affect Chinese Americans in particular, in terms of
+their treatment?
+
+GEE: America&#039;s always had a love affair with China. Why its had, there are
+various reasons, but I always felt that particularly the missionaries who went
+to China, because there&#039;s no religion in China, really, they converted all these
+Chinese to be Christians. But I don&#039;t know whether that&#039;s the real reason but I
+think that had a lot to do with it. I think that the Chinese here became more
+proud of themselves, because they were Chinese and it was the Japanese that were
+our enemies. You let people know that you were Chinese. I wish I had whatever I
+wore at that particular time; I don&#039;t know if they&#039;re around, saying &quot;I&#039;m
+Chinese.&quot; I don&#039;t see whether you had Chinese American. I don&#039;t think there was
+that expression, Chinese American. Just Chinese. I mean, they must have been
+around, a dime a dozen, like little Mao red books that you probably can&#039;t find
+anymore. So we wore them. We were proud.
+
+ Stine:
+
+Did you wear those throughout the war?
+
+GEE: Oh, I didn&#039;t wear them throughout the war, but around here if you went over
+to San Francisco on the Bridge you wore them, but it was obvious after a while
+because all of the Japanese were moved out, then.
+
+ Stine:
+
+I remember being very struck last time--we didn&#039;t get it on tape, but you had
+talked about how in your house you had thrown and broken things made in Japan. I
+wonder if you could talk about that a little bit.
+
+GEE: Yes. I mean, it&#039;s so ridiculous, though. There were a lot of things in this
+country that were made in Japan. Not a lot of things, but a lot of china-type
+things. One thing I remember about Japanese goods, they were poor quality. They
+do such fine quality things, but whatever they imported here, a lot of it was
+children&#039;s toys and little dishes and things. The workmanship, in fact, I will
+show you something I have that is Japanese that is a plate that is just
+beautiful handwork, but the quality of porcelain or whatever they used was just
+so poor. So the idea of taking everything and breaking it that was Japanese was
+ridiculous, though. There was just a lot of junk that we had, bottom line. We
+had no money; these were the very ordinary, just common things that you would
+buy, dishes. That&#039;s the one thing I remember, dishes.
+
+LI: Was everyone doing this in their homes? Was there an announcement on the radio?
+
+GEE: How did people start doing this? I&#039;m sure a lot of it, among the Chinese,
+was just word-of-mouth. Just break all these things; throw &#039;em away, and I think
+people did. There was so much--do you know how the dislikes are? Here, I&#039;m
+speaking among my Japanese friends, part-Japanese friends. [laughs] There was
+really so much dislike of the Japanese, from the Chinese. Not the people you
+knew, because I lived in a town where there were as many Japanese as Chinese,
+and we all went to school together. We were friends. I guess you didn&#039;t think of
+them as being Japanese, though. Japan was the invasion of China and Manchuria,
+them coming in. The military was so cruel to the Chinese. You didn&#039;t see it in
+the newspaper necessarily in this country, but since everyone had relatives in
+China that they felt it very personally. So one of the worst things you could
+do, that I could remember, [was] my sister dating a young Japanese schoolmate. I
+remember someone said, it&#039;s better that she dates a black man than this Japanese
+young person. But it was really frowned down upon. It&#039;s interesting; it&#039;s really
+stuck in my mind in a sense, though. There are so many marriages now between
+people of Chinese ancestry and Japanese ancestry, and
+
+I think oh, that couldn&#039;t have happened with my generation. There aren&#039;t that
+many in my generation. I can&#039;t think of anyone.
+
+LI: Was there much other cross-racial dating? As far as dating people of
+different backgrounds, what were the sentiments about that?
+
+GEE: Well, I&#039;ll have to tell you a story, but I don&#039;t know if you want to keep
+this in, though. I had this friend of mine, and she started dating a Caucasian.
+This was, I would say, in the 1930s. Her grandmother was outraged. I don&#039;t know
+how it resolved, but it came out that [the grandmother thought] he was a lowly
+person, in a sense, a Caucasian, because he had so much hair on his body.
+[laughs] That was the feeling, though. It&#039;s a dumb story, but--
+
+LI: I&#039;ve heard similar kinds of--
+
+GEE: Have you heard stories like that? Animals! [laughs]
+
+LI: Was there a hierarchy, a perception of one?
+
+GEE: Of course. The hierarchy was the Chinese were on top. [laughs]
+
+LI: Were the Caucasians the next down?
+
+GEE: Well, let me think. The Japanese certainly weren&#039;t there, and the Koreans
+have always been considered-- because the poor Koreans have always been a
+conquered nation. The Chinese were over them and the Japanese were over them--I
+guess the whites were next, somewheres along the line. I would say the Japanese
+were on the bottom for a while. I guess Koreans didn&#039;t count.
+
+MCGARRIGLE: Did your mother talk to you and your sisters and your brothers--
+
+GEE: Well, yeah. She didn&#039;t mind, in a sense, but what would her friends think?
+It&#039;s always that, isn&#039;t it? What do your friends think about anything? Less of
+you, for doing this. I had a sister that was dating very early--well, you live
+in a community and who do you know? You go to a high school, and there&#039;s a cross
+section of people. I&#039;m talking about a young lady or a young man, there&#039;s no one
+there of your own race. Just people.
+
+LI: Was Berkeley unusual in that sense, &#039;cause it was such a diverse community.
+
+GEE: We always think of diverse communities. In a way, yes, it had all different
+kinds of people, but everyone stuck to themselves. Today, I always think of
+Hispanics, the Mexicans in particular, that they will integrate in one
+generation. I don&#039;t think so. They live within their own community, and they
+will marry other Hispanics, or I think Mexicans in particular. That&#039;s very
+important. There are very few that marry out of that group. One of these days
+you&#039;ll be speaking Spanish here. [laughs]
+
+LI: Last time, I think you had mentioned that you hadn&#039;t dated many Chinese boys.
+
+GEE: I hadn&#039;t. The reason why, I think is because I&#039;m not very tall for today,
+but I was 5&#039;6&quot;. I guess that I had grown up in Berkeley; I didn&#039;t know very many
+Chinese boys. There were quite a few in Berkeley, but we were never attracted to
+each other. We&#039;d go out in groups and then I moved on. I was tall, too. Taller.
+You&#039;re tall, too, but everyone&#039;s taller now, no matter who you are or what your
+racial background is.
+
+LI: So when you say moved on, was that to college?
+
+GEE: Oh, when I &quot;moved on?&quot; I shouldn&#039;t blame you, that&#039;s a bad expression. Yes,
+in a way. I found when I sort of came back from the war, I had a different
+perspective on the world. I was more mature. I had a lot of very close friends
+in very short time who were not Chinese. I found that my Chinese friends who had
+gone to college here were still interested in things that I was no longer
+interested in. Their world had remained somewhat small. I mean, I have lots of
+Chinese friends still, quite a few. I just went to a reunion of one Chinese
+fraternity that was on the campus. It was two weeks ago. It was a hundred of my
+old Chinese friends.
+
+MCGARRIGLE: What&#039;s that called, the Chinese reunion? What&#039;s the name of the fraternity?
+
+GEE: Pi Alpha Phi. There&#039;s a Chinese fraternity. There was just one Chinese fraternity.
+
+MCGARRIGLE: That would be men and women, then?
+
+GEE: There was a Chinese sorority, too. Sigma Omicron Pi, or something like that.
+
+LI: Did you find then that most of your friends became the other people that had
+been part of the war effort? That was a bond?
+
+GEE: Oh, yes. It&#039;s always like if you have a unique experience and even though
+it&#039;s a short period of time, it&#039;s something you always have, even though your
+values may be different. When I say your values, I have found that the women
+that I was in the service with for a very short period of time, that a lot of
+them are inclined--my close friends are inclined to be more conservative
+politically, so we never talk about it. [laughs] We know that. Actually,
+politics is more important to me, how the world goes. I&#039;d like to see more
+social legislation and it&#039;s very important. I mean, this country needs all that.
+For them, they probably don&#039;t think much of it. They just think of taxes.
+
+MCGARRIGLE: That&#039;s a majority/minority point of view, maybe?
+
+GEE: It&#039;s a majority/minority point of view. You mean to say within the group of
+women, or what?
+
+MCGARRIGLE: Well, I&#039;m just wondering to what you would attribute that to.
+Sometimes as minorities and having experienced discrimination, there&#039;s an
+awareness about the necessity for social legislation that&#039;s not always prevalent
+in the majority community, that hasn&#039;t, for example, not been able to get an
+apartment and experienced this very--.
+
+GEE: I can&#039;t say that completely, though. I think it&#039;s just people are
+different. They&#039;re more aware of things. Why I say that is because a lot of
+Chinese are very conservative, once they&#039;ve made it because they feel that--I
+really feel that some people in this country will never be able to make it. With
+the Chinese, they
+
+come to this country and they work very hard. A very large number--not everyone
+does--becomes successful monetarily. They have material things, and so they feel
+if they have done it, that the rest of society should be able to do the same.
+Well, it&#039;s not true. I mean, it just doesn&#039;t work that way. I personally have
+always felt that our society is rich enough that we can take care of everyone,
+and by not having everyone educated--some people you can&#039;t educate very well,
+but we have a better society if everyone is taken care of. I would benefit by
+it. I wouldn&#039;t have ill people on the streets begging if we would really address
+this problem in Berkeley, the homelessness, as an example today. I don&#039;t know
+how to solve these things, of course, but there&#039;s no reason why they can&#039;t be
+resolved much better than they are today. There are a lot of negatives in
+capitalism. I can use public transportation as an example. It would be cheaper,
+I think, and I think there&#039;s been studies made, if public transportation were
+almost free, everyone would use it. The streets don&#039;t have to be repaired, you
+don&#039;t have to use space for parking lots, but capitalism doesn&#039;t allow you to do
+that. Instead, what we do is we cut back on services and so fewer people will
+use them. But I&#039;ve always felt that for those who really can afford a better
+system for themselves, that&#039;s fine, they can spend the extra money, but for most
+people you should have a bottom line that&#039;s a little higher than we have today
+for our society. You didn&#039;t want to hear all that.
+
+LI: Oh yes, we do.
+
+ Stine:
+
+Most definitely. I think it&#039;s so important in the context of thinking about
+World War II, just to bring it back, I wonder if you could maybe speak to your
+emerging political identity at that time, if you had any thoughts about FDR,
+about New Deal programs, about the social services that implemented during World
+War II, if you had recollections distinctly of those, or how they fit into your
+own ideologies emerging.
+
+GEE: [laughs] That&#039;s a hard one. I don&#039;t know. I just felt it, though. If you
+look during the Depression, at that particular time FDR, when he was trying to
+get us out, we have so many wonderful lasting things that were done by some of
+the public works things that were done in this country. I only can give a few
+examples: some of the wonderful lodges and things, jobs were created. Also, some
+of the art that was created. Those were unfortunate times, but we do need the
+public sector in times that are very difficult, and I would say we were
+approaching this very difficult time now. I guess I don&#039;t believe in supply-side
+economics. I guess that&#039;s what you call it, or tax-relief things when things are
+very difficult. Is that what it is? Supply-side economics? I don&#039;t think it&#039;s
+ever worked, though. Today, our society seems to be crashing upon itself, if you
+look at the stock market. You look at corporations and you even look at the
+government agencies--where will we be in the next fifty years? Whatever the
+solution is--there are people who are Communists who are trying to make this
+happen. Whether that would be influential or not, I don&#039;t know.
+
+LI: Would you talk about these things at home? Would your mother talk about it?
+
+GEE: No, my mother was kind of quiet.
+
+LI: With your brothers and sisters--
+
+GEE: She was, but we would talk a little bit about it, you know. Where are we
+going, a little bit. The days of the Depression, I was young so I didn&#039;t have to
+worry about getting food on the table. That really makes a difference. There was
+always food on the table. Didn&#039;t have a lot. It didn&#039;t make any difference. You
+didn&#039;t have mass communications; you had movies that told you how other people
+lived, but they were
+
+not realistic at all. Today, it&#039;s another story, what you can see. Of course,
+our society gears you into wanting things, just look at the advertisers. But
+that isn&#039;t what it&#039;s all about. We&#039;re not talking about that today; we&#039;re
+talking about what it was like in the thirties and forties, or during the war.
+
+LI: It&#039;s interesting how that leads up to the anti-communism that comes
+afterwards. It&#039;s an interesting arc, the whole story.
+
+GEE: Another thing that was very interesting at Mare Island--I don&#039;t remember
+whether it was at the shipyards, but they had these balloons like dirigibles,
+not quite that large, that were all around Mare Island to sort of protect it so
+that in case the Japanese came over and try to strafe it. There would be these
+balloons that would protect the island and the facilities. Have you seen any of that?
+
+LI: No. Was there high security? Did you have a badge to get to work?
+
+GEE: They were. They were considered very high security at that time. You had to
+have a badge to get in.
+
+MCGARRIGLE: That period that you went to Mare Island, after that training that
+you did: how long were you working at Mare Island before you entered the armed forces?
+
+GEE: I worked at Mare Island a year, maybe.
+
+MCGARRIGLE: You spent a while there.
+
+GEE: It was quite a long time, yes. Seemed like a long time. Ships were coming
+in. The ship that I worked on, and the one ship that I always remember, is the
+San Francisco. Ships were coming in that were to be repaired there. I think they
+did build some submarines. It was a submarine base, but the destroyers came in,
+that were shot up. We were really repairing, most of the stuff I was doing. I
+don&#039;t think I was on any construction at all. It was repair work to get the
+ships back, the destroyers, cruisers. It was exciting, in a way. It really is.
+That&#039;s terrible to say, a war makes things--well, it isn&#039;t terrible, but it
+does. A war creates a lot of activity going on.
+
+MCGARRIGLE: A lot of adrenaline around.
+
+GEE: Oh, yeah. It gave you a sense that you were doing something. You felt that
+you were doing something for the effort.
+
+MCGARRIGLE: How did those male engineers treat the very few women who were
+working there?
+
+GEE: We were girls. [laughs] They were very nice, but we were girls. No
+discrimination at that time. I mean maybe they would never promote us to
+anything, no matter how good we were, but we didn&#039;t stay around long enough.
+
+LI: Would you all hang out together, the girls?
+
+GEE: Oh yes, the three of us would hang out together.
+
+ Stine:
+
+Do you remember what you wear to work?
+
+GEE: We wore skirts. I don&#039;t know whether we wore pants in those days. I never
+wore pants. But I think that you could wear slacks, yeah. You didn&#039;t have to
+dress up. You couldn&#039;t be quite as casual as you might be today.
+
+LI: Did you have a vision for what you were doing? A sense of yourselves as
+women doing this unusual--
+
+GEE: No, no. I didn&#039;t, and I don&#039;t think the other two women were either.
+
+LI: But it was exciting?
+
+GEE: I think it&#039;s not so unusual today that we think more about women&#039;s role in
+society, and the struggles, really, to get recognition. At that time, I would
+say there were a few women that did, but the majority of women, you accept your
+lot as a second-class citizen. You&#039;re lucky if you get the opportunity to go out
+into the world and get a job. There&#039;s nothing wrong with marriage and a family,
+but that&#039;s what is expected of you.
+
+ Stine:
+
+Did you feel lucky have this opportunity?
+
+GEE: I think that World War II gave women a lot of opportunity to do things,
+much more. But when the war was over, the opportunities were taken away because
+there were more men back. They were jobs that the men could fulfill, and given
+the choice, a man would get a job, always.
+
+MCGARRIGLE: Were those wages really good wages, that you earned at Mare Island?
+Was that relative to the other kinds of employment that were available?
+
+GEE: The wages at Mare Island were okay. They were civil service wages. They
+weren&#039;t a lot of money.
+
+MCGARRIGLE: It wasn&#039;t like the shipyard wages, then.
+
+GEE: It depends on what you do. They were comparable. A man would get the same
+wage. I don&#039;t know how much the shipyard wages were. Do any of you know how much
+they got an hour?
+
+ Stine:
+
+I don&#039;t remember offhand, but considerably more.
+
+GEE: Five bucks an hour?
+
+ Stine:
+
+No, nothing that high.
+
+GEE: So it wasn&#039;t very much. But it was plenty at that time, because you could
+buy a dinner for twenty-five cents. For a long time, I didn&#039;t understand why
+bread was more than nine cents a loaf.
+
+MCGARRIGLE: How did you end up getting from Mare Island in the draftsperson role
+to the flight training?
+
+GEE: I&#039;ve always been interested in flying. I had money. See, money really makes
+a difference, so I could go learn to fly.
+
+ Stein:
+
+That&#039;s such a big question that I&#039;m going to stop the tape.
+
+GEE: Oh, I don&#039;t want to talk about the flying.
+
+LI: You don&#039;t?
+
+GEE: No, because we&#039;re talking about the war.
+
+LI: So many interesting things. As you&#039;re talking, I&#039;m just writing down entire
+chapters. It&#039;s amazing.
+
+GEE: Now, when you&#039;re interviewing someone, people go off on tangents--
+
+MCGARRIGLE: But it&#039;s all related.
+
+LI: That&#039;s where the best stuff happens, because I always feel that my questions
+are based on existing sources that I&#039;ve already read. Then, when people go off
+on stuff that&#039;s new, that no one&#039;s ever known to ask about, the most interesting
+things come out of.
+
+[end file Gee3 04-29-03.wav] [begin file Gee4 04-29-03.wav]
+
+ Stine:
+
+I wanted to talk about you joining the Armed Forces and how that happened, but I
+wanted to actually just go a little bit in before that. I&#039;m always curious
+especially of the age you were when the war broke out, if you had a sense of
+what you wanted to be when you were in high school. I know you said you weren&#039;t
+quite sure what you were going to do in college, but if you had a sense of where
+your life was going and if you ever thought that you would be flying a plane.
+
+GEE: When I was in high school--I don&#039;t know. I think that I really didn&#039;t have
+a sense. There was always in the back of your mind, why don&#039;t you go to medical
+school because you&#039;ll have a job afterwards, but that was just vaguely in my
+mind. I didn&#039;t think I&#039;d ever be able to afford to do it, so that really made a
+difference. So that was kind of removed from my mind. No, it just takes money to
+do so many of the things that one might like to do, and flying in particular.
+There was no way that could work your way to be a pilot, in the sense that it
+takes a lot of money and I never thought that I would be able to make enough
+money to learn to fly. It was sort of a dream; it&#039;s not an ambition, it&#039;s a
+dream that one has.
+
+Because of the war, I could earn a little bit of money to learn to fly. But it
+was being in the service that gave me the opportunity to do all the flying that
+I wanted to do, large planes. I think I&#039;m no different than a lot of men,
+though. The war gave the men the opportunity, the young boys who wanted to be
+pilots, they got to see sort of a dream. They had to go fight and I didn&#039;t have
+to fight, and that made a lot of difference, because they could have lost their
+lives, and a lot of people did. Did I think I would ever be
+
+able to do anything with it afterwards to make it a career? I knew there would
+be no opportunities. There were only a little over a thousand of us, let&#039;s say
+1100. I would say, one percent maybe made a career flying. Less than five
+percent. There were no jobs, just absolutely no jobs at all. How did those who
+made a career flying is they owned airports or they set up something for
+themselves. So there was no way. They instructed, just kind of odd jobs that you
+would create for yourself.
+
+ Stine:
+
+Is that something you would have liked to have done, was continue?
+
+GEE: No, I don&#039;t know what I&#039;d like to have done. [laughs] Maybe just as well. I
+don&#039;t know what I could have done. What is there in flying you can do? You look
+at today, all you can do--well, I shouldn&#039;t say all you can do is you&#039;re a
+commercial pilot of some sort. Well, no, that isn&#039;t true. Well, I guess it is,
+pretty much so, whether it&#039;s a small commercial pilot, whether you&#039;re in Africa
+or whether you&#039;re in Alaska flying people around to get from here to there, it&#039;s
+pretty much the same. There&#039;s something about flying, though. There&#039;s a love of
+flying that I think I would have been happy if I could have done that. I really
+did like flying. It&#039;s hard to explain. It&#039;s a disassociation with the Earth,
+that&#039;s really what I liked so much. I felt as if I were above, looking down. But
+doing it for a living every day, you might have a different feeling about it,
+but I really liked that feeling.
+
+LI: Was it a completely different sense of yourself when you were flying, versus
+when you were not?
+
+GEE: Yeah. It&#039;s really hard to explain. My problems seemed to go away when I&#039;m
+flying. It&#039;s so ridiculous to say it, because my detachment from earth. We&#039;ve
+done so much since, though at that particular time I felt that I was in another
+dimension that gave me a sense of freedom. Today it still might; since I haven&#039;t
+done any flying by myself, it still might give me a sense of freedom. There&#039;s
+something very special about
+
+being up there and looking down. When you&#039;re in a commercial plane, it&#039;s
+something else, though. But even in a commercial plane if you have a good
+window, a good seat, you&#039;re up there looking down--I can&#039;t say whether it&#039;s
+spiritual, but it is a little spiritual. It doesn&#039;t make me more religious, it
+doesn&#039;t give me a sense of who I am or anything like that, either. It&#039;s a
+different feeling.
+
+MCGARRIGLE: Some of the astronauts talk about that experience when they&#039;re out
+looking at earth.
+
+GEE: Down there, I know. I can understand that. I think I told you, I did have
+the opportunity to be, a few years ago, at NASA where I went into one of their
+trainers with Eileen Collins. It&#039;s the same trainer that the astronauts have. We
+go out in space; it&#039;s simulated. This is where the astronauts get their training
+before they really go out. You have all the sensations of going out into space,
+where you&#039;re boosted up and then you lose the rockets and then you go out in
+space and it&#039;s very quiet. Then you see Earth. It really was nice. I flew with
+Eileen Collins. I think she was the first woman who had a crew of people that
+she took up in space. I don&#039;t know if you know her name, Eileen Collins. I can&#039;t
+describe the sensation. It was very unique, because I could look back and see
+Earth. I knew I hadn&#039;t gone anyplace, but I had all those sensations. I didn&#039;t
+have weightlessness, though. I felt very fortunate. Just by chance, two of us
+had been asked to come down to NASA. I wasn&#039;t to give a talk, but my friend was
+to give a talk. They showed us around. They treated us very nicely. Not very
+many people get to go to use the simulator. Most of the people there have not
+used it, but we got the opportunity. Not all the astronauts in training get to
+use it, not anyone can go into it and go out into simulated space.
+
+MCGARRIGLE: So when you say just by chance, how was it that that connection was
+made, that you and your friend could?
+
+GEE: Well, they were looking for someone, so the two of us were--it&#039;s people you
+know, when they come across a name. I had not been asked; my friend had been
+asked to give the talk. They were looking for another person, so she had me come
+with her, which was very nice.
+
+ Stine:
+
+How did you seek out the opportunity to get involved with the armed forces and
+flying? How did that happen, that transition from Mare Island to flying? How did
+you make that choice?
+
+GEE: There were three women, three girls, and we were looking for something else
+to do that was joining one of the services, but we were too young. I don&#039;t know
+whether I was eighteen or nineteen at that particular time. I was too young. I
+was almost nineteen years old by then. I think that also was by chance in a way,
+too. But I went to learn to fly on my own, because I had enough money to buy the
+flying time. I went up to Minden, Nevada to learn to fly. The recruiters for the
+WASPs at that particular time were coming through Reno, Nevada, so at that time
+I got interviewed. I passed all the examinations and qualifications, and I was
+accepted. There were twenty-five thousand women that applied, and I felt very
+fortunate. About two or three thousand of us were accepted, and then half of us
+washed out of training. I didn&#039;t wash out of training, I was lucky to finish.
+
+MCGARRIGLE: What did the training consist of?
+
+GEE: The training was the same flight training that the men got, so if you
+failed a flight test or you didn&#039;t do things correctly, you were washed out.
+After they examined you, you were taken for flight checks.
+
+LI: Some of the friends you went with, were they friends from Mare Island? The
+other draftswomen?
+
+GEE: Yeah, the other two ladies. All three of us. They lost all their women.
+
+LI: You said that you had the money; was it from the Mare Island work you held?
+
+GEE: From Mare Island, that&#039;s right. Well, the money was eight hundred dollars.
+
+MCGARRIGLE: That was a lot of money, if it was nine cents for a loaf of bread.
+
+GEE: It was a lot money, eight hundred dollars a piece to learn to fly.
+
+MCGARRIGLE: And the men didn&#039;t pay for their own flight training.
+
+GEE: No, no, that wasn&#039;t for flight school. The men who were pilots though, they
+gave physical exams and they said they wanted to be pilots. I&#039;m not sure how
+they were chosen to be pilots. They would go into training, those that they
+chose, and a lot of them washed out, but then they became foot soldiers. For us,
+they wanted us to have some sort of flight time, because you didn&#039;t know whether
+you wanted to fly or could fly, at all. But the first group of women that they
+took were the women who had commercial and pilot licenses. That particular pool
+was depleted quite early because there weren&#039;t very many women that had those
+licenses. Then they looked for women that had some flying time.
+
+MCGARRIGLE: I see. And you had the private school time.
+
+GEE: I had the private school time, yes. But everyone had to have some flying
+time. Otherwise if they&#039;d take anyone and it&#039;d be a waste. You don&#039;t know,
+they&#039;d get up in the air and they&#039;d get sick. It would be a waste of expense to
+even try, so they wanted you to have some flying time, to know that you really
+liked flying and that you could do it.
+
+MCGARRIGLE: Do you remember your first time up in an airplane, at the controls?
+
+GEE: I can&#039;t remember the first time up, but I remember when the instructor got
+out and said, &quot;Take it around. It&#039;s all yours now.&quot; [laughs] Mine? &quot;Just pretend
+I&#039;m there.&quot; That&#039;s true, you know. I know you&#039;re there, you can tell me to do
+this, do that--[laughs] I remember that quite well.
+
+MCGARRIGLE: What did your mother, at that time, think about your going off?
+
+GEE: My mother was very proud of all her children, like all mothers are. She
+thought if she were younger, that she&#039;d like to do something more than what she
+was doing. She was one of the older women at Richmond, so she was doing her part.
+
+LI: What were your supervisors like, once you were accepted into the armed forces?
+
+GEE: Supervisors in flying, or at Mare Island, engineers?
+
+LI: At flying.
+
+GEE: Well, they were all different. They weren&#039;t supervisors--I guess they were.
+They were our instructors. Some of them were not very nice to the women, though.
+The instructors, some of them were very nice and some of them weren&#039;t. Our
+instructors were older men, maybe, or men who couldn&#039;t get into the service.
+They were all good pilots.
+
+LI: But for some reason or another--
+
+GEE: For some reason or another. The qualification was very high, to go to war.
+You had to have perfect eyes. Even as a foot soldier, the qualifications were
+very high. Much harder than today, I think; I&#039;m not sure. Just seemed always
+strange that you couldn&#039;t wear glasses if you were a cadet in training in the
+Army or the Air Force. All kinds of things just always kind of baffled me. If
+you were good, you&#039;re out there to get killed. But they were very strict in your
+health and physical.
+
+MCGARRIGLE: Was that training highly physical, then? What kinds of exercises and
+things did you have to do?
+
+GEE: Oh, I could do many push-ups then. [laughs] We had pretty much the same
+training. I never really learned to swim very well, but you had to jump into
+this huge pool with a bunch of stuff on. That&#039;s one thing I remembered, in case
+you parachuted and you landed in the water.
+
+LI: Must have been exhausting. It sounds so tiring.
+
+GEE: Yeah. At that age, you&#039;re in good physical condition. You can do all kinds
+of things, oh yeah. Push-ups and all those things, though; chin-ups, push-ups
+and what everyone does.
+
+MCGARRIGLE: Then how did you make the transition? You said there were
+twenty-five thousand who applied.
+
+GEE: They chose about--I&#039;m not sure. There were several thousand. Only eleven
+hundred graduated, so half of them washed out. I mean, they probably had a
+couple thousand that went through partial training, and only eleven hundred
+graduated, got their wings.
+
+ Stine:
+
+And your other two colleagues, did they make it through?
+
+GEE: We loved it.
+
+ Stine:
+
+You were with them throughout the whole time?
+
+GEE: We were good friends. Let&#039;s see who am I going to see, when I go East--no,
+I won&#039;t see any of my friends that I flew with.
+
+LI: Did your siblings serve in the military?
+
+GEE: My older brother did. That&#039;s how my mother got her picture in the local
+newspaper, because that was the only day she missed, when her son went overseas.
+
+LI: Did she go to see him off?
+
+GEE: She saw him off. I&#039;m not sure how she saw him off, or how he went off. He
+just died this last year, and I&#039;m sorry I didn&#039;t ask him. Did he fly? Probably
+not. By boat, I guess.
+
+LI: How old were you, when he went?
+
+GEE: I was grown up. I was working probably out at Mare Island or some place
+like that. The war had started.
+
+MCGARRIGLE: So can you describe to us what those days were like, once you were
+accepted and got your wings and started your flight missions? What kind of
+assignments did you have?
+
+GEE: I spent almost a year, not quite, I forget how many months, through
+training. It was good comradeship. I really felt it was an opportunity to meet
+people from all over. I think with everyone at that age, you really don&#039;t know
+very many people except within your own community, and now you meet women from
+all walks of life. Because you&#039;re living with them day in day out, and you&#039;re
+struggling with them, you bind with them. There&#039;s a lot of bonding there. As I
+said, afterwards we all went different ways, and we&#039;d come from all different
+types of backgrounds, but nevertheless we always remained very good friends. I
+always felt that I could call upon a half a dozen women. We&#039;re all the same age,
+so we&#039;re all getting older, but when I was younger, even, I felt that I could
+call upon these women if I needed help. I&#039;m not talking about financial help,
+but if I needed someone to talk to, or maybe those who did have a little extra,
+then I had financial help, but mostly emotional-type things. They&#039;re very close.
+I still have about three friends that are very close. What we&#039;re going to do
+this summer is that I&#039;m going to fly to Boston, rent a car, and
+
+my friend Elaine from Washington D.C. is going to come up there and we&#039;re going
+to drive down the coast and visit all our old friends. Both of us are in good
+shape. That&#039;s what we decided to do, and I said &quot;We better do it in a hurry,
+though, while we&#039;re still in good shape.&quot; [laughs] So we&#039;re going to do that,
+and I must do all these other things first before I get to that.
+
+ Stine:
+
+Why don&#039;t we just wrap up. Towards the end of the war, how that happened for
+you--how long were you with the WASPs?
+
+GEE: I was there one year, that&#039;s all. The war lasted how many years? Four years?
+
+MCGARRIGLE: Four plus years.
+
+GEE: Was it four-plus years? Started in &#039;41, ended in &#039;45--less than four years,
+then. The WASP was around for about two years, is all. They disbanded the
+organization before the war was ended. The men pressured Congress to disband it,
+because they wanted our jobs. They just didn&#039;t like to see the women fly. When
+they came back from the war, there were so very few of us that some of them
+wanted our jobs that we had. Jacqueline Cochran says &quot;We were never
+militarized.&quot; She said, &quot;Militarize these ladies, or disband us.&quot; [laughs] So
+they disbanded us. Congress did away with us. Even though, there was no question
+we did a good job and there were thirty-eight women that were killed, which is a
+small percentage, relative to the fatalities amongst the men pilots. They were
+different types of things: some of them were accidents.
+
+Of course, they were all accidents. But there were planes running into each
+other. It&#039;s always hard to believe that planes run into each other, but they do.
+
+MCGARRIGLE: How were your duties defined, the women&#039;s duties?
+
+GEE: The initial duties, why the organization was started--that was for the
+women at the very beginning--was part of the Air Transport Command. It was to
+get a plane from here to there. The first group went to England, but that&#039;s
+entirely different. The rest of the group, they stayed within this country. We
+were pilots towing targets, doing mock gunnery missions, delivering planes,
+instructing, and test pilots. Also, testing planes out. So there was a variety
+of type things that had to be done. It really gave you an opportunity to fly. I
+think the women who were with the Air Transport Command flew everything. Those
+were the very early ladies. Those were the ladies that really had lots of flying
+time, commercial. A lot of them had commercial pilot&#039;s licenses. So they flew
+every type of plane. Some of them were never checked out on them, though. Some
+of the stories that they tell are really quite exciting. They were asked to take
+this plane, never seen it before, from here to there, and they could do it. I
+admire them. So we have our hierarchy. We have the ladies who were very early
+and then as time went along, we became more service pilots. Instructing, and
+also flying mock gunnery missions. What is a mock gunnery mission? A mock
+gunnery mission is--I&#039;ll give you a phrase there--towing targets, so gunners
+could have practice. A mock gunnery mission is as if you&#039;re flying over Germany,
+a bunch of large planes, whether B-17s or - 24s, flying in formation, going over
+to bomb whatever it is in Germany. These missions would have pursuits or fighter
+planes from the opposite side, really simple flying. Germans, making passes,
+trying to crash these planes. The gunners would try to shoot &#039;em down. So this
+was practice for the gunners in these big planes.
+
+I recently, about two weeks ago, went up to Solano County, the airfield there,
+because they had some of the Doolittle Raiders, and they had their B-25s there.
+Do you know who Doolittle is? See, you don&#039;t know who Doolittle is, that&#039;s
+right. It&#039;s an entirely different generation. During World War II, Tokyo was
+bombed by Jimmy Doolittle and this group of Doolittle Raiders. That was a big,
+big, unusual project to do that. There was no way they could come back. I don&#039;t
+know which island they took off of in the Pacific.
+
+They flew over Tokyo and they bombed it, and then they were to land in China,
+places they&#039;d never been
+
+to. Some of the planes crashed; they weren&#039;t coming home again. I don&#039;t know the
+number of planes that made their airfield they had to go to, but that&#039;s public
+information. You can find out that. Some of them didn&#039;t go to the various
+airfields. They had never been to China, you know, small airfields. I think
+there were some that were captured. The Japanese were occupying China at that
+time. It was really not a suicide mission, though, but there was uncertainty of
+their coming back. So what they had up here, they were B- 25s that did this
+mission. You hate even knowing how much damage they did and how many people were
+killed, but war, being so awful, is war. They had two of these planes that flew
+over. Today, I saw them-- they were so slow, and they were so small! [laughs]
+And then they had a couple of old men there. [laughs harder]
+
+MCGARRIGLE: You must have had a discussion.
+
+GEE: It was fun, because it was my generation. It was fun to talk and hanger fly
+a little bit. I said &quot;My generation, I don&#039;t believe this! That old?&quot; But the
+planes were the more interesting thing. When they came by, they went so slow,
+they made so much noise. That was one of the major battles. I don&#039;t know how
+much of Tokyo they destroyed. Of course, Tokyo was easy to burn.
+
+MCGARRIGLE: All wood.
+
+GEE: It was all wood. It&#039;s very sad. Very sad, you know. You stop and think
+about it, because we&#039;re in a war right now. It&#039;s hardly a war, was it. I mean,
+people getting killed. Your president--did any of you vote for him? [laughs]
+
+ Stine:
+
+You mentioned you did some instructing. Who would you instruct?
+
+GEE: None of us instructed cadets, but there were pilots coming back to renew
+their license, so those were the people that you instructed. Instrument license
+and things of that sort.
+
+ Stine:
+
+Men, or women?
+
+GEE: Men. Oh, no, women didn&#039;t. Because you&#039;re servicing the Army--we were Army
+pilots--so someone had to instruct these fellows, because they have to renew
+their special licenses.
+
+LI: Did you do all these different jobs, then? You would do a little bit of everything.
+
+GEE: I did some of that for a while. There were different jobs, yeah. Now, the
+fun job to have been in was the Air Transport Command. Those were the ones that
+were very early, the women that had lots and lots of [flying] time.
+
+[end file Gee4 04-29-03.wav]
+
+Interview #3 with Maggie Gee, May 20, 2003 Interviewers: Robin Li, Leah
+McGarrigle, Kathryn Stine Transcriber: Sarah Wheelock
+
+[begin file Gee05 5.20.03.wav]
+
+ Stine:
+
+It&#039;s the 20th of May, and we&#039;re here with Maggie Gee. This is interview three,
+with Robin Li, Leah McGarrigle, and Kathryn Stine.
+
+GEE: I really would like to tell you a little bit about an organization that I
+belonged to during World War II. Today it&#039;s called the WASP. It&#039;s the Women&#039;s
+Air Force Service Pilots. Well, in 1942 is when the WASPs began. There was no
+Air Force, so we were just part of the Army Air Corps. At the beginning of World
+War II, we had very few male pilots in this country. The war was in full bloom
+in Europe and there was bombing of Germany, from England. So there really was a
+need for pilots, so this country--I don&#039;t know how many male pilots they
+produced during a month, but they were just grinding them out. Not so long ago,
+when I was in Los Angeles, I was talking to a friend of mine who was in the Army
+Air Corps during World War II. His name is Delbert Wong and today&#039;s he&#039;s a
+judge. We were just chatting about the days of the war. He wasn&#039;t a pilot, but
+he was a navigator. He said that he went to navigator school and went to
+officers training, OTC or whatever it was called, and they sent him overseas
+immediately, which was quite a surprise to him. But they were sending everyone
+as soon as they trained them overseas to the Air Force. He said, &quot;We were so
+young and we started flying missions over Germany.&quot; We really lost a lot of
+people, because there was a war going on, but everyone was very green, young,
+eager. So at home there was need for pilots to do the more mundane things at
+home, like taking the planes from the factories to the point of embarkation, and
+also there was a need for instructors. Jacqueline Cochran, who is a well-known
+pilot at that time, had decided that she wanted to form a women&#039;s group, use the
+women at home to do the domestic flying, so she talked the generals into that.
+It was very difficult at that particular time, but she finally did talk them
+into it and Congress decided to allow women to fly. So what
+
+she did with the first group of women was, she asked all the women who had pilot
+licenses, the commercial and the private license, as many as possible, to join
+with her to form this women&#039;s group. There weren&#039;t very many. These are women
+who flew before the war, and she finally depleted that entire group and they
+decided to reach down in age and in the requirements. So they reached down to
+eighteen and a half, and I guess you had to have a minimum of thirty-five hours
+of flying time, and that&#039;s when I got in. I was nineteen and a half or twenty, I
+don&#039;t remember. I knew I couldn&#039;t get into the other services; I was too young,
+and I did have my flying. I learned to fly in Minden, Nevada.
+
+ Stine:
+
+How many hours did you have?
+
+GEE: I had about fifty hours. What I did was, I had gone to Minden, Nevada to
+learn to fly. You could buy fifty hours worth of flying time with six months
+training--I don&#039;t know whether it was four or six months training. So, when they
+came around to do the interviews, I was interviewed. I passed the physical, and
+I was accepted.
+
+MCGARRIGLE: Was that the farthest away from home you had been at that point?
+
+GEE: The furthest away from home I had been was Nevada. I hadn&#039;t been out of the
+state of California, so it was a big move for me. I had to go back to work
+because they didn&#039;t call me right away. I went back to my job as a draftsman,
+and then they called me and I went to Sweetwater, Texas. I had to pay my own
+way. We were part of the military, but we weren&#039;t in the military. We had all
+the rules and regulations of the military. That&#039;s how all the women
+organizations started. The WACS started as Women&#039;s Auxiliary Army Corps, and the
+WAVES the same thing, too. So I got on this train in Berkeley, at University and
+I don&#039;t know what street it is. Probably First Street, the train station. I
+think I stood all the way to Texas. I
+
+was on a train that was full of Army people, and you know, we were moving troops
+around. That&#039;s the one thing I remember, just never sitting down except on my
+suitcase. It was interesting. I don&#039;t remember the details of it, but I remember
+that it was very crowded because troops were moving.
+
+I got to Sweetwater, Texas, took probably a day and a half or something like
+that, because I had to transfer. I don&#039;t know whether I transferred in Barstow
+or Texas, or someplace. This little cow town--I mean, it&#039;s out in no place, in
+West Texas. Big skies, just like they say. Big skies, and very flat. There were
+trees there, but they looked like bushes. They were called mesquite trees. It
+was hot, but it was dry heat. I got there, there were other girls on the train,
+so we found our way to the Bluebonnet Hotel. I think we walked there; I don&#039;t
+think they had any taxis, and we spent our first night there. Then they came out
+and got us the next day to take us to the airbase. This airbase only had women
+pilots. It trained about two thousand women, and we got the same training that
+the fellows got. You know, we went through basic, we learned ground school,
+instrument training, and then we went into advanced. We went cross-country, we
+did everything that the fellows did, but we didn&#039;t go to war, to battle. We all
+did different things.
+
+During World War II, after a certain number of missions, I think it was fifty
+missions, you were sent home. By 1942, going on to &#039;43, a lot of the men had
+gotten their fifty missions, so they rotated home. Fifty missions, if you&#039;re out
+almost every day, you could do in about three months. If you survive, you know.
+You&#039;re lucky to have survived. The Air Transport Command, when I graduated was
+no longer taking women, but the first group of women that did graduate, they
+went into the Air Transport Command. The idea of the organization was they
+picked up the planes at the factory, and the factories really were on the West
+Coast, and they flew &#039;em to the East Coast, all kinds of planes. All of the
+military planes, whether they were checked out on them, or not. So everyone had
+great adventures, great, great adventures. Then after you get the plane to the
+destination, then you got to find your way back to the base. Some of them partly
+by bus, hopping rides and trains and things. There were no commercial planes or
+anything like that to take you home. So that was part of the adventure of those
+days. For me, I was stationed at Nellis Airbase Field. I did a bit of
+cross-country while in training, which was really nice. So I
+
+did get to see some of the Southeast, which I had never seen before, Atlanta,
+Georgia; Stuttgart, Arkansas, Greenville, Mississippi; all those places. So many
+of our airbases were in the South. It was nice. I had not seen that part of the
+world, and it&#039;s different. These small towns are very different than they are
+out here, at that time. I had no problems in these towns. If I were black, it
+would have been a different story. We had no black women in the WASPs. There
+were qualified black women, except Jacqueline Cochran told the women that she
+could not take them, because it was hard enough just being a woman in the
+service, but if you&#039;re black in the South, they&#039;d have to have separate quarters
+for them. It just couldn&#039;t be done. It really was unfortunate, but in a sense,
+in those days it had to be that way. There were black women who were pilots at
+that time, with commercial licenses. Well, I think there were three. Not very
+many, though, but there were some. Some of them had applied. Two had applied, I
+think, and she turned them down.
+
+MCGARRIGLE: Did you ever meet those three women?
+
+GEE: I never met them. I gave a talk recently about early minority women in
+flight, and that&#039;s how I knew about some of these black ladies.
+
+MCGARRIGLE: That was at the Berkeley City Club?
+
+GEE: It was Zonta Club at the Berkeley City Club.
+
+MCGARRIGLE: When you went back to work as a draftsman, was there a reaction
+among those men who you worked with, now that you had your training? Were they
+aware that you had been trained as a pilot?
+
+GEE: Oh, yes. They thought it was great. They thought it was very nice. The
+draftsmen were just a little older. The fellows who were the draftsmen, they
+just thought it was great. None of them were; they were all 4Fs. Not all 4Fs,
+though, but they were an older group of men. I would say, they were in their
+thirties and forties. At that particular time, that was considered old. During
+World War II, it was interesting. You had to be in perfect condition to go to
+war. We had a lot of people, 4Fs, who had bad eyes. They wanted to go to war,
+but there were COs, too. I knew people who wanted to be in the service who
+couldn&#039;t be in the service, because of bad eyes or something, or maybe a little
+bit of a heart condition, but nothing major, as I remember. I mean, they were
+still young, they still could go out and fight, but the requirements were very
+high. The requirements aren&#039;t so high today.
+
+MCGARRIGLE: Do you recall your mother&#039;s reaction to your leaving on that train trip?
+
+GEE: Oh, yes, I remember that. I was so proud of her. She said, &quot;If I were
+younger, I could do something like you are doing.&quot; That was pretty good, for
+her. But then, after all, she did go out and work in the shipyards, too, which
+very few of her friends did. None of her friends, but there were other women.
+She was one of the older women--she might have been the oldest. She was in her
+forties at that time, to be working in the shipyards.
+
+MCGARRIGLE: Does that strike you as an unusual reaction that she had, that kind
+of enthusiasm?
+
+GEE: Oh, I think she always had that. She learned to drive when she was quite young.
+
+MCGARRIGLE: I was just wondering if some of your cohorts as you were flying, if
+that had that kind of support from their mothers, or what kinds of reactions--
+
+GEE: Some did, and some did not. I&#039;ve had several friends where the parents
+really didn&#039;t want them to go. You&#039;re young, you&#039;re stubborn, you wanted to go
+now. It was something that girls didn&#039;t do. Also, even in those days, people
+were concerned about a lot of women getting together; there might be
+homosexuality. That&#039;s hard for me to believe, but recently a friend of mine told
+me--and she was a very good pilot--she had her instructors rating when she went
+into the WASPs, and her parents didn&#039;t want her to go because they were
+concerned about that, which really kind of surprised me, because I didn&#039;t even
+know what homosexuality was then.
+
+LI: Would parents talk about that that openly? Would they say, this is what
+would happen?
+
+GEE: Well, she told me that, yes. I was really surprised that there were a bunch
+of--what do they call women at that time--you called men &quot;queers&quot; at that
+particular time. You didn&#039;t call &#039;em &quot;gay men,&quot; though. I don&#039;t know what the
+expression was. &quot;Butch&quot;? I don&#039;t think the expression &quot;butch&quot; was there at that
+particular time. I said, why didn&#039;t you join much earlier? And she said that her
+parents did not want her to go. She was in the class after me, in fact. Some of
+the women were married. There are always, you know. If you have a thousand
+people, there is-- I can&#039;t think of anyone I know that didn&#039;t get married in the
+end except myself and maybe another person.
+
+LI: The women that you were in the WASPs with, were they all from similar backgrounds?
+
+GEE: No. I think the first group of women were quite wealthy women. Not only
+wealthy, they had enough money to fly, but they were also independent girls.
+Except, the first group was older. The maximum age was thirty-five, and it was
+sort of twenty-one or twenty-two to thirty-five. They&#039;d been flying. They
+were--when I see the pictures--good-looking women, good-looking young girls,
+right. I always remember, I&#039;d seen this Life Magazine where they featured the
+girls. Well, just being young helps. Most of them came from well-to-do families.
+There were opportunities to learn to fly at the Piper Cub company in Ohio, where
+they made planes, the Piper Cubs. I cannot remember the name of the town right
+offhand. I should, because I visited. If you worked for the company, they would
+give you flight time, so women went to work for the company and they would be
+able to get some flight time. That&#039;s a very special type of woman, too, if you
+do that. Those women--girls, they were really girls--who didn&#039;t come from a bit
+of wealth and learned to fly. Most of them, I would say, were educated women, a
+little bit educated, that went on.
+
+ Stine:
+
+Would you ever talk in training, or just in downtime, about your ambitions?
+
+GEE: All we wanted to do is fly. That&#039;s what made the organization so good,
+because everyone loved flying so much and they wanted to do it. So we had this
+commonality and [were] very supportive of each other.
+
+That&#039;s important. If you had a bad day, everyone knew about it and they
+sympathized. We helped each other. It was really nice. We bound together. We
+remained friends all our lives. It&#039;s like if you live in a dormitory, I think
+that whoever your dorm mates are for those four years or three years or whatever
+time, two years, they&#039;ve suffered with you. Exams, personal--none of them are
+really tragedies, but your personal experiences--
+
+MCGARRIGLE: Did you interact with the male pilots when they were either training
+or returned from their missions?
+
+GEE: No, we interacted with our instructors; we had to. We&#039;re not supposed to,
+but I have to say that like anyone at a young age, we would sneak out and we
+would have parties with them, but we weren&#039;t supposed to. It&#039;s a dry area. I can
+just tell you about some of the things we did, though. It&#039;s a dry area; Texas is
+dry, no liquor, but you always could find it. I really never drank; I drank very
+little, but one day we were going to the instructors&#039; house to party, and wanted
+to bring some liquor. Some one had a car, and we drove to this place and we
+knocked on the door, and someone looked out from this little window in the door
+to see if we were okay, then we went in. Just like the speakeasies. We bought
+some liquor, then we went to the instructors&#039; house for a party.
+
+MCGARRIGLE: Was there anything that you encountered or heard about that was
+reminiscent of what we would call sexual harassment today?
+
+GEE: There was a lot of sexual harassment, but we just accepted it. You wouldn&#039;t
+accept it, the nonsense that I even went through when I started working.
+[laughs] It&#039;s really changed. A lot of sexual harassment, yes. But that&#039;s the
+way society was.
+
+MCGARRIGLE: There was no recourse, then.
+
+GEE: Oh, of course not. You gave in in order to continue.
+
+MCGARRIGLE: I would think that would further bind you to your women friends.
+
+GEE: That&#039;s part of it. It&#039;s true. I guess that&#039;s true, but we didn&#039;t even know.
+We didn&#039;t even think about it. We wanted to finish and do well, and get our
+wings, so you took anything anyone gave you, anyone, any nonsense. No one had to
+go to bed with anyone.
+
+MCGARRIGLE: That&#039;s what I was going to ask you.
+
+GEE: I don&#039;t think so. Some of them, I&#039;m sure there were romances and things of
+that sort, but you could get washed out. If you were caught with an instructor,
+you could be washed out, so people were very cautious about that. And some
+people were.
+
+MCGARRIGLE: And somehow it stopped short of this requirement that the women
+pilots sleep with the instructor.
+
+GEE: So they could pass.
+
+MCGARRIGLE: Didn&#039;t go that far.
+
+GEE: Oh, no. It wouldn&#039;t have paid off either, because if you were not any good,
+you had check rides by the Army, and there was no sleeping with the men who gave
+you the check rides who were in the service, because they were--sounds
+ridiculous, but they were all married men and they&#039;d really had little social
+interaction with us, just to check you out, so that you&#039;d go on to the next
+step. Or, if you had a accident, they check you out to see whether you&#039;re really
+a decent pilot or not.
+
+LI: What would a normal day have been like, when you were a WASP? How early did
+you get up?
+
+GEE: Got up at six o&#039;clock, we cleaned up our Bay just like in the Army, maybe
+it was 5:30, but it was early. There must have been the horn that told us to get
+up, reveille. We took care of our bay, cleaned it up, then got out and lined up
+and marched and marched to breakfast. We marched everyplace. I can&#039;t remember
+whether we&#039;d have P.E. in the morning. We learned to march, just like in the
+service, and we had classes in aeronautics, and also a class in weather. We
+learned the Morse code. Those were the days that everything was done by Morse
+code, so you know where you are. That was our communication with the ground.
+Then we&#039;d go to the flight line, either in the morning or the afternoon, just
+depending which flight we were. Then at nighttime, you had to study. March here,
+marched to lunch, marched to dinner. A little bit of recreation time. So it was
+a very full day, but it was interesting. You were tired at the end of the day.
+It was interesting. We were in Advenger Field, that had only women pilots there.
+But we had so many forced landings by other men pilots from other fields. They&#039;d
+come to see us. They&#039;d have forced landings. [laughs]
+
+MCGARRIGLE: They&#039;d come to call on you?
+
+GEE: Well, just to come and see us. They landed because they were having
+&quot;trouble with the airplane.&quot;
+
+MCGARRIGLE: What would happen?
+
+GEE: They&#039;d just come down, whatever it is. You know how they come and we look
+at them and they look at us, and they get out of their plane. I remember that.
+We had so many guys. They weren&#039;t supposed to
+
+come there. Texas is full of--at that particular time--airfields. That&#039;s where
+they learned to fly, because probably 363 days a year, it was clear. I didn&#039;t
+get to know any of the fellows. I don&#039;t know how some of the ladies got to know
+some of these fellows. We had time off. They would meet in town on weekends. No
+pregnancy that I know of, but romances.
+
+MCGARRIGLE: Did you see segregation in the parts of the South where you were?
+
+GEE: In the little town that I was in, there were Mexicans, I think, but not too
+many. It was such a small town. It&#039;s a larger town now, because they found oil
+there after the war, but in that particular town it wasn&#039;t obvious. It&#039;s
+interesting; I&#039;m sure that if you&#039;ve been to the South, the Caucasians in the
+South are really very, very nice and warm people. They&#039;re inclined to be very
+kind, more so than in big cities. They spend a little time with you, as long as
+you&#039;re not black, I&#039;m sure. So that&#039;s the one thing I remembered about the
+South. I didn&#039;t have any trouble. My brother, when he was traveling through the
+South, since he&#039;s dark like I am, a little darker, so he had to stay at all the
+black places. The black Y, because you look a little bit like you&#039;re a Mexican,
+and I guess the Mexicans weren&#039;t able to stay in public places where the
+Caucasians were. There aren&#039;t very many Asians, but I think that&#039;s where they
+put them.
+
+MCGARRIGLE: You and I have talked in the past about the difference for minority
+men, how being a minority male was different at the time we&#039;re talking about,
+then being a minority woman.
+
+GEE: I even think that during World War II that was true. I just gave the
+example of my brother. I have found that it was much easier as a woman to mix
+with all groups. I guess that much is true today, too. You see with the
+African-American women, they can move ahead, where it&#039;s difficult for the male
+African- American. It was that way at that time with the Asians, too. So the
+reason why, I really don&#039;t know, but
+
+women aren&#039;t a threat to society as much as a male is, an economic threat or a
+sexual threat, I guess in a way. That&#039;s the feeling of a lot of white Americans.
+
+LI: I was watching this documentary, The Forbidden City, which is about that
+dance club that was in San Francisco called the Forbidden City, with an
+all-Chinese revue. Some of the dancers, Chinese-American women were saying that
+when they would tour in the South, they were sometimes treated as colored
+people, and sometimes not.
+
+GEE: Is that right, in that particular group?
+
+LI: I was wondering if when you were traveling in the South--
+
+GEE: See, I wasn&#039;t with a group of people. I&#039;m just an individual. I find that
+very interesting, though. They were all such pretty girls. I knew some of them.
+But they were a novelty--that&#039;s interesting, Forbidden City. They were very
+different. You don&#039;t find at that particular time women who were in that
+particular group, out there dancing without too much clothes on. Do you ever
+write about Noel Toy?
+
+LI: Yeah, I have.
+
+GEE: See, I remember her. I knew her at Cal at that particular time.
+
+LI: She was a fan dancer.
+
+GEE: A fan dancer, yeah. She was a smart girl. I don&#039;t know what happened to
+her, finally. I knew someone out of Livermore, and she was a programmer. Her
+mother danced at Forbidden City and her father was one of the pianists there.
+She said her mother never talked about it, as if it were something of shame. I
+was really surprised. I said, that was no shame. I mean, good for her being out
+there so early.
+
+LI: Did you ever have people react as if you should be ashamed as a woman
+wanting to do something so manly as flying? If you&#039;d walked around in uniform in
+public, were people generally supportive?
+
+GEE: I never noticed if that happened. When I stop and think about it and look
+back, people probably thought a lot of the women were tomboys or lesbians,
+because they were doing a man&#039;s job. That was sort of underlying, because people
+didn&#039;t talk about things like that in those days, about men who were gay or
+women who were lesbians. They were tomboys, and maybe the expression &quot;tomboy&quot;
+meant the same.
+
+You see it today, women who are in golf or tennis, any sports. Part of society
+does put them in that particular category as being lesbians. Some are, some
+aren&#039;t, like anything else, though.
+
+ Stine:
+
+Do you remember what kind of reactions you would get, say, when you would fly
+into a small town in uniform?
+
+GEE: I loved it. [laughs] We all loved it, because we&#039;d fly in and you don&#039;t
+know who&#039;s coming in. Then you get out and the crew looks at you, you know.
+[laughs] That was always kind of nice, a nice shock. I think we all loved that
+shock value. &quot;We can do it, too!&quot; you know. &quot;Look at us!&quot; It&#039;s true. Forgot
+about that.
+
+MCGARRIGLE: I wondered if you heard stories from the men about their bombing
+missions and what was happening on the day to day of the war.
+
+GEE: I didn&#039;t get to know too many of them. It was scary, and not. I think when
+they were flying the missions that you were really concentrating, so you know
+there&#039;s danger, but you&#039;re there and so you just do the job. You always hope;
+there&#039;s always a certain amount of luck, but you hope that you make it back.
+
+MCGARRIGLE: And you lost women in your group, also.
+
+GEE: Yes. They were lost in various kinds of accidents. There was another
+Chinese woman who was quite well known--she&#039;s getting to be better known now,
+who was killed. Her name was Hazel Ying Lee. She was very early in the service.
+She was killed in an accident. She came in for a landing and someone landed on
+top of her. They were in Fargo, North Dakota and there was a big storm there, so
+lots and lots of planes were at this particular airport. They were trying to get
+them out very quickly, and there was just a lot of confusion. So women were
+killed different ways. Some were killed during the training, and some were lost.
+Some of them ran into other planes. There were thirty-eight that were killed.
+
+LI: How would that affect morale, when you lost one of your own?
+
+GEE: It was very sad. Also, you think well, it could be I, too. Just as well,
+whatever the circumstances are-- since we were a small group of women, though.
+Our percentages of death or accidents were smaller than the men.
+
+MCGARRIGLE: Was that something that you discussed all the time?
+
+GEE: We always said that.
+
+MCGARRIGLE: There must have been a great awareness about statistics like that.
+Was there an awareness about the perception of--
+
+GEE: Yes. Women are more careful, though. Even though we do dumb things; I mean,
+we do a lot of dumb things. We did a lot of dumb things when you&#039;re out there by
+yourself. You know, you&#039;re buzzing this and you&#039;re playing around, but with a
+little more caution. It&#039;s the nature of women, that&#039;s it. We don&#039;t drink, is the
+thing. You&#039;re not supposed to drink and fly, and women just didn&#039;t do that. They
+knew that. In fact, the days when you had your period--today, it wouldn&#039;t make
+any difference. We didn&#039;t fly during our period. We were told we shouldn&#039;t fly,
+and at that time, we didn&#039;t.
+
+MCGARRIGLE: Why was that, that they told you so?
+
+GEE: Because you&#039;re sick at that time, aren&#039;t you? [laughs]
+
+MCGARRIGLE: So there was this awareness that you would be--
+
+GEE: You&#039;re different, that&#039;s all. Your hormones are acting up in some way.
+
+MCGARRIGLE: So how would you make it known that you were having your period?
+
+GEE: We just didn&#039;t fly, that&#039;s all.
+
+MCGARRIGLE: You didn&#039;t have to tell somebody so they wouldn&#039;t schedule you?
+
+GEE: I think you&#039;d just say you&#039;re not feeling well. At least, sometimes. If you
+don&#039;t have any problems in your period; some women do have problems with their
+period. So they really aren&#039;t feeling well.
+
+MCGARRIGLE: Did the women who you were flying with want to fly the same missions
+as the men, or were they relieved not to have the same status?
+
+GEE: This is 1940, though. You have to remember we were so lucky that we were
+able to fly that we didn&#039;t even feel that we wanted to do the same things that
+men did. Just to have the ability to fly. It took the women a long time with the
+new Air Force even, to be able to fly combat. There are certain types of
+missions they don&#039;t fly, but I think they fly almost everything now. But it took
+a long time to accept women in war; always the fear that women might be captured
+and whatever happens to a woman is pretty devastating. I mean, being captured
+for anyone, but a woman, sexually it would be very bad in most cases. We never
+had that problem at all, since we weren&#039;t flying combat. It was always in this country.
+
+We all felt we were very fortunate because we could do what we were doing.
+
+LI: Could you have friends and family come visit you?
+
+GEE: I didn&#039;t, no. People didn&#039;t travel then, not very much then. We had a few
+people visit at graduation time, but just a few. Very few. I think it was
+difficult to travel.
+
+ Stine:
+
+Probably with rationing--
+
+GEE: Is that right? I think so. You certainly couldn&#039;t drive, because they
+didn&#039;t have the gasoline.
+
+MCGARRIGLE: How long was it, between the time you left and the time you saw your
+mother? How long were you away without seeing her?
+
+GEE: Oh, I don&#039;t know. Probably a year or something. I was too busy. At that
+time, it was a long time, because nowadays people go far away for a couple of
+years, not seeing family. But then, people did not. I guess I&#039;m kind of sorry my
+mother didn&#039;t come to graduation. In fact, I thought about that, but there was
+no way that she could have come, unless she was willing to stand up all the way.
+[laughs] Assuming she could get a ticket. There were planes flying in those
+days, prop planes. Let me see--the first time I crossed-country it took quite a while.
+
+LI: On a commercial flight?
+
+GEE: A commercial plane. It took quite a while. Did I fly across country before
+the war? No, because the first time I went to Nevada was when I went to learn to fly.
+
+LI: I was reading in {Xiao Jin&#039;s} book about you and the three women who you
+were working as draftswomen. You all went together to Nevada?
+
+GEE: We all did. There were just two of us. One of the girls didn&#039;t get in.
+
+LI: Did you stay with them the whole time you were--
+
+GEE: No, I was the only one that finished. Jean didn&#039;t finish; she washed out.
+After the war was over, we sort of went our own way, and then we got together
+again for a short time. But we never really lived together, so there really
+wasn&#039;t that closeness. One of the women, she was part Filipino. We stayed fairly
+close, off and on. The last ten or fifteen years, we did get together. We saw
+each other. She died a few years ago.
+
+But talk about a small world--I was having dinner in a local restaurant, it&#039;s a
+restaurant that&#039;s called Downtown. The top chef there came by to see me and
+said, &quot;I am Mary Stevenson&#039;s son.&quot; He said, &quot;I recognized you from the
+pictures.&quot; So one of the three women that I flew with and was a draftsman with,
+her son has become a well-known chef in Berkeley. Well, he was over in San
+Francisco, now he&#039;s a top chef here. Small world.
+
+MCGARRIGLE: Do you recall the first election that you voted in?
+
+GEE: Yeah, I voted for FDR. He&#039;s the only person that I knew. I&#039;m trying to
+remember where I voted. I don&#039;t remember. Was it after the war? It must have
+been--he came in &#039;32, four years is &#039;36, 1940--was I twenty-one by then? No, I
+wasn&#039;t. So it had to be &#039;44. So it was some time afterwards. No, that was during
+the war. The war was going in &#039;45. Who was running against him? I can&#039;t
+remember; it was no
+
+question. When he died, that was the sad part. I think I felt like a lot of
+other people, that I just can&#039;t imagine this country going on without FDR. There
+were some people that really hated FDR, because they really thought he was
+ruining this country, as you know. He did so many wonderful things, and even at
+that particular time, I had worked before the war and I don&#039;t think I paid--was
+there a withholding tax? I guess there was withholding tax; it had just come in.
+I just can&#039;t remember whether I had to come up with some money at the end of the
+year for income tax, or whether it was withheld or not. But you know, there were
+so many wonderful things that we were able to do at that time. Social
+Security--I have a relatively low Social Security number, because you got one
+when you got any job, very early. I actually have worked very little in Social
+Security, but I worked enough because all I needed were 16 quarters, which is
+equivalent to four years in Social Security, to draw Social Security. I had
+those, from odd jobs here and there. I put hardly anything in Social Security,
+and what do I see a month? I see about four hundred and thirty-six dollars a
+month in Social Security, having put nothing in to speak of. Worked at the dime
+store, worked as a waitress, just odd jobs. Pretty remarkable system. As someone
+said, if you really feel that you shouldn&#039;t get it, just give it back. [laughs]
+I should go off once a month and treat myself, instead of just putting it in the
+bank, just having it sent to the bank, don&#039;t even notice the small increment.
+
+LI: Do you remember your mom&#039;s first election, because she got her citizenship
+back, right?
+
+GEE: She did, yes. She got her citizenship back, and she was really happy to do
+it. She had to take a little test, I think. I don&#039;t think it was much of a test,
+but a little test.
+
+LI: The naturalization test, I think?
+
+GEE: I don&#039;t know what it was. I just don&#039;t remember exactly, but maybe she had
+to apply and answer some questions. I think people did get it back.
+
+LI: Do you remember when that was?
+
+GEE: No, I don&#039;t. Thought it was in the &#039;50s sometime. I wasn&#039;t living at home.
+I know my sister kind of pushed it, or saw to it, how to do what she had to do.
+
+ Stine:
+
+Were there any other programs that were started during the war that you remember
+as being kind of--
+
+GEE: Good programs?
+
+ Stine:
+
+Or important to you, personally.
+
+GEE: I can&#039;t think of anything right offhand, from the outcome of the war. When
+the war was over, it was an empty feeling. This is a terrible thing to say, in a
+sense. There&#039;s joy, and I think with a lot of people, we knew what we had to do
+during the war. Then, everything is over. It&#039;s up to you go ahead and do
+something with your life and if you&#039;re not directed, in a sense you were a
+little lost. During times of war, there&#039;s a certain amount of excitement. It&#039;s
+not good excitement, but there&#039;s something going on all the time. You&#039;re more
+aware of what&#039;s going on in the world, and then it&#039;s all over. I mean, there&#039;s a
+great deal of--people are coming home, you&#039;re happy that this is happening. No
+one&#039;s getting killed anymore, but then on the other hand, it&#039;s a little bit of a
+let-down. I mean, it&#039;s a nice let-down, of course.
+
+MCGARRIGLE: When did your brother come back from his service?
+
+GEE: Pretty much right after the war was over, yeah. He was in China at that
+time on the CBI, the China- Burma-India front, where General Chennault was in
+Chongqing. He came home, that&#039;s right, and we were happy to see that. But he was
+married, so I didn&#039;t see much of him. He settled down, in one&#039;s routine again. I
+think he had a job to come back to. He was an accountant.
+
+LI: When you talk about the let-down, I remember you talked, the last time we
+talked, about the sense of everyone coming together and pulling together for the
+war. So did some of those connections stay strong even after the war, or did
+people stop doing such community-cooperative things and turn more to their own families?
+
+GEE: You&#039;re talking about within the community?
+
+MCGARRIGLE: You were talking about gardens last time, and preparing for air
+raids and that kind of thing--
+
+LI: Yeah, and the philanthropy, working with the Chinese orphans, or just people
+pulling together--
+
+GEE: They were pulled together, very much so during the war, but I think
+afterwards things just kind of began to fall apart, a little bit. But you got to
+know people a little better already. There was no commonality to do something.
+Today, in this neighborhood, I know quite a few people. More, when we decided
+there was crime out there, where we formed a neighborhood watch, so that now
+we&#039;re not so concerned about the
+
+neighborhood. We know each other. I think after the war, people begin to go
+their own way, and they don&#039;t want to be bothered, because we all have our own
+lives. I don&#039;t know. Do you know a lot of your neighbors? You know a lot of your
+neighborhood neighbors because of the children. If you didn&#039;t have children,
+would you think you would know this many neighbors, at all?
+
+MCGARRIGLE: No, and when the children didn&#039;t go to the neighborhood school we
+didn&#039;t know the neighbors.
+
+GEE: So it does make a difference, yeah.
+
+MCGARRIGLE: If you look back on your political identity, when would you date it--
+
+GEE: Why am I a Democrat, yes. I guess it&#039;s where I come from. I&#039;ve always felt
+that our society is rich enough to take care of everyone, and so I felt that the
+one party, even though a lot of Chinese-Americans--I called them Orientals at
+that time--identified with the Republicans, because these were the business
+people. People more of wealth. But I just never identified with that group. I
+just felt that our society was rich enough to take care of everyone. I felt that
+I could take of myself, but there should just be a lot of social legislation,
+more social legislation. Maybe at that particular time, I could become a
+Socialist. I remember watching Norman Thomas. I used to listen to Norman Thomas.
+I never joined the Socialist party, but he made sense to me. Our society is
+moving in that direction, part of it, very slowly, because we do take care. We
+do have programs for people in need. We talk about having medicine for everyone.
+We do take one step forward in that direction and a couple steps backwards, but
+we seem to move forward a little bit all the time. It may be changing now, but I
+think it will move in that direction.
+
+MCGARRIGLE: What is the point at which you became politically active?
+
+GEE: I remember working for Henry Wallace a little bit. Henry Wallace ran
+against Truman. I joined the Berkeley Young Democratic Club, and I was living in
+I-House [International House] at that particular time. I just felt that I wanted
+to do something. I guess I was also attracted to people who were politically
+active, and then I got involved in Berkeley&#039;s politics in the &#039;40s. We had a
+neighbor, and that might have been somebody influential as well. His name was
+Byron Rumford. My mother had a neighbor named Byron Rumford, and Byron Rumford
+is the one that did the California Fair Housing and he was our [state]
+assemblyman. It was someone I knew when I was young, before I could vote. I knew
+his wife; they were a little older. They were schoolteachers. His wife was a
+schoolteacher who couldn&#039;t find a job at that particular time. She had two
+sisters who were schoolteachers, too. They went over to San Francisco State,
+took the ferry over in those days, and became schoolteachers. There was no job
+for them. It took a few years for them to get jobs as schoolteachers. I think
+two of them became principals in the Berkeley school system in the sixties and
+the seventies. But Byron Rumford was somewhat influential.
+
+MCGARRIGLE: Did he talk to you about--
+
+GEE: Oh, we just followed him. Yes, we talked. I mean, he lived behind my
+mother, the backyard was pretty close.
+
+[end file Gee 05 5.20.03.wav] [begin file Gee 06 5.20.03 wav]
+
+ Stine:
+
+We were just talking about politics and the influence of the war, or lack
+thereof. Maybe we could talk a little bit more about the end of the war?
+
+MCGARRIGLE: Also, what we said off-tape about the black community, reflecting
+about Byron Rumford and what was happening in Berkeley.
+
+GEE: Byron Rumford--we all know who he is, now. He was the assemblyman.
+
+MCGARRIGLE: We talked about him being an assemblyman and the Fair Housing but
+you then mentioned--
+
+GEE: The black community here. I recently had a discussion with local
+politicians about the black community here. The black community has somewhat
+integrated, but not really. In the very early days, if you were a non-black it
+was difficult to get into the black community as a politician, that you had to
+deal with someone. In Berkeley there was a man called D.G. Gibson, and he was
+powerful. Maybe it&#039;s like the big city--what&#039;s the word for in Chicago, you have
+these ward leaders. You had to deal through D.G. Gibson at this particular time
+if you wanted to talk in the black community. The community, I believe,
+considered him their political leader. There was one political leader; in fact,
+it was he, I am sure. So he dealt with the so-called outside world of the
+non-black community. He was an interesting character, as I remember. You had to
+kind of wheel-and-deal with him if you wanted to get into that community. I
+think today you can do it through the churches. I&#039;m looking for words to try to
+explain myself. He had control, I guess that&#039;s about it.
+
+MCGARRIGLE: What would the reach of his control have been?
+
+GEE: I think if D.G. says, or whoever the leader is, you should vote for the
+person-a WASP-y type-- that was running for city council or mayor, that you
+probably would. They would vote as a group, as a bloc. I can
+
+remember that people just courted him. That&#039;s the one thing I always remembered.
+Very important individual. Byron Rumford wasn&#039;t that way. I&#039;m just trying to
+think, how did he ever get elected? Once you&#039;re elected, it really makes a
+difference, because you just get reelected. He educated himself. He was a
+pharmacist. He was a businessman; he had a pharmacy down on Sacramento Street
+and people congregated there a great deal. But then he went back to school and
+got a degree in public policy. I don&#039;t remember whether he ran for any other
+office except for the assembly. I can&#039;t remember. I know he wasn&#039;t in the city
+council. I guess he just decided to run for Assembly, and he got the support of
+the community, feeling that it was time to have a black person. I don&#039;t
+remember; see, I&#039;d have to think about it. Now that you just asked me--I&#039;d
+probably have to talk to someone to find out exactly how it all went.
+
+MCGARRIGLE: But this is early on that you were paying attention and were closely involved.
+
+GEE: I enjoyed the people and the politics, and it was early. I was paying
+attention to politics in Berkeley, to see it change. We had all Republicans
+here. Well, that was in the Assembly, that was a little different. Earl Warren
+was around in those days. Another person that influenced me--I grew up in a
+black neighborhood, and there was a man named Walter Gordon that lived on my
+street. He had a law degree from Boalt, but also he was a football player. He
+was a pretty good football player. He played for Cal. I&#039;m trying to think; he
+must have practiced law in the black community, but he was appointed by Earl
+Warren to head the State Probation Board, I believe it was. Senator Knowland was
+our senator for a long, long time. They were part of the [Oakland] Tribune
+family. They owned the Tribune, so they were very influential. And then Earl
+Warren, who was a district attorney, then he became the governor of California.
+He was considered more--he was a Republican--more of a liberal Republican,
+that&#039;s how we classify him today. But he was a Republican and had certain
+values. Then he became on the Supreme Court. He was a very good Supreme Court
+justice. Chief of the Supreme Court, I think. He was a person who moved our
+society forward. Then, on the other hand, I guess he was governor at the time
+the Japanese were asked
+
+to leave and move a hundred and fifty miles, or be interned. He interned the
+Japanese. So it was kind of a mixed bag. But I just became very much aware of
+what was going on and I felt that I wanted to get involved, never run for
+anything, but be behind the scenes with various people.
+
+MCGARRIGLE: Did you know Cecil Poole, who was in Pat Brown&#039;s administration?
+
+GEE: Cecil Poole was about at that time. He was in Oakland. There were a lot of
+people who got involved and moved up forward, at that particular time. He was
+involved in sort of grass-roots level.
+
+MCGARRIGLE: You mentioned Berkeley Democratic Club from early on. What kinds of
+things were you involved with organizing?
+
+GEE: Berkeley was run by Republicans, so we wanted to replace all the
+Republicans with Democrats. We finally did that. Started with Bernice May. I
+don&#039;t know if you know that name, but she was a very good woman. She had been
+the president of the League of Women Voters throughout the state. She was smart
+about how politics should be, how to run government. The League, once upon a
+time, was a place where women learned about government, particularly women who
+stayed at home. Most of the people that I knew that ran for city offices and
+then they moved on, too, started with the League of Women Voters.
+
+They were housewives who had time and wanted to learn about government. Today,
+the League has a little bit of problem finding young women to join them, because
+young women work. People don&#039;t start at the bottom anymore. They just move up to
+the top. If they&#039;re going to run for something, you decide run for president or
+run for senator.
+
+LI: Do you see that as a change, then, from what you remember when you came into
+being political? When you became political, was it different? Did you work your
+way in?
+
+GEE: There were very few Asians that were involved in politics when I was
+working in politics. You just kind of work your way in. But you can start at
+almost any level. You don&#039;t even decide to run at various levels, but you can
+always stay behind the scenes, when they&#039;re running for office, be on their
+campaign committees.
+
+MCGARRIGLE: You must have been asked this a lot of times, but did you
+contemplate running for statewide office?
+
+GEE: I thought of it at various times, but no. No, I guess not too seriously.
+Thought about it. There was one Chinese woman that did, whom I knew, March Fong
+Eu. She became Secretary of State. We&#039;re about the same age. I remember she was
+in high school in Richmond when I was in high school here. She had a family; she
+started with the school board and she moved up. A lot of people do that today
+still, too.
+
+MCGARRIGLE: Why was that not appealing to you?
+
+GEE: It just didn&#039;t appeal, that&#039;s all. Why would I run for school board? She
+had children, and I think that&#039;s how you get involved, really. Or if you live in
+a neighborhood where changes are being made, if you own a house or something
+like that, and you didn&#039;t want a neighborhood to change--a lot of people start
+at the planning commission. Then, you don&#039;t want changes. You don&#039;t like to see
+the changes that are happening, or you want to make the changes according to how
+you would like to be, so you find that just
+
+being on the planning commission is not enough. You have to be where you make
+real policy, by being on the school board. Then you just kind of move up.
+
+MCGARRIGLE: What were some of the positions that you held? You held positions in
+Berkeley politics but also state and Democratic party politics.
+
+GEE: Oh, yes. I&#039;ve always held some sort of position, yes.
+
+MCGARRIGLE: What was the first one?
+
+GEE: The positions you get, if you&#039;re not running for things, you serve on
+commissions. You get appointed to commissions, you serve. I&#039;ve served on most of
+the commissions in Berkeley, like the rent board. I was on the rent board,
+housing commission, public works. That&#039;s what you do. You do get an opportunity
+to make a little policy that way. Then I ran for one small thing, and that&#039;s the
+Democratic Central Committee. You have to run for that. I do that every year;
+I&#039;m an incumbent, so it&#039;s just automatic. Most people don&#039;t even vote for it,
+and I&#039;m the incumbent. Makes a difference. That gives you the opportunity of
+going up into the state level.
+
+MCGARRIGLE: We could focus several interviews on Berkeley politics, but if we
+want to go back to post-war employment and career, do you want to talk about
+that? We could propose a whole project and come back and talk to you about
+Berkeley politics, but within the scope of our time today--post-war, can you
+describe your return? You took the train, standing room, to Texas. How did you
+come back to Berkeley after the war ended?
+
+GEE: I came home after the war--how did I come home from where ever I was? I
+hopped rides. We could do that.
+
+LI: On airplanes?
+
+GEE: Hop rides on airplanes, yeah. I hopped rides on airplanes for a long time
+afterwards. You go to the airfield, and you just wait around to see if there&#039;s a
+plane available, coming your direction. That&#039;s how everyone got home, if someone
+were flying in this direction from the airfield. That&#039;s it. Hitchhiking, in a
+way. After the war, when I could get my uniform, I did it a couple of times. As
+far as checking your ID, I just had my uniform on and I went back east once. I
+went over to Novato; there&#039;s the airbase--Hamilton Field. Just sat around,
+waited for a ride. Someone had a seat in their plane--people did that for a few
+years after the war. It was easy to do. So there was a little excitement there.
+
+MCGARRIGLE: What was the first job you had after you came back? I&#039;m not sure of
+the timing of when you went to work in Europe.
+
+GEE: Oh, that was a couple of years afterward. Everything was kind of
+hodge-podge for awhile, with the end of the war, I think.
+
+ Stine:
+
+Amongst all the WASPs, the other women that you were working with, did people
+have a plan? Everybody knew that the war would end at some point, and how did
+people deal with it?
+
+GEE: Some women were married, so their husbands were coming back. There were not
+very many, but a few. But a lot of the women got married afterwards with men
+they met while they were in the service. Couple of my close friends met their
+husbands while they were in the WASPs. So they married and then they settled
+down. They started families just like anyone else.
+
+LI: When you came back, were you welcomed as a veteran?
+
+GEE: No. I wasn&#039;t really a veteran; I didn&#039;t become a veteran until much later.
+No, everyone had been away, so you just sort of came home, that was it. Your
+generation just sort of came home, and then you move on. I must say that I had
+the feeling that all the people who went away and came back, I had a feeling
+of--kind of felt close to them, in a way. We were a little older than just out
+of college, or just out of whatever it is. We had sort of a different-type
+experience. I wondered what was going to happen in this world, and then the
+Korean War came. I thought, oh my goodness, I felt everything was falling apart
+again. That&#039;s the one thing I can remember. The Korean War didn&#039;t happen
+until--was it 1951, or something like that? It was a few years later, but things
+had not really settled. Europe and Japan were not rebuilt by then, and this war
+that we got into was terrible, just terrible. People I knew that fought in World
+War II and stayed in the reserves went to Korea. That was a bad war, and I guess
+it hasn&#039;t even finished yet. So there was uncertainty. I knew other people felt:
+why start a family? Why settle down, because the world is so uncertain. Well, of
+course you do. You settle down, you do all those things. The world was
+uncertain, but it might be okay. You might feel the same today; I don&#039;t know. If
+a person comes back and sees what&#039;s happening to this country or the uncertainty
+about [are] my children going to live in a world where there are nothing but
+terrorists around? We hope this will blow over some way, in the next twenty
+years or ten years, or whatever it is. We don&#039;t have a big enemy; I can remember
+when we felt the Russians were going to come over and take us, and they&#039;re going
+to send those missiles and big bombs and things like
+
+that. There was a period where a lot of people built shelters. Even out at
+Livermore, I remember there was a big community shelter. So when that whistle
+goes off, you all go to the shelter. You couldn&#039;t even imagine that, today. It
+sounds like a dumb thing to do.
+
+MCGARRIGLE: Did that happen when you were out there?
+
+GEE: No, the whistle or the bell never went off and said that there was a
+missile coming in, but the shelters-- people built shelters. There are some in
+Berkeley. I&#039;m not sure what my point is, but even though you feel that the world
+may be coming to an end, it isn&#039;t coming to an end, but you don&#039;t want to live
+in this type of situation, that things do change. After the war, after the
+Korean War, there was a very peaceful time in our society, and then the Cold War
+came. People did fear things. There are so many things that happened. There was
+the McCarthy era and there were just so many things, but you just go on living
+and doing your best.
+
+MCGARRIGLE: I think people want to know: how do you stay optimistic in the face
+of all of that?
+
+GEE: You mean, today?
+
+MCGARRIGLE: You had the consciousness and the sensitivity to know all of these
+things, but you stay involved and you stay engaged, and you stay optimistic.
+
+GEE: How do you stay optimistic? Because you see a few changes that happen. You
+just want to keep working at it. I have the time, and I have the inclination. I
+have the inclination; I mean anyone can make the time.
+
+I&#039;m very optimistic about the world and people, even though it doesn&#039;t look very
+good right now at the moment, but it will be all right, if you only manage to
+survive. [laughs]
+
+MCGARRIGLE: I think that&#039;s an interesting question, because some people like you
+remain engaged in the face of all of this difficulty.
+
+GEE: I want to get Bush out! [laughs]
+
+MCGARRIGLE: There&#039;s a strong motivation.
+
+GEE: You can make changes, though. They&#039;re small changes. I think just one small
+person can make a little bit of change some place. You rally the troops. I think
+what you have to do now, today, is to really educate people. In the paper the
+other day, it was 67 percent approval--it was in The New York Times--of Bush.
+You talk to anyone you know, and you wonder: who are the 67 percent? That&#039;s
+because we live in a different world. You have to see the rest of America. We
+don&#039;t have any confidence in this man. I&#039;m sure, even the person that read that
+that aircraft carrier out there had to stop and go back a little bit, so he
+could come in and fly onto this carrier, if you even read that and you were for
+him, you would think it&#039;s okay.
+
+People just think it&#039;s okay. I mean, he looked so great, got out of that plane,
+carried his helmet here and he struts a certain way, he&#039;s just an all-American
+boy. We love that.
+
+LI: Do you think that your mother--because you seem to say, [she was] so
+positive in terms of rededicating herself to new challenges that came up--
+
+GEE: It has to rub off a little bit on everyone, I think. The world could be a
+bad place. I mean, she had a lot of difficulties. Having six kids at the age of
+thirty-something, widowed, in the middle of the Depression; sounds terrible to me.
+
+LI: She continued to work after the war ended?
+
+GEE: She continued to work. She was involved in her club, in the church. She
+continued to work. She had to be involved.
+
+LI: Where was she working?
+
+GEE: She worked in the Post Office, and she worked afterwards for a friend who
+has a florist. He was a widower, so she worked in the florist. She really liked
+that, because she liked to fix flowers and things and also people coming in to talk.
+
+MCGARRIGLE: That was the florist on University.
+
+GEE: Yeah, it&#039;s still there, Lee&#039;s Florist. The one next to the co-op. It used
+to be the co-op; it&#039;s Andronico&#039;s now. It was interesting; there was the Sunday
+supplement about two months ago had an article about the florists. Homer Lee was
+the owner of it. He&#039;d come over with nothing, and he bought much real estate in
+the city. And yet he still goes down there every day and has lunch. He cooks a
+little bit of something.
+
+Typical Chinese. He&#039;s probably tight. [laughs] I mean to go down; I have to do
+it before. I&#039;ll be sorry if I
+
+don&#039;t go and tease him. I&#039;ll have him join the Berkeley Community Fund and leave
+a house to us. [laughs] And say, we&#039;ll remember you. I&#039;m going to do that. I&#039;m
+going to do that! I&#039;m going to say, give us some money for a scholarship and
+we&#039;ll name the scholarship in your name. That will be nice. Nice for him.
+[laughs] He can designate it--no, I don&#039;t think so. We have to decide who&#039;s
+worthy of it. That has nothing to do with anything, you know.
+
+MCGARRIGLE: I think we could talk to you about other things for future projects.
+
+GEE: There isn&#039;t much, but this has been fun. Thank you very much, though. I
+thought we&#039;d talk more about my mother, except that I can&#039;t say too much about
+her. I think it happens with many generations, that the community really liked
+my mother a lot, thought she did a lot for her children. Because it&#039;s your
+mother and she&#039;s telling you what to do, you don&#039;t appreciate her until you get
+a little bit older. Or your parents; I know that&#039;s not unique at all. You&#039;re
+fortunate if you&#039;re a parent, that your children, all their lives, have an
+appreciation of you. I guess it depends on how you handle it. So, Leah, you&#039;re
+the mother now. You want your children to stay your friends, and not be critical
+of you.
+
+MCGARRIGLE: It&#039;s a very long-range expectation.
+
+GEE: I want to thank you. It&#039;s been enjoyable; it&#039;s been very nice meeting you
+all. And Leah, it&#039;s always good to see you more often. Leah, I have a chair for
+you like that. Do you still want it?
+
+MCGARRIGLE: I do. I definitely do.
+
+GEE: I have it there and it&#039;s probably never been used, but it&#039;s worn out.
+
+MCGARRIGLE: That&#039;s okay; I&#039;m going to have it refurbished. I have someone. Thank
+you. That&#039;s very special.
+
+GEE: I have to get it from the basement. I&#039;ve got to start cleaning out the
+basement. Famous last words.
+
+LI: Thank you so much.
+
+ Stine:
+
+Yes, thank you.
+
+GEE: Thank you. And good luck to you.
+
+[end file Gee 06 5.20.03.wav]
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>

@@ -1,0 +1,15 @@
+word_1,word_2,count
+rape,sex* assault,4
+rape,sex* violence,4
+harass*,seduce,2
+anita hill,harass*,2
+clarence thomas,harass*,2
+anita hill,seduce,2
+clarence thomas,seduce,2
+anita hill,clarence thomas,2
+harass*,rape,2
+harass*,sex* assault,2
+sex* assault,sex* violence,2
+harass*,sex* violence,2
+attack,rape,2
+attack,sex* violence,2

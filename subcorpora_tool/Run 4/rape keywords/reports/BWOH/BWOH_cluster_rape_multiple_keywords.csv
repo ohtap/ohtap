@@ -1,0 +1,40 @@
+word_1,word_2,count
+rape,raped,8
+attack,harass*,8
+insult,rape,4
+attack,molest*,4
+harass*,molest*,4
+molest*,rape,4
+child abuse,rape,2
+insult,rapist,2
+attack,seduce,2
+harass*,seduce,2
+molest*,seduce,2
+insult,pinched,2
+attack,took advantage of her,2
+harass*,took advantage of her,2
+molest*,took advantage of her,2
+attack,outrage,2
+harass*,outrage,2
+outrage,playboy,2
+attack,playboy,2
+harass*,playboy,2
+rape,took advantage of me,2
+raped,took advantage of me,2
+attack,insult,2
+rape,raping,2
+brutalized,rape,2
+raped,raping,2
+insult,raped,2
+molest*,raped,2
+brutalized,raped,2
+insult,raping,2
+molest*,raping,2
+brutalized,raping,2
+insult,molest*,2
+brutalized,insult,2
+brutalized,molest*,2
+harass*,rape,2
+child abuse,insult,2
+attack,rape,2
+attack,raped,2

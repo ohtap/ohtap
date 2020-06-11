@@ -1,0 +1,9 @@
+rape OR raped OR raping OR rapist OR rapes OR outrage OR attack OR insult OR ravish OR ravished OR seduce OR seduction OR "took advantage of me" OR "took advantage of her" OR "hanky panky" OR "anti-rape" OR pedophilia OR pedophile OR "Anita Hill" OR "Clarence Thomas" OR sodomized OR sodomy OR "interfered with her" OR fondle OR fondling OR fondled OR pinched OR "sexual violation" OR "statutory offense" OR playboy OR "lady's man" OR "ladies man" OR "ladies' man" OR brutalized OR "child abuse" OR "sexually inappropriate"
+
+("sexual assault"~1)
+("sex abuse"~1) OR ("sexual abuse"~1)
+("sexist violence"~1) OR ("sexual violence"~1)
+
+harass* OR incest* OR molest* OR bestial*
+
+NOT "heart attack" OR "attack on Pearl Harbor" OR "Pearl Harbor attack" OR "panic attack" OR "under attack" OR "racist attack" OR "asthma attack" OR "enemy attack" OR "attack on the world trade center" OR "racial harassment" OR "police harassment" OR "substance abuse" OR "sterilization abuse" OR "drug abuse" OR "alcohol abuse" OR "coronary attack" OR "asthmatic attack" OR "anxiety attack" OR "attack on America" OR "political attack" OR "insult to injury"

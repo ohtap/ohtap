@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="https://www.weareavp.com/nunncenter/ohms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.weareavp.com/nunncenter/ohms/ohms.xsd"><record id="00042224" dt="2018-08-15"><version>5.1</version><date value="2002-10-30" format="yyyy-mm-dd"/><date_nonpreferred_format></date_nonpreferred_format><cms_record_id></cms_record_id><title>Betty Reid Soskin Interview 1: Rosie the Riveter World War II American Homefront Oral History Project</title><accession></accession><duration></duration><collection_id></collection_id><collection_name></collection_name><series_id></series_id><series_name></series_name><repository>Oral History Center, UC Berkeley</repository><funding></funding><repository_url /><interviewee>Betty Reid Soskin</interviewee><interviewer>Nadine Wilmot</interviewer><file_name></file_name><sync></sync><sync_alt></sync_alt><transcript_alt_lang></transcript_alt_lang><translate>0</translate><media_id></media_id><media_url></media_url><mediafile><host>YouTube</host><avalon_target_domain></avalon_target_domain><host_account_id></host_account_id><host_player_id></host_player_id><host_clip_id></host_clip_id><clip_format></clip_format></mediafile><kembed></kembed><language></language><index></index><type></type><description></description><rel /><transcript>STEIN: It&#039;s June 25, 2010, and we are here in Richmond, California with Betty
+Reid Soskin. This is Julie Stein and Javier Arbona. And this is tape one. Thank
+you so much for sitting down with us again. We have some semi-general questions
+when we were reading through your first transcript and wanted both to get your
+take on what you think, of the historic record, needs to be fixed and then some
+other questions that we were curious about. So I know that you have done some
+more research into your early life, about the timing of your family&#039;s move.
+
+SOSKIN: Yes.
+
+STEIN: I&#039;m curious about the revisions or what your research has done that you&#039;d
+like to fix the record on.
+
+SOSKIN: I noticed, first off, that I gave my age in coming to California as age
+four. And I had never had occasion to try to refine that before in my life. No
+one has taken an oral history. And that time was always kind of foggy for me. I
+didn&#039;t know why that was. But since then, I&#039;ve discovered very, very factually,
+that the age I came in was six. I remember, for instance, entering first grade
+in California. I remembered the actual storm, the hurricane in 1927. I
+remembered that that was a reason that we came to California. And at some point,
+I read that that 1927, which put the age up two years. And then when I
+remembered, really, the trauma. I&#039;m, for instance, phobic about lightning and
+thunder. I&#039;ve never understood why. I&#039;ve never had any reason to understand. But
+I remember my grandmother telling me to jump into bed at the first sound of
+thunder because had I ever heard of anyone being struck by lightning in bed? And
+all the way into my adulthood, I would jump into bed the minute thunder rolled.
+So I began to connect that storm, that hurricane, with my entry into California.
+And gradually, after that first interview and that four-year-old--I began to
+realize why I would have buried that time, because it was so traumatic. It
+completely uprooted and changed my life. I was a child in New Orleans; then
+suddenly I was in my grandfather&#039;s home in California. And it also seemed to
+have been connected to the fact that I was born into a strongly Catholic family.
+Completely rooted to the church. My grandfather lay in state for three days
+after his death, because the church we grew up in was Corpus Christi, which is
+the church he had built. He was an architect and engineer. That storm happened
+on Good Friday. So the symbolism, the religious symbolism, also would&#039;ve been traumatic.
+
+So I began to understand after that first oral history, why that period was
+cloudy for me. And I began to make connections. I completely was out of the
+Catholic faith by the time I was a teenager. I&#039;ve never really tried to figure
+out how that period figures into my becoming an atheist. But the fact that Good
+Friday figured into it seems to be symbolic. So there&#039;ve been all these openings
+that have occurred since that time. And I think that&#039;s probably why
+memory--memory is so layered that I think that we often begin to find out much,
+much, much later incidents, how they figure in the overall.
+
+STEIN: Did you have a sense of whether the hurricane happening on Good Friday
+affected the faith of other members of your family?
+
+SOSKIN: No. There was never any indication that I--and I never discussed it. So
+the truth is that I&#039;m not really sure what the answer to that is. My father
+remained a Catholic, and he was an official in the St. Vincent de Paul at St.
+Benedict&#039;s Church. My dad died a Catholic. My mother died a Catholic, but a
+cafeteria Catholic. My mother was practicing birth control--she only had three
+children--so that she could not accept the sacraments.
+
+STEIN: Do you know what that meant at that time? Were diaphragms available?
+
+SOSKIN: No.
+
+STEIN: So what did--?
+
+SOSKIN: No. My mother had to choose between abstinence, I think, and her
+religion. And I think my mother chose her sexuality. And then it was
+interesting. When I was beginning to outgrow my faith, I didn&#039;t discuss that
+with my parents because they would never have understood. Catholicism was a
+Charbonnet--it was in the DNA. So that that didn&#039;t become an issue for me until
+I adopted my first child from Catholic Charities. And when that happened, I had
+to promise his birth mother that he would be raised a Catholic. And I then began
+to explore my Catholicism and why I had dropped away, because I needed to follow
+the dictates of that agreement with the Catholic Social Service.
+
+I went back to church and got a conversation with a priest, asked for an
+appointment. Because I told him I had this child, adopted at nine days old; he
+was my first child; that I really wanted to honor his mother&#039;s wishes; but that
+I had some questions, and could he answer them, maybe, and help me to understand
+so that I could do that; that my word was important to me. And he listened to me
+and he said, &quot;Mrs. Reid, you are attempting to be intelligent about what is a
+faith. And it&#039;s a gift of God and must not be questioned.&quot; And I thought as I
+walked out, &quot;He doesn&#039;t know any more than I do.&quot; [they laugh] And I never went back.
+
+I went to my mother--that&#039;s what it was--and I said that I really was trying to
+raise Rick the way his mother wished, and that I&#039;d never discussed the fact that
+I just wasn&#039;t going to church; but that I also noticed that she wasn&#039;t going to
+church, so what was it that--I don&#039;t think that I thought she intellectually
+thought her way out of it. But I needed some support. And she said, &quot;You know,
+Betty, some things are just not the priests&#039; business.&quot; [they laugh]
+
+STEIN: Sounds like good advice. I&#039;m actually really curious about--some of my
+own research has to do with adoption and motherhood and stuff around that. And I
+know that one of the aspects of adoption at the time was that they were very
+religiously based, or was often religious charities.
+
+SOSKIN: Right. Right.
+
+STEIN: I&#039;m curious. I don&#039;t know if you would mind talking about--
+
+SOSKIN: No.
+
+STEIN: --the process of both finding a Catholic adoption agency, or whether they
+were also racially grouped. Because I think today, we do adoption, I think, much
+more about skin color and much less about religion; whereas it seems like it
+wasn&#039;t always that way.
+
+SOSKIN: My motivation for adopting was so simplistic. My sisters--one was four
+years older, one was four years younger--we were spaced so that there wasn&#039;t
+much companionship between us. We were never in the same growth periods at the
+same time. We were not in the same schools at the same time. My older sister
+married at nineteen. My younger sister married at sixteen, I think it was. But
+they were both pregnant at the same time, and I was not. And I had fulfilled the
+expectations of my parents, and my community, by becoming married. But I was
+really supposed to be pregnant by now. And so at a very, very early age, I was
+not going to be left behind; I was going to have a baby. What agency would&#039;ve
+allowed me, at that age, to become a mother, [laughs] I don&#039;t know. The Catholic
+Social Services must&#039;ve been desperate.
+
+STEIN: How old were you? Was it 1945?
+
+SOSKIN: Yeah. Rick was born in 1945. And I was married in 1942. So that I
+must&#039;ve been twenty-three or twenty-two. But I should&#039;ve been really questioned
+at that point. Now I wonder how anybody would&#039;ve ever done that. Because I just
+didn&#039;t want-- I was just fulfilling my destiny as a Catholic woman. [laughs] Or
+even as a woman.
+
+STEIN: Were there overt ways that you felt that pressure? People talk about in
+that time period, the baby boom and everyone was having children. How did--
+
+SOSKIN: I don&#039;t remember the baby boom. And certainly, that would&#039;ve been--no,
+it would&#039;ve probably followed that. That was pretty early for the baby boom
+because 1945 is when the war ended.
+
+STEIN: Right.
+
+SOSKIN: And the baby boom would&#039;ve been nine or ten months later.
+
+STEIN: Right. [they laugh]
+
+SOSKIN: So that at the point of pregnancy, that probably wouldn&#039;t have been a
+factor. I think the factor really was that particularly as an African-American
+woman, there were no models in my family for any alternatives to being--a
+successful woman was married by the time she was twenty. If you were twenty-six
+and unmarried, you were considered a spinster. A successful woman began her
+family in her early twenties. I would have fulfilled the expectations of my
+community by being such. So that the pressures would&#039;ve come from the community,
+not from the larger world, I don&#039;t think. I think I felt it within my family. My
+sisters were both expecting children, and I was not.
+
+STEIN: Was it their first child, both of them?
+
+SOSKIN: Yes. Yes.
+
+STEIN: Was there any stigma to adoption? Or were people just so thrilled that
+there was another child in the family?
+
+SOSKIN: It was simply an alternative. I don&#039;t remember it being blessed in any
+way by my family or--I would think that my parents probably felt I wasn&#039;t going
+to bear children because I had started trying to have a child when I was
+married. First night. [they laugh] This is what we do. So that I think that by
+the end of three years, if I hadn&#039;t produced a baby, my family would&#039;ve
+assumed--as I did--that I was probably barren. And continued to try. It was
+another three or four years before I had my first child naturally.
+
+STEIN: It&#039;s really fascinating to talk to someone of this generation, where
+having a large family probably wasn&#039;t even really questioned. It was almost
+assumed. And then to see how you not only balanced family, but then went on to a
+career and to various careers.
+
+SOSKIN: But that was not anticipated. I had my first significant job after the
+age of fifty.
+
+STEIN: Which doesn&#039;t follow the traditional, let&#039;s say, feminist narrative of--
+
+SOSKIN: Not only that, there weren&#039;t any models for me. I could not have
+envisioned what my life became after my children grew up, how many of the
+societal issues I would have lived out. My first child, for instance, was gay.
+My last child is developmentally disabled. I had to care for my aging parents
+until they died, at ninety-five and 101, respectively. So all the issues of gay
+rights, of developmentally disabled, of elder care--all of those things had to
+be lived out over these eighty-eight years. And had to be lived out personally.
+I had to know what those things were. I think it sparked a life of activism, and
+very early. But not as a working woman. I guess I worked in a dress shop in
+Walnut Creek at the time when I was anticipating, maybe, a divorce, and needed
+to begin to explore how I would take care of myself.
+
+STEIN: And at this point, you had four children, correct?
+
+SOSKIN: Yeah. So career was never anything. In fact, I never even attended
+college. I never had a break between belonging to my father, whom I respected,
+and belonging to my husband, who was my best friend, who I married, who I met at
+the age of thirteen or fourteen. It was a predictable marriage. And I can&#039;t say
+that I questioned any of that. It&#039;d be great to say I was a feminist; I didn&#039;t
+know what that was. [laughs]
+
+STEIN: Right. Nobody did. [laughs] You can&#039;t blame yourself for that one.
+
+SOSKIN: No. I really, really was living a prescribed kind of life. Until I moved
+into Walnut Creek and found that I had to either choose sides racially and
+politically or not survive emotionally.
+
+STEIN: Can you talk a little bit more about that transition to Walnut Creek and
+some of the--?
+
+SOSKIN: I understand that a lot better since I&#039;m a park ranger.
+
+STEIN: Wonderful. [they laugh] Fantastic.
+
+SOSKIN: Because I&#039;ve had to look at the whole context. Up until I began to work
+as a National Park Ranger, I could only look out of Betty&#039;s eyes, this woman who
+grew up behind these eyes and how she had personal experiences. When I became a
+park ranger and began to look at that entire home front experience, for
+instance, I had to make room for the context. That had never been true for me
+before. When I moved into Walnut Creek--and even, I guess, in the first oral
+history--what I understood was my experience, objectively; the fact that Mel and
+I had grown up in California. He was a fourth generation Californian. He had
+grown up in a family that had come out here during the Civil War. So had never
+grown up--well, certainly, racial bigotry existed; we were aware of it. It was
+simply not a problem in our lives. And I&#039;ve learned since that had the civil
+rights response and revolution depended on the community that I grew up
+in--which was largely Creole, Catholic, out of New Orleans, somewhat
+privileged--had it depended on us, the civil rights revolution would&#039;ve been
+another thirty years, probably. [they laugh]
+
+Because life was tolerable for us. We knew that that bigotry existed, but we
+could find our ways around that. And it was mostly the people who came in from
+the South, both black and white, and who had to play that out in the context of
+the home front mobilization, that accelerated that social change. They had to
+come up with those 747 ships in three years and eight months, with the social
+system that was in place then. Henry Kaiser was not a social reformer. He was a
+savvy industrialist. And he delivered ships faster than the enemy could sink
+them; that was his charge. And he did it with all these thousands of
+sharecroppers he brought in, white and black, from the South.
+
+When the war ended--and this is where it gets to the move to Walnut Creek--Mel
+and I had been forced, over those four years, to become a part of the migration
+population. In part, because we lived and were working in that framework. But
+our wishes for our lives were based upon House Beautiful and Sunset Magazine
+[they laugh] and Formica countertops and all this stuff, and a house. We had
+saved our money. We had gone into business for ourselves, for instance, because
+who wanted to work for white folks anymore? We had become, to some extent,
+radicalized; but not really. So that we wanted to build a house, and could
+afford to when the war ended. And his family, his parents had moved to Danville
+and had a little truck farm. They wanted to raise horses and have a garden. And
+there weren&#039;t enough people in Danville then to resist anything. So that in
+visiting, we would pass through Walnut Creek on the way to have the kids ride on
+the horses at Grandpa&#039;s house. And my husband picked out this lot in an
+unincorporated area of Walnut Creek, between Lafayette and Walnut Creek. And we
+wanted to build a house; we could afford it. We chose an architect to design it
+who was a Quaker, so had no problems with designing our house.
+
+STEIN: Was that a conscious decision, do you think, to hire--?
+
+SOSKIN: I don&#039;t know because I wasn&#039;t a part of those discussions. I was
+pregnant with David. And my father, who was a contractor, or had done
+contracting with his father, was working with Mel. This was man&#039;s work. They
+were going to provide for me and the children. And I had Rick and Bob and was
+pregnant with David, so there were two children at that time. And so I was not
+really involved in those--except that when this lumber began to be stacked and
+word began to get out that an African American family was moving into this area,
+we began to get threatening letters from the neighborhood.
+
+STEIN: And these were sent to your home in Berkeley?
+
+SOSKIN: I don&#039;t know. Either I don&#039;t remember or I&#039;ve blocked it out. I don&#039;t
+know how Mel got those letters. I remember reading them. I remember one being
+from the county. And the county had apparently been told that Father Divine, who
+was the great black leader at that time, religious leader, had purchased the
+property to create a &quot;heaven.&quot; [laughs] And that they wanted us to understand
+that this property could not be used for anything other than a private home. We
+didn&#039;t know where those rumors were coming from.
+
+What I didn&#039;t know, and what I began to learn as a ranger, was that the thing
+that came about with the end of the war was that returning servicemen were using
+their GI Bills to begin the suburbs, the suburbanization of the country. Because
+the GI Bill was administered locally rather than federally, the local banker
+could determine where they would float a mortgage. So that white people would be
+coming to the suburbs, but black people could not follow. And the white people
+were trying to escape me! [they laugh] And here we are, this young couple with
+two children, moving into the midst of the lion&#039;s den. I could not have
+understood that context at that time. And I spent the next five, ten years in
+kind of awfulness of rejection, of having to sort out where I was in that whole
+thing, becoming the object of ridicule and hostility. As I was telling someone,
+the very first year, summer vacation--no, it was just before summer vacation,
+that my oldest child, who was I think maybe in third or fourth grade, entered
+the school, which was Parkmead. One of my neighbors, who was actually the wife
+of a psychiatrist who had moved from Berkeley because we were there--they were a
+Jewish couple. Marian Powelson came to me and said, &quot;You need to know that
+Parkmead PTA and faculty are holding a minstrel show as a fundraiser.&quot;
+
+STEIN: In the 1950s?
+
+SOSKIN: In the 1950s. And I went to the school and the principal&#039;s office. And
+there on his door was his end man costume. And that evening, they were going to
+be, all of them, in blackface, the teachers and faculty. And I walked in and
+said, &quot;You know this is wrong.&quot; And he said, &quot;I didn&#039;t know until I saw your
+face. But you need to know, Mrs. Reid, that we&#039;re not really making fun of black
+people; we want to show you as happy-go-lucky.&quot; And I said, &quot;Do I look
+happy-go-lucky?&quot; [they laugh] And he said, &quot;No.&quot; And I said, &quot;Well, you do know
+that minstrel shows grew out of ridicule of African Americans.&quot; Blacks; it
+wasn&#039;t African Americans then. &quot;And that this is wrong. And how do I explain
+this to my son?&quot; And I said, &quot;I know that it&#039;s too late for me to do anything
+about this or for you to call off your show, but you&#039;re going to perform it in
+front of me.&quot; And I sat in the audience that night, in the front row, and made
+them put on the show in front of me. It was that kind of thing that began my
+activism. But I always felt that it was wrong and that people were going to
+discover it was wrong because basically, people were good. [laughs] How I
+maintained that, I do not know. But do you know that the same community that
+fought my being there so hard sent me, in 1972, to Miami to represent them as a
+McGovern delegate to the Miami convention?
+
+STEIN: So it sounds like you were right. [laughs]
+
+SOSKIN: I don&#039;t know what you do with that. I don&#039;t know what you do with that.
+
+STEIN: Right. You mentioned not having models for an idea of feminism at the
+time. Were there models in terms of activism, in terms of anti-racist activism?
+It sounds like you fell into it quite naturally.
+
+SOSKIN: I fell into it as a matter of survival. And I almost didn&#039;t survive. I
+sort of suffered a mental break when Dorrie was about two and a half, and was in
+therapy for about three years. Out of which I sort of redefined myself and
+learned to live with my insanity. [they laugh] It&#039;s true. I figured out that all
+the things that were bizarre about me were the things that were wonderful. [they laugh]
+
+STEIN: That sounds like an excellent lesson.
+
+SOSKIN: Yeah, I didn&#039;t need to be sane. All the sane people I knew were crazy. [laughs]
+
+STEIN: Well, it sounds like in a lot of ways, you were put in a very crazy
+situation, with--
+
+SOSKIN: I was! That&#039;s why I say--I know now that I have never lacked intellect.
+I know that all the important things I ever learned, I probably knew when I was
+six. I think I out-thought my mother when I was about eight years old. So that I
+do have a sense now--I didn&#039;t have the ego to support that until I began to
+enter later life, and I began to realize that the only difference between me and
+my first husband was that I had a sense of how much there was to know and he
+didn&#039;t. And so he thought he knew. [they laugh] And that that was true of most
+of the adults in my life, when I was a little kid; that I really was never sure
+of anything when I was a child. I was always open to question. And as I aged
+into my, oh, maybe seventies, I began to realize that that was probably the root
+of much of my confusion; but that ultimately, I was right. That the world
+contains so much more than any individual could possibly know. And that it was a
+mark of intelligence. That I had a sense, always a sense of the beyond. And that
+religion stopped that process. As a kid, I didn&#039;t think my way out of
+Catholicism; but somehow, the answer that God made the grass green-- [they laugh]
+
+STEIN: Didn&#039;t fly.
+
+SOSKIN: --failed when I was about five.
+
+STEIN: Well, I want to ask you one other question, but then it sounds like this
+will be a good time to talk about the Unitarian Church a little bit.
+
+SOSKIN: Oh, sure!
+
+STEIN: But before we get there--so many questions--did you and your husband
+consider not moving? Do you ever recall a moment when it got to be too much?
+When the threatening letters or the obvious racism of the school system--?
+
+SOSKIN: No.
+
+STEIN: No.
+
+SOSKIN: And see, I can&#039;t speak for Mel. He died. After we divorced, so that I
+don&#039;t know whether he entered that kind of period of summation that I did at
+maybe seventy and beyond. He didn&#039;t live long enough to be that; he died in his
+sixties. So it&#039;s hard for me not to apply the wisdom acquired in the last ten or
+fifteen years to an earlier period in life. I don&#039;t know whether Mel discovered
+that. I do know that the pride of being a Charbonnet probably stood me in good
+stead, because I had this--someone once told me it was very hard to feel
+superior to somebody who refused to be inferior. [they laugh] And I think that
+was true. I never believed that I was inferior. Even through all of those times.
+
+There was an attorney who lived just around the bend in Walnut Creek. His name
+was Robert Condon; Eleanor Condon was his wife. And that&#039;s C-O-N-D-O-N. She was
+a well know ceramicist, and he was a well known liberal radical attorney. He was
+a partner of Robert Treuhaft, who was Jessica Mitford&#039;s husband. And they were
+both involved with Democratic politics. And when he discovered I was there, they
+offered to give a dinner party to introduce us to the neighbors. Because they
+were absolutely enchanted with our presence. We were going to become their--no,
+that was going to be their champion for the year, because we were their cause.
+And I remember saying, &quot;Absolutely not. You will not give a dinner party, which
+would suggest that you were giving me permission to move into a house which we
+have built and have a perfect right to.&quot; And I missed his anger, because we
+never got to be friends with him.
+
+But I got pushed against the wall, or we got pushed against the wall. But what
+came out was this feisty, proud Betty that apparently was the birth of this
+woman who later became a political activist. At that time, I was fighting for my
+right to be there, and feeling perfectly deserving, and wanted to set an example
+for my children. It was really, really personal; it was not a part of any
+movement. I was not a member of the NAACP or anything. And that was, I think,
+the beginning of wanting to stand on my own. I remember saying, &quot;I don&#039;t want
+you,&quot; the Condons, &quot;to feel responsible if I don&#039;t mow my lawn. You cannot give
+me permission, because you would then define my life as I live it.&quot; And I
+remember those conversations, so they must have been pivotal. I can remember the
+words and the expressions. And I think that maybe those are the road signs that
+trace me back to a deliberate progression toward my political awareness now.
+
+STEIN: Did you maintain social relationships with your friends who were still
+living in Berkeley?
+
+SOSKIN: No. We lost not only those connections--our home, because we had a
+swimming pool, which was not usual in our family, family members would come out
+for picnics. And occasionally, as my kids grew up, cousins would come out. We
+had belonged to social clubs, which we&#039;d given up. But it felt natural to me
+because all of my friends and family were then creating their nuclear families
+and turned into those finding their way. So it didn&#039;t seem to me unusual that we
+dropped away. But the other thing that was happening was that my marriage was
+falling apart, in that my husband, once the house was built--because he had
+physically joined the building of the house, the hammering; my husband and my
+father literally, with a couple of laborers, built the house.
+
+STEIN: Wow.
+
+SOSKIN: But once that was done, he turned his attention back to the business.
+And I was left pretty much alone in the suburbs. Not unlike my counterparts who
+were white suburbanites. This was all pre-Betty Friedan. [they laugh] So we
+really were all kind of women together raising children. So it didn&#039;t seem, even
+then, unusual for me. I was becoming a typical suburban housewife, with the
+addition of being an African American. And when I say it was extreme, Mel would
+leave at seven in the morning and come home after midnight sometimes. Most of
+the time.
+
+STEIN: Wow.
+
+SOSKIN: And worked throughout the week. And built a very, very successful
+business at one point. Successful in a limited kind of way. And was becoming
+more and more involved in a world that I wasn&#039;t a part of. And I was becoming a
+part of a suburban lifestyle that he wasn&#039;t a part of.
+
+STEIN: When you say becoming a part of it, sometimes historians talk about women
+in the suburbs in the fifties as very isolated. And there are other people who
+talk about women joining social groups or throwing parties together or
+playgroups or--
+
+SOSKIN: I think both those things are true. I think it&#039;s both. I remember
+working with women on fashion shows at the country club. I also remember being
+socially active. As members of the Unitarian Church, political activism was a
+norm. Giving luncheon speeches. I remember being advertised at the local
+Presbyterian church, with a sandwich board out in front saying, &quot;Betty Reid,
+colored housewife,&quot; [they laugh] to a group of enlightened Presbyterians.
+
+STEIN: Oh, my!
+
+SOSKIN: And I remember my speech with that sign. I said, &quot;You know, it seems to
+me that I could be described as an artist,&quot; because at that time, I was doing a
+lot of painting and a lot of writing and music, &quot;or I could be described as a
+mother, or I could be described as a political activist. But that sign limits
+who I am.&quot; And I said, &quot;I find it offensive.&quot; [laughs] And they were not
+stirred, but I think I gave voice to a lot of things then. Well, I had nothing
+to lose. I didn&#039;t have a feeling of being a part of anything. Except the
+Unitarian Church, which really, really was a changing agent in my life.
+
+STEIN: How did you find the Unitarian Church?
+
+SOSKIN: Because long after--maybe several years after--the initial shock of our
+being there, and when people who wanted to use me to authenticate their liberal
+views found me, I began to build this circle of liberals around me. There was
+Helen Scharmer, all these people from the greater valley. I learned of a couple,
+a black couple who bought a house in Gregory Gardens, which was a rather
+low-cost housing development out in Pleasant Hill, which was just developing.
+Median income was--the guy was a truck driver, I think, and his wife was either
+a nurse or a nurse&#039;s aide. I didn&#039;t really know them. But there were a series of
+stories that began to occur in the local press about these people coming
+into--and the problems that the community was having. The fact that the
+improvement association was meeting on thus-and-so night to decide on how they
+were going to get rid of these people. And blithely I figured that I had
+experienced this here; that I was probably the only person in the valley that
+knew that you could grow beyond that; and that my community had gone through the
+same kind of thing, and that we had come out the other side. And that maybe if I
+told that, went to that meeting and explained that you could get beyond this,
+that maybe they would. And so I don&#039;t remember how it came to his
+attention--maybe through a mutual friend--but David Bortin--that&#039;s
+B-O-R-T-I-N--who was an attorney in Walnut Creek, heard that I was planning to
+attend the meeting.
+
+STEIN: Was it the improvement association?
+
+SOSKIN: This was the improvement association.
+
+STEIN: Okay, so you were going to go right up against--
+
+SOSKIN: Yeah!
+
+STEIN: --your adversaries.
+
+SOSKIN: They were just people. And I knew that you could get beyond that. And so
+why not?
+
+STEIN: Absolutely.
+
+SOSKIN: And so David called me and said, &quot;Do you realize that this is really
+emotionally dangerous?&quot; He introduced himself and said, &quot;I understand that you
+plan to go out and--people can really be cruel.&quot; I said, yes, I knew. I had
+suffered through that, and I knew that people could get beyond that; and that
+that couple had bought their house and they deserved to live in it; and that I
+knew that that could happen. And I said I was going to go. And he said, &quot;Well,
+okay, if you insist. I will be in the room. So just be--.&quot; And I did. I dressed
+my very, very nicest, very conservatively, all beiges and browns [they laugh]
+from I. Magnin&#039;s, and drove in my wood-paneled station wagon. All the
+stereotypes of suburban living, right?
+
+STEIN: Right.
+
+SOSKIN: I drive out into the grammar school building in Pleasant Hill and jumped
+out of my car and walked into the room. And it was filled. And I sit on the end,
+about in the middle. And unfortunately, no one recognized me as being African
+American. I had told David that my color was going to protect me, because the
+people don&#039;t say those things when there&#039;s a person of color present, and that I
+knew that was going to protect me. And when I walked in the room, they didn&#039;t
+recognize that I was a person of color. And the meeting went on as if I weren&#039;t
+there. And I heard things I had never heard before. At the point where someone
+said, &quot;If we fail to get them out under any other basis, we can use the Health
+Department, on the basis of the filthy diseases they bring in.&quot; At which point,
+I got up and went to the front of the room and said, &quot;I really am feeling like
+I&#039;m eavesdropping. I need you to know that I&#039;m one of the undesirables,&quot; because
+they kept saying undesirables. They didn&#039;t say niggers, they said undesirables.
+I said, &quot;I&#039;m one of the undesirable people that you&#039;re referring to. And I want
+you to know that.&quot;
+
+And then I went into my little speech. Maybe took the floor to a stunned
+audience of about ten or fifteen minutes, and then panicked and ran out of the
+room into the dark, because it had become dark. When I walked into the building,
+it was daylight. Ran out of the building, hearing footsteps behind me as I ran
+out. And I didn&#039;t know whether I was being chased--. Now, all the warnings of
+David Bortin began to surface, that I was in a dangerous situation. But by the
+time I reached my car, a man came up and tapped me on the shoulder, identified
+himself in the dark as a reporter, and wanted to know my name. Said that he had
+to get back in there to see what happened as a result of my talk, but that he
+wanted my number because he would call me as soon as the meeting was over, when
+he got back to his office. And then the next person who came up--and by now, I&#039;m
+getting into my car, panicked--is David Bortin. And he said, &quot;Betty, I&#039;m here.&quot;
+He said, &quot;Go home and I&#039;ll call you.&quot;
+
+I went into my house and I&#039;m trembling. It was the scariest thing I think I have
+ever done. I didn&#039;t know what had happened. But the reporter did call. And he
+said, &quot;Those sounds you heard as you were coming out of foot--.&quot; He said, &quot;What
+they did was that they decided--.&quot; Someone got up and said that he had gone to
+high school with me and that he didn&#039;t know what had happened to me, but that
+the Communists use people like this to spread their message. And completely just
+tore me up. He said, &quot;But the people who came out behind you left the meeting
+when you did.&quot; He said, &quot;I don&#039;t think that the improvement association will
+ever meet again.&quot; And they didn&#039;t. But I didn&#039;t know that most of those
+people--and this reinforced my sense that people are good--most of the people
+apparently were in there out of curiosity. They were not there because they
+wanted those people out. What I reinforced was their conviction that this was
+something that needed to be done. So ultimately, that reinforced my sense that
+we can get beyond this stuff. That there have always been people trying to get
+it right. The history&#039;s been written by people who got it wrong. And I don&#039;t
+think anything in my life has denied that, ever since. Time seems to be on the
+side of justice. The people really do. Except today. [they laugh]
+
+STEIN: One exception. So when you made this connection with David Borsten--
+
+SOSKIN: Bortin. He was a Unitarian.
+
+STEIN: Okay, so then did he--?
+
+SOSKIN: That&#039;s when I became a Unitarian.
+
+STEIN: And was it that he followed up the next day, or after that he--?
+
+SOSKIN: We remain friends. We remain friends. He introduced me to a whole group
+of people who were meeting then, about twenty-five or thirty families, in Nona
+Bickerton&#039;s living room in Walnut Creek, who were an offshoot of the Berkeley
+Unitarian church [First Unitarian Church of Berkeley], led by Dr. Raymond Cope,
+C-O-P-E. [laughs] And I discovered that there was a religion, or at least a
+philosophy--I didn&#039;t know what it was at that time; I couldn&#039;t tell what it
+was--that was not based on answers; that all it was a collection of individuals
+who were convinced of one thing, and that&#039;s that questions were where the action
+is. And that if I develop my questions, that those answers are ever changing.
+But that there were Christian Unitarians, that there were Buddhist Unitarians,
+that there were Jewish Unitarians, that there were atheist Unitarians; that that
+was not where the emphasis was. It was not in what we agreed upon. Those were
+not things. It was possible.
+
+At that point, I had a child who tested in the 99th percentile in science and
+math. Rick--this was my gay son--Rick was so bright, the adopted child, that I
+had tried--and I&#039;m still trying to make him a Catholic, right? [they laugh] Even
+though I couldn&#039;t be a Catholic. Because I had promised his mother, right? Who
+was nonexistent. And when he was about seven or eight years old, he was building
+crystal sets. He was receiving radio signals. And I put him in catechism class
+to study for his first communion, because my parents were saying, &quot;Doesn&#039;t
+matter what you believe; you&#039;ve got to raise these children in a belief system
+to save them, make them go to heaven,&quot; which I didn&#039;t believe in. And he was
+coming home saying, &quot;Mom, if it takes thus and so many light years for a star&#039;s
+light to reach from this star to the next one, how long does it take an angel?&quot;
+I think, &quot;This kid&#039;s not going to make it.&quot; [they laugh] This kid is not going
+to be a Catholic. So in order to satisfy my need for an intellectual community
+in which I could expand my religious beliefs, or at least my spirituality, and
+that I wouldn&#039;t have to answer my children&#039;s questions with God made the sky
+blue, that this was the place for me to be. And it still is. I finally outgrew
+that, but it did suffice for most of my lifetime. And it provided a community
+that I considered to call home.
+
+STEIN: Were your children ever involved in the Unitarian Church?
+
+SOSKIN: My children were raised in the Unitarian Church. One is now a devout
+Catholic. [laughs]
+
+STEIN: Oh, wow.
+
+SOSKIN: And I go with him to church occasionally. But that&#039;s his right. And I
+think it&#039;s largely because of the family history and his need to tie to that.
+Bob is probably an atheist, or at least an agnostic. Because the nature of our
+conversations--and thank God my husband was away because I got to control all
+the religious life of my children. His confusion--. [laughs] But Bob, his coming
+in one day and saying--he was late for dinner. And I said, &quot;Where were you?&quot; And
+he said, &quot;I was just sitting on the front porch with Randy and his mother.&quot; And
+he said, &quot;We were having a conversation.&quot; And he said, &quot;You know, she kept
+spouting the Bible to me, and she would do chapter and verse. And she asked me
+something that I couldn&#039;t answer.&quot; And I said, &quot;What was that?&quot; And he said,
+&quot;She asked me if I was an atheist.&quot; And he&#039;s now about thirteen. And I said, not
+knowing what the answer was going to be, &quot;Are you?&quot; And he said, &quot;Well,&quot; he
+says, &quot;I didn&#039;t know, but,&quot; he said, &quot;on the way home, I realized I&#039;m not.&quot; And
+I said, &quot;Okay, so what do you say you are?&quot; And he says, &quot;Well,&quot; he said, &quot;I
+don&#039;t know what I am, but,&quot; he said, &quot;there&#039;s no one up there not to believe
+in.&quot; I thought, &quot;This is profound.&quot; [they laugh]
+
+STEIN: Coming from a teenager.
+
+SOSKIN: This is a thirteen-year-old. And we still have the most spirited
+conversations about spirituality.
+
+STEIN: Fascinating.
+
+SOSKIN: And then I felt successful. And I do still. That David can be a
+practicing Catholic and that Bob can be whatever he is, which I don&#039;t know, is a
+sign of success. Because there&#039;s room for all of us, because we&#039;re not dependent
+upon answers. So, yeah.
+
+STEIN: You said--[comments with crew]--that there were some liberal members of
+the community who wanted to befriend you to sort of authenticate their expansiveness.
+
+SOSKIN: I think that&#039;s always true, yeah.
+
+STEIN: Did you feel that same sentiment within the Unitarian community?
+
+SOSKIN: No. No. That proved out to be authentic, as an experience and as a
+connection. If there were those people initially, they evolved beyond that. An
+indication is that when the sixties occurred--and I&#039;m living out there in the
+suburbs, not being quite black enough for the city and not quite white enough
+for the suburbs--[laughs] and this was my community, initially, it was upsetting
+because I didn&#039;t know where I was. I was enjoying, by now, all of the advantages
+of being a suburban housewife, and all of the disadvantages; but having lots and
+lots to share with the people I was living among. When that, which could&#039;ve been
+as disruptive, happened those people financed individually my experiencing the
+black revolution nationally. They sent me to conventions that were black
+caucuses. Not as a corporate decision, but people would send me checks with
+notes saying, &quot;This, you ought to understand.&quot; And I was bringing back reports from--
+
+STEIN: And you weren&#039;t--
+
+SOSKIN: And I was on the national board of the Unitarian Black Caucus when the
+Unitarian intellectuals had pulled out of the body. And I had pulled out with
+them, with the consent of my church, who supported me in that. My minister and I
+were collecting money for the Panthers and delivering it to Kathleen and
+Eldridge Cleaver in San Francisco. In the suburbs. We brought a black dance
+company in to perform at the local auditoriums&#039; civic center, so that that could
+be experienced in the white suburbs. They supported me in my growth toward
+blackness. And there&#039;s nothing fake about that. They supported my involvement in
+the Black Caucus on a secret ballot, and there were only two votes against. And
+both those people who voted against my being supported sent me notes. And their
+fear was that I was going to be distanced from them. So even in that, there was
+a positive thing.
+
+STEIN: That&#039;s amazing.
+
+SOSKIN: That experience was amazing. I don&#039;t know who can make that kind of
+claim. And I think all that went into where my life went.
+
+STEIN: Do you think that there is a larger role of the Unitarian Church in
+advancing race relations or discussions of the sixties that has been left out of history?
+
+SOSKIN: I think that the effect of the sixties in the Unitarian Church was
+heading toward that kind of global change in attitudes racially. I think that it
+got sidetracked, because we went into the eighties, which was the &quot;me&quot;
+generation--the Werner Erhards and the human potential movement--and people
+turned in, even in the Unitarian Church.
+
+And that broader thing shrunk. Its African American membership, I think, may be
+greater now than it&#039;s ever been, but I don&#039;t think it&#039;s ever been the way it
+should be. Mostly because the African Americans are still-- I think that
+fundamentalism is still the strength of the black church, and that there&#039;s not
+that much of a pool of black intellectuals that will be attracted by
+Unitarianism. I think it&#039;s the only way to go. [they laugh] But I outgrew it
+because I didn&#039;t really need it anymore.
+
+STEIN: Right. It&#039;s a really fascinating story.
+
+[End of Session]
+
+  
+
+  
+
+  
+
+  
+
+</transcript><transcript_alt></transcript_alt><rights></rights><fmt></fmt><usage></usage><userestrict>0</userestrict><xmllocation></xmllocation><xmlfilename></xmlfilename><collection_link></collection_link><series_link></series_link></record></ROOT>
