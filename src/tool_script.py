@@ -99,7 +99,7 @@ def create_run_directory(runId):
 def get_punctuation_for_regex(punc):
 	return "|".join(punc)
 
-# Converts the keyword list to Python regex form. Returns the full list of words and the 
+# Converts the keyword list to Python regex form. Returns the full list of words and the
 # included and excluded regexes.
 def convert_keywords(keywords):
 	converted_keywords = []
@@ -140,7 +140,7 @@ def read_corpuses(collections):
 			filenames.append(file)
 
 			# "ISO-8859-1" encoding otherwise?
-			with open("{}/{}".format(directory, file), "r", encoding = "utf-8") as f:
+			with open("{}/{}".format(directory, file), "r", encoding = "utf-8", errors = "ignore") as f:
 				content.append(f.read())
 
 		c["filenames"] = filenames
@@ -334,7 +334,7 @@ def get_words_around(m_text, m_loc, content, n):
 	after_text = content[after_loc:].split(" ")
 
 	before_len = len(before_text) - n
-	if before_len < 0: 
+	if before_len < 0:
 		before_len = 0
 	after_len = n if n <= len(after_text) else len(after_text)
 
@@ -385,7 +385,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 	# Loops through each file, looking for keywords, and stores the matches
 	for i in range(len(content)):
 		file = filenames[i]
-		if file not in files_for_inclusion or files_for_inclusion[file] == 0: 
+		if file not in files_for_inclusion or files_for_inclusion[file] == 0:
 			continue
 
 		date_of_interview = "Not given"
@@ -430,7 +430,7 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 				keyword_freq[w] += 1
 				curr_keywords[w] += 1
 				runJSON["summary-report"]["keyword-counts"][w] += 1
-				
+
 				keyword_to_dates[w][date_of_interview] += 1
 				total_keywords += 1
 				runJSON["summary-report"]["keywords-over-time"][w][date_of_interview] += 1
