@@ -12,7 +12,6 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
-from unidecode import unidecode
 import sys
 import csv
 from bs4 import BeautifulSoup, Tag
