@@ -4,12 +4,15 @@
 #### Estelle Freedman, Natalie Marine-Street
 #### w/ Katie McDonough
 #### Research Assistants:
-* Preston Carlson (Summer 2019)
+* Nick Gardner (2020)
+* Yibing Du (2020)
+* Jade Lintott (2020)
+* Jenny Hong (2019-20)
+* Preston Carlson (2019-20)
 * Hilary Sun (2018-19)
 * Cheng-Hau Kee (Summer 2018)
 
-## Creating subcorpora
-
+## Winnow Subcorpus Creation Tool
 ### Version 1
 
 This can only handle one corpus and one file of keywords.
@@ -127,7 +130,7 @@ We are currently separating it as follows (it is not complete yet; just enough t
 </TEI.2>
 ```
 
-### Phase I
+## Phase I Oral History Collections
 
 #### Black Women Oral History Project (BWOH)
 
@@ -236,7 +239,7 @@ TODO:
 * Separate speakers. For now, I just put it all into the `<div2>`.
 * Add in the images and other artifacts. For now, I just have empty pages.
 
-## Miscellaneous Scripts
+## Miscellaneous Pre-processing Scripts
 
 ### Helping to categorize occupations.
 
