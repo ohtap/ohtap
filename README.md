@@ -225,7 +225,7 @@ TODO:
 
 #### UNC The Long Civil Rights Movement: The Women's Movement in the South (UNCTWMS)
 
-### Women of the Oklahoma Legislature (WOL)
+#### Women of the Oklahoma Legislature (WOL)
 
 Run `py encoding_tool/encode_WOL.py`. You need to have `metadata.csv` and `wol_export.xml` in the folder `encoding_tool`.
 
