@@ -108,6 +108,7 @@ def convert_keywords(keywords):
 		# Sorts the included words backwards to make sure we get the longer words first
 		included_words = k["include"]
 		included_words = sorted(included_words, key=lambda l: (len(l), l), reverse=True)
+		print_message("words", included_words)
 		punc = get_punctuation_for_regex(punctuation)
 		included_regexes = []
 		for w in included_words:
@@ -125,6 +126,7 @@ def convert_keywords(keywords):
 		k["excluded_regexes"] = excluded_regexes
 		converted_keywords.append(k)
 
+	print_message("words", converted_keywords)
 	return converted_keywords
 
 # Reads all the text from each text file in the corpus directory. TODO: Resolve utf-8.
@@ -199,7 +201,7 @@ def get_included_files(collections, df, runJSON):
 
 		# Skips files with no transcript
 		no_transcript = r["no_transcript"]
-		if not pd.isnull(no_transcript) and (no_transcript or no_transcript.strip() == "TRUE"):
+		if not pd.isnull(no_transcript) and no_transcript:
 			num_files_no_transcript[curr_c] += 1
 			continue
 
@@ -343,6 +345,8 @@ def get_words_around(m_text, m_loc, content, n):
 # Checks to see if there's anything it needs to exclude
 def need_to_exclude(before, after, m_text, exclude_regexes):
 	m_len = len(m_text.split(" "))
+	if len(exclude_regexes)==1 and exclude_regexes[0]=="":
+		return False
 	for r in exclude_regexes:
 		r_len = len(r.split(" "))
 		leftover_len = r_len - m_len
