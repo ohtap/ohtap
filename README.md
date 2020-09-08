@@ -4,9 +4,12 @@
 #### Estelle Freedman, Natalie Marine-Street
 #### w/ Katie McDonough
 #### Research Assistants:
-* Nick Gardner (2020)
-* Yibing Du (2020)
-* Jade Lintott (2020)
+* Nick Gardner (Fall 2020 -)
+* Yibing Du (Fall 2020 - )
+* Jade Lintott (Fall 2020 - )
+* Anika Asthana (Summer 2020 - )
+* Natalie Sada (Summer 2020)
+* Maddie Street (Summer 2020)
 * Jenny Hong (2019-20)
 * Preston Carlson (2019-20)
 * Hilary Sun (2018-19)
