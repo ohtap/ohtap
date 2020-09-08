@@ -7,6 +7,7 @@
 * Nick Gardner (2020)
 * Yibing Du (2020)
 * Jade Lintott (2020)
+* Madeleine Street (2020)
 * Jenny Hong (2019-20)
 * Preston Carlson (2019-20)
 * Hilary Sun (2018-19)
@@ -140,6 +141,19 @@ We are currently separating it as follows (it is not complete yet; just enough t
 
 #### Rosie the Riveter WWII American Homefront Project - Bancroft (RTRB)
 
+In order to run, you need:
+	- the path for a folder for Metadata with the following files:
+		- "Interviews.csv" a csv version of the Interviews metadata sheet
+		- "Interviewees.csv" a csv version of the Interviewees metadata sheet
+		- "Collections.csv" a csv version of the Collections metadata sheet
+	- the path for a folder containing all of the transcripts
+	- a "name map" of the appropriate format (should be in the github), can also
+		be generated using `map_names_RTRB.py`
+	- the pandas library (included with the anacondas distribution)
+
+Run with `py encode_RTRB.py [transcript folder path] [metadata folder path] [name map path]`
+
+
 #### Smith College Alumnae Oral History Project (SCAP)
 
 #### Stanford Nurse Alumni Interviews (SNAI)
@@ -151,6 +165,24 @@ We are currently separating it as follows (it is not complete yet; just enough t
 ### Phase II
 
 #### Oklahoma Centennial Farm Families (OCFF)
+
+In order to run, you need:
+	- the path for a folder for Metadata with the following files:
+		- "Interviews.csv" a csv version of the Interviews metadata sheet
+		- "Interviewees.csv" a csv version of the Interviewees metadata sheet
+		- "Collections.csv" a csv version of the Collections metadata sheet
+	- the path for a folder containing all of the transcripts
+	- a "name map" of the appropriate format (should be in the github), can also
+		be generated using `map_names_OFCC.py`
+	- the pandas library (included with the anacondas distribution)
+
+Run with `py encode_OCFF.py [transcript folder path] [metadata folder path] [name map path]`
+
+NOTE: In order for this script to work, all of the transcripts but be preprocessed
+      manually by adding the following "tags" to each transcript:
+      	- <<BOILERPLATE START>>, <<BOILERPLATE END>>
+	- <<INTRODUCTION START>>, <<INTRODUCTION END>>
+	- <<INTERVIEW START>>, <<INTERVIEW END>>
 
 #### Oklahoma One Hundred Year Life Collection (OOHYLC)
 
