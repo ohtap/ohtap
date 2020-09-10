@@ -182,9 +182,9 @@ Run with `py encode_OCFF.py [transcript folder path] [metadata folder path] [nam
 
 NOTE: In order for this script to work, all of the transcripts but be preprocessed
       manually by adding the following "tags" to each transcript:
-      	- "<<BOILERPLATE START>>", <<BOILERPLATE END>>
-	- <<INTRODUCTION START>>, <<INTRODUCTION END>>
-	- <<INTERVIEW START>>, <<INTERVIEW END>>
+      	- `<<BOILERPLATE START>>`, `<<BOILERPLATE END>>`
+	- `<<INTRODUCTION START>>`, `<<INTRODUCTION END>>`
+	- `<<INTERVIEW START>>`, `<<INTERVIEW END>>`
 
 #### Oklahoma One Hundred Year Life Collection (OOHYLC)
 
