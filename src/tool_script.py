@@ -80,11 +80,12 @@ def read_arguments():
 	runDate = data['date']
 	collections = data['collections']
 	keywords = data['keywordList']
-	metadata_file = data['metadata']
+	metadata_file_interviews = data['interviews']
+	metadata_file_interviewees= data['interviewees']
 
 	print_message("progress", 4)
 
-	return runId, runName, runDate, collections, keywords, metadata_file
+	return runId, runName, runDate, collections, keywords, metadata_file_interviews, metadata_file_interviewees
 
 # Creates a new folder to store the final data for the current run.
 def create_run_directory(runId):
@@ -108,7 +109,6 @@ def convert_keywords(keywords):
 		# Sorts the included words backwards to make sure we get the longer words first
 		included_words = k["include"]
 		included_words = sorted(included_words, key=lambda l: (len(l), l), reverse=True)
-		print_message("words", included_words)
 		punc = get_punctuation_for_regex(punctuation)
 		included_regexes = []
 		for w in included_words:
@@ -125,8 +125,6 @@ def convert_keywords(keywords):
 		k["include"] = included_words
 		k["excluded_regexes"] = excluded_regexes
 		converted_keywords.append(k)
-
-	print_message("words", converted_keywords)
 	return converted_keywords
 
 # Reads all the text from each text file in the corpus directory. TODO: Resolve utf-8.
@@ -153,7 +151,7 @@ def read_corpuses(collections):
 
 # Gets the files for inclusion--excludes any files that are only male interviewees or
 # interviews with no transcripts.
-def get_included_files(collections, df, runJSON):
+def get_included_files(collections, df1, df2, runJSON):
 	files_for_inclusion = {} # Final list of files for inclusion
 
 	# Statistics about file inclusion/exclusion
@@ -164,6 +162,13 @@ def get_included_files(collections, df, runJSON):
 	interview_years = {}
 	interview_years_by_file = {}
 	total_interviews = 0
+
+	#making a dictionary for the interviewees from id to information
+	interviewee_id_to_metadata= defaultdict(lambda:[])
+
+	for i,r in df2.iterrows():
+		interviewee_id_to_metadata[r["interviewee_id"]]=r
+
 
 	# Needed information across all collections
 	interview_years_all_collections = defaultdict(lambda:0)
@@ -186,7 +191,7 @@ def get_included_files(collections, df, runJSON):
 		for f in c["filenames"]:
 			filenames_map[f] = curr_id
 
-	for i, r in df.iterrows():
+	for i, r in df1.iterrows():
 		f = r["project_file_name"]
 
 		# Skips files with no project filename (shouldn't happen)
@@ -206,12 +211,18 @@ def get_included_files(collections, df, runJSON):
 			continue
 
 		# If the interviewee is male, marks it and continues (as there may be the same file later on with a non-male interviewee)
-		sex = r["sex"]
-		if not pd.isnull(sex) and sex.strip() == "Male":
-			male_interviews[curr_c][f] = 1
-			if f in files_for_inclusion:
-				male_plus_interviews[curr_c][f] = 1 # Means it contains both male and non-male
-			continue
+		for person_id in r["interviewee_ids"].split(";"):
+			interviewee_info =interviewee_id_to_metadata[person_id]
+			if  len(interviewee_info) != 0:
+				sex = interviewee_info["sex"]
+				if not pd.isnull(sex) and sex.strip() == "Male":
+					male_interviews[curr_c][f] = 1
+					if f in files_for_inclusion:
+						male_plus_interviews[curr_c][f] = 1 # Means it contains both male and non-male
+					continue
+
+
+		
 
 		# If the current interviewee is non-male and the interview has a male, mark it
 		if f in male_interviews[curr_c]:
@@ -220,49 +231,55 @@ def get_included_files(collections, df, runJSON):
 
 		# At this point, we have a new interview (not previously added) with at least one non-male
 		# interviewee we want to add!
-		interviewee_name = r["interviewee_name"]
-		interviews_to_interviewees[f].append(interviewee_name)
-		if interviewee_name not in people:
-			birth_decade = r["birth_decade"]
-			education = r["education"]
-			identified_race = r["identified_race"]
-			interviewee_birth_country = r["interviewee_birth_country"]
+		interviewees_list= r["interviewee_ids"].split(";")
+		for j in interviewees_list:
+			info= interviewee_id_to_metadata[j]
+			if j==0:
+				continue
+			interviewee_name = interviewee_id_to_metadata["interviewee_name"]
+			interviewee_name= str(interviewee_name)
+			interviews_to_interviewees[f].append(interviewee_name)
+			if interviewee_name not in people:
+				birth_decade = info["birth_decade"]
+				education = info["education"]
+				identified_race = info["identified_race"]
+				interviewee_birth_country = info["interviewee_birth_country"]
 
-			curr_person = {}
-			curr_person["birth_decade"] = int(birth_decade) if not pd.isnull(birth_decade) else "Not given"
-			curr_person["education"] = education if not pd.isnull(education) else "Not given"
-			curr_person["identified_race"] = identified_race if not pd.isnull(identified_race) else "Not given"
-			curr_person["sex"] = sex if not pd.isnull(sex) else "Not given"
-			curr_person["birth_country"] = interviewee_birth_country if not pd.isnull(interviewee_birth_country) else "Not given"
+				curr_person = {}
+				curr_person["birth_decade"] = int(birth_decade) if not pd.isnull(birth_decade) and birth_decade.isnumeric() else "Not given"
+				curr_person["education"] = education if not pd.isnull(education) else "Not given"
+				curr_person["identified_race"] = identified_race if not pd.isnull(identified_race) else "Not given"
+				curr_person["sex"] = sex if not pd.isnull(sex) else "Not given"
+				curr_person["birth_country"] = interviewee_birth_country if not pd.isnull(interviewee_birth_country) else "Not given"
 
-			people[interviewee_name] = curr_person
+				people[interviewee_name] = curr_person
 
-			interviewee_metadata_all_collections["birth_decade"][curr_person["birth_decade"]] += 1
-			interviewee_metadata_all_collections["education"][curr_person["education"]] += 1
-			interviewee_metadata_all_collections["race"][curr_person["identified_race"]] += 1
-			interviewee_metadata_all_collections["sex"][curr_person["sex"]] += 1
-			interviewee_metadata_all_collections["birth_country"][curr_person["birth_country"]] += 1
+				interviewee_metadata_all_collections["birth_decade"][curr_person["birth_decade"]] += 1
+				interviewee_metadata_all_collections["education"][curr_person["education"]] += 1
+				interviewee_metadata_all_collections["race"][curr_person["identified_race"]] += 1
+				interviewee_metadata_all_collections["sex"][curr_person["sex"]] += 1
+				interviewee_metadata_all_collections["birth_country"][curr_person["birth_country"]] += 1
 
-		files_for_inclusion[curr_c][f] = 1
+			files_for_inclusion[curr_c][f] = 1
 
-		date_of_first_interview = r["date_of_first_interview"]
-		if pd.isnull(date_of_first_interview):
-			interview_years[curr_c]["Not given"] += 1
-			interview_years_by_file[curr_c][f] = "Not given"
-			interview_years_all_collections["Not given"] += 1
-		else:
-			year = date_of_first_interview.split("/")[2]
+			date_of_first_interview = r["date_of_first_interview"]
+			if pd.isnull(date_of_first_interview):
+				interview_years[curr_c]["Not given"] += 1
+				interview_years_by_file[curr_c][f] = "Not given"
+				interview_years_all_collections["Not given"] += 1
+			else:
+				year = date_of_first_interview.split("/")[2]
 
-			# Attempts to fix the two numbered ones; assumes anything that is 00-19 is in 2000s
-			if len(year) == 2:
-				if int(year) <= 19:
-					year = "20{}".format(year)
-				else:
-					year = "19{}".format(year)
+				# Attempts to fix the two numbered ones; assumes anything that is 00-19 is in 2000s
+				if len(year) == 2:
+					if int(year) <= 19:
+						year = "20{}".format(year)
+					else:
+						year = "19{}".format(year)
 
-			interview_years[curr_c][year] += 1
-			interview_years_by_file[curr_c][f] = year
-			interview_years_all_collections[year] += 1
+				interview_years[curr_c][year] += 1
+				interview_years_by_file[curr_c][f] = year
+				interview_years_all_collections[year] += 1
 
 	# Calculates total number of interviews
 	for c in files_for_inclusion:
@@ -293,20 +310,22 @@ def get_included_files(collections, df, runJSON):
 
 # Reads in the metadata to collect statistics and excludes any files that are only male
 # interviewees or interviews with no transcripts for each collection.
-def read_metadata(collections, metadata_file, runJSON):
-	df = pd.read_csv(data_dirname + "metadata-files/" + metadata_file, encoding = "utf-8", header = 0)
-	return get_included_files(collections, df, runJSON)
+def read_metadata(collections, metadata_file_interviews, metadata_file_interviewees, runJSON):
+	df1 = pd.read_csv(data_dirname + "metadata-files/" + metadata_file_interviews, encoding = "utf-8", header = 0)
+	df2 = pd.read_csv(data_dirname + "metadata-files/" + metadata_file_interviewees, encoding = "utf-8", header = 0)
+	return get_included_files(collections, df1, df2, runJSON)
 
 # Downloads relevant libraries and otherwise sets us up for a successful run.
 def set_up(runJSON):
 	print_message("progress-message", "Setting up the subcorpora run...")
 
 	# download_nltk()
-	runId, runName, runDate, collections, keywords, metadata_file = read_arguments()
+	runId, runName, runDate, collections, keywords, metadata_file_interviews, metadata_file_interviewees = read_arguments()
 	runJSON["id"] = runId
 	runJSON["name"] = runName
 	runJSON["date"] = runDate
-	runJSON["metadata"] = metadata_file
+	runJSON["metadata_file_interviews"] = metadata_file_interviews
+	runJSON["metadata_file_interviewees"] = metadata_file_interviewees
 	runJSON["collections"] =  [c["id"] for c in collections]
 	runJSON["keyword-lists"] = [k["name"] + "-" + k["version"] for k in keywords]
 
@@ -325,7 +344,7 @@ def set_up(runJSON):
 	keyword_regexes = convert_keywords(keywords)
 	collections = read_corpuses(collections)
 
-	metadata = read_metadata(collections, metadata_file, runJSON)
+	metadata = read_metadata(collections, metadata_file_interviews, metadata_file_interviewees, runJSON)
 
 	return collections, keywords, keyword_regexes, metadata, runDirname
 

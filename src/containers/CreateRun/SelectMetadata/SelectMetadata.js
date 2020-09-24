@@ -111,16 +111,15 @@ class SelectKeywords extends React.Component {
   };
 
   handleButtonClick = () => {
-    axios.post('/run_python_script', {
+    axios.post('/choose_metadata', {
       data: this.state.name
     })
     .then(function (res) {
-      console.log("Running python script.");
+      console.log("Successfully got first metadata file");
     })
     .catch(function (err) {
       console.log(err);
     });
-
     this.setState({ redirect: true });
   }
 
@@ -129,10 +128,10 @@ class SelectKeywords extends React.Component {
   }
 
   renderRedirect = () => {
-		if (this.state.redirect) {
-			return <Redirect to='/report' />
-		}
-	}
+    if (this.state.redirect) {
+      return <Redirect to='/create_run/select_metadata_second_sheet' />
+    }
+  }
 
   render() {
     const { classes } = this.props;
@@ -144,7 +143,7 @@ class SelectKeywords extends React.Component {
       	</Typography>
       	<br />
       	<Typography paragraph>
-      		Select the metadata for your collection data. Ensure that your metadata contains all the information for your collection.
+      		Select the interview metadata for your collection data. Ensure that your metadata contains all the information for your collection.
       	</Typography>
         <FormControl className={classes.formControl}>
           <InputLabel htmlFor="select-multiple-chip">Selected</InputLabel>
@@ -152,8 +151,8 @@ class SelectKeywords extends React.Component {
             value={this.state.name}
             onChange={this.handleChange}
             inputProps={{
-              name: 'metadata',
-              id: 'metadata',
+              name: 'interviews',
+              id: 'interviews',
             }}
           >
             {this.state.metadataFiles.map(name => (

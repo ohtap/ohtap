@@ -27,7 +27,8 @@ var currRun = {
 	name: '',
 	time: '',
 	collections: [],
-	metadata: "",
+	interviews: "",
+	interviewees:"",
 	keywordList: [],
 	total: 0 // Progress of the run
 };
@@ -59,9 +60,6 @@ var currRun = {
 		delete data[remove[i]];
 		console.log('WARNING: ' + remove[i] + ' collection doesn\'t exist in data/corpus-files. Please either add the files or delete the entry from session.json.');
 	}
-
-	console.log("Initialized data:");
-	console.log(JSON.stringify(data) + '\n');
  }
 
 // Serves the session
@@ -156,10 +154,8 @@ app.get("/get_metadata_files", function (req, res) {
 			metadataFiles.push(file);
 		}
 	});
-
 	res.status(200).send(metadataFiles);
 });
-
 /** PYTHON PROCESS AND HELPER FUNCTIONS FOR RUNNING SUBCORPORA TOOL **/
 
 /**
@@ -211,6 +207,12 @@ app.post("/choose_keywords", function (req, res) {
 	var currData = req.body;
 	currRun.keywordList = currData.data;
 	console.log("Current run keyword lists updated to " + currRun.keywordList + "\n");
+	res.sendStatus(200);
+});
+app.post("/choose_metadata", function (req, res) {
+	var currData = req.body;
+	currRun.interviews = currData.data;
+	console.log("Current run interview metadata updated to " + currRun.interviews + "\n");
 
 	res.sendStatus(200);
 });
@@ -220,19 +222,19 @@ app.post("/choose_keywords", function (req, res) {
  */
 app.post("/run_python_script", function (req, res) {
 	var currData = req.body;
-	currRun.metadata = currData.data;
-	console.log("Current run metadata file updated to " + currRun.metadata + "\n");
+	currRun.interviewees = currData.data;
+	console.log("Current run interviewees metadata file updated to " + currRun.interviewees + "\n");
 
 	console.log("Running python script\n");
 	currRun.statusMessage = "Starting subcorpora run...";
 	currRun.afterRun = true;
-
 	// Puts the data that we need to pass to the Python script into a JSON object
 	var runData = {
 		"id": currRun["id"],
 		"name": currRun["name"],
 		"date": currRun["time"],
-		"metadata": currRun["metadata"],
+		"interviews": currRun["interviews"],
+		"interviewees": currRun["interviewees"],
 		"collections": [],
 		"keywordList": []
 	};
@@ -243,13 +245,11 @@ app.post("/run_python_script", function (req, res) {
 		runData["collections"].push(curr);
 
 	}
-	for (var k in currRun["keywordList"]) {
-		var kId = currRun["keywordList"][k];
+	for (var k in currRun.keywordList) {
+		var kId = currRun.keywordList[k];
 		var curr = data["keyword-lists"][kId];
 		runData["keywordList"].push(curr);
 	}
-
-	console.log(runData);
 
 	// Options for the Python scripts that we are going to run
 	let options = {

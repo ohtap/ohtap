@@ -35,6 +35,7 @@ const PastRuns = loadable(() => import('../PastRuns'));
 const SelectCollections = loadable(() => import('../CreateRun/SelectCollections'));
 const SelectKeywords = loadable(() => import('../CreateRun/SelectKeywords'));
 const SelectMetadata = loadable(() => import('../CreateRun/SelectMetadata'));
+const SelectMetadataSecondSheet = loadable(() => import('../CreateRun/SelectMetadataSecondSheet'));
 
 const Report = loadable(() => import('../Report'));
 const PastRunsReport = loadable(() => import("../Report/PastRunsReport"));
@@ -188,6 +189,7 @@ class DefaultLayout extends React.Component {
             <Route exact path='/create_run/select_collections' component={SelectCollections} />
             <Route exact path='/create_run/select_keywords' component={SelectKeywords} />
             <Route exact path='/create_run/select_metadata' component={SelectMetadata} />
+            <Route exact path='/create_run/select_metadata_second_sheet' component={SelectMetadataSecondSheet} />
             <Route exact path='/report' component={Report} />
             <Route exact path='/past_runs' component={PastRuns} />
             <Route exact path='/past_runs_report' component={PastRunsReport} />

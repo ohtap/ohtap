@@ -73,8 +73,8 @@ class SelectKeywords extends React.Component {
 
     this.handleChange = this.handleChange.bind(this);
     this.handleChangeMultiple = this.handleChangeMultiple.bind(this);
-    this.handleButtonClick = this.handleButtonClick.bind(this);
     this.updateSelection = this.updateSelection.bind(this);
+    this.handleButtonClick = this.handleButtonClick.bind(this);
     this.renderRedirect = this.renderRedirect.bind(this);
   }
 
@@ -91,6 +91,7 @@ class SelectKeywords extends React.Component {
     var menuBody = [];
     for (var k in keywords) {
       const item = keywords[k];
+      console.log("keyword changed to (" + k + ")")
       const name = item['name'] + '-' + item['version'];
       menuBody.push(<MenuItem key={name} value={name} style={getStyles(name, this)}>{name}</MenuItem>);
     }
