@@ -229,6 +229,9 @@ def get_included_files(collections, df1, df2, runJSON):
 			male_plus_interviews[curr_c][f] = 1
 			male_interviews[curr_c][f] = 0
 
+		#JADE
+		print_message("in the outer loop", "1")
+
 		# At this point, we have a new interview (not previously added) with at least one non-male
 		# interviewee we want to add!
 		interviewees_list= r["interviewee_ids"].split(";")
@@ -239,27 +242,35 @@ def get_included_files(collections, df1, df2, runJSON):
 			interviewee_name = interviewee_id_to_metadata["interviewee_name"]
 			interviewee_name= str(interviewee_name)
 			interviews_to_interviewees[f].append(interviewee_name)
-			if interviewee_name not in people:
-				birth_decade = info["birth_decade"]
-				education = info["education"]
-				identified_race = info["identified_race"]
-				interviewee_birth_country = info["interviewee_birth_country"]
 
-				curr_person = {}
-				curr_person["birth_decade"] = int(birth_decade) if not pd.isnull(birth_decade) and birth_decade.isnumeric() else "Not given"
-				curr_person["education"] = education if not pd.isnull(education) else "Not given"
-				curr_person["identified_race"] = identified_race if not pd.isnull(identified_race) else "Not given"
-				curr_person["sex"] = sex if not pd.isnull(sex) else "Not given"
-				curr_person["birth_country"] = interviewee_birth_country if not pd.isnull(interviewee_birth_country) else "Not given"
+			#Jade
+			print_message("in the inner loop", "2")
 
-				people[interviewee_name] = curr_person
+			#if interviewee_name not in people:
+			birth_decade = info["birth_decade"]
+			education = info["education"]
+			identified_race = info["identified_race"]
+			interviewee_birth_country = info["interviewee_birth_country"]
 
-				interviewee_metadata_all_collections["birth_decade"][curr_person["birth_decade"]] += 1
-				interviewee_metadata_all_collections["education"][curr_person["education"]] += 1
-				interviewee_metadata_all_collections["race"][curr_person["identified_race"]] += 1
-				interviewee_metadata_all_collections["sex"][curr_person["sex"]] += 1
-				interviewee_metadata_all_collections["birth_country"][curr_person["birth_country"]] += 1
+			curr_person = {}
+			curr_person["birth_decade"] = int(birth_decade) if not pd.isnull(birth_decade) and birth_decade.isnumeric() else "Not given"
+			curr_person["education"] = education if not pd.isnull(education) else "Not given"
+			curr_person["identified_race"] = identified_race if not pd.isnull(identified_race) else "Not given"
+			curr_person["sex"] = sex if not pd.isnull(sex) else "Not given"
+			curr_person["birth_country"] = interviewee_birth_country if not pd.isnull(interviewee_birth_country) else "Not given"
 
+			people[interviewee_name] = curr_person
+
+			#JADE
+			print_message("in the loop", "you're in")
+
+			interviewee_metadata_all_collections["birth_decade"][curr_person["birth_decade"]] += 1
+			interviewee_metadata_all_collections["education"][curr_person["education"]] += 1
+			interviewee_metadata_all_collections["race"][curr_person["identified_race"]] += 1
+			interviewee_metadata_all_collections["sex"][curr_person["sex"]] += 1
+			interviewee_metadata_all_collections["birth_country"][curr_person["birth_country"]] += 1
+			#end of part in if
+			
 			files_for_inclusion[curr_c][f] = 1
 
 			date_of_first_interview = r["date_of_first_interview"]
