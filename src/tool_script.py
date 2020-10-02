@@ -15,6 +15,7 @@ import csv
 from bs4 import BeautifulSoup, Tag
 import sys
 import json
+import csv
 
 NUM_TOP_WORDS = 20 # The number of top words that we want from each file
 CONTEXT_WORDS_AROUND = 50
@@ -229,9 +230,6 @@ def get_included_files(collections, df1, df2, runJSON):
 			male_plus_interviews[curr_c][f] = 1
 			male_interviews[curr_c][f] = 0
 
-		#JADE
-		print_message("in the outer loop", "1")
-
 		# At this point, we have a new interview (not previously added) with at least one non-male
 		# interviewee we want to add!
 		interviewees_list= r["interviewee_ids"].split(";")
@@ -242,9 +240,6 @@ def get_included_files(collections, df1, df2, runJSON):
 			interviewee_name = interviewee_id_to_metadata["interviewee_name"]
 			interviewee_name= str(interviewee_name)
 			interviews_to_interviewees[f].append(interviewee_name)
-
-			#Jade
-			print_message("in the inner loop", "2")
 
 			#if interviewee_name not in people:
 			birth_decade = info["birth_decade"]
@@ -261,15 +256,11 @@ def get_included_files(collections, df1, df2, runJSON):
 
 			people[interviewee_name] = curr_person
 
-			#JADE
-			print_message("in the loop", "you're in")
-
 			interviewee_metadata_all_collections["birth_decade"][curr_person["birth_decade"]] += 1
 			interviewee_metadata_all_collections["education"][curr_person["education"]] += 1
 			interviewee_metadata_all_collections["race"][curr_person["identified_race"]] += 1
 			interviewee_metadata_all_collections["sex"][curr_person["sex"]] += 1
 			interviewee_metadata_all_collections["birth_country"][curr_person["birth_country"]] += 1
-			#end of part in if
 			
 			files_for_inclusion[curr_c][f] = 1
 
@@ -305,7 +296,7 @@ def get_included_files(collections, df1, df2, runJSON):
 	runJSON["summary-report"]["sex"] = interviewee_metadata_all_collections["sex"]
 	runJSON["summary-report"]["education"] = interviewee_metadata_all_collections["education"]
 	runJSON["summary-report"]["birth_country"] = interviewee_metadata_all_collections["birth_country"]
-
+	
 	metadata = {
 		"files_for_inclusion": files_for_inclusion,
 		"people": people,
@@ -505,6 +496,8 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 
 	write_subcorpora(currRunJSON["runDirname"], filenames, content, all_matches.keys())
 
+
+
 	return all_matches
 
 # Gets all the surrounding contexts for keyword matches in files.
@@ -592,6 +585,11 @@ def main():
 			newKeywordsOverTime[k][y] = v[y]
 		newKeywordsOverTime[k] = fill_years(newKeywordsOverTime[k], 1)
 	runJSON["summary-report"]["keywords-over-time"] = newKeywordsOverTime
+	for word in newKeywordsOverTime:
+		with open(str(word)+'.csv', 'w') as csvfile:
+			data_writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+			for year in newKeywordsOverTime[word]:
+				data_writer.writerow([year, newKeywordsOverTime[word][year]])
 
 	with open(data_dirname + "run.json", "w") as f:
 		f.write(json.dumps(runJSON))
