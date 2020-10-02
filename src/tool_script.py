@@ -479,6 +479,12 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 	currRunJSON["education"] = education_map
 	currRunJSON["birth_country"] = birth_country_map
 
+	#writes keyword counts to csv
+	with open('keywordfreq.csv', 'w') as csvfile:
+		for word in keyword_freq:
+			data_writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+			data_writer.writerow([word, keyword_freq[word]])
+
 	# Fixes up the keywords over time
 	keywordsOverTime = keyword_to_dates
 	all_years = []
@@ -586,7 +592,7 @@ def main():
 		newKeywordsOverTime[k] = fill_years(newKeywordsOverTime[k], 1)
 	runJSON["summary-report"]["keywords-over-time"] = newKeywordsOverTime
 	for word in newKeywordsOverTime:
-		with open(str(word)+'.csv', 'w') as csvfile:
+		with open(str(word)+'timeusage.csv', 'w') as csvfile:
 			data_writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 			for year in newKeywordsOverTime[word]:
 				data_writer.writerow([year, newKeywordsOverTime[word][year]])
