@@ -239,7 +239,7 @@ def get_included_files(collections, df1, df2, runJSON):
 				continue
 			interviewee_name = interviewee_id_to_metadata["interviewee_name"]
 			interviewee_name= str(interviewee_name)
-			interviews_to_interviewees[f].append(interviewee_name)
+			interviews_to_interviewees[f].append(j)
 
 			#if interviewee_name not in people:
 			birth_decade = info["birth_decade"]
@@ -254,7 +254,7 @@ def get_included_files(collections, df1, df2, runJSON):
 			curr_person["sex"] = sex if not pd.isnull(sex) else "Not given"
 			curr_person["birth_country"] = interviewee_birth_country if not pd.isnull(interviewee_birth_country) else "Not given"
 
-			people[interviewee_name] = curr_person
+			people[j] = curr_person
 
 			interviewee_metadata_all_collections["birth_decade"][curr_person["birth_decade"]] += 1
 			interviewee_metadata_all_collections["education"][curr_person["education"]] += 1
@@ -305,7 +305,8 @@ def get_included_files(collections, df1, df2, runJSON):
 		"male_plus_interviews": male_plus_interviews,
 		"interview_years": interview_years,
 		"interview_years_by_file": interview_years_by_file,
-		"interviews_to_interviewees": interviews_to_interviewees
+		"interviews_to_interviewees": interviews_to_interviewees,
+		"interviewee_ids_to_metadata": interviewee_id_to_metadata
 	}
 
 	return metadata
@@ -407,6 +408,14 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 	birth_country_map = defaultdict(lambda:0)
 	interviewees_done = {}
 
+	#match_statistics
+	match_birth_decade_map = defaultdict(lambda:0)
+	match_sex_map = defaultdict(lambda:0)
+	match_education_map = defaultdict(lambda:0)
+	match_race_map = defaultdict(lambda:0)
+	match_birth_country_map = defaultdict(lambda:0)
+	match_interviewees_done = {}
+
 	# Loops through each file, looking for keywords, and stores the matches
 	for i in range(len(content)):
 		file = filenames[i]
@@ -463,6 +472,18 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 				# Adds it onto the matches
 				curr_matches.append([m_loc, before, new_m_text, after])
 
+				interviewees = interviews_to_interviewees[file]
+				for interviewee in interviewees:
+					if interviewee in match_interviewees_done:
+						continue
+					interviewee_info = people[interviewee]
+					match_race_map[interviewee_info["identified_race"]] += 1
+					match_birth_decade_map[interviewee_info["birth_decade"]] += 1
+					match_sex_map[interviewee_info["sex"]] += 1
+					match_education_map[interviewee_info["education"]] += 1
+					match_birth_country_map[interviewee_info["birth_country"]] += 1
+					match_interviewees_done[interviewee] = 1
+
 		if len(curr_keywords) > 0:
 			num_with_keywords += 1
 			all_matches[file] = curr_matches
@@ -484,6 +505,19 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 		for word in keyword_freq:
 			data_writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 			data_writer.writerow([word, keyword_freq[word]])
+
+	#writes match stats to csv
+	with open('match_stats.csv', 'w') as csvfile:
+		data_writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+		data_writer.writerow(["total", len(match_interviewees_done)])
+		for race in race_map:
+			data_writer.writerow([race, match_race_map[race]])
+		for sex in sex_map:
+			data_writer.writerow([sex, match_sex_map[sex]])
+		for education in education_map:
+			data_writer.writerow([education, match_education_map[education]])
+		for country in birth_country_map:
+			data_writer.writerow([country, match_birth_country_map[country]])
 
 	# Fixes up the keywords over time
 	keywordsOverTime = keyword_to_dates
@@ -551,7 +585,7 @@ def create_new_run(c, k, metadata, runJSON):
 		"runDirname": runJSON["runDirname"] + "/" + currRunId
 	}
 
-	print_message("m", metadata)
+	#print_message("m", metadata)
 
 	all_matches = find_keywords(metadata["files_for_inclusion"][c["id"]], c["filenames"], c["content"], k["include"], k["included_regexes"], k["excluded_regexes"], metadata["interview_years_by_file"][c["id"]], metadata["people"], metadata["interviews_to_interviewees"], runJSON, currRunJSON)
 	get_all_contexts(c["filenames"], c["content"], all_matches, currRunJSON)
