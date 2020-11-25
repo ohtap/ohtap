@@ -64,7 +64,9 @@ class Navigation extends React.Component {
 
   handleClick() {
   	const { summary, collection, keywordList } = this.state;
-  	this.props.callbackChangeNavigation(summary, collection, keywordList);
+  	if ((!summary && collection != '' && keywordList !='') || summary){
+  		this.props.callbackChangeNavigation(summary, collection, keywordList);
+  	}
   };
 
   updateCollectionMenuItems() {
