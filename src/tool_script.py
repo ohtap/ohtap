@@ -38,11 +38,14 @@ def fill_years(data, step):
 	all_years = []
 	not_given = data["Not given"] if "Not given" in data else 0
 	for k in data.keys():
-		if k != "Not given": all_years.append(int(k))
+		if k != "Not given": 
+			all_years.append(int(k))
 
 	new_data = defaultdict(lambda:0)
 	new_data["Not given"] = not_given
 	all_years.sort()
+	if all_years[0]==0:
+		all_years.remove(0)
 	for i in range(all_years[0], all_years[-1] + step, step):
 		if str(i) in data:
 			new_data[i] = data[str(i)]
@@ -50,7 +53,6 @@ def fill_years(data, step):
 			new_data[i] = data[i]
 		else:
 			new_data[i] = 0
-
 	return new_data
 
 # Prints out a JSON string that is then read by the Node.js backend.
