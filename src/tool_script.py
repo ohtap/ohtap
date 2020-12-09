@@ -44,8 +44,10 @@ def fill_years(data, step):
 	new_data = defaultdict(lambda:0)
 	new_data["Not given"] = not_given
 	all_years.sort()
-	if all_years[0]==0:
+	if 0 in all_years:
 		all_years.remove(0)
+	if len(all_years)==0:
+		return new_data
 	for i in range(all_years[0], all_years[-1] + step, step):
 		if str(i) in data:
 			new_data[i] = data[str(i)]
@@ -437,10 +439,18 @@ def find_keywords(files_for_inclusion, filenames, content, words, included_regex
 		time_range_interviews[date_of_interview] += 1
 		num_interviews += 1
 
+		female_bool=False
 		interviewees = interviews_to_interviewees[file]
 		for interviewee in interviewees:
+			interviewee_info = people[interviewee]
 			if interviewee in interviewees_done:
 				continue
+			if sex_map[interviewee_info["sex"]] =="Male":
+				continue
+			else:
+				female_bool=True
+		if not female_bool:
+			continue
 			interviewee_info = people[interviewee]
 			race_map[interviewee_info["identified_race"]] += 1
 			birth_decade_map[interviewee_info["birth_decade"]] += 1
