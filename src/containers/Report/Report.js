@@ -26,6 +26,7 @@ class Report extends React.Component {
 			.then(res => this.setState({ data: res.data }))
 			.then(data => this.setState({ loading: false }))
 			.catch(err => console.log("Error getting current run data (" + err + ")"));	
+		console.log("file_report")
 	};
 
 	changeNavigation = (summary, collection, keywordList) => {

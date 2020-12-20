@@ -22,6 +22,7 @@ class PastRunsReport extends React.Component {
 
 	// Callback from child Loading component when done loading
 	componentDidMount() {
+		console.log("file_pastrunsreport")
 		axios.get('/get_current_run_data')
 			.then(res => this.setState({ data: res.data }))
 			.then(data => this.setState({ loading: false }))

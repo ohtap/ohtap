@@ -62,12 +62,12 @@ class Navigation extends React.Component {
     }
   };
 
-  handleClick() {
-  	const { summary, collection, keywordList } = this.state;
-  	if ((!summary && collection != '' && keywordList !='') || summary){
-  		this.props.callbackChangeNavigation(summary, collection, keywordList);
-  	}
-  };
+	  handleClick() {	
+	  	const { summary, collection, keywordList } = this.state;	
+	  	if ((!summary && collection != '' && keywordList !='') || summary){	
+	  		this.props.callbackChangeNavigation(summary, collection, keywordList);	
+	  	}	
+	  }
 
   updateCollectionMenuItems() {
   	const collections = this.state.data['collections'];
