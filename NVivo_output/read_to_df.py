@@ -1,8 +1,8 @@
 '''
 DESCRIPTION-------
 Example code for reading NVivo coded content from an NVivo extract into a pandas dataframe. 
-Here we read in two files, one containing an extract of all NVivo coding except errors, and another containing only the error coding.
-The code itself is trivial and the important points are contained in NOTES.
+Here we read in two files, one containing an extract of all NVivo coding except errors (everything_but_errors_12-22-20.xls), and 
+another containing only the error coding (errors_12-22-20.xls). The code itself is trivial and the important points are contained in the NOTES.
 
 NOTES-------
 1) dependencies: the df.read_excel() in pandas uses the xlrd package internally, so you need to pip or conda install xlrd
