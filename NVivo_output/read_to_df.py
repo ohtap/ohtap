@@ -10,7 +10,8 @@ NOTES-------
   - NOT .xlsx, because for some reason xlrd now only supports the older .xls file type
   - NOT .csv because some cell values (description, coded text, maybe others) can contain commas and it is a hassle to work around this
 3) df.read_excel() cannot read the .xls file as directly exported from NVivo (NVivo's exported .xls file is malformed according to .read_excel()'s requirements)
-So as a workaround, you can "repair" NVivo's .xls file by doing the following:
+So as a workaround, you can "repair" NVivo's .xls file by doing the following (but the .xls files contained in ohtap/NVivo_output/data are already repaired, so 
+no need to do this step unless you are working with .xls files you exported yourself from NVivo):
    -open up the .xls file that was exported from NVivo in some spreadsheet software (I used mac's Numbers application, but Google Sheets or Excel would probably work too)
    -re-export the opened file as another .xls file (which will now be well-formed for .read_excel()). In the Numbers application, what you do precisely is
      + navigate to File -> Export To -> Excel...
@@ -18,7 +19,6 @@ So as a workaround, you can "repair" NVivo's .xls file by doing the following:
      + in the Excel Worksheets field, select "One Per Table" and nothing else (in particular, unselect "Include a summary worksheet" if that was selected by default")
      + click next and save the repaired file where you want
 
--
 
 '''
 
