@@ -101,51 +101,51 @@ r_counts_by_collection
 
 
 #Counts by interview
-s_counts_by_interview = list(sexual_harassment_events["Hierarchical Name.1"].value_counts())
+r_counts_by_interview = list(rape_events["Hierarchical Name.1"].value_counts())
 
 
 # In[38]:
 
 
-#Sexual Harassment Cluster 
+#Rape Cluster
 #Loads contents of txt file containing keywords into a string
-sexual_harassment_keywords_string = "" 
-sexual_harassment_keywords_txt_file = os.path.join(".", "Desktop", "ohtap", "sexual_harassment_cluster_keywords.txt") 
-with open(sexual_harassment_keywords_txt_file, "r+") as ack: #opens as read and write
-    sexual_harassment_keywords_string = ack.read() 
+rape_keywords_string = ""
+rape_keywords_txt_file = os.path.join(".", "Desktop", "ohtap", "rape_cluster_keywords.txt")
+with open(rape_keywords_txt_file, "r+") as ack: #opens as read and write
+    rape_keywords_string = ack.read()
 
-print(sexual_harassment_keywords_string)
+print(rape_keywords_string)
 print("\n")
 
-#clusters created with the "OR" regex metacharacter    
-regex_version_sexual_harassment_keywords = sexual_harassment_keywords_string.replace(",", "|") 
-print(regex_version_sexual_harassment_keywords) 
-regex_version_sexual_harassment = re.compile(regex_version_sexual_harassment_keywords)
-print(regex_version_sexual_harassment)  
+#clusters created with the "OR" regex metacharacter
+regex_version_rape_keywords = rape_keywords_string.replace(",", "|")
+print(regex_version_rape_keywords)
+regex_version_rape = re.compile(regex_version_rape_keywords)
+print(regex_version_rape)
     #NOTE: The regex compile all of the keywords, it just doesn't show below
 
 
 # In[39]:
 
 
-#Testing the regex 
-#(note: .findall() returns all values, .match() just returns the first) 
+#Testing the regex
+#(note: .findall() returns all values, .match() just returns the first)
 
-testing_different_keywords = regex_version_sexual_harassment.findall("statutory offense, passed the football, cat calling us he exposed himself blueberry pie fondle molest") 
+testing_different_keywords = regex_version_rape.findall("statutory offense, raped, raping passed the football, cat calling us he exposed himself blueberry pie fondle molest")
 testing_different_keywords
 
 
 # In[40]:
 
 
-#Collects data on all interviews coded from NVivo as sexual harassment 
+#Collects data on all interviews coded from NVivo as Rape
 
-interviews_with_sexual_harassment_events = sexual_harassment_events["Hierarchical Name.1"]
+interviews_with_rape_events = rape_events["Hierarchical Name.1"]
+text_of_interviews_with_rape_events = rape_events["Coded Text"]
 
-
-events_of_sexual_harassment_dictionary = {'Interview Name': interviews_with_sexual_harassment_events, 'Interview Text': text_of_interviews_with_sexual_harassment_events}   
-for event in events_of_sexual_harassment_dictionary: 
-    print(event, events_of_sexual_harassment_dictionary[event])
+events_of_rape_dictionary = {'Interview Name': interviews_with_rape_events, 'Interview Text': text_of_interviews_with_rape_events}
+for event in events_of_rape_dictionary:
+    print(event, events_of_rape_dictionary[event])
 
 
 # In[41]:
