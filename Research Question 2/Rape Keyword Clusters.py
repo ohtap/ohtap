@@ -152,13 +152,13 @@ for event in events_of_rape_dictionary:
 
 
 #Event extent of Interviews Coded as Sexual Harassment 
-interviews_with_sexual_harassment_events = sexual_harassment_events["Hierarchical Name.1"]
-text_of_interviews_with_sexual_harassment_events = sexual_harassment_events["Coded Text"]
+interviews_with_rape_events = rape_events["Hierarchical Name.1"]
+text_of_interviews_with_rape_events = rape_events["Coded Text"]
 
 
-events_of_sexual_harassment_dictionary = {'Interview Name': interviews_with_sexual_harassment_events, 'Interview Text': text_of_interviews_with_sexual_harassment_events}   
-for event in events_of_sexual_harassment_dictionary: 
-    print(events_of_sexual_harassment_dictionary['Interview Name'] + " " + events_of_sexual_harassment_dictionary['Interview Text'])
+events_of_rape_dictionary = {'Interview Name': interviews_with_rape_events, 'Interview Text': text_of_interviews_with_rape_events}
+for event in events_of_rape_dictionary:
+    print(events_of_rape_dictionary['Interview Name'] + " " + events_of_rape_dictionary['Interview Text'])
 
 
 # In[42]:
@@ -166,14 +166,14 @@ for event in events_of_sexual_harassment_dictionary:
 
 #Keyword Cluster through events  
 
-for content_of_event in events_of_sexual_harassment_dictionary:  
-    ahh = events_of_sexual_harassment_dictionary['Interview Text']
+for content_of_event in events_of_rape_dictionary:
+    ahh = events_of_rape_dictionary['Interview Text']
     for a in ahh: 
         print(str(a)) 
-        sexual_harassment_keyword_hits_per_sexual_harassment_event = regex_version_sexual_harassment.findall(a) 
-        frequency_of_sexual_harassment_keyword_per_event = len(sexual_harassment_keyword_hits_per_sexual_harassment_event)
-        print(sexual_harassment_keyword_hits_per_sexual_harassment_event)
-        print(frequency_of_sexual_harassment_keyword_per_event) 
+        rape_keyword_hits_per_rape_event = regex_version_rape.findall(a)
+        frequency_of_sexual_harassment_keyword_per_event = len(rape_keyword_hits_per_rape_event)
+        print(rape_keyword_hits_per_rape_event)
+        print(frequency_of_rape_keyword_per_event)
 
 
 # In[ ]:
